@@ -1,0 +1,154 @@
+
+
+( (S (NP-SBJ The Wall Street Journal
+	     `` 
+	     (NAC-TTL American Way 
+		      (PP of
+			  (NP Buying))) 
+	     ''
+	     Survey)
+     (VP consists
+         (PP-CLR of
+		 (NP (NP two separate , door-to-door nationwide polls)
+		     (VP conducted
+			 (NP *)
+			 (PP for
+			     (NP the Journal))
+			 (PP by
+			     (NP-LGS (NP Peter D. Hart Research Associates)
+				     and
+				     (NP the Roper Organization)))))))
+     .))
+( (S (NP-SBJ-1 (NP The two surveys)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ *T*-2)
+                        (VP asked
+                            (NP different questions))))
+               ,)
+     (VP were
+         (VP conducted
+             (NP *-1)
+             (S-ADV (NP-SBJ *) 
+		    (VP using
+			(NP national random probability samples)))))
+     .))
+( (S (NP-SBJ (NP The poll)
+             (VP conducted
+                 (NP *)
+                 (PP by
+                     (NP-LGS Peter D. Hart Research Associates))))
+     (VP interviewed
+         (NP (NP 2,064 adults)
+             (UCP (NP age 18)
+		  and
+		  (ADJP older)))
+	 (PP-TMP (PP from
+		     (NP June 15))
+		 (PP to
+		     (NP June 30 , 1989))))
+     .))
+( (S (NP-SBJ (NP The poll)
+             (VP conducted
+                 (NP *)
+                 (PP by
+                     (NP-LGS the Roper Organization))))
+     (VP interviewed
+         (NP (NP 2,002 adults)
+	     (UCP (NP age 18)
+		  and
+		  (ADJP older)))
+	 (PP-TMP (PP from
+		     (NP July 7))
+		 (PP to
+		     (NP July 15 , 1989))))
+     .))
+( (S (NP-SBJ-1 Responses)
+     (VP were
+         (VP weighted
+             (NP *-1)
+             (PP on
+                 (NP (NP the basis)
+                     (PP of
+                         (NP age and gender))))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP conform
+			    (PP-CLR with
+				    (NP U.S. Census data)))))))
+     .))
+( (S (PP For
+         (NP each poll))
+     ,
+     (NP-SBJ the odds
+	     (SBAR *ICH*-2)) 
+     (VP are
+         (NP-PRD (NP 19)
+                 (PP out
+                     (PP of
+                         (NP 20))))
+         (SBAR-2 that
+		 (S (SBAR-ADV if
+			      (S (NP-SBJ-1 pollsters)
+				 (VP had
+				     (VP sought
+					 (S (NP-SBJ-3 *-1)
+					    (VP to
+						(VP survey
+						    (NP (NP every household)
+							(PP-LOC in
+								(NP the U.S.)))
+						    (S-ADV (NP-SBJ *-3)
+							   (VP using
+							       (NP the same questionnaire))))))))))
+		    ,
+		    (NP-SBJ the findings)
+		    (VP would
+			(VP differ
+			    (PP-CLR from
+				    (NP these poll results))
+			    (PP-EXT by
+				    (NP (NP (QP no more than 2 1) 
+					    percentage points)
+					(PP-LOC in
+						(NP either direction)))))))))
+     .))
+( (S (NP-SBJ (NP The margin)
+             (PP of
+                 (NP error))
+             (PP for
+                 (NP (NP subgroups)
+                     (PRN --
+			  (PP for
+			      (NP example))
+			  ,
+			  (NP (NP married women)
+			      (PP with
+				  (NP (NP children)
+				      (PP-LOC at
+					      (NP home)))))
+			  --))))
+     (VP would
+         (VP be
+             (ADJP-PRD larger)))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (PP-LOC in
+	     (NP any survey))
+     ,
+     (NP-SBJ there)
+     (VP is
+         (ADVP-TMP always)
+         (NP-PRD the chance
+                 (SBAR that
+                       (S (NP-SBJ (NP other factors)
+                                  (PP such as
+				      (NP question wording)))
+                          (VP could
+                              (VP introduce
+                                  (NP errors)
+                                  (PP-DIR into
+					  (NP the findings))))))))
+     .))

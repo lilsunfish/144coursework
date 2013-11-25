@@ -1,0 +1,1878 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (S (S (NP-SBJ Copernicus)
+        (VP did not
+            (VP question
+                (NP it))))
+     ,
+     (S (NP-SBJ Ptolemy)
+        (VP could
+	    not))
+     .))
+( (SBARQ (PP Given
+	     (NP (NP the conceptual context)
+		 (SBAR (WHPP-1 within
+			       (WHNP which))
+		       (S (NP-SBJ ancient thought)
+			  (VP thrived
+			      (PP *T*-1))))))
+	 ,
+	 (WHADVP-2 how)
+	 (SQ could
+	     (VP anyone)
+	     (VP have
+		 (VP questioned
+		     (NP this principle)
+		     (ADVP-MNR *T*-2))))
+	 ? ?))
+( (S (NP-SBJ (NP The reasons)
+             (PP for
+                 (NP this)))
+     (VP are
+	 (UCP-PRD (ADJP (ADJP partly observational)
+			,
+			(ADJP partly philosophical))
+		  , and
+		  (VP reinforced
+		      (NP *)
+		      (PP by
+			  (NP-LGS (ADJP other aesthetic and cultural)
+				  factors)))))
+     .))
+( (FRAG (ADVP-TMP First)
+	,
+	(NP the observational reasons)
+	.))
+( (S (NP-SBJ (NP The obvious natural fact)
+             (PP to
+                 (NP ancient thinkers)))
+     (VP was
+         (NP-PRD (NP the diurnal rotation)
+                 (PP of
+                     (NP the heavens))))
+     .))
+( (S (CONJP Not only)
+     (SINV did
+           (NP-SBJ (NP constellations)
+                   (PP like
+                       (NP Draco
+                           ,
+                           Cepheus
+                           , and
+                           Cassiopeia)))
+           (VP spin
+               (NP circles)
+               (PP around
+                   (NP the pole))))
+     , but
+     (S (NP-SBJ (NP stars)
+                (SBAR (WHNP-1 which)
+                      (S (NP-SBJ *T*-1)
+                         (VP were not
+                             (ADJP-PRD circumpolar)))))
+        (VP rose and set
+            (PP at
+                (NP (NP the same place)
+                    (PP on
+                        (NP the horizon)))))
+        (NP-TMP each night))
+     .))
+( (SINV Nor
+        did
+        (NP-SBJ (NP a constellation 's)
+                stars)
+        (VP vary
+            (PP in
+                (NP brightness)))
+        (PP during
+            (NP (NP the course)
+                (PP of
+                    (NP their nocturnal flights))))
+        .))
+( (NP (NP The conclusion)
+      --
+      (S (S (NP-SBJ (NP the distances)
+                    (PP of
+                        (NP the constellations)))
+            (VP did not
+                (VP vary)))
+         and
+         (S (NP-SBJ their paths)
+            (VP were
+                (ADJP-PRD circular))))
+      .))
+( (S (S (ADVP Moreover)
+        ,
+        (NP-SBJ (NP (NP the sun 's)
+		    path)
+                (PP over
+                    (NP earth)))
+        (VP described
+            (NP (NP a segment)
+                (PP of
+                    (NP a great circle)))))
+     ; ;
+     (S (NP-SBJ this)
+        (VP was
+            (ADJP-PRD clear))
+        (PP from
+            (NP (NP the contour)
+                (PP of
+                    (NP (NP the shadow)
+                        (VP traced
+                            (NP *)
+                            (PP by
+                                (NP-LGS a gnomon))
+                            (PP-TMP before and after
+				    (NP noon))))))))
+     .))
+( (S (ADVP-TMP (ADVP As early)
+	       (PP as
+		   (NP the 6th century B.C.)))
+     (NP-SBJ-1 the earth)
+     (VP was
+         (VP seen
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP be
+                        (ADJP-PRD spherical))))))
+     .))
+( (S (S (NP-SBJ Ships)
+        (VP disappear
+            (ADVP-MNR hull-first)
+            (PP over
+                (NP the horizon))))
+     ; ;
+     (S (S-ADV (NP-SBJ *)
+	       (VP approaching
+		   (ADJP shore)))
+        (NP-SBJ their masts)
+	(VP appeared
+	    (ADVP-TMP first)))
+     .))
+( (S (S (NP-SBJ (NP Earth)
+                ,
+                (VP being
+                    (PP-LOC-PRD at
+				(NP (NP the center)
+				    (PP of
+					(NP the universe)))))
+                ,)
+        (VP would
+            (VP have
+                (NP (NP the same shape)
+                    (PP as
+                        (NP the latter))))))
+     ; ;
+     (SINV (ADVP so)
+           , 
+	   e.g.
+           did
+           (NP-SBJ Aristotle)
+           (VP argue)
+           ,
+           (SBAR although
+                 (S (NP-SBJ this)
+                    (VP may not
+                        (VP be
+                            (NP-PRD (NP an observational reason)
+                                    (PP in
+                                        (NP (NP favor)
+                                            (PP of
+                                                (NP circularity))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The discoid shapes)
+	       (PP of
+		   (NP sun and moon)))
+     (VP were
+         (ADVP also)
+         (VP felt
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP indicate
+                        (NP (NP the shape)
+                            (PP of
+                                (NP celestial things))))))))
+     .))
+( (S (PP In
+         (NP (NP light)
+             (PP of
+                 (NP all this))))
+     ,
+     (NP-SBJ one)
+     (VP would
+         (VP require
+             (NP (NP special reasons)
+                 (PP for
+                     (S-NOM (NP-SBJ *)
+			    (VP saying
+				(SBAR that
+				      (S (NP-SBJ (NP the paths)
+						 (PP of
+						     (NP the heavenly bodies)))
+					 (VP were
+					     (ADJP-PRD other
+						       (PP than
+							   (ADJP circular))))))))))))
+     .))
+( (SBARQ (WHADVP-2 Why)
+         ,
+         (PP for
+             (NP example))
+         ,
+         (SQ should
+             (NP-SBJ the ancients)
+             (VP have)
+             (VP supposed
+                 (NP-1 (NP the diurnal rotation)
+		       (PP of
+			   (NP the heavens)))
+                 (S (NP-SBJ *-1)
+                    (VP to
+                        (VP be
+                            (ADJP-PRD elliptical))))
+		 (ADVP-PRP *T*-2)))
+	 ? ?))
+( (FRAG Or
+	(ADJP oviform)
+	? ?))
+( (FRAG Or
+	(ADJP angular)
+	? ?))
+( (S (NP-SBJ There)
+     (VP were
+         (NP-PRD no reasons)
+	 (PP for
+	     (NP such suppositions))
+	 (ADVP-TMP then))
+     .))
+( (S (NP-SBJ (NP This)
+             ,
+             (VP conjoined
+                 (NP *)
+                 (PP with
+                     (NP (NP the considerations)
+                         (ADJP above)))))
+     ,
+     (VP made
+         (NP (NP the circular motions)
+             (PP of
+                 (NP heavenly bodies)))
+         (VP appear
+             (NP-PRD an
+                     (ADJP (ADVP almost directly)
+                           observed)
+                     fact)))
+     .))
+( (S (NP-SBJ (NP Additional philosophical considerations)
+             ,
+             (VP advanced
+                 (NP *)
+                 (ADVP notably)
+                 (PP by
+                     (NP-LGS Aristotle)))
+             ,)
+     (VP supported
+         (ADVP further)
+         (NP the circularity principle))
+     .))
+( (S (PP By
+         (S-NOM (S (NP-SBJ *)
+		   (VP distinguishing
+		       (NP (ADJP superlunary 
+				 -LRB- celestial -RRB- 
+				 and sublunary 
+				 -LRB- terrestrial -RRB-) 
+			   existence)))
+		, and
+		(S (NP-SBJ *)
+		   (VP reinforcing
+		       (NP this)
+		       (PP with
+			   (NP (NP the four-element physics)
+			       (PP of
+				   (NP Empedocles))))))))
+     ,
+     (NP-SBJ-2 Aristotle)
+     (VP came
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP speak
+                    (PP of
+                        (NP the stars))
+                    (PP as
+                        (NP (NP perfect bodies)
+                            ,
+                            (SBAR (WHNP-1 which)
+                                  (S (NP-SBJ *T*-1)
+                                     (VP moved
+                                         (PP (PP in
+                                                 (NP only a perfect way))
+                                             ,
+                                             viz.
+					     (PP in
+						 (NP a perfect circle))))))))))))
+     .))
+( (SQ (ADVP-TMP Now)
+      (SBARQ (WHNP-1 what)
+             (S (NP-SBJ *T*-1)
+                (VP is
+                    (NP-PRD perfect motion))))
+      ? ?))
+( (S (NP-SBJ It)
+     (VP must ,
+         (ADVP apparently)
+         ,
+         (VP be
+             (NP-PRD (NP motion)
+                     (PP without
+                         (NP termini)))))
+     .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ (NP motion)
+		       (SBAR (WHNP-1 which)
+			     (S (NP-SBJ *T*-1)
+				(VP begins and ends
+				    (PP at
+					(NP discrete places))))))
+	       (VP would -LRB-
+		   e.g.
+		   (PP for
+		       (NP Aristotle))
+		   -RRB-
+		   (VP be
+		       (ADJP-PRD incomplete))))
+	    .))
+( (S (NP-SBJ Circular motion)
+     ,
+     (ADVP however)
+     ,
+     (SBAR-PRP since
+	       (S (NP-SBJ it)
+		  (VP is
+		      (ADJP-PRD (ADJP eternal) 
+				and 
+				(ADJP perfectly continuous)))))
+     ,
+     (VP lacks
+         (NP termini))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADVP-TMP never)
+         (NP-PRD (NP motion)
+                 (PP towards
+                     (NP something))))
+     .))
+( (S (NP-SBJ Only imcomplete , imperfect things)
+     (VP move
+         (PP towards
+             (SBAR-NOM (WHNP-1 what)
+		       (S (NP-SBJ they)
+			  (VP lack
+			      (NP *T*-1))))))
+     .))
+( (S (NP-SBJ Perfect , complete entities)
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ they)
+		  (VP move
+		      (ADVP at all))))
+     ,
+     (VP do not
+         (VP move
+             (PP towards
+                 (SBAR-NOM (WHNP-1 what)
+			   (S (NP-SBJ they)
+			      (VP lack
+				  (NP *T*-1)))))))
+     .))
+( (S (NP-SBJ They)
+     (VP move
+         (PP (ADVP only)
+             in
+             (NP (NP accordance)
+                 (PP with
+                     (SBAR-NOM (WHNP-1 what)
+			       (S (NP-SBJ *T*-1)
+				  (VP is
+				      (PP-PRD in
+					      (NP their natures)))))))))
+     .))
+( (S (ADVP Thus)
+     ,
+     (NP-SBJ circular motion)
+     (VP is
+         (NP-ADV itself)
+         (NP-PRD (NP one)
+		 (PP of
+		     (NP (NP the essential characteristics)
+			 (PP of
+			     (NP (ADJP completely perfect)
+				 celestial existence))))))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP To
+		(VP return
+		    (ADVP-TMP now)
+		    (PP to
+			(NP the four-element physics)))))
+     ,
+     (S (NP-SBJ (NP a mixture)
+                (PP of
+                    (NP muddy , frothy water)))
+        (VP will ,
+            (SBAR-TMP (WHADVP-1 when)
+		      (S (NP-SBJ *)
+			 (VP standing
+			     (PP in
+				 (NP a jar))
+			     (ADVP-TMP *T*-1))))
+            ,
+            (VP separate
+                (PRT out)
+                (PP with
+                    (NP (NP (NP earth)
+                            (PP at
+                                (NP the bottom)))
+                        ,
+                        (NP (NP water)
+                            (PP on
+                                (NP top)))
+                        , and
+                        (NP (NP the air)
+                            (PP on
+                                (NP (NP top)
+                                    (PP of
+                                        (NP that))))))))))
+     .))
+( (S (NP-SBJ (NP A candle)
+             (RRC (ADJP alight)
+		  (PP in
+		      (NP the air))))
+     (VP directs
+         (NP its flame and smoke)
+         (ADVP-DIR upwards))
+     .))
+( (S (NP-SBJ This)
+     (VP gives
+         (NP a clue)
+         (PP to
+             (NP (NP the cosmical order)
+                 (PP of
+                     (NP elements)))))
+     .))
+( (S (ADVP Thus)
+     (NP-SBJ earth)
+     (VP has
+         (VP fallen
+             (PP to
+                 (NP (NP the center)
+                     (PP of
+                         (NP the universe))))))
+     .))
+( (S (S (NP-SBJ-1 It)
+        (VP is
+            (VP covered
+                (NP *-1)
+                -LRB-
+                (ADVP partly)
+                -RRB-
+                (PP with
+                    (NP water)))))
+     ,
+     (S (NP-SBJ air)
+        (VP is
+            (PP-LOC-PRD atop
+			(PP of
+			    (NP that)))))
+     .))
+( (S (NP-SBJ (NP Pure fire)
+             -LRB-
+             (NP the stars)
+             -RRB-)
+     (VP is
+         (PP-LOC-PRD in
+		     (NP the heavens)))
+     .))
+( (S (SBAR-TMP (WHADVP-3 When)
+	       (S (NP-SBJ *)
+		  (VP combined
+		      (PP with
+			  (NP the metaphysical notion
+			      (SBAR that
+				    (S (NP-SBJ-1 (NP pure forms)
+						 (PP of
+						     (NP this universe)))
+				       (VP are
+					   (ADVP best)
+					   (VP appreciated
+					       (NP *-1)
+					       (SBAR-TMP (WHADVP-2 when)
+							 (S (NP-SBJ *)
+							    (ADVP least)
+							    (VP embodied
+								(PP in
+								    (NP a material substratum))
+								(ADVP-TMP *T*-2))))))))))
+		      (ADVP *T*-3))))
+     ,
+     (NP-SBJ it)
+     (VP becomes
+         (ADJP-PRD clear
+                   (SBAR that
+                         (S (SBAR-ADV while
+				      (S (NP-SBJ earth)
+					 (VP will
+					     (VP be
+						 (NP-PRD dross)
+						 (PP on
+						     (NP (NP a scale)
+							 (PP of
+							     (NP material-formal ratios))))))))
+                            ,
+                            (NP-SBJ celestial bodies)
+			    (VP will
+				(VP be
+				    (PP-PRD of
+					    (NP (NP a subtle , quickened , ethereal existence)
+						,
+						(SBAR (WHPP-4 in
+							      (WHNP whose embodiment))
+						      (S (NP-SBJ pure form)
+							 (VP will
+							     (VP be
+								 (NP-PRD the dominant component)
+								 (PP *T*-4)))))))))
+                            and
+                            (S (NP-SBJ matter)
+                               (VP will
+                                   (VP (VP be
+                                           (ADJP-PRD absent))
+                                       or
+                                       (VP remain
+                                           (ADJP-PRD subsidiary)))))))))
+     .))
+( (S (NP-SBJ The stars)
+     (VP constitute
+         (NP (NP an order)
+             (PP of
+                 (NP (NP existence)
+                     (ADJP different
+                           (PP from
+			       (SBAR-NOM (WHNP-1 what)
+					 (S (NP-SBJ we)
+					    (VP encounter
+						(NP *T*-1)
+						(PP-LOC on
+							(NP earth)))))))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (ADJP-PRD clear)
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ one)
+		      (VP distinguishes
+			  (NP (NP (NP the types)
+				  (PP of
+				      (NP motion)))
+			      (ADJP appropriate
+				    (PP to
+					(NP both regions))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ (NP A projectile)
+             (VP shot
+                 (NP *)
+                 (PRT up)
+                 (PP-DIR from
+			 (NP earth))))
+     (VP returns
+         (ADVP rectlinearly)
+         (PP-DIR to
+		 (NP (NP its ' natural ' place)
+		     (PP of
+			 (NP rest)))))
+     .))
+( (S But
+     (NP-SBJ (NP the natural condition)
+	     (PP for
+		 (NP the heavenly bodies)))
+     (VP is
+         (NP-PRD neither
+                 (NP rest)
+                 , nor
+                 (NP rectilinear motion)))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP Being
+		(ADVP less)
+		(VP encumbered
+		    (NP *)
+		    (PP by
+			(NP-LGS material embodiments)))))
+     (NP-SBJ they)
+     (VP partake
+	 (ADVP more)
+	 (PP of
+	     (SBAR-NOM (WHNP-1 what)
+		       (S (NP-SBJ *T*-1)
+			  (VP is
+			      (ADJP-PRD divine))))))
+     .))
+( (S (NP-SBJ Their motion)
+     (VP will
+         (VP be
+             (ADJP-PRD eternal and perfect)))
+     .))
+( (S-IMP (NP-SBJ *)
+	 (VP Let
+	     (S (NP-SBJ us)
+		(VP re-examine
+		    (NP (NP the publicized contrasts)
+			(PP between
+			    (NP (ADJP Ptolemaic and Copernican) 
+				astronomy))))))
+	 .))
+( (S (ADVP Bluntly)
+     ,
+     (NP-SBJ there)
+     (ADVP never)
+     (VP was
+         (NP-PRD (NP a Ptolemaic system)
+                 (PP of
+                     (NP astronomy))))
+     .))
+( (S (NP-SBJ (NP Copernicus ')
+             achievement)
+     (VP was
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP have
+			(VP invented
+			    (NP systematic astronomy))))))
+     .))
+( (S (NP-SBJ (NP-TTL The Almagest)
+             and
+             (NP-TTL The Hypotheses))
+     (VP outline
+         (NP (NP (NP Ptolemy 's)
+		 conception)
+             (PP of
+                 (NP his own task)))
+	 (PP as
+	     (NP (NP the provision)
+		 (PP of
+		     (NP (NP computational tables)
+			 ,
+			 (NP (NP independent calculating devices)
+			     (PP for
+				 (NP (NP the prediction)
+				     (PP of
+					 (NP future planetary perturbations))))))))))
+     .))
+( (S (ADVP Indeed)
+     ,
+     (PP in
+         (NP (NP the Halma edition)
+             (PP of
+                 (NP (NP (NP Theon 's)
+			 presentation)
+                     (PP of
+                         (NP-TTL The Hypotheses))))))
+     (NP-SBJ there)
+     (VP is
+         (NP-PRD (NP a chart)
+                 (VP setting
+                     (PRT out)
+                     -LRB-
+                     (PP under
+                         (NP six distinct headings))
+                     -RRB-
+                     (NP (NP otherwise unrelated diagrams)
+                         (PP for
+                             (S-NOM (NP-SBJ *)
+				    (VP describing
+					(NP the planetary motions))))))))
+     .))
+( (S (NP-SBJ-1 No attempt)
+     (VP is
+         (VP made
+             (NP *-1)
+             (PP by
+                 (NP-2 Ptolemy))
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP weld
+                        (PP into
+                            (NP a single scheme))
+                        -LRB-
+                        (ADVP a-la-Aristotle)
+                        -RRB- ,
+                        (NP these independent predicting-machines))))))
+     .))
+( (S (S (NP-SBJ (NP They)
+                (NP all))
+        (VP have
+            (NP this)
+            (PP in
+                (ADJP common))))
+     :
+     (S (NP-SBJ-1 the earth)
+        (VP is
+            (VP situated
+                (NP *-1)
+                (PP-LOC near
+			(NP (NP the center)
+			    (PP of
+				(NP the deferent)))))))
+     .))
+( (S But
+     (SBAR-TPC that
+	       (S (NP-SBJ one)
+		  (VP should
+		      (VP (VP superimpose
+			      (NP all these charts))
+			  ,
+			  (VP run
+			      (NP a pin)
+			      (PP through
+				  (NP the common point)))
+			  , and
+			  (VP (ADVP then)
+			      scale
+			      (NP each planetary deferent)
+			      (ADJP larger and smaller)
+			      -LRB-
+			      (S-PRP (NP-SBJ *)
+				     (VP to
+					 (VP keep
+					     (NP the epicycles)
+					     (PP from
+						 (S-NOM (NP-SBJ *)
+							'
+							(VP bumping)
+							')))))
+			      -RRB-)))))
+     ,
+     (NP-SBJ this)
+     (VP is
+         (ADJP-PRD contrary
+                   (PP to
+                       (NP (NP any intention)
+                           (SBAR (WHNP-1 0)
+                                 (S (NP-SBJ Ptolemy)
+                                    (ADVP-TMP ever)
+                                    (VP expresses
+                                        (NP *T*-1))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP might
+         (ADVP even)
+         (VP suppose
+             (S (NP-SBJ the planets)
+                (VP to
+                    (VP move
+                        (PP at
+                            (NP infinity)))))))
+     .))
+( (S (NP-SBJ (NP Ptolemy 's)
+             problem)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP forecast
+			(SBAR (WHADVP-2 where)
+			      ,
+			      (S (PP against
+				     (NP (NP the inverted bowl)
+					 (PP of
+					     (NP night))))
+				 ,
+				 (NP-SBJ-1 some particular light)
+				 (VP will
+				     (VP be
+					 (VP found
+					     (NP *-1)
+					     (PP-TMP at
+						     (NP future times))
+					     (ADVP-LOC *T*-2))))))))))
+     .))
+( (S (NP-SBJ His problem)
+     (VP concerns
+         (NP (NP longitudes)
+             ,
+             (NP latitudes)
+             , and
+             (NP angular velocities)))
+     .))
+( (S (NP-SBJ (NP The distances)
+             (PP of
+                 (NP (NP these points)
+                     (PP of
+                         (NP light)))))
+     (VP is
+         (NP-PRD (NP a problem)
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ he)
+                          (VP can not
+                              (VP master
+                                  (NP *T*-1)
+				  ,
+				  (PP beyond
+				      (NP (NP crude conjectures)
+					  (PP as
+					      (PP to
+						  (NP (NP the orderings)
+						      (PP of
+							  (NP (NP the planetary orbits)
+							      (VP viewed
+								  (NP *)
+								  (ADVP outward
+									(PP from
+									    (NP earth)))))))))))))))))
+     .))
+( (S But
+     (NP-SBJ (NP none)
+             (PP of
+                 (NP this)))
+     (VP has
+         (VP prevented
+             (NP (NP scientists)
+                 ,
+                 (NP philosophers)
+                 , and
+                 (NP (NP even historians)
+                     (PP of
+                         (NP science)))
+                 ,)
+             (PP from
+                 (S-NOM (NP-SBJ *)
+			(VP speaking
+			    (PP of
+				(NP the Ptolemaic system))
+			    ,
+			    (PP in
+				(NP (NP contrast)
+				    (PP to
+					(NP the Copernican)))))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (NP-PRD a mistake))
+     .))
+( (S (NP-SBJ-1 It)
+     (VP is
+         (VP engendered
+             (NP *-1)
+             (PP by
+                 (S-NOM (NP-SBJ *)
+			(VP confounding
+			    (NP (NP the Aristotelian cosmology)
+				(PP in
+				    (NP The Almagest)))
+			    (PP with
+				(NP the geocentric astronomy)))))))
+     .))
+( (S (NP-SBJ Ptolemy)
+     (ADVP recurrently)
+     (VP denies
+         (SBAR that
+               (S (NP-SBJ he)
+                  (VP could
+                      (ADVP-TMP ever)
+                      (VP explain
+                          (NP planetary motion))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (SBAR-NOM-PRD (WHNP-1 what)
+		       (S (NP-SBJ *T*-1)
+			  (VP necessitates
+			      (NP (NP the nonsystematic character)
+				  (PP of
+				      (NP his astronomy)))))))
+     .))
+( (S (ADVP So)
+     (SBAR-TMP (WHADVP-2 when)
+	       (S (NP-SBJ (NP textbooks)
+			  ,
+			  (PP like
+			      (NP (NP that)
+				  (PP of
+				      (NP Baker)))))
+		  (VP set
+		      (PRT out)
+		      (NP (NP (NP drawings)
+			      (PP of
+				  (NP the ' Ptolemaic System ')))
+			  ,
+			  (ADJP complete
+				(PP with
+				    (NP (NP (NP earth)
+					    (PP-LOC in
+						    (NP the center)))
+					and
+					(NP (NP the seven heavenly bodies)
+					    (VP (ADVP epicyclically)
+						arranged
+						(PP on
+						    (NP their several deferents))))))))
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ we)
+     (VP have
+         (NP (NP nothing) 
+	     (PP but
+		 (NP (NP a misleading 20th-century idea)
+		     (PP of
+			 (SBAR-NOM (WHNP-1 what)
+				   (S (NP-SBJ *T*-1)
+				      (ADVP-TMP never)
+				      (VP existed
+					  (ADVP historically)))))))))
+     .))
+( (S (NP-SBJ (NP It)
+             (SBAR *EXP*-1))
+     (VP is
+         (NP-PRD (NP the chief merit)
+                 (PP in
+                     (NP (NP Copernicus ')
+                         work))))
+     (SBAR-1 that
+             (S (NP-SBJ all his planetary calculations)
+                (VP are
+                    (ADJP-PRD interdependent))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP can not , e.g.
+         (VP compute
+             (NP (NP the retrograde arc)
+                 (VP traveled
+                     (NP *)
+                     (PP by
+                         (NP-LGS Mars))))))
+     ,
+     (PP without
+         (S-NOM (NP-SBJ *-1)
+		(ADVP also)
+		(VP making
+		    (NP (NP suppositions)
+			(PP about
+			    (NP (NP the earth 's)
+				own motion))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP can not
+         (VP describe
+             (NP eclipses)))
+     (PP without
+         (S-NOM (NP-SBJ *-1)
+		(VP entertaining
+		    (NP (NP some form)
+			(PP of
+			    (NP a three-body problem))))))
+     .))
+( (S (PP In
+         (NP Ptolemaic terms))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ (NP eclipses)
+             and
+             (NP retrograde motion))
+     (VP were
+         (NP-PRD phenomena simpliciter)
+         ,
+         (SBAR (WHNP-2 0)
+	       (S (NP-SBJ-1 *T*-2)
+		  (VP to
+		      (VP be
+			  (VP explained
+			      (NP *-1)
+			      (ADVP-MNR directly)
+			      (PP as
+				  (NP (NP possible resultants)
+				      (PP of
+					  (NP epicyclical combinations))))))))))
+     .))
+( (S (S (PP In
+            (NP (NP a systematic astronomy)
+                ,
+                (PP like
+                    (NP (NP that)
+                        (PP of
+                            (NP Copernicus))))
+                ,))
+        (NP-SBJ retrogradations)
+        (VP become
+            (NP-PRD (NP part)
+                    (PP of
+                        (NP (NP the conceptual structure)
+                            (PP of
+                                (NP the system)))))))
+     ; ;
+     (S (NP-SBJ they)
+        (VP are
+            (ADVP-TMP no longer)
+            (NP-PRD (NP a puzzling aspect)
+                    (PP of
+                        (NP (ADJP intricately variable)
+                            , local planetary motions)))))
+     .))
+( (S (NP-SBJ (NP Another contrast)
+             (VP stressed
+		 (NP *)
+                 (SBAR (WHADVP-1 when)
+                       (S (NP-SBJ *)
+                          (VP discussing
+                              (NP (ADJP Ptolemaic vs. Copernican) astronomy)
+			      (ADVP-TMP *T*-1))))))
+     ,
+     (VP turns
+         (PP on
+             (NP (NP the idea)
+                 (PP of
+                     (NP simplicity)))))
+     .))
+( (S (NP-SBJ-3 (NP It)
+               (SBAR *EXP*-2))
+     (VP is
+         (ADVP-TMP often)
+         (VP stated
+             (NP *-3)))
+     (SBAR-2 that
+             (S (NP-SBJ Copernican astronomy)
+                (VP is
+                    (ADJP-PRD ' simpler '
+                              (PP than
+                                  (ADJP Ptolemaic))))))
+     .))
+( (S (NP-SBJ Some)
+     (ADVP even)
+     (VP say
+         (SBAR that
+               (S (NP-SBJ this)
+                  (VP is
+                      (NP-PRD (NP the reason)
+                              (PP for
+                                  (NP (NP the ultimate acceptance)
+                                      (PP of
+                                          (NP the former)))))))))
+     .))
+( (S (ADVP Thus)
+     ,
+     (NP-SBJ Margenau)
+     (VP remarks :
+	 ``
+	 (S (S (NP-SBJ-1 (NP A large number)
+			 (PP of
+			     (NP unrelated epicycles)))
+               (VP was
+                   (VP needed
+                       (S (NP-SBJ *-1)
+                          (VP to
+                              (VP explain
+                                  (NP the observations)))))))
+            , but
+            (S (ADVP otherwise)
+               (NP-SBJ the -LRB- Ptolemaic -RRB- system)
+               (VP served
+                   (UCP (ADVP well)
+			and
+			(PP with
+			    (NP quantitative precision)))))))
+     .))
+( (S (NP-SBJ Copernicus)
+     ,
+     (PP by
+         (S-NOM (NP-SBJ *)
+		(VP placing
+		    (NP the sun)
+		    (PP at
+			(NP (NP the center)
+			    (PP of
+				(NP the planetary universe)))))))
+     ,
+     (VP was
+         (ADJP-PRD able
+                   (S (NP-SBJ *)
+                      (VP to
+                          (VP reduce
+                              (NP (NP the number)
+                                  (PP of
+                                      (NP epicycles)))
+                              (PP from
+                                  (NP eighty-three))
+                              (PP to
+                                  (NP seventeen)))))))
+     .))
+( (S (S (NP-SBJ Historical records)
+        (VP indicate
+            (SBAR that
+                  (S (NP-SBJ Copernicus)
+                     (VP was
+                         (ADJP-PRD (ADJP unaware
+                                         (PP of
+                                             (NP (NP the fundamental aspects)
+                                                 (PP of
+                                                     (NP his so-called ' revolution ')))))))))))
+     ,
+     (S (S-ADV (NP-SBJ *-1)
+	       (ADJP-PRD unaware 
+			 (ADVP perhaps)
+			 (PP of
+			     (NP its historical importance))))
+        ,
+        (NP-SBJ-1 he)
+	(VP rested
+	    (ADJP content)
+	    (PP with
+		(S-NOM (NP-SBJ *)
+		       (VP having
+			   (VP produced
+			       (NP (NP a simpler scheme)
+				   (PP for
+				       (NP prediction)))))))))
+     .))
+( (S (PP As
+         (NP (NP an illustration)
+             (PP of
+                 (NP (NP the principle)
+                     (PP of
+                         (NP simplicity))))))
+     (NP-SBJ the heliocentric discovery)
+     (VP has
+         (NP a peculiar appeal)
+	 (SBAR-PRP because
+		   (S (S (NP-SBJ it)
+			 (VP allows
+			     (NP-2 simplicity)
+			     (S (NP-SBJ-1 *-2)
+				(VP to
+				    (VP be
+					(VP arithmetized
+					    (NP *-1)))))))
+		      ; ;
+		      (S (NP-SBJ it)
+			 (VP involves
+			     (NP (NP a reduction)
+				 (PP in
+				     (NP (NP the number)
+					 (PP of
+					     (NP epicycles))))
+				 (PP from
+				     (NP eighty-three))
+				 (PP to
+				     (NP seventeen))))))))
+     '' .))
+( (S (PP Without
+         (NP careful qualification))
+     (NP-SBJ this)
+     (VP can
+         (VP be
+             (VP misleading)))
+     .))
+( (S (SBAR-ADV If
+	       (S (PP in
+		      (NP any one calculation))
+		  (NP-SBJ-1 Ptolemy)
+		  (VP had
+		      (VP had
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP invoke
+				     (NP 83 epicycles)
+				     (PP-TMP (ADVP all)
+					     at
+					     (NP once)))))
+			  ,
+			  (SBAR-ADV while
+				    (S (NP-SBJ Copernicus)
+				       (ADVP-TMP never)
+				       (VP required
+					   (NP (ADJP (ADJP more)
+						     (PP than
+							 (NP one third)))
+					       this number))))))))
+     ,
+     (ADVP then)
+     -LRB-
+     (PP in
+         (NP (NP the sense)
+             (ADJP obvious
+                   (PP to
+                       (NP Margenau)))))
+     -RRB-
+     (S (NP-SBJ Ptolemaic astronomy)
+        (VP would
+            (VP be
+                (ADJP-PRD (ADJP simpler)
+                          (PP than
+                              (ADJP Copernican))))))
+     .))
+( (S But
+     (NP-SBJ no single planetary problem)
+     (ADVP-TMP ever)
+     (VP required
+         (PP of
+             (NP Ptolemy))
+         (NP (ADJP (ADJP more)
+                   (PP than
+                       (NP six)))
+             epicycles)
+	 (PP-TMP at
+		 (NP one time)))
+     .))
+( (S (NP-SBJ This)
+     ,
+     (PP of
+         (NP course))
+     ,
+     (VP results
+         (PP from
+             (NP (NP the non-systematic , ' cellular '
+		     character)
+                 (PP of
+                     (NP Ptolemaic theory)))))
+     .))
+( (S (NP-SBJ (NP Calculations)
+             (PP within
+                 (NP the Copernican framework)))
+     (ADVP-TMP always)
+     (VP raised
+         (NP (NP questions)
+             (PP about
+                 (NP planetary configurations))))
+     .))
+( (S (NP-SBJ-1 These)
+     (VP could
+         (VP be
+	     (VP met
+		 (NP *-1)
+		 (PP (ADVP only)
+		     by
+		     (S-NOM (NP-SBJ *)
+			    (VP considering
+				(NP (NP the dynamical elements)
+				    (PP of
+					(NP several planets)))
+				(PP-TMP at
+					(NP one time))))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (ADJP-PRD (ADJP more ambitious)
+                   (PP than
+                       (S (NP-SBJ-1 Ptolemy)
+                          (VP is
+                              (ADVP-TMP ever)
+                              (VP required
+                                  (S (NP-SBJ *-1)
+                                     (VP to
+                                         (VP be
+					     (ADJP-PRD *?*))))
+				  (SBAR-TMP (WHADVP-2 when)
+					    (S (NP-SBJ he)
+					       (VP faces
+						   (NP his isolated problems)
+						   (ADVP-TMP *T*-2))))))))))
+     .))
+( (SINV (ADVP Thus)
+        ,
+        (PP in
+            (NP (NP no ordinary sense)
+                (PP of
+		    '
+		    (NP simplicity)
+		    ')))
+        (VP is)
+        (NP-SBJ the Ptolemaic theory)
+        (ADJP (ADJP simpler)
+              (PP than
+                  (NP the Copernican)))
+        .))
+( (S (NP-SBJ The latter)
+     (VP required
+         (S (NP-SBJ *)
+            (VP juggling
+                (NP several elements)
+                (ADVP simultaneously))))
+     .))
+( (S (NP-SBJ This)
+     (VP was
+         (ADJP-PRD not
+                   (ADJP simpler)
+                   but
+                   (ADJP (ADJP (ADVP much more)
+			       difficult)
+                         (PP than
+                             (NP (NP exercises)
+                                 (PP within
+                                     (NP (NP Ptolemy 's)
+                                         astronomy)))))))
+     .))
+( (S (ADVP Analogously)
+     ,
+     (NP-SBJ (NP anyone)
+             (SBAR (WHNP-3 who)
+                   (S (NP-SBJ *T*-3)
+                      (VP argues
+                          (SBAR that
+                                (S (NP-SBJ (NP (NP Einstein 's)
+					       theory)
+                                           (PP of
+                                               (NP gravitation)))
+                                   (VP is
+                                       (ADJP-PRD (ADJP simpler)
+                                                 (PP than
+                                                     (NP Newton 's))))))))))
+     ,
+     (VP must
+         (VP say
+             (NP (ADJP rather more))
+             (S-PRP (NP-SBJ *)
+		    (VP to
+			(VP explain
+			    (SBAR (WHADVP-4 how)
+				  (S (NP-SBJ it)
+				     (VP is
+					 (SBAR-PRD that
+						   (S (NP-SBJ-1 the latter)
+						      (VP is
+							  (VP mastered
+							      (NP *-1)
+							      (PP by
+								  (NP-LGS student-physicists))
+							      ,
+							      (SBAR-ADV while
+									(S (NP-SBJ-2 the former)
+									   (VP can
+									       (VP be
+										   (VP managed
+										       (NP *-2)
+										       -LRB-
+										       (PP with
+											   (NP difficulty))
+										       -RRB-
+										       (PP (ADVP only)
+											   by
+											   (NP-LGS accomplished experts)))))))))))
+					 (ADVP *T*-4)))))))))
+     .))
+( (S (PP In
+         (NP a sense))
+     ,
+     (S (NP-SBJ (NP Einstein 's)
+                theory)
+        (VP is
+            (ADJP-PRD (ADJP simpler)
+                      (PP than
+                          (NP Newton 's)))))
+     , and
+     (S (NP-SBJ there)
+        (VP is
+            (NP-PRD (NP a corresponding sense)
+                    (SBAR (WHPP-1 in
+				  (WHNP which))
+                          (S (NP-SBJ (NP Copernicus ')
+                                     theory)
+                             (VP is
+                                 (ADJP-PRD (ADJP simpler)
+                                           (PP than
+                                               (NP (NP Ptolemy 's))))
+				 (PP *T*-1)))))))
+     .))
+( (S But
+     '
+     (NP-SBJ simplicity)
+     '
+     (ADVP here)
+     (VP refers
+         (PP to
+             (NP systematic simplicity)))
+     .))
+( (S (NP-SBJ-1 (NP The number)
+               (PP of
+                   (NP (NP primitive ideas)
+                       (PP in
+                           (NP systematically-simple theories)))))
+     (VP is
+         (VP reduced
+             (NP *-1)
+             (PP to
+                 (NP a minimum))))
+     .))
+( (S (NP-SBJ (NP The Axioms)
+             (VP required
+		 (NP *)
+                 (S-PRP (NP-SBJ *)
+			(VP to
+			    (VP make
+				(S (NP-SBJ the theoretical machinery)
+				   (VP operate)))))))
+     (VP are
+         (VP set
+             (PRT out)
+             (ADVP-MNR tersely and powerfully)
+	     ,
+	     (SBAR-PRP so that
+		       (S (NP-SBJ-1 (NP all permissible operations)
+				    (PP within
+					(NP the theory)))
+			  (VP can
+			      (VP be
+				  (VP traced
+				      (NP *-1)
+				      (ADVP-MNR rigorously)
+				      (ADVP back
+					    (PP to
+						(NP these (NP axioms) 
+						    , 
+						    (NP rules) 
+						    , 
+						    and 
+						    (NP primitive notions)))))))))))
+     .))
+( (S (NP-SBJ This)
+     (VP characterizes
+         (NP (NP (NP (NP Euclid 's)
+		     formulation)
+                 (PP of
+                     (NP geometry)))
+             ,
+             (CONJP but not)
+             (NP (NP Ptolemy 's)
+                 astronomy)))
+     .))
+( (S (NP-SBJ There)
+     (VP are
+         (PP in
+             (NP-TTL The Almagest))
+         (NP-PRD (NP no rules)
+                 (PP for
+                     (S-NOM (NP-SBJ *)
+			    (VP determining
+				(PP in
+				    (NP advance))
+				(SBAR whether
+				      (S (NP-SBJ-1 a new epicycle)
+					 (VP will
+					     (VP be
+						 (VP required
+						     (NP *-1)
+						     (PP for
+							 (S-NOM (NP-SBJ *)
+								(VP dealing
+								    (PP with
+									(NP (NP abberations)
+									    (PP in
+										(NP (ADJP lunar , solar , or planetary) 
+										    behavior)))))))))))))))))
+     .))
+( (S (NP-SBJ (NP The strongest appeal)
+             (PP of
+                 (NP the Copernican formulation)))
+     (VP consisted
+         (PP in
+             (NP (NP just this)
+                 :
+                 (S (ADVP ideally)
+                    ,
+                    (NP-SBJ (NP the justification)
+                            (PP for
+                                (S-NOM (NP-SBJ *)
+				       (VP dealing
+					   (PP with
+					       (NP special problems))
+					   (PP in
+					       (NP particular ways))))))
+                    (VP is
+                        (ADVP completely)
+                        (VP set
+                            (PRT out)
+                            (PP in
+                                (NP (NP the basic ' rules ')
+                                    (PP of
+                                        (NP the theory))))))))))
+     .))
+( (S (NP-SBJ The lower-level hypotheses)
+     (VP are
+	 (UCP-PRD (ADVP-TMP never)
+		  '
+		  (ADJP ad hoc)
+		  '
+		  ,
+		  (VP (ADVP-TMP never)
+		      introduced
+		      (NP *)
+		      (ADVP ex post facto)
+		      (S-PRP (NP-SBJ *)
+			     (ADVP just)
+			     (VP to
+				 (VP sweep
+				     (PRT up)
+				     (PP within
+					 (NP the theory))
+				     (NP some recalcitrant datum)))))))
+     .))
+( (S (NP-SBJ Copernicus)
+     ,
+     (PP to
+         (NP (NP an extent)
+             (VP unachieved
+                 (NP *)
+                 (PP by
+                     (NP-LGS Ptolemy)))))
+     ,
+     (VP approximated
+         (PP to
+             (NP (NP Euclid 's)
+                 vision)))
+     .))
+( (S (NP-TTL-SBJ De Revolutionibus)
+     (VP is not
+         (NP-PRD (NP just a collection)
+                 (PP of
+                     (NP facts and techniques))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (NP-PRD (NP an organized system)
+                 (PP of
+                     (NP these things))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Solving
+		    (NP astronomical problems)))
+     (VP requires ,
+         (PP for
+             (NP Copernicus))
+         ,
+         (NP not
+             (NP (NP a random search)
+                 (PP of
+                     (NP unrelated tables)))
+             , but
+             (NP (NP a regular employment)
+                 (PP of
+                     (NP (NP the rules)
+                         (VP defining
+                             (NP the entire discipline)))))))
+     .))
+( (S (ADVP Hence)
+     ,
+     (S-NOM-SBJ (NP-SBJ *)
+		(VP noting
+		    (NP (NP the simplicity)
+			(VP achieved
+			    (NP *)
+			    (PP in
+				(NP (NP Copernicus ')
+				    formulation))))))
+     (VP does
+         not
+         (VP provide
+             (NP (NP (NP another reason)
+                     (PP for
+                         (NP (NP the acceptance)
+                             (PP of
+                                 (NP-TTL De Revolutionibus)))))
+                 ,
+                 (NP (NP another reason)
+                     (PP beyond
+                         (NP its systematic superiority))))))
+     .))
+( (S (NP-SBJ It)
+     (VP provides
+         (NP exactly the same reason))
+     .))
+( (S (NP-SBJ-1 1543 A.D.)
+     (VP is
+         (ADVP-TMP often)
+         (VP venerated
+             (NP *-1)
+             (PP as
+                 (NP (NP the birthday)
+                     (PP of
+                         (NP the scientific revolution))))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADVP really)
+         (NP-PRD (NP the funeral day)
+                 (PP of
+                     (NP scholastic science))))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP Granted))
+     ,
+     (NP-SBJ-1 (NP the (ADJP cosmological , philosophical , and cultural) reverberations)
+	       (VP initiated
+		   (NP *)
+		   (PP by
+		       (NP-LGS-TTL the De Revolutionibus))))
+     (VP were
+	 (VP felt
+	     (NP-PRD *-1)
+	     (PP with
+		 (NP increasing violence))
+	     (PP-TMP during
+		     (NP (NP the 300 years)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP follow)))))))
+     .))
+( (S But ,
+     (S-ADV (NP-SBJ *)
+	    (VP considered
+		(NP *)
+		(PP within
+		    (NP technical astronomy))))
+     ,
+     (NP-SBJ-1 a different pattern)
+     (VP can
+	 (VP be
+	     (VP traced
+		 (NP *-1))))
+     .))
+( (SBARQ (WHPP-1 In
+		 (WHNP what))
+         (SQ does
+             (NP-SBJ (NP the dissatisfaction)
+                     (PP of
+                         (NP Copernicus-the-astronomer)))
+             (VP consist
+		 (PP *T*-1)))
+         ? ?))
+( (SBARQ (WHNP-1 (WHNP What)
+                 (PP in
+                     (NP-TTL The Almagest)))
+         (SQ (NP-SBJ *T*-1)
+             (VP draws
+                 (NP his fire)))
+         ? ?))
+( (NP (NP Geocentricism)
+      (PP per
+          (NP se))
+      ? ?))
+( (NP No .))
+( (S (NP-SBJ-4 (NP (NP The formal displacement)
+		   (PP of
+		       (NP the geocentric principle)))
+	       (ADVP far
+		     (PP from
+			 (S-NOM (NP-SBJ *)
+				(VP being
+				    (NP-PRD (NP Copernicus ')
+					    primary concern))))))
+     ,
+     (VP was
+         (VP introduced
+	     (NP *-4)
+             (S-PRP (NP-SBJ *)
+		    (ADVP only)
+		    (VP to
+			(VP resolve
+			    (NP (SBAR-NOM (WHNP-3 what)
+					  (S (NP-SBJ *T*-3)
+					     (VP seemed
+						 (PP to
+						     (NP him))
+						 (ADJP-PRD intolerable)
+						 (PP in
+						     (NP orthodox astronomy)))))
+				,
+				(ADVP namely)
+				,
+				(NP (NP the ' unphysical ' triplication)
+				    (PP of
+					(NP (NP centric reference-points)
+					    :
+					    (NP (NP (NP one center)
+						    (SBAR (WHPP-5 from
+								  (WHNP which))
+							  (S (NP-SBJ-1 (NP the planet 's)
+								       distances)
+							     (VP were
+								 (VP calculated
+								     (NP *-1)
+								     (PP *T*-5))))))
+						,
+						(NP (NP another)
+						    (SBAR (WHPP-6 around
+								  (WHNP which))
+							  (S (NP-SBJ-2 planetary velocities)
+							     (VP were
+								 (VP computed
+								     (NP *-2)
+								     (PP *T*-6))))))
+						, and
+						(NP (NP (NP still a third center)
+							-LRB-
+							(NP the earth)
+							-RRB-)
+						    (SBAR (WHPP-7 from
+								  (WHNP which))
+							  (S (NP-SBJ the observations)
+							     (VP originated
+								 (PP *T*-7)))))))))))))))
+     .))
+( (S (S (NP-SBJ This arrangement)
+        (VP was
+            (PP for
+                (NP Copernicus))
+            (ADJP-PRD literally monstrous)))
+     :
+     ``
+     (S (PP With -LRB-
+            (NP the Ptolemaists)
+            -RRB-)
+        (S (S (NP-SBJ it)
+              (VP is
+		  (SBAR-PRD as though
+			    (S (NP-SBJ an artist)
+			       (VP were
+				   (S-PRD (NP-SBJ *)
+					  (VP to
+					      (VP gather
+						  (NP (NP the 
+							  (NX (NX hands)
+							      ,
+							      (NX feet)
+							      ,
+							      (NX head)
+							      and
+							      (NX other members))))
+						  (PP for
+						      (NP his images))
+						  (PP from
+						      (NP divers models))
+						  ,
+						  (S-ADV (NP-SBJ each part)
+							 (VP (VP (ADVP excellently)
+								 drawn
+								 (NP *))
+							     , but
+							     (VP not related
+								 (NP *)
+								 (PP to
+								     (NP a single body)))))))))))))
+           ; ; and
+           (S (SBAR-PRP since
+			(S (NP-SBJ they)
+			   (PP-MNR in
+				   (NP no way))
+			   (VP match
+			       (NP each other))))
+              ,
+              (NP-SBJ the result)
+              (VP would
+                  (VP be
+                      (NP-PRD (NP a monster)
+			      (CONJP rather than)
+			      (NP a man))))))
+        '')
+     .))
+( (S (NP-SBJ Copernicus)
+     (VP required
+         (NP a
+             (ADJP systematically integrated)
+             ,
+             (ADJP physically intelligible)
+             astronomy))
+     .))
+( (S (NP-SBJ His objective)
+     (VP was ,
+	 (ADVP essentially)
+	 ,
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP repair
+			(NP (NP (NP those aspects)
+				(PP of
+				    (NP orthodox astronomy)))
+			    (ADJP responsible
+				  (PP for
+				      (NP (NP its deficiencies)
+					  (PP in
+					      (S-NOM (NP-SBJ *)
+						     (VP achieving
+							 (NP these ends))))))))))))
+     .))
+( (S (SBAR-SBJ That
+	       (S (NP-SBJ such deficiencies)
+		  (VP existed)
+		  (PP within
+		      (NP (NP Ptolemy 's)
+			  theory))))
+     (VP was not
+         (VP discovered
+             (NP *-1)
+             (ADVP de novo)
+             (PP by
+                 (NP-LGS Copernicus))))
+     .))
+( (S (NP-SBJ (NP The critical , rigorous examinations)
+             (PP of
+                 (NP (NP (NP Nicholas)
+                         (PP of
+                             (NP Cusa)))
+                     and
+                     (NP (NP Nicholas)
+                         (PP of
+                             (NP Oresme))))))
+     (VP provided
+         (NP (NP the context)
+             -LRB-
+             (NP a
+                 (ADJP late medieval)
+                 context)
+             -RRB-
+             (PP for
+                 (NP (NP Nicholas Copernicus ')
+                     own work))))
+     .))
+( (S (NP-SBJ The latter)
+     (VP looked
+         (ADVP backward)
+         (PP upon
+             (NP inherited deficiencies)))
+     .))
+( (S (PP Without
+         (S-NOM (NP-SBJ *)
+		(VP abandoning
+		    (NP too much))))
+     ,
+     (NP-SBJ-1 Copernicus)
+     (VP sought
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP make
+                    (S (NP-SBJ orthodox astronomy)
+		       (ADJP-PRD (ADVP systematically and mechanically)
+				 acceptable))))))
+     .))
+( (S (NP-SBJ He)
+     (VP did not
+         (VP think
+             (S (NP-SBJ himself)
+                (VP to
+                    (VP be
+                        (VP firing
+                            (NP (NP the first shot)
+                                (PP of
+                                    (NP an intellectual revolution)))))))))
+     .))

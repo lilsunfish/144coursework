@@ -1,0 +1,44 @@
+
+
+( (S (S-TPC-1 (NP-SBJ British retail
+		      sales volume)
+	      (VP (VP rose
+		      (NP-EXT a provisional 0.4 %)
+		      (PP-TMP in
+			      (NP September))
+		      (PP-DIR from
+			      (NP-TMP August)))
+		  and
+		  (VP was
+		      (ADVP-PRD up
+				(NP 2.2 %))
+		      (PP-DIR from
+			      (NP-TMP September 1988)))))
+     ,
+     (NP-SBJ (NP the Department)
+	     (PP of
+		 (NP Trade and
+		     Industry)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP For
+         (NP (NP the three months)
+             (VP ended
+                 (PP-TMP-CLR in
+			     (NP September)))))
+     ,
+     (NP-SBJ retail sales volume)
+     (VP was
+         (ADVP-PRD (ADVP down
+                         (NP 0.5 %)
+                         (PP-DIR from
+				 (NP-TMP the previous three months)))
+                   and
+                   (ADVP up
+                         (NP 1.2 %)
+                         (PP-DIR from
+				 (ADVP-TMP (NP a year)
+					   earlier)))))
+     .))

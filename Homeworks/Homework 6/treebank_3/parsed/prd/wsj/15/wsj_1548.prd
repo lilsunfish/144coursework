@@ -1,0 +1,131 @@
+
+
+( (S (NP-SBJ Contel Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter net income)
+                  (VP increased
+                      (NP-EXT 16 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 72 million) *U*)
+				  , or
+				  (NP (NP 45 cents)
+				      (NP-ADV a share))))
+                      ,
+                      (PP-DIR from
+			      (NP (NP (QP $ 62 million) *U*)
+				  , or
+				  (NP (NP 39 cents)
+				      (NP-ADV a share))))
+		      ,
+		      (PP-PRP as
+			      (NP (NP a result)
+				  (PP of
+				      (NP (NP strong growth)
+					  (PP-LOC in
+						  (NP (NP telephone-access lines)
+						      and
+						      (NP (NP long-distance minutes)
+							  (PP of
+							      (NP use)))))))))))))
+     .))
+( (S (NP-SBJ (NP The telecommunications company 's)
+             results)
+     (VP included
+         (NP (NP a one-time gain)
+             (PP of
+                 (NP (NP (QP $ 4 million) *U*)
+                     , or
+                     (NP (NP two cents)
+                         (NP-ADV a share))))
+             ,
+             (PP from
+                 (NP (NP the sale)
+                     (PP of
+                         (NP (NP Contel Credit)
+                             ,
+                             (NP a leasing and financial-services subsidiary)))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 8.3 %)
+         (PP-DIR to
+		 (NP (QP $ 780 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 720 million) *U*)))
+     .))
+( (S (NP-SBJ Telephone-operations quarterly profit)
+     (VP increased
+         (NP-EXT 9 %)
+         (PP-DIR to
+		 (NP (QP $ 84 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 77 million) *U*))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ federal-systems earnings)
+		      (VP declined
+			  (NP-EXT 33 %)
+			  (PP-DIR to
+				  (NP (QP $ 4 million) *U*))
+			  (PP-DIR from
+				  (NP (QP $ 6 million) *U*))))))
+     .))
+( (S (NP-SBJ Information systems)
+     (VP posted
+         (NP (NP a loss)
+             (PP of
+                 (NP (QP $ 8 million) *U*)))
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP a loss)
+		     (PP of
+			 (NP (NP (QP $ 9 million) *U*)
+			     (ADVP-TMP (NP a year)
+				       earlier)))))))
+     .))
+( (S (S (NP-SBJ Customer-access lines)
+        (VP increased
+            (PP at
+                (NP (NP an annualized rate)
+                    (PP of
+                        (NP (QP about 4) %))))))
+     and
+     (S (NP-SBJ (NP minutes)
+                (PP of
+                    (NP long-distance use)))
+        (VP rose
+            (NP-EXT about 12 %)))
+     .))
+( (S (NP-SBJ-1 (NP A (ADJP 10 %) gain)
+               (PP-LOC in
+		       (NP operating profit))
+               (PP-TMP in
+		       (NP the quarter)))
+     (VP was
+         (VP offset
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a (ADJP 21 %) boost)
+			 (PP-LOC in
+				 (NP interest expense))
+			 ,
+			 (VP reflecting
+			     (NP higher 
+				 (NX (NX consolidated borrowings)
+				     and 
+				     (NX interest rates))))))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Contel)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 33.75 *U*)
+		     (NP-ADV a share)))
+	 ,
+	 (ADVP down
+	       (NP .50 cents)))
+     .))

@@ -1,0 +1,743 @@
+
+
+( (S-HLN (NP-SBJ-1 Genetic Defect)
+	 (VP Spotted
+	     (NP *-1)
+	     (PP-LOC In
+		     (NP 3-Day-Old Embryo)))))
+( (S (NP-SBJ RESEARCHERS)
+     (VP diagnosed
+         (NP (NP a genetic defect)
+	     (PP-LOC in
+		     (NP a three-day-old mouse embryo)))
+	 (PP in
+	     (NP (NP an experiment)
+		 (ADJP directly applicable
+		       (PP to
+			   (NP humans))))))
+     .))
+( (S (NP-SBJ (NP Prenatal diagnosis)
+             (PP of
+                 (NP genetic defects))
+             (ADVP-TMP as early
+		       (PP as
+			   (NP (NP the sixth week)
+			       (PP of
+				   (NP pregnancy))))))
+     (VP is
+         (ADJP-PRD increasingly common)
+	 (NP-TMP today))
+     .))
+( (S But
+     (NP-SBJ (NP the mouse experiment)
+             (PP-LOC at
+		     (NP (NP a Medical Research Council laboratory)
+			 (PP-LOC in
+				 (NP London)))))
+     (VP shows
+         (SBAR 0
+               (S (NP-SBJ-1 genetic defects)
+                  (VP can
+                      (VP be
+                          (VP detected
+                              (NP *-1)
+                              (PP-TMP (NP-ADV three days)
+				      after
+				      (NP conception))
+                              (S-MNR (NP-SBJ *)
+				     (VP using
+					 (NP a new American-developed gene-copying technique)))))))))
+     .))
+( (S (NP-SBJ (NP The experiment)
+             ,
+             (ADJP applicable
+                   (PP to
+                       (NP many genetic disorders)))
+             ,)
+     (VP involved
+         (NP (NP beta-thalassemia)
+             ,
+             (NP (NP a severe blood anemia)
+                 (VP resulting
+                     (PP-CLR from
+			     (NP a missing hemoglobin gene))))))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (NP-PRD (NP an inherited human disorder)
+                 (SBAR (WHNP-2 that)
+                       (S (NP-SBJ-1 *T*-2)
+                          (VP 's
+                              (VP been
+                                  (VP duplicated
+                                      (NP *-1)
+				      (PP-LOC in
+					      (NP mice)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP the experiment))
+     ,
+     (NP-SBJ-1 (NP mice)
+               (PP with
+                   (NP the defective gene)))
+     (VP were
+         (VP mated
+             (NP *-1)))
+     .))
+( (S (ADVP-TMP (NP Three days)
+	       later)
+     ,
+     (SBAR-TMP before
+	       (S (NP-SBJ-2 the new embryo)
+		  (VP had
+		      (VP become
+			  (VP implanted
+			      (NP *-2)
+			      (PP-LOC-CLR in
+					  (NP the uterus)))))))
+     ,
+     (NP-SBJ-1 it)
+     (VP was
+	 (VP washed
+	     (NP *-1)
+	     (PP-CLR out
+		     (PP of
+			 (NP the mother mouse)))))
+     .))
+( (S (NP-SBJ The embryo)
+     (VP had
+         (VP progressed
+             (PP-CLR (ADVP only)
+		     to
+		     (NP (NP a clump)
+			 (PP of
+			     (NP eight identical cells))))))
+     .))
+( (S (S (NP-SBJ-1 One cell)
+        (VP was
+            (VP-3 teased
+		  (NP *-1)
+		  (PRT out))))
+     , and
+     (S (NP-SBJ=1-2 its DNA)
+	(VP=3 extracted
+	      (NP *-2)))
+     .))
+( (S (S-MNR (NP-SBJ *-2)
+	    (VP Using
+		(NP (NP the new technique)
+		    (VP developed
+			(NP *)
+			(PP by
+			    (NP-LGS Cetus Corp.)))
+		    ,
+		    (VP called
+			(S (NP-SBJ *)
+			   (NP-PRD the polymerase chain reaction)))
+		    ,)))
+     (NP-SBJ-2 the scientists)
+     (VP (ADVP rapidly)
+	 made
+	 (NP (NP millions)
+	     (PP of
+		 (NP (NP copies)
+		     (PP of
+			 (NP (NP the section)
+			     (PP of
+				 (NP DNA))
+			     (SBAR (WHNP-1 that)
+				   (S (NP-SBJ *T*-1)
+				      (ADVP ordinarily)
+				      (VP contains
+					  (NP the hemoglobin gene)))))))))
+	 ,
+	 (S-ADV (NP-SBJ *-2)
+		(VP providing
+		    (NP (NP enough copies)
+			(SBAR (WHNP-3 0)
+			      (S (NP-SBJ *)
+				 (VP to
+				     (VP test
+					 (NP *T*-3)))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ A genetic probe)
+	      (VP showed
+		  (SBAR 0
+			(S (NP-SBJ the hemoglobin gene)
+			   (VP was
+			       (VP missing))))))
+     ,
+     (NP-SBJ the researchers)
+     (VP report
+	 (SBAR 0
+	       (S *T*-1))
+	 (PP-LOC in
+		 (NP the medical journal)
+		 (NP Lancet)))
+     .))
+( (S (PP-LOC In
+	     (NP the report))
+     ,
+     (NP-SBJ two molecular biologists)
+     (VP suggest
+         (SBAR 0
+               (S (NP-SBJ-1 such embryo diagnosis)
+                  (VP can
+                      (VP be
+                          (VP used
+                              (NP *-1)
+                              (PP by
+                                  (NP-LGS (NP couples)
+					  (PP at
+					      (NP (NP high risk)
+						  (PP of
+						      (S-NOM (NP-SBJ *)
+							     (VP passing
+								 (NP a genetic defect)
+								 (PP-CLR to
+									 (NP a child)))))))))))))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ (NP infertile couples)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP have
+                          (S (NP-SBJ-2 (NP the woman 's)
+				       eggs)
+			     (VP fertilized
+				 (NP *-2)
+				 (PP-LOC in
+					 (NP the test tube))))))))
+     (ADVP usually)
+     (VP have
+         (S (NP-SBJ-3 (NP several eggs)
+		      (PP-TMP *ICH*-4))
+	    (VP fertilized
+		(NP *-3)
+		(PP-TMP-4 at
+			  (NP a time)))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (NP-SBJ the fertilized cells)
+		  (VP divide
+		      (PP-CLR to
+			      (NP eight cells))
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-1 (NP a single cell)
+               (PP from
+                   (NP each embryo)))
+     (VP can
+         (VP be
+             (VP tested
+                 (NP *-1)
+                 (PP-CLR for
+			 (NP genetic defects)))))
+     .))
+( (S (S (NP-SBJ-1 A healthy embryo)
+        (VP can
+            (VP be
+                (VP-3 picked
+		      (NP *-1)
+		      (PP-PRP for
+			      (NP implantation))))))
+     and
+     (S (NP-SBJ=1-2 defective ones)
+	(VP=3 discarded
+	      (NP *-2)))
+     .))
+( (S Or
+     (PP-LOC in
+	     (NP other couples))
+     ,
+     (NP-SBJ-1 the embryo)
+     (VP could
+         (VP be
+             (VP (VP (VP (ADVP-TMP temporarily)
+                         taken 
+			 (NP *-1)
+			 (PRT out))
+                     and
+                     (VP tested
+			 (NP *-1))
+                     (PP-TMP (NP-ADV three days)
+			     after
+			     (NP conception)))
+                 and
+                 (VP (VP returned
+			 (NP *-1)
+			 (SBAR-PRP if
+				   (S (NP-SBJ *-1) 
+				      (ADJP-PRD healthy)))
+                         ,)
+                     or
+                     (VP discarded
+			 (NP *-1)
+                         (SBAR-PRP if 
+				   (X not)))))))
+     .))
+( (S-HLN (NP-SBJ-1 Yeast)
+	 (VP Adapted
+	     (NP *-1)
+	     (S-PRP (NP-SBJ *)
+		    (VP to
+			(VP Make
+			    (NP Gene-Spliced Drugs)))))))
+( (S (NP-SBJ AN OIL COMPANY)
+     (VP finds
+         (NP a sideline)
+	 (PP-LOC in
+		 (NP (NP the microscopic world)
+		     (PP of
+			 (NP yeast)))))
+     .))
+( (S (PP-TMP In
+	     (NP the early 1970s))
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ the `` world food crisis '')
+		  (VP was
+		      (NP-PRD a major worry)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ-2 Phillips Petroleum Co.)
+     ,
+     (PP like
+         (NP several other big companies))
+     ,
+     (VP began
+         (S (NP-SBJ *-2)
+            (VP developing
+                (NP ``
+                    (NP single-cell protein)
+                    , ''
+                    (NP (NP edible protein)
+                        (VP made
+                            (NP *)
+                            (PP by
+                                (NP-LGS (NP microbes)
+                                        (VP feeding
+                                            (PP-CLR on
+						    (NP non-edible materials)))))))))))
+     .))
+( (S (NP-SBJ Phillips)
+     (VP found and improved
+         (NP (NP a yeast)
+             , ``
+             (NP Pichia pastoris)
+             , ''
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP made
+                          (NP protein)
+                          (PP-MNR from
+				  (NP natural gas-derived alcohol)))))))
+     .))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (VP could
+         (VP convert
+             (NP (NP glucose)
+		 (PP from
+		     (NP farm wastes)))
+	     (PP-CLR into
+		     (NP edible protein))))
+     .))
+( (S (S (NP-SBJ Single-cell protein)
+        (ADVP-TMP never)
+        (VP panned 
+	    (PRT out)))
+     , and
+     (S (NP-SBJ most companies)
+        (VP abandoned
+            (NP such research)))
+     .))
+( (S But
+     (NP-SBJ-1 Phillips)
+     (VP persisted
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP calling 
+		    (PRT in)
+		    (NP (NP scientists)
+			(PP from
+			    (NP the Salk Institute))))))
+     .))
+( (S (NP-SBJ They)
+     (VP 've
+         (ADVP-TMP now)
+         (VP adapted
+             (NP the yeast)
+             (PP-CLR to
+		     (S-NOM (NP-SBJ *)
+			    (VP making
+				(NP (ADJP genetically engineered)
+				    drugs))))))
+     .))
+( (S (PP Like
+         (NP (NP the bacteria)
+             (VP used
+                 (NP *)
+                 (PP by
+                     (NP-LGS genetic engineers)))))
+     ,
+     (NP-SBJ the yeast)
+     (VP can
+         (VP (VP take 
+		 (PRT in)
+                 (NP human genes))
+             and
+             (VP churn 
+		 (PRT out)
+                 (NP (NP human proteins)
+                     (PP for
+                         (NP medical use))))))
+     .))
+( (S But
+     (NP-SBJ the yeast genetic apparatus)
+     (VP is
+         (PP-PRD (PP (ADVP more)
+		     like
+		     (NP (NP that)
+			 (PP of
+			     (NP animals))))
+                 (PP than
+                     (NP the bacterial genetic apparatus))))
+     .))
+( (S (ADVP Thus)
+     ,
+     (NP-SBJ (NP the proteins)
+             (PP from
+                 (NP the yeast)))
+     (VP are
+         (PP-PRD (PP (ADVP molecularly) 
+		     (ADVP more)
+		     like
+		     (NP human proteins))
+                 (PP than
+                     (NP (NP those)
+                         (PP from
+                             (NP bacteria))))))
+     .))
+( (S (NP-SBJ The oil company)
+     (VP claims
+         (SBAR 0
+               (S (NP-SBJ its yeast system)
+                  (ADVP also)
+                  (VP is
+                      (ADJP-PRD better
+                                (PP than
+                                    (NP bacteria))
+                                (PP at
+                                    (NP (NP high-volume production)
+                                        (PP of
+                                            (NP (ADJP genetically engineered)
+                                                drugs)))))))))
+     .))
+( (S (NP-SBJ (NP Chiron Corp.)
+             ,
+             (NP an
+                 (NAC-LOC Emeryville
+			  ,
+			  Calif.
+			  ,)
+                 biotechnology firm)
+             ,)
+     (VP is
+         (VP seeing
+             (SBAR if
+		   (S (NP-SBJ-1 the Phillips yeast)
+		      (VP can
+			  (VP be
+			      (VP used
+				  (NP-2 *-1)
+				  (S-CLR (NP-SBJ *-2)
+					 (VP to
+					     (VP make
+						 (NP its
+						     (ADJP genetically engineered)
+						     human proteins)))))))))))
+     .))
+( (S (NP-SBJ *)
+     (VP Peeking
+         (PP-LOC Inside
+		 (NP Arteries))
+         (PP From
+             (PP Outside
+                 (NP the Body))))))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP VISUALIZING
+		    (NP BLOOD vessels)
+		    (PP-MNR without
+			    (S-NOM (NP-SBJ *)
+				   (VP poking
+				       (NP catheters)
+				       (PP-CLR into
+					       (NP the body)))))))
+     (VP may
+         (VP come
+             (PP-CLR out
+		     (PP of
+			 (NP (NP research)
+			     (PP-LOC at
+				     (NP AT&T Bell Laboratories)))))))
+     .))
+( (S (NP-SBJ (NP Strokes)
+             ,
+             (NP heart attacks)
+             ,
+             (NP (NP leg pains)
+                 (PRN -LRB-
+		      (NP intermittent claudication)
+		      -RRB-))
+             and
+             (NP other problems))
+     (VP stem
+         (PP-CLR from
+		 (NP (NP clogging)
+		     (PP of
+			 (NP the arteries))
+		     (PP by
+			 (NP cholesterol-rich deposits)))))
+     .))
+( (S (PP-TMP At
+	     (NP present))
+     ,
+     (NP-SBJ-4 doctors)
+     (VP can
+         (VP see
+             (SBAR (WHADVP-3 how badly)
+                   (S (NP-SBJ-1 an artery)
+                      (VP is
+                          (VP clogged
+                              (NP *-1)
+			      (ADVP-MNR *T*-3)))))
+             (PP-MNR (ADVP only)
+		     by
+		     (S-NOM (NP-SBJ *-4)
+			    (VP (VP inserting
+				    (NP a thin catheter)
+				    (PP-CLR into
+					    (NP the artery)))
+				and
+				(VP injecting
+				    (NP (NP a fluid)
+					(SBAR (WHNP-2 that)
+					      (S (NP-SBJ *T*-2)
+						 (VP makes
+						     (S (NP-SBJ the arteries)
+							(ADJP-PRD visible
+								  (PP on
+								      (NP X-rays))))))))))))))
+     .))
+( (S (NP-SBJ-1 A
+               (ADJP non-invasive)
+               method)
+     (VP is
+         (VP being
+             (VP researched
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS biophysicist
+			     Lynn Jelinski))
+                 (PP-LOC at
+			 (NP the AT&T unit)))))
+     .))
+( (S (NP-SBJ It)
+     (VP relies
+         (PP-CLR on
+		 (NP the fact
+		     (SBAR that
+			   (S (NP-SBJ certain atoms)
+			      (VP give 
+				  (PRT off)
+				  (NP detectable signals)
+				  (SBAR-TMP (WHADVP-2 when)
+					    (S (NP-SBJ-1 *)
+					       (VP subjected
+						   (NP *-1)
+						   (PP-CLR to
+							   (NP an intense magnetic field))
+						   (ADVP-TMP *T*-2))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+         (NP-PRD (NP the same phenomenon)
+                 (VP used
+                     (NP *)
+                     (PP-CLR in
+			     (NP (NP the new MRI (PRN -LRB- magnetic resonance imaging -RRB-) scanners)
+				 (VP being
+				     (VP used
+					 (NP *)
+					 (PP-LOC in
+						 (NP hospitals))
+					 (PP in 
+					     (NP (NP place)
+						 (PP of
+						     (NP X-ray scans)))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP the Bell Labs experiments))
+     ,
+     (NP-SBJ (NP (NP an MRI-type)
+                 (PP of
+                     (NP machine)))
+             ,
+             (VP synchronized
+                 (NP *)
+                 (PP-CLR with
+			 (NP the heartbeat))
+                 (PP-MNR via
+			 (NP an electrocardiogram)))
+             ,)
+     (VP (ADVP rapidly)
+         flashes
+         (NP a magnetic field)
+         (PRT on and off)
+	 (SBAR-ADV as
+		   (S (NP-SBJ blood)
+		      (VP passes
+			  (NP (NP a certain point)
+			      (PP-LOC in
+				      (NP a vessel)))))))
+     .))
+( (S (NP-SBJ (NP The
+		 (ADJP rapidly
+		       flashing)
+		 return signals)
+             (PP from
+                 (NP (NP excited hydrogen atoms)
+                     (PP-LOC in
+			     (NP the blood)))))
+     (VP give
+         (NP (NP a `` stop-motion '' movie)
+             (PP of
+                 (NP the blood-filled vessel))
+             , 
+	     (PRN -LRB-
+		  (PP like
+		      (NP (NP the `` stop-motion '')
+			  (VP seen
+			      (NP *)
+			      (PP-LOC in
+				      (NP disco dancers))
+			      (SBAR-TMP (WHADVP-1 when)
+					(S (NP-SBJ a strobe light)
+					   (VP is
+					       (VP flashing
+						   (ADVP-TMP *T*-1))))))))
+		  -RRB-)))
+     .))
+( (S (NP-SBJ The scientists)
+     (VP have
+         (VP experimented
+             (PP-CLR on
+		     (NP (NP the tiny neck arteries)
+			 (PP of
+			     (NP rats))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 They)
+	      (VP 've
+		  (VP been
+		      (ADJP-PRD able
+				(S (NP-SBJ *-1)
+				   (VP to
+				       (VP (VP measure
+					       (NP (NP the minuscule movements)
+						   (PP of
+						       (NP the artery wall)))
+					       (SBAR-TMP as
+							 (S (NP-SBJ the beating heart)
+							    (VP raises and lowers
+								(NP (NP the pressure)
+								    (PP of
+									(NP the flowing blood)))))))
+					   ,
+					   (NP (NP a first)
+					       (PP for
+						   (NP (ADJP such tiny)
+						       blood vessels))))))))))
+     ,
+     (NP-SBJ they)
+     (VP report
+	 (SBAR 0
+	       (S *T*-2))
+	 (PP-LOC in
+		 (NP (NP Nature)
+		     ,
+		     (NP a scientific journal))))
+     .))
+( (S (NP-SBJ They)
+     (ADVP-TMP now)
+     (VP are
+         (VP experimenting
+             (PP-CLR with
+		     (S-NOM (NP-SBJ *)
+			    (VP measuring
+				(NP blood flow))))))
+     .))
+( (S (NP-SBJ The ultimate hope)
+     (VP is
+         (SBAR-PRD that
+                   (S (NP-SBJ the technique)
+                      (VP could
+                          (VP identify
+                              (NP diseased vessels))))))
+     .))
+( (NP-HLN Odds and Ends))
+( (S (S-TPC-1 (NP-SBJ (NP TESTS)
+		      (PP ON
+			  (NP (NP 2,800-year-old mummies)
+			      (PP from
+				  (NP Chile)))))
+	      (VP indicate
+		  (SBAR 0
+			(S (NP-SBJ ancient wood fires)
+			   (VP did n't
+			       (VP produce
+				   (NP dioxins or dibenzofurans)))))
+		  ,
+		  (S-ADV (NP-SBJ *)
+			 (VP contradicting
+			     (NP a theory
+				 (SBAR 0
+				       (S (NP-SBJ the two pollutants)
+					  (NP-TMP today)
+					  (VP are
+					      (VP coming
+						  (PP-CLR from
+							  (NP wood burning)))))))))))
+     ,
+     (NP-SBJ General Electric Co.)
+     (VP reports
+	 (SBAR 0
+	       (S *T*-1))
+	 (PP-LOC in
+		 (NP Environmental Science & Technology magazine)))
+     ...
+     .))
+( (SINV (S-TPC-2 (NP-SBJ (NP (QP Almost 40) %)
+			 (PP of
+			     (NP schizophrenic men))
+			 (PP *ICH*-1))
+		 (VP have
+		     (NP (NP an impaired sense)
+			 (PP of
+			     (NP smell)))
+		     (PP-1 vs.
+			   (NP (NP (QP fewer
+				       than
+				       10) %)
+			       (PP of
+				   (NP schizophrenic women))))))
+	,
+	(VP reports
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP the American Journal)
+		(PP of
+		    (NP Psychiatry)))
+	.))

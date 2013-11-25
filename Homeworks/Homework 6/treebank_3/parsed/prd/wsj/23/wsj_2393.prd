@@ -1,0 +1,211 @@
+
+
+( (S (NP-SBJ (NP Investors)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP bought
+                          (NP stock)
+                          (PP-MNR with
+				  (NP borrowed money))
+			  (PRN --
+			       (S-ADV (NP-SBJ that) 
+				      (VP is))
+			       ,
+			       ``
+			       (PP on
+				   (NP margin))
+			       ''
+			       --)))))
+     (VP may
+         (VP be
+             (ADJP-PRD (ADJP more worried)
+                       (PP than
+                           (NP most)))
+	     (PP-TMP following
+		     (NP (NP Friday 's)
+			 market drop))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (SBAR-PRP-PRD because
+		       (S (NP-SBJ their brokers)
+			  (VP can
+			      (VP require
+				  (S (NP-SBJ them)
+				     (VP to
+					 (VP (VP sell
+						 (NP some shares))
+					     or
+					     (VP put
+						 (PRT up)
+						 (NP (NP more cash)
+						     (SBAR (WHNP-2 0)
+							   (S (NP-SBJ *T*-2)
+							      (VP to
+								  (VP enhance
+								      (NP (NP the collateral)
+									  (VP backing
+									      (NP their loans)))))))))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP October 1987))
+     ,
+     (NP-SBJ-1 these margin calls)
+     (VP were
+         (VP thought
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP have
+                        (VP contributed
+                            (PP-CLR to
+				    (NP (NP the downward spiral)
+					(PP of
+					    (NP the stock market))))))))))
+     .))
+( (S (ADVP Typically)
+     ,
+     (NP-SBJ a margin call)
+     (VP occurs
+         (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ (NP the price)
+			      (PP of
+				  (NP a stock)))
+		      (VP falls
+			  (PP-DIR below
+				  (NP (NP 75 %)
+				      (PP of
+					  (NP its original value))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ the investor)
+		  (VP does n't
+		      (VP put
+			  (PRT up)
+			  (NP (NP the extra cash)
+			      (SBAR (WHNP-1 0)
+				    (S (NP-SBJ *T*-1)
+				       (VP to
+					   (VP satisfy
+					       (NP the call))))))))))
+     ,
+     (NP-SBJ-2 the brokerage firm)
+     (VP may
+         (VP begin
+             (S (NP-SBJ *-2)
+		(VP liquidating
+		    (NP the securities)))))
+     .))
+( (S But
+     (NP-SBJ some big brokerage firms)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP do n't
+                      (VP expect
+                          (NP (NP major problems)
+                              (PP-PRP as
+				      (NP (NP a result)
+					  (PP of
+					      (NP margin calls))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Margin calls)
+	      (PP-TMP since
+		      (NP Friday))
+	      ``
+	      (VP have
+		  (VP been
+		      (ADJP-PRD (ADJP (ADJP higher)
+				      (PP than
+					  (NP usual)))
+				, 
+				but
+				(ADJP reasonable)))))
+     ,
+     ''
+     (NP-SBJ (NP a spokesman)
+	     (PP for
+		 (NP Shearson Lehman Hutton Inc.)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ Merrill Lynch & Co.
+		      officials)
+	      ``
+	      (VP do n't
+		  (VP expect
+		      (S -LCB-
+			 (NP-SBJ margin calls)
+			 -RCB-
+			 (VP to
+			     (VP be
+				 (NP-PRD (NP (ADJP as big)
+					     a factor)
+					 (ADVP as
+					       (PP-TMP in
+						       (NP 1987)))))))
+		      ''
+		      (SBAR-PRP because
+				(S (NP-SBJ fewer individual investors)
+				   (VP are
+				       (VP buying
+					   (NP stock)
+					   (PP on
+					       (NP margin)))))))))
+     ,
+     (NP-SBJ a spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP Hugo Quackenbush)
+             ,
+             (NP (NP senior vice president)
+                 (PP-LOC at
+			 (NP (NP Charles Schwab Corp.)
+			     ,
+			     (NP the
+				 (ADJP San Francisco-based)
+				 discount brokerage firm))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP did n't
+                      (VP expect
+                          (NP (NP any immediate problems)
+                              (PP with
+                                  (NP margin calls))
+                              (PP for
+                                  (NP Schwab customers))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ Schwab)
+                     (VP had
+                         (VP increased
+                             (NP margin requirements))))
+                  `` 
+		  so
+                  (S (NP-SBJ customers)
+                     (VP have
+                         (NP (NP more)
+			     (PP of
+				 (NP a cushion))))))))
+     .
+     ''))
+( (S (NP-SBJ He)
+     (VP added
+	 :
+	 ``
+	 (S (NP-SBJ We)
+	    (VP learned
+		(NP (NP a lesson)
+		    (PP *ICH*-1))
+		(PP-TMP in
+			(NP 1987))
+		(PP-1 about
+		      (NP volatility)))))
+     .))

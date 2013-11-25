@@ -1,0 +1,285 @@
+
+
+( (S (NP-SBJ (NP Merrill Lynch & Co. 's)
+             net income)
+     (VP dropped
+         (NP-EXT 37 %)
+	 ,
+	 (SBAR-ADV while
+		   (S (S (NP-SBJ Bear Stearns Cos.)
+			 (VP posted
+			     (NP (NP a (ADJP 7.5 %) gain)
+				 (PP in
+				     (NP net)))))
+		      , and
+		      (S (NP-SBJ (NP PaineWebber Group Inc. 's)
+				 profit)
+			 (VP (VP fell)
+			     , but
+			     (VP would
+				 (VP have
+				     (VP risen
+					 (PP-MNR without
+						 (NP a special gain))
+					 (ADVP-TMP (NP a year)
+						   ago)))))))))
+     .))
+( (S (PP-LOC At
+	     (NP Merrill Lynch))
+     ,
+     (NP-SBJ third-period net)
+     (VP was
+         (NP-PRD (NP (QP $ 41 million) *U*)
+                 , or
+                 (NP (NP 34 cents)
+                     (NP-ADV a share))
+                 ,)
+         (ADVP down
+	       (PP from
+		   (NP (NP (QP $ 65.6 million) *U*)
+		       , or
+		       (NP (NP 58 cents)
+			   (NP-ADV a share)))
+		   ,
+		   (ADVP-TMP (NP a year)
+			     ago))))
+     .))
+( (S (NP-SBJ Total revenue)
+     (VP reached
+         (NP (QP $ 2.83 billion) *U*)
+         ,
+         (ADVP up
+	       (NP 10 %)
+	       (PP from
+		   (NP (QP $ 2.57 billion) *U*))))
+     .))
+( (S (NP-SBJ (NP (NP The firm 's)
+		 drop)
+             (PP in
+                 (NP net)))
+     (VP reflected
+         (NP (NP (NP weaker revenue)
+                 (PP in
+                     (NP (NP transactions)
+                         (PP for
+                             (NP its own account)))))
+             --
+             (NP (NP a decline)
+                 (PP of
+                     (NP 19 %))
+                 (PP-DIR to
+			 (NP (QP $ 314.6 million) *U*))
+                 (PP on
+                     (NP (NP reduced revenue)
+                         (PP from
+                             (S-NOM (NP-SBJ *)
+				    (VP trading
+					(NP fixed-income securities)))))))))
+     .))
+( (S (NP-SBJ Investment banking revenue)
+     (VP fell
+         (NP-EXT 22 %)
+         (PP-DIR to
+		 (NP (QP $ 296.6 million) *U*))
+         (PP-CLR on
+		 (NP fewer (UCP equity and municipal) underwritings)))
+     .))
+( (S (NP-SBJ (NP Merrill Lynch 's)
+	     commission revenue)
+     (VP grew
+         (NP-EXT 21 %)
+         ,
+         (ADVP however)
+         ,
+         (PP-DIR to
+		 (NP (QP $ 462.8 million) *U*))
+         ,
+         (PP-CLR (PP on
+		     (NP higher share prices and volume))
+		 and
+		 (PP on
+		     (NP (NP strong sales)
+			 (PP of
+			     (NP mutual funds))))))
+     .))
+( (S (NP-SBJ (NP Revenue)
+             (VP derived
+                 (NP *)
+                 (PP-CLR from
+			 (NP interest and dividends))))
+     (VP jumped
+         (NP-EXT 30 %)
+         (PP-DIR to
+		 (NP (QP $ 1.4 billion) *U*)))
+     .))
+( (S (NP-SBJ Asset-management fee revenue)
+     (VP grew
+         (NP-EXT 12 %)
+         (PP-DIR to
+		 (NP (QP $ 151 million) *U*)))
+     .))
+( (S (NP-SBJ The brokerage)
+     (ADVP also)
+     (VP reported
+         (NP (NP a loss)
+             (PP of
+                 (NP (QP $ 2.2 million) *U*))
+             (PP from
+                 (NP (NP the discontinued operations and disposal)
+                     (PP of
+                         (NP its Fine Homes International Limited Partnership real-estate subsidiary))))))
+     .))
+( (S (NP-SBJ Bear Stearns)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP net)
+                          (PP in
+                              (NP (NP the first quarter)
+                                  (VP ended
+                                      (NP *)
+                                      (NP-TMP Sept. 29)))))
+                  (VP reached
+                      (NP (NP (QP $ 22.1 million) *U*)
+                          , or
+                          (NP (NP 23 cents)
+                              (NP-ADV a share))
+                          ,)
+                      (PP-DIR from
+			      (NP (NP (QP $ 20.5 million) *U*)
+				  , or
+				  (NP (NP 20 cents)
+				      (NP-ADV a share)))
+			      ,
+			      (PP-TMP in
+				      (NP the year-earlier quarter)))))))
+     .))
+( (S (NP-SBJ Gross revenue)
+     (VP rose
+         (NP-EXT 21 %)
+         (PP-DIR to
+		 (NP (QP $ 580.4 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 478.9 million) *U*)))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Profit)
+		      (PP from
+			  (NP (NP trading)
+			      (PP for
+				  (NP its own account)))))
+	      (VP dropped))
+     ,
+     (NP-SBJ the securities firm)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Investment banking revenue)
+     (VP climbed
+         (NP-EXT 25 %)
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ commission revenue)
+		      (VP advanced
+			  (NP-EXT 31 %)
+			  (PP on
+			      (NP a stronger retail market))))))
+     .))
+( (S (NP-SBJ Bear Stearns)
+     (VP is
+         (NP-PRD (NP the holding company)
+                 (PP for
+                     (NP (NP Bear , Stearns & Co.)
+                         ,
+                         (NP the investment banking and brokerage firm)))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ Bear Stearns shares)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 13.625 *U*))
+         ,
+         (ADVP down
+	       (NP 25 cents)))
+     .))
+( (S (ADVP Separately)
+     ,
+     (NP-SBJ PaineWebber)
+     (VP posted
+         (NP (NP net income)
+             (PP for
+                 (NP the third quarter))
+             (PP of
+                 (NP (NP (QP $ 16.8 million) *U*)
+                     , or
+                     (NP (NP 41 cents)
+                         (NP-ADV a share))
+                     ,)))
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP (NP a `` broad-based improvement '')
+			(PP-LOC in
+				(NP (NP the company 's)
+				    core businesses))))))
+     .))
+( (S (S (NP-SBJ Retail profit)
+        (VP surged))
+     , but
+     (S (NP-SBJ the company)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP was
+                         (NP-PRD (NP only a `` modest contributor '')
+                                 (PP to
+                                     (NP third-quarter results))))))))
+     .))
+( (S (ADVP-TMP (NP A year)
+	       ago)
+     ,
+     (NP-SBJ (NP net)
+             (PP-LOC at
+		     (NP the New York investment banking firm)))
+     (VP was
+         (NP-PRD (NP (QP $ 20.9 million) *U*)
+                 , or
+                 (NP (NP 50 cents)
+                     (NP-ADV a share))
+                 ,)
+	 (PP including
+	     (NP (NP a special pretax gain)
+		 (PP of
+		     (NP (QP $ 46.3 million) *U*))
+		 (PP from
+		     (NP (NP the sale)
+			 (PP of
+			     (NP (NP (NP the company 's)
+				     interest)
+				 (PP in
+				     (NP National Car Rental Systems Inc)))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP was
+         (NP-PRD (NP (QP $ 444.9 million) *U*)
+                 ,
+                 (PP including
+                     (NP net interest))
+                 ,)
+         (ADVP down slightly
+	       (PP from
+		   (NP (QP $ 450.7 million) *U*))))
+     .))
+( (S (PP-LOC In
+	     (NP Big Board composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ PaineWebber)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 18.50 *U*))
+         ,
+         (ADVP up
+	       (NP 75 cents)))
+     .))

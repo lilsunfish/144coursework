@@ -1,0 +1,154 @@
+
+
+( (S (NP-SBJ Business Week subscribers)
+     (VP may
+         (VP hear
+             (S (NP-SBJ (NP this week 's)
+			issue)
+		(VP talking
+		    (ADVP-CLR back)
+		    (PP-CLR to
+			    (NP them))))))
+     .))
+( (S (NP-SBJ (NP (NP A four-page ad)
+                 (PP from
+                     (NP Texas Instruments Inc.)))
+             ,
+             (VP running
+                 (PP-LOC-CLR in
+			     (NP (NP (QP approximately 140,000) issues)
+				 (PP of
+				     (NP (NP the Oct. 20 `` (NAC-TTL Corporate Elite) '' issue)
+					 (PP of
+					     (NP the McGraw-Hill Inc. publication)))))))
+             ,)
+     (VP contains
+         (NP (NP a speech synthesizer)
+             (VP laminated
+                 (NP *)
+                 (PP-LOC between
+			 (NP (NP two)
+			     (PP of
+				 (NP the pages)))))))
+     .))
+( (S (NP-SBJ (NP Readers)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP (VP pull
+                              (PRT off)
+                              (NP (NP a piece)
+                                  (PP of
+                                      (NP tape))))
+                          and
+                          (VP press
+                              (NP a switch))))))
+     (VP will
+         (VP hear
+             (S (NP-SBJ a
+			(ADJP (ADJP tiny)
+			      (PRN --
+				   but
+				   (ADJP distinctly human-sounding)
+				   --))
+			voice)
+		(VP announce 
+		    , 
+		    ``
+		    (S (NP-SBJ I)
+		       (VP am
+			   (NP-PRD the talking chip)))
+		    , ''
+		    (SBAR-TMP as
+			      (S (NP-SBJ it)
+				 (VP launches
+				     (PP-DIR into
+					     (NP (NP a 15-second discourse)
+						 (PP on
+						     (NP its own attributes)))))))))))
+     .))
+( (S (S (NP-SBJ The talking chip)
+        (VP is n't
+            (ADJP-PRD cheap)))
+     (PRN --
+	  (S (S (NP-SBJ (NP the per-ad cost)
+			(PP to
+			    (NP Texas Instruments)))
+		(VP is
+		    (NP-PRD (QP about $ 4) *U*)))
+	     ,
+	     and
+	     (S (NP-SBJ that)
+		(VP 's
+		    (PP-PRD without
+			    (S-NOM (NP-SBJ *)
+				   (VP adding
+				       (PRT in)
+				       (NP (NP Business Week 's)
+					   charge)))))))
+	  --)
+     but
+     (S (NP-SBJ Texas Instruments)
+        (VP believes
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP is
+                         (NP-PRD a first))))))
+     .))
+( (S (S (NP-SBJ Previous efforts)
+        (VP have
+            (VP included
+                (NP (NP musical ads)
+                    ,
+                    (VP featuring
+			(NP (NP simple tone-generating chips)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP play
+					 (NP a tune))))))))))
+     , but
+     (S (NP-SBJ (NP the voice synthesizer)
+                (PP-LOC in
+			(NP this effort)))
+        (VP is
+            (ADJP-PRD (ADVP much more)
+                      sophisticated)
+            ,
+            (PP with
+                (NP (NP none)
+                    (PP of
+                        (NP (NP the robotic flatness)
+                            (SBAR (WHNP-2 that)
+                                  (S (NP-SBJ-4 one)
+                                     (VP hears
+                                         (NP *T*-2)
+                                         ,
+                                         (PP for
+                                             (NP example))
+                                         ,
+					 (SBAR-TMP (WHADVP-3 when)
+						   (S (NP-SBJ *-4)
+						      (VP calling
+							  (NP telephone directory services)
+							  (ADVP-TMP *T*-3)))))))))))))
+     .))
+( (S (S And
+	(PP for
+	    (NP (NP those)
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP miss
+			     (NP the message)
+			     (NP-TMP the first time around))))))
+	,
+	not
+	(NP-SBJ *)
+	(VP to
+	    (VP worry)))
+     :
+     (S (NP-SBJ Three tiny batteries)
+        (VP provide
+            (NP (NP enough juice)
+                (PP for
+                    (NP (QP as many as 650)
+			replays)))))
+     .))

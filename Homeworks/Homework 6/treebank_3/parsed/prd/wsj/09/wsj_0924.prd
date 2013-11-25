@@ -1,0 +1,107 @@
+
+
+( (S (NP-SBJ Dominion Textile Inc. holders)
+     (VP adopted
+         (NP a shareholder-rights plan)
+         (PP-LOC at
+		 (NP the annual meeting)))
+     .))
+( (S (NP-SBJ The so-called poison pill)
+     (VP took
+         (NP-CLR effect)
+         (NP-TMP Aug. 9)
+	 (PP pending
+	     (NP (NP ratification)
+		 (PP by
+		     (NP-LGS holders)))))
+     .))
+( (S (NP-SBJ-1 (NP Rights)
+               (VP attached
+                   (NP *)
+                   (PP-CLR to
+			   (NP (NP the company 's)
+			       common shares)))
+	       (SBAR *ICH*-4))
+     (VP were
+         (VP issued
+             (NP *-1)
+	     (SBAR-4 (WHNP-3 that)
+		     (S (NP-SBJ-2 *T*-3)
+			(VP are
+			    (VP triggered
+				(NP *-2)
+				(SBAR-ADV if
+					  (S (NP-SBJ a hostile bidder)
+					     (VP acquires
+						 (NP (NP (QP more than 20) %)
+						     (PP of
+							 (NP (NP the shares)
+							     (ADJP outstanding)))))))))))))
+     .))
+( (S (SBAR-TMP Once
+	       (S (NP-SBJ-2 *-1)
+		  (VP triggered
+		      (NP *-2))))
+     ,
+     (NP-SBJ-1 the rights)
+     (VP allow
+	 (S (NP-SBJ holders)
+	    (VP (VP to
+		    (VP buy
+			(NP additional shares)
+			(PP-CLR at
+				(NP (NP 50 %)
+				    (PP of
+					(NP the (ADJP then current) market price))))))
+		or
+		,
+		(VP (PP at
+			(NP (NP the board 's)
+			    discretion))
+		    ,
+		    to
+		    (VP receive
+			(NP securities
+			    or
+			    assets))))))
+     .))
+( (S (ADVP Separately)
+     ,
+     (NP-SBJ Dominion Textile)
+     (VP posted
+         (NP (NP net income)
+             (PP of
+                 (NP (NP (NP (QP 4.7 million) Canadian dollars)
+                         (PRN -LRB-
+			      (NP (QP $ 4 million) *U*)
+			      -RRB-))
+                     , or
+                     (NP (NP 12 Canadian cents)
+                         (NP-ADV a share))
+                     ,))
+             (PP for
+                 (NP (NP the fiscal-first quarter)
+                     (VP ended
+                         (NP-TMP Sept. 30))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP had
+         (NP (NP a net loss)
+             (PP of
+                 (NP (NP (QP C$ 2.3 million) *U*)
+                     , or
+                     (NP (NP 14 Canadian cents)
+                         (NP-ADV a share))
+                     ,)))
+         (ADVP-TMP (NP a year)
+		   ago))
+     .))
+( (S (NP-SBJ Sales)
+     (VP were
+         (NP-PRD (QP C$ 348.2 million) *U*)
+         (PP compared
+             (PP with
+                 (NP (NP C$ 307.2 *U*)
+		     (ADVP-TMP (NP a year)
+			       earlier)))))
+     .))

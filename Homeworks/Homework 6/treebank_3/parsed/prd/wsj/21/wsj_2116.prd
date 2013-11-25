@@ -1,0 +1,61 @@
+
+
+( (S (NP-SBJ Amcast Industrial Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP plans
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP repurchase
+                                 (NP (NP 500,000 shares)
+                                     , or
+                                     (NP (NP (QP about 7) %)
+                                         (PP of
+                                             (NP (NP its shares)
+                                                 (ADJP outstanding))))
+                                     ,)
+                                 (PP-LOC in
+					 (NP open market transactions)))))))))
+     .))
+( (S (NP-SBJ The metal products concern)
+     (ADVP-TMP currently)
+     (VP has
+         (NP (NP (QP 7.2 million) common shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ Amcast)
+     (VP (VP (ADVP-TMP previously) 
+	     had
+	     (VP said
+		 (SBAR 0
+		       (S (NP-SBJ-1 it)
+			  (VP planned
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP repurchase
+					 (NP shares)))))))))
+	 , but
+	 (VP did n't
+	     (VP disclose
+		 (UCP (FRAG (WHADVP when))
+		      or
+		      (SBAR (WHNP-3 (ADJP (WHADVP how)
+					  many)
+				    shares)
+			    (S (NP-SBJ-2 it)
+			       (VP intended
+				   (S (NP-SBJ *-2)
+				      (VP to
+					  (VP buy
+					      (NP *T*-3)
+					      (PRT back)))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP named
+         (NP Dillon Read & Co.)
+         (PP-CLR as
+		 (NP (NP its exclusive agent)
+		     (PP for
+			 (NP the stock buy-back program)))))
+     .))

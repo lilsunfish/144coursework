@@ -1,0 +1,79 @@
+
+
+( (S (NP-SBJ Ferro Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP buy
+                          (ADVP-CLR back)
+                          (NP (QP as many as one million)
+                              common shares))))))
+     .))
+( (S (NP-SBJ (NP The maker)
+             (PP of
+                 (NP chemical and industrial materials)))
+     (VP did 
+	 n't
+         (VP say
+             (SBAR (SBAR-NOM (WHNP-3 how much)
+			     (S (NP-SBJ it)
+				(VP would
+				    (VP pay
+					(NP *T*-3)))))
+                   or
+                   (SBAR (WHADVP-2 when)
+                         (S (NP-SBJ it)
+                            (VP would
+                                (VP make
+                                    (NP the transactions)
+				    (ADVP-TMP *T*-2))))))))
+     .))
+( (S (NP-SBJ Ferro)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP would
+                      (VP cancel
+                          (NP (NP the unused portion)
+                              (PP of
+                                  (NP a 1987 buy-back plan)))
+			  (PP-PRP for
+				  (NP administrative reasons)))))))
+     .))
+( (S (NP-SBJ The plan)
+     (VP calls
+         (SBAR-CLR for
+		   (S (NP-SBJ the company)
+		      (VP to
+			  (VP buy
+			      (ADVP-CLR back)
+			      (NP 2,250,000 shares)))))
+	 ,
+	 (SBAR-ADV (WHNP-3 which)
+		   (S (NP-SBJ *T*-3)
+		      (VP reflects
+			  (NP (NP a 3-for-2 stock split)
+			      (NP-TMP this year))))))
+     .))
+( (S (ADVP-TMP So far)
+     (NP-SBJ the company)
+     (VP had
+         (VP bought
+             (ADVP-CLR back)
+             (NP (QP 1.6 million) 
+		 shares)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Ferro)
+     (VP closed
+         (PP-LOC-CLR at
+		     (NP $ 25.25 *U*))
+         ,
+         (ADVP down 
+               (NP 50 cents)))
+     .))

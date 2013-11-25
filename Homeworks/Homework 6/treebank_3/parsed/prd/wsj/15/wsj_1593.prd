@@ -1,0 +1,186 @@
+
+
+( (S (S-TPC-2 (NP-SBJ-1 Social Security benefits)
+	      (VP will
+		  (VP rise
+		      (NP-EXT 4.7 %)
+		      (NP-TMP next year)
+		      (S-PRP (NP-SBJ *-1) 
+			     (VP to
+				 (VP keep
+				     (NP pace) 
+				     (PP-CLR with
+					     (NP inflation)))))
+		      ,
+		      (S-ADV (NP-SBJ *-1)
+			     (VP boosting
+				 (NP the average monthly benefit)
+				 (PP-DIR to
+					 (NP $ 566 *U*))
+				 (PP-DIR from
+					 (NP $ 541 *U*)))))))
+     ,
+     (NP-SBJ (NP the Department)
+	     (PP of
+		 (NP (NP Health)
+		     and
+		     (NP Human Services))))
+     (VP announced
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The higher payments)
+     (VP will
+         (VP start
+             (PP-CLR with
+		     (NP (NP Social Security checks)
+			 (VP received
+			     (NP *)
+			     (PP-TMP on
+				     (NP Jan. 3 , 1990)))))))
+     .))
+( (S (NP-SBJ (NP Supplemental Security Income payments)
+             (PP to
+                 (NP the disabled)))
+     (ADVP also)
+     (VP will
+         (VP rise
+             (NP-EXT 4.7 %)
+	     ,
+	     (PP-TMP starting
+		     (PP with
+			 (NP (NP checks)
+			     (VP received
+				 (NP *)
+				 (PP-TMP on
+					 (NP Dec. 29 , 1988))))))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP increasing
+			(NP the maximum SSI payment)
+			(PP-DIR to
+				(NP $ 386 *U*))
+			(PP-DIR from
+				(NP (NP $ 368 *U*)
+				    (NP-ADV a month)))))))
+     .))
+( (S (NP-SBJ The inflation adjustment)
+     (ADVP also)
+     (VP means
+         (SBAR that
+               (S (NP-SBJ (NP the maximum annual level)
+                          (PP of
+                              (NP (NP earnings)
+                                  (ADJP subject
+                                        (PP to
+                                            (NP (NP the wage tax)
+                                                (SBAR (WHNP-1 that)
+                                                      (S (NP-SBJ *T*-1)
+                                                         (VP generates
+                                                             (NP revenue)
+							     (PP-PRP for
+								     (NP the Social Security trust fund)))))))))))
+                  (VP will
+                      (VP rise
+                          (PP-DIR to
+				  (NP $ 50,400 *U*))
+			  (PP-TMP in
+				  (NP 1990))
+                          (PP-DIR from
+				  (NP $ 48,000 *U*)
+				  (NP-TMP this year))))))) 
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-1 *)
+		  (VP mandated
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS law)))))
+     ,
+     (NP-SBJ the tax rate)
+     (VP (VP will
+	     (VP rise
+		 (PP-DIR to
+			 (NP 7.65 %))
+		 (PP-TMP in
+			 (NP 1990))
+		 (PP-DIR from
+			 (NP 7.51 %))))
+	 and
+	 (VP wo n't
+	     (VP rise
+		 (ADVP-CLR any further)
+		 (PP-TMP in
+			 (NP the future)))))
+     .))
+( (S (NP-SBJ This)
+     (VP means
+         (SBAR that
+               (S (NP-SBJ (NP the maximum yearly Social Security tax)
+                          (VP paid
+                              (NP *)
+                              (PP by
+                                  (NP-LGS workers
+					  and
+					  employers
+                                          each)))) 
+                  (VP will
+                      (VP rise
+                          (NP-EXT $ 250.80 *U*)
+                          (NP-TMP next year)
+                          (PP-DIR to
+				  (NP $ 3,855.60 *U*)))))))
+     .))
+( (S (NP-SBJ-1 (NP Beneficiaries)
+	       (ADJP aged
+		     (NP (QP 65 through 69))))
+     (VP will
+	 (VP be
+	     (ADJP-PRD able
+		       (S (NP-SBJ-2 *-1)
+			  (VP to
+			      (VP earn
+				  (NP (NP $ 9,360 *U*)
+				      (ADVP *ICH*-3))
+				  (PP without
+				      (S-NOM (NP-SBJ *-2)
+					     (VP losing
+						 (NP any Social Security benefits))))
+				  (PP-TMP in
+					  (NP 1990))
+				  ,
+				  (ADVP-3 up
+					  (PP from
+					      (NP $ 8,880 *U*)
+					      (NP-TMP this year)))))))))
+     .))
+( (S (NP-SBJ (NP The exempt amount)
+             (PP for
+                 (NP (NP beneficiaries)
+                     (PP under 
+			 (NP 65)))))
+     (VP will
+         (VP rise
+             (PP-DIR to
+		     (NP $ 6,840 *U*))
+             (PP-DIR from
+		     (NP $ 6,480 *U*))))
+     .))
+( (S (NP-SBJ The adjustments)
+     (VP reflect
+         (NP (NP the increase)
+             (PP-LOC in
+		     (NP the consumer price index))
+	     (PP for
+		 (NP (NP urban wage earners)
+		     and
+		     (NP clerical workers)))
+             (PP-TMP from 
+		     (NP (NP the third quarter)
+			 (PP of
+			     (NP last year))))
+             (PP-TMP to
+		     (NP (NP the third quarter)
+			 (PP of
+			     (NP this year))))))
+     .))

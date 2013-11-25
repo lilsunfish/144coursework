@@ -1,0 +1,195 @@
+
+
+( (S (NP-SBJ-3 (NP The amount)
+               (PP of
+                   (NP (NP blood)
+                       (SBAR (WHNP-1 0)
+                             (S (NP-SBJ surgical patients)
+                                (VP can
+                                    (VP donate
+                                        and
+                                        store
+					(NP *T*-1)
+                                        (PP-TMP before
+						(NP surgery)))))))))
+     (VP can
+         (VP be
+             (VP increased
+                 (NP *-3)
+                 (PP by
+                     (NP-LGS (NP the new (ADJP genetically engineered) drug)
+			     ,
+			     (NP EPO))))))
+     .))
+( (S (NP-SBJ (NP EPO)
+             , or
+             (NP erythropoietin)
+             ,)
+     (VP is
+         (NP-PRD (NP a protein)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ-2 the human body)
+			  (VP makes
+			      (NP *T*-1)
+			      (S-PRP (NP-SBJ *-2)
+				     (VP to
+					 (VP stimulate
+					     (NP (NP the growth)
+						 (PP of
+						     (NP red blood cells)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP A (ADJP genetically engineered) version)
+	       (PP of
+		   (NP the human protein))
+               (VP developed
+                   (NP *)
+                   (PP by
+                       (NP-LGS (NP Amgen Corp.)
+                               (PP of
+                                   (NP (NP Thousand Oaks)
+                                       ,
+                                       (NP Calif.)
+                                       ,))))))
+     (ADVP-TMP recently)
+     (VP has
+         (VP been
+             (VP marketed
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP the Ortho Pharmaceuticals division)
+			     (PP of
+				 (NP Johnson & Johnson)))))))
+     .))
+( (S (NP-SBJ-1 (NP A competing version)
+               (PP of
+                   (NP EPO)))
+     (VP is
+         (VP being
+             (VP developed
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP Genetics Institute Inc.)
+			     (PP-LOC in
+				     (NP (NP Cambridge)
+					 ,
+					 (NP Mass))))))))
+     .))
+( (S (NP-SBJ-1 The drug)
+     (VP is
+         (VP being
+             (VP used
+                 (NP *-1)
+                 (ADVP primarily)
+                 (S-CLR (NP-SBJ *)
+			(VP to
+			    (VP treat
+				(NP anemias)))))))
+     .))
+( (S (NP-SBJ (NP A new experiment)
+             ,
+             (VP reported
+                 (NP *)
+                 (PP-LOC in
+			 (NP (NP (NP this week 's)
+				 New England Journal) 
+			     (PP of
+				 (NP Medicine)))))
+             ,)
+     (VP involved
+         (S (NP-SBJ *)
+	    (VP giving
+		(NP (NP injections)
+		    (PP of
+			(NP (NP Amgen 's)
+			    EPO)))
+		(PP-DTV to
+			(NP (NP 23 patients)
+			    (SBAR (WHNP-1 who)
+				  (S (NP-SBJ-2 *T*-1)
+				     (VP wanted
+					 (S (NP-SBJ *-2)
+					    (VP to
+						(VP store
+						    (NP (NP units)
+							(PP of
+							    (NP their own blood))))))))))))))
+     .))
+( (S (NP-SBJ-1 The patients)
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP receiving
+                (NP EPO injections)
+		(PP-TMP (NP-ADV (QP about a) month) 
+			before
+			(NP their scheduled surgery)))))
+     .))
+( (S (NP-SBJ-1 They)
+     (ADVP-TMP then)
+     (VP began
+         (S (NP-SBJ-2 *-1)
+            (VP donating
+                (NP blood)
+                (NP-TMP twice a week)
+                ,
+                (S-ADV (NP-SBJ *-2)
+		       (VP receiving
+			   (NP an EPO injection)
+			   (NP-TMP each time))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ tests)
+		  (VP indicated
+		      (NP (NP a low number)
+			  (PP of
+			      (NP red cells))))))
+     ,
+     (NP-SBJ-1 blood)
+     (VP was n't
+         (VP taken
+	     (NP *-1)))
+     .))
+( (S (NP-SBJ The EPO-treated patients)
+     (VP donated
+         (NP (NP an average)
+             (PP of
+                 (NP (NP 5.4 units)
+		     (PP of
+			 (NP blood))))
+	     (NP-ADV each))
+	 (PP compared
+	     (PP with
+		 (NP (NP (QP only 4.1) units)
+		     (VP donated
+			 (NP *)
+			 (PP by
+			     (NP-LGS (NP a similar group)
+				     (PP of
+					 (NP (NP surgical patients)
+					     (SBAR (WHNP-1 who)
+						   (S (NP-SBJ *T*-1)
+						      (VP received
+							  (NP a placebo injection)))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The volume)
+		      (PP of
+			  (NP (NP red cells)
+			      (VP donated
+				  (NP *)
+				  (PP by
+				      (NP-LGS the EPO-treated patients))))))
+	      (VP was
+		  (ADVP-PRD (NP 41 %) higher)
+		  (PP per
+		      (NP donor))))
+     ,
+     (NP-SBJ (NP the research team)
+	     (VP representing
+		 (NP (NP a number)
+		     (PP of
+			 (NP (NP hospitals)
+			     and
+			     (NP blood banks))))))
+     (VP reported
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

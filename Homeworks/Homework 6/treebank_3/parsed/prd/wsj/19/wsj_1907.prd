@@ -1,0 +1,134 @@
+
+
+( (S (NP-SBJ Mesa Airlines)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the takeover offer)
+                          (SBAR (WHNP-1 0)
+                                (S (NP-SBJ it)
+                                   (VP received
+                                       (NP *T*-1)
+                                       (NP-TMP earlier this week)
+                                       (PP-DIR from
+					       (NP StatesWest Airlines))))))
+                  (VP is
+                      (PP-PRP-PRD for
+				  (NP (NP a combination)
+				      (PP of
+					  (NP cash and securities))
+				      (VP valued
+					  (NP *)
+					  (PP by
+					      (NP-LGS StatesWest))
+					  (PP-CLR at
+						  (NP (NP $ 10 *U*)
+						      (NP-ADV a Mesa share))))))))))
+     .))
+( (S (NP-SBJ Both companies)
+     (VP are
+         (NP-PRD (NP regional carriers)
+		 (PP-LOC in
+			 (NP the Southwest))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ it)
+		  (VP made
+		      (NP the offer)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ-2 StatesWest)
+     (VP (VP declined
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP disclose
+                        (NP details)))))
+         and
+         (VP asked
+             (NP-3 Mesa)
+             (S (NP-SBJ *-3)
+                (VP to
+                    (VP do
+                        (NP the same))))))
+     .))
+( (S But
+     (NP-SBJ (ADJP Farmington , N.M.-based)
+	     Mesa)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the offer)
+                  (VP was
+                      (PP-PRP-PRD for
+				  (NP (NP (NP $ 7 *U*)
+					  (PP-LOC in
+						  (NP cash)))
+				      and
+				      (NP (NP unspecified StatesWest securities)
+					  (VP valued
+					      (NP *)
+					      (PP-CLR at
+						      (NP (NP $ 3 *U*)
+							  (NP-ADV a share)))))))))))
+     .))
+( (S (PP Based
+	 (PP on
+	     (NP (NP the number)
+		 (PP of
+		     (NP (NP Mesa shares)
+			 (ADJP outstanding)
+			 (VP not
+			     (ADVP-TMP already)
+			     owned
+			     (NP *) 
+			     (PP by
+				 (NP-LGS StatesWest))))))))
+     ,
+     (NP-SBJ the proposed takeover)
+     (VP would
+	 (VP have
+	     (NP (NP a value)
+		 (PP of
+		     (NP (QP about $ 15.3 million) *U*)))))
+     .))
+( (S (NP-SBJ StatesWest)
+     (VP owns
+         (NP (NP 7.25 %)
+             (PP of
+                 (NP Mesa))))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (NP-SBJ Mesa)
+     (VP rejected
+         (NP (NP a general proposal
+		 (SBAR *ICH*-1))
+             (PP from
+                 (NP StatesWest))
+             (SBAR-1 that
+		     (S (NP-SBJ the two carriers)
+			(VP combine)))))
+     .))
+( (S (PP In
+         (NP (NP response)
+             (PP to
+                 (NP the specific offer))))
+     ,
+     (NP-SBJ (NP Gary Risley)
+             ,
+             (NP Mesa vice president)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ management)
+                  (VP will
+                      (VP ask
+                          (NP-1 directors)
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP employ
+                                     (NP (NP a financial consultant)
+					 (SBAR (WHNP-2 0)
+					       (S (NP-SBJ *T*-2)
+						  (VP to
+						      (VP advise
+							  (NP them))))))))))))))
+     .))

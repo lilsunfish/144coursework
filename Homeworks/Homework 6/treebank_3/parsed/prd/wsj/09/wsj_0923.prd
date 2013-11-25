@@ -1,0 +1,57 @@
+
+
+( (S (NP-SBJ Kyle Technology Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ a Seattle investor)
+                  (VP has
+                      (VP signed
+                          (NP (NP a letter)
+                              (PP of
+                                  (NP intent
+                                      (S (NP-SBJ *)
+                                         (VP to
+                                             (VP buy
+                                                 (NP the company)
+                                                 (PP-CLR for
+							 (NP (NP (QP about $ 3.1 million) *U*)
+							     , or
+							     (NP (NP $ 1.20 *U*)
+								 (NP-ADV a share)))))))))))))))
+     .))
+((SINV (S-TPC-2 (NP-SBJ-1 (NP The investor)
+			  ,
+			  (NP Donald A. Wright)
+			  ,)
+		(VP plans
+		    (S (NP-SBJ *-1)
+		       (VP to
+			   (VP run
+			       (NP the company))))))
+       ,
+       (VP said
+	   (SBAR 0
+		 (S *T*-2)))
+       (NP-SBJ (NP a spokesman)
+	       (PP for
+		   (NP Kyle)))
+       .))
+( (S (NP-SBJ-1 The transaction)
+     (VP (VP has
+	     (VP been
+		 (VP approved
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS (NP Kyle 's)
+				  board)))))
+	 , but
+	 (VP requires
+	     (NP (NP the approval)
+		 (PP of
+		     (NP (NP the company 's)
+			 shareholders)))))
+     .))
+( (S (NP-SBJ Kyle)
+     (VP manufactures
+         (NP electronic components))
+     .))

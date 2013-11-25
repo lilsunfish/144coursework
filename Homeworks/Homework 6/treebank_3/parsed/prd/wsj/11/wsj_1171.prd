@@ -1,0 +1,803 @@
+
+
+( (S (NP-SBJ Benjamin Jacobson & Sons)
+     (VP has
+         (VP been
+             (NP-PRD (NP the New York Stock Exchange specialist firm)
+                     (PP in
+                         (NP (NP charge)
+                             (PP of
+                                 (S-NOM (NP-SBJ *)
+					(VP trading
+					    (NP (NP stock)
+						(PP in
+						    (NP (NP UAL Corp.)
+							and
+							(NP its predecessors))))))))))
+	     (PP-TMP since
+		     (NP the early 1930s))))
+     .))
+( (S But
+     (NP-SBJ the firm)
+     (VP has
+         (ADVP-TMP never)
+         (VP had
+             (NP (NP a day)
+                 (PP like
+                     (NP yesterday)))))
+     .))
+( (S (PP-TMP At
+	     (ADVP first))
+     (NP-SBJ UAL)
+     (VP did n't
+         (VP open
+	     (PP-PRP because
+		     of
+		     (NP an order imbalance))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (NP-SBJ it)
+		  (VP did
+		      (NP-TMP (NP a half-hour)
+			      (PP into
+				  (NP the session)))
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-1 it)
+     (VP was
+         (VP priced
+             (NP *-1)
+             (PP-CLR at
+		     (NP (NP (NP $ 150 *U*)
+			     (NP-ADV a share))
+			 ,
+			 (ADVP down
+			       (NP (QP more than $ 28) *U*)
+			       (PP from
+				   (NP (NP Monday 's)
+				       close)))))))
+     .))
+( (S (S (NP-SBJ It)
+        (VP sank 
+	    (ADVP further)
+            (PP-DIR to
+		    (NP (QP as low as $ 145) *U*))))
+     , 
+     but
+     (S (NP-SBJ a big rally)
+        (VP developed
+            (PP-TMP in
+		    (NP the last half hour))
+            ,
+            (S-ADV (NP-SBJ *)
+		   (VP pushing
+		       (NP-1 the stock)
+		       (ADVP-DIR back) 
+		       (ADVP-DIR up)
+		       (S-CLR (NP-SBJ *-1)
+			      (VP to
+				  (VP close
+				      (PP-CLR at
+					      (NP (NP $ 170 *U*)
+						  ,
+						  (ADVP down
+							(NP (QP just $ 8.375) *U*)
+							(PP from
+							    (NP Monday))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP the process))
+     ,
+     (NP-SBJ (QP 4.9 million) shares)
+     (VP traded
+	 ,
+         (S-ADV (NP-SBJ *)
+		(VP making
+		    (S (NP-SBJ UAL)
+		       (NP-PRD (NP the (ADJP second most active) issue)
+			       (PP-LOC on
+				       (NP the Big Board)))))))
+     .))
+( (S (S-ADV (S (NP-SBJ *-2)
+	       (VP Munching
+		   (NP pizza)
+		   (SBAR-TMP (WHADVP when)
+			     (S (NP-SBJ they)
+				(VP could 
+				    (VP *?*))))))
+	    and
+	    (S (NP-SBJ *-2)
+	       (VP yelling
+		   (SBAR-TMP until
+			     (S (NP-SBJ their voices)
+				(VP gave
+				    (ADVP-CLR out)))))))
+     ,
+     (NP-SBJ-2 (NP the two Benjamin Jacobson specialists)
+	       (PP-LOC at
+		       (NP (NP the Big Board 's)
+			   UAL trading post)))
+     (NP-TMP yesterday)
+     (VP presided
+	 (PP over
+	     (SBAR-NOM (WHNP-3 what)
+		       (S (NP-SBJ-1 *T*-3)
+			  (VP can
+			      (ADVP only)
+			      (VP be
+				  (VP described
+				      (NP *-1)
+				      (PP-CLR as
+					      (NP a financial free-for-all)))))))))
+     .))
+( (S ``
+     (NP-SBJ It)
+     (VP was
+         (ADJP-PRD chaotic))
+     .))
+( (SINV (S-TPC-2 But
+		 (NP-SBJ-1 we)
+		 (VP like
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP call
+				(S (NP-SBJ it)
+				   `
+				   (NP-PRD controlled chaos)))))))
+	, 
+	' 
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP 47-year-old
+		    Robert J. Jacobson Jr.)
+		,
+		(NP (NP grandson)
+		    (PP of
+			(NP (NP the firm 's)
+			    founder))))
+	.))
+( (S (NP-SBJ He)
+     (VP manned
+         (NP the UAL post)
+         (NP-TMP yesterday)
+         (PP with
+             (NP (NP Christopher Bates)
+		 ,
+		 (NP 33)
+		 ,
+                 (NP (NP an energetic Long Islander)
+                     (SBAR (WHNP-1 who)
+                           (S (NP-SBJ *T*-1)
+                              (VP 's
+                                  (NP-PRD (NP a dead ringer)
+					  (PP for
+					      (NP actor
+						  Nicolas Cage))))))))))
+     .))
+( (SBARQ (WHNP-1 Who)
+         (SQ (NP-SBJ *T*-1)
+             was
+             (VP doing
+                 (NP all
+                     the selling)))
+         ?))
+( (SINV ``
+	(FRAG-TPC-1 (NP (NP Options traders)
+			,
+			(NP arbitrage traders)
+			--
+			(NP everyone)))
+	,
+	''
+	(VP said
+	    (FRAG *T*-1))
+	(NP-SBJ-2 Mr. Bates)
+	,
+	(S-ADV (NP-SBJ *-2)
+	       (VP cooling
+		   (ADVP-CLR down)
+		   (PP with
+		       (NP (NP a carton)
+			   (PP of
+			       (NP apple juice))))
+		   (PP-TMP after
+			   (NP the close))
+		   (NP-TMP yesterday)))
+	.))
+( (SINV (VP Added
+	    (S *ICH*-1))
+        (NP-SBJ Mr. Jacobson)
+        , 
+	``
+        (S-1 (NP-SBJ There) 
+	     (VP were
+		 (NP-PRD (NP some (ADJP pretty bad) losses)
+			 (PP-LOC in
+				 (NP the stock)))))
+        . 
+	''))
+( (S (NP-SBJ Big Board traders)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP a 200,000-share buy order)
+			  (PP at
+			      (NP (NP $ 150 *U*)
+				  (NP-ADV a share)))
+                          (VP entered
+                              (NP *)
+                              (PP by
+                                  (NP-LGS (NP Bear , Stearns & Co.)
+                                          ,
+                                          (SBAR (WHNP-1 which)
+                                                (S (NP-SBJ *T*-1)
+                                                   (VP was
+                                                       (ADJP-PRD active)
+						       (PP-LOC in
+							       (NP UAL stock))
+                                                       (NP-TMP all day))))
+                                          ,))))
+                  (VP is
+                      (SBAR-PRD (WHNP-2 what)
+                                (S (NP-SBJ *T*-2)
+                                   (VP set
+                                       (ADVP-CLR off)
+                                       (NP the UAL crowd)
+                                       (PP-TMP in
+					       (NP the late afternoon)))))))))
+     .))
+( (S (NP-SBJ (NP A subsequent rally)
+             (PP-LOC in
+		     (NP UAL)))
+     (VP helped
+         (S (NP-SBJ-1 the staggering stock market)
+            (VP stage
+                (NP (NP an astonishing recovery)
+                    (PP from
+                        (NP an 80-point deficit)))
+                (S-ADV (NP-SBJ *-1)
+		       (VP to
+			   (VP finish
+			       (PP-LOC-CLR (ADVP only
+						 slightly)
+					   below
+					   (NP (NP Monday 's)
+					       close))))))))
+     .))
+( (S (NP-SBJ (NP Both Jacobson traders)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP had
+                          (VP been
+                              (VP hoping
+                                  (SBAR 0
+                                        (S (NP-SBJ UAL trading)
+                                           (VP would
+                                               (VP get
+                                                   (ADVP-CLR back)
+						   (PP-DIR to
+							   (ADJP normal)))))))))))
+             ,)
+     (VP read
+         (NP (NP the news)
+             (PP about
+                 (NP (NP the unraveling)
+                     (PP of
+                         (NP UAL takeover plans)))))
+         (PP-LOC on
+		 (NP (NP the train)
+		     (PP into
+			 (NP work))))
+         (NP-TMP yesterday morning))
+     .))
+( (S (NP-SBJ The news)
+     (VP told
+         (NP them)
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP would
+                      (VP be
+                          (NP-PRD (NP a while)
+				  (ADVP longer))
+			  (SBAR before
+				(S (NP-SBJ-1 UAL)
+				   (VP resumed
+				       (S (NP-SBJ *-1)
+					  (VP trading
+					      (PP-CLR like
+						      (NP a regular airline stock)))))))
+			  (PP-TMP after
+				  (NP (NP months)
+				      (PP of
+					  (NP gyrations)))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ Mr. Jacobson)
+		  (VP walked
+		      (PP-DIR into
+			      (NP the office))
+		      (PP-TMP at
+			      (NP 7:30 a.m. EDT))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ he)
+     (VP announced 
+	 :
+	 ``
+         (S (INTJ OK)
+            ,
+            (NP-SBJ *)
+	    (VP buckle
+		(PRT up))))
+     . 
+     ''))
+( (S (NP-SBJ Messrs. Jacobson and Bates)
+     (VP (VP walked
+             (PP-DIR on
+		     (NP the Big Board floor))
+             (PP-TMP at
+		     (NP about 8:45 a.m.))
+             (NP-TMP yesterday))
+         and
+	 (VP (ADVP-TMP immediately)
+	     spotted
+             (NP trouble)))
+     .))
+( (SINV (ADVP-TMP Already)
+        (VP-TPC-1 (VP entered
+		      (NP *-2)
+		      (PP-CLR in
+			      (NP (NP the Big Board 's)
+				  computers)))
+		  and
+		  (VP transmitted
+		      (NP *-2)
+		      (PP-DIR to
+			      (NP their post))))
+        (VP were
+	    (VP *T*-1))
+        (NP-SBJ-2 (NP sell orders)
+		  (PP for
+		      (NP 65,000 UAL shares)))
+        .))
+( (S (NP-SBJ The UAL news)
+     (VP had
+         (ADVP-TMP already)
+         (VP caused
+             (NP a selling furor)
+	     (PP-LOC in
+		     (NP (NP the so-called third market)
+			 ,
+			 (SBAR (WHPP-1 in
+				       (WHNP which))
+			       (S (NP-SBJ firms)
+				  (VP buy and sell
+				      (NP stock)
+				      (ADVP-LOC away
+						(PP from
+						    (NP the exchange floor)))
+				      (PP-LOC *T*-1))))))))
+     .))
+( (S (NP-SBJ (NP UAL)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP closed
+                          (PP-LOC on
+				  (NP the Big Board))
+                          (NP-TMP Monday)
+                          (PP-CLR at
+				  (NP (NP $ 178.375 *U*)
+				      (NP-ADV a share))))))
+             ,)
+     (VP traded
+         (PP-LOC in
+		 (NP the third market))
+         (ADVP-TMP afterward)
+	 (ADVP-LOC as low
+		   (PP as
+		       (NP (NP $ 158 *U*)
+			   (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ There) 
+     (VP were
+         (NP-PRD (NP rumors)
+                 (PP of
+                     (NP (ADJP $ 148-a-share *U*) trades))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the 45 minutes)
+		 (PP-TMP before
+			 (NP the 9:30 opening bell))))
+     ,
+     (NP-SBJ-1 the Jacobson specialists)
+     (VP kept
+         (S (NP-SBJ *-1)
+            (VP getting
+                (NP (NP sell orders)
+                    ,
+                    (ADJP (ADJP heavier)
+                          (SBAR than
+				(S (NP-SBJ they)
+				   (VP imagined
+				       (SBAR 0
+					     (S *?*))))))))))
+     .))
+( (S And
+     (PP-TMP at
+	     (NP 9:15))
+     ,
+     (NP-SBJ they)
+     (VP posted
+         (NP (NP a 
+		 (ADJP (QP $ 135 to $ 155) *U*) 
+		 `` 
+		 first indication)
+	     ,
+	     ''
+             or
+             (NP (NP the price range)
+                 (SBAR (WHPP-1 in
+			       (WHNP which))
+                       (S (NP-SBJ the stock)
+                          (VP would
+                              (ADVP probably)
+                              (VP open
+				  (PP-LOC *T*-1))))))))
+     .))
+( (S (NP-SBJ-2 That range)
+     (VP was
+	 (VP (ADVP-MNR quickly)
+	     narrowed
+	     (NP *-2)
+             (PP-CLR to
+		     (NP (QP $ 145 to $ 155) *U*))
+             ,
+             (SBAR-ADV although
+		       (S (NP-SBJ-1 (NP traders)
+				    (VP surrounding
+					(NP the post)))
+			  (VP were
+			      (VP told
+				  (NP *-1)
+				  (SBAR that
+					(S (NP-SBJ (QP $ 148 to $ 150) *U*)
+					   (VP would
+					       (VP be
+						   (NP-PRD the likely target)))))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ-2 UAL)
+		  (ADVP-TMP finally)
+		  (VP opened
+		      (S (NP-SBJ *-2)
+			 (ADVP-PRD (NP a half hour)
+				   late))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ (QP some 400,000) shares)
+     (VP traded
+         (PP-LOC-CLR at
+		     (NP $ 150 *U*)))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ There)
+		 (VP was 
+		     ``
+		     (NP-PRD selling pressure)
+		     (PP from
+			 (NP everyone))))
+	, 
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ one trader)
+	.))
+( (S (NP-SBJ (NP (NP This month 's)
+                 Friday-the-13th market plunge)
+             (VP spurred
+                 (NP *)
+                 (PP by
+                     (NP-LGS UAL news))))
+     (VP was n't
+         (ADJP-PRD (ADJP as bad)
+		   (PP *ICH*-1))
+	 (PP for
+	     (NP the Jacobson specialists))
+	 (PP-1 as
+	       (NP (NP yesterday 's)
+		   action)))
+     .))
+( (S (PP-TMP On
+	     (NP that earlier day))
+     ,
+     (NP-SBJ-1 (NP the stock 's)
+               trading)
+     (VP was
+         (VP halted
+             (NP *-1)
+             (PP-TMP at
+		     (NP a critical time))
+             (SBAR-PRP so
+		       (S (NP-SBJ the specialists)
+			  (VP could
+			      (VP catch
+				  (NP their breath)))))))
+     .))
+( (FRAG Not
+	(NP-TMP yesterday)
+	.))
+( (S (S (NP-SBJ Mr. Jacobson)
+        (PRN ,
+	     (S-ADV (NP-SBJ his gray hair)
+		    (VP flying))
+	     ,)
+        (VP did n't
+            (VP wear
+                (PRT out)
+                (NP his red-white-and-blue sneakers))))
+     , 
+     but
+     (S (NP-SBJ he)
+        (VP sweat
+            (NP-EXT so much 
+		    (SBAR 0
+			  (S (NP-SBJ-1 he)
+			     (VP considered
+				 (S (NP-SBJ *-1)
+				    (VP sending
+					(PRT out)
+					(PP-CLR for
+						(NP a new shirt))))))))))
+     .))
+( (S (NP-SBJ Mr. Bates)
+     (ADVP-TMP usually)
+     (VP handles
+         (NP day-to-day UAL trading)
+         (PP on
+             (NP his own)))
+     .))
+( (S But 
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ the heavy trading action)
+     (ADVP-TMP eventually)
+     (VP consumed
+	 (NP (CONJP not only)
+	     (NP Messrs. Jacobson and Bates)
+	     but
+	     (NP (NP four other Jacobson partners)
+		 , 
+		 (VP all
+		     doing
+		     (NP (NP their specialist-firm job)
+			 (PP of
+			     (S-NOM (NP-SBJ *)
+				    (VP (VP tugging
+					    (NP buyers and sellers)
+					    (ADVP-CLR together))
+					and
+					(VP adjusting
+					    (NP prices)
+					    (S-PRP (NP-SBJ *)
+						   (VP to
+						       (VP accommodate
+							   (NP the market)))))))))))))
+     .))
+( (S (S (NP-SBJ (QP About 30) floor traders)
+        (VP crammed
+            (PP-LOC near
+		    (NP the UAL post))
+	    (NP-TMP (NP most)
+		    (PP of
+			(NP the day)))))
+     , 
+     and
+     (ADVP probably)
+     (S (NP-SBJ hundreds more)
+        (VP came and went
+	    --
+	    (NP-ADV (NP a `` seething mass) 
+		    , 
+		    ''
+		    (SBAR as
+			  (S (NP-SBJ one trader)
+			     (VP described
+				 (NP it)))))))
+     .))
+( (S (NP-SBJ (NP The (ADJP 4.9 million-share) volume)
+             (VP flowing
+                 (PP-DIR through
+			 (NP the Jacobson specialist operation))))
+     (VP was
+	 (NP-PRD (NP (QP about five times)
+		     normal)
+		 (PP for
+		     (NP the stock))))
+     .))
+( (S (NP-SBJ (NP The heavy buying)
+             (PP-TMP in
+		     (NP the last half hour)))
+     (VP led
+         (S (NP-SBJ the specialists)
+            (VP to
+                (VP take
+                    (NP special steps)))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ (NP The Bear Stearns order)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP marked
+				      (NP the late-day turnaround)))))
+		 (VP caused
+		     (NP a `` massive buying effort '')
+		     (SBAR-ADV as
+			       (S (NP-SBJ UAL)
+				  (VP jumped
+				      (NP-EXT (NP $ 20 *U*)
+					      (NP-ADV a share))
+				      (PP-DIR to
+					      (NP $ 170 *U*))
+				      (PP-TMP in
+					      (NP the last half hour)))))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ Mr. Bates)
+	.))
+( (S (PP With
+         (NP (NP 15 seconds)
+             (PP of
+                 (NP trading))
+             (SBAR (WHNP-2 0)
+		   (S (NP-SBJ *T*-2)
+		      (VP to
+			  (VP go))))))
+     ,
+     (NP-SBJ Mr. Jacobson)
+     ,
+     (PP with
+	 (SBAR-NOM (WHNP-1 what voice)
+		   (S (NP-SBJ he)
+		      (VP had
+			  (S (NP-SBJ-3 *T*-1)
+			     (VP left
+				 (NP *-3)))))))
+     ,
+     (VP announced
+         (PP-CLR to
+		 (NP the trading mob))
+         : 
+	 ``
+         (S (NP-SBJ-4 We)
+            (VP 're
+                (VP going
+                    (S (NP-SBJ *-4)
+                       (VP to
+                           (VP trade
+                               (NP one price)
+                               (PP-TMP on
+				       (NP the bell)))))))))
+     . 
+     ''))
+( (S (NP-SBJ That)
+     (VP meant
+         (SBAR 0
+               (S (NP-SBJ no trading)
+                  (VP would
+                      (VP occur
+                          (PP-TMP in
+				  (NP the final seconds))
+                          ,
+                          (PP as
+                              (NP (NP a way)
+                                  (PP of
+                                      (S-NOM (NP-SBJ *)
+					     (VP making
+						 (ADJP sure
+						       (SBAR that
+							     (S (NP-SBJ-2 last-second orders)
+								(VP are n't
+								    (VP subjected
+									(NP *-2)
+									(PP-CLR to
+										(NP (NP a sudden price swing)
+										    (SBAR (WHNP-1 that)
+											  (S (NP-SBJ *T*-1)
+											     (VP would
+												 (VP upset
+												     (NP customers))))))))))))))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (QP About 11,000) shares)
+	      (VP sold
+		  (PP-CLR at
+			  (NP $ 170 *U*))
+		  (PP-TMP on
+			  (NP the bell))
+		  ,
+		  (S-ADV (NP-SBJ *-1)
+			 (VP representing
+			     (NP (QP about eight to 10)
+				 late orders)))))
+     ,
+     (NP-SBJ the specialists)
+     (VP estimate
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ Big Board traders)
+     (VP praised
+         (NP the Jacobson specialists)
+         (PP-CLR for
+		 (S-NOM (NP-SBJ *)
+			(VP getting 
+			    (PP-CLR through
+				    (NP yesterday))
+			    (PP without
+				(NP a trading halt))))))
+     .))
+( (S (PP-LOC In
+	     (NP Chicago))
+     ,
+     (NP-SBJ-1 a UAL spokesman)
+     (PRN , 
+	  ``
+	  (PP by
+	      (NP (NP way)
+		  (PP of
+		      (NP policy))))
+	  ,) 
+     ''
+     (VP declined
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP comment
+                    (PP-CLR on
+			    (NP (NP (NP the company 's)
+				    stock)
+				or
+				(NP (NP the specialists ')
+				    performance)))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Leaving
+		(NP the exchange)
+		(PP-TMP at
+			(NP about 5 p.m.)))) 
+     ,
+     (NP-SBJ-1 the Jacobson specialists)
+     (VP made
+	 (NP (NP no predictions)
+	     (PP about
+		 (SBAR (WHADVP-2 how)
+		       (S (NP-SBJ trading)
+			  (VP might
+			      (VP go
+				  (ADVP-MNR *T*-2)
+				  (NP-TMP today))))))))
+     .))
+( (SINV (VP Said
+	    (SBAR 0
+		  (S *T*-2)))
+        (NP-SBJ (NP Earl Ellis)
+                ,
+                (NP (NP a Jacobson partner)
+                    (SBAR (WHNP-1 who)
+                          (S (NP-SBJ-3 *T*-1)
+                             (VP got
+                                 (VP involved
+				     (NP *-3)
+                                     (PP-CLR in
+					     (NP the UAL action))))))))
+        ,
+	``
+	(S-2 (NP-SBJ It all)
+	     (VP starts
+		 (ADVP all over)
+		 (ADVP-TMP again)
+		 ''
+		 (NP-TMP today)))
+	.))

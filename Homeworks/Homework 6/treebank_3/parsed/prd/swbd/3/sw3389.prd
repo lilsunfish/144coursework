@@ -1,0 +1,1536 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (SBARQ (INTJ So)
+	 ,
+	 (WHNP-1 who)
+	 (SQ 's
+	     (NP-SBJ your favorite team)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerB2 .))
+( (S (NP-SBJ My favorite team)
+     (VP is
+	 (NP-PRD the Pittsburgh Steelers))
+     .
+     E_S))
+( (CODE SpeakerA3 .))
+( (NP Pittsburgh
+      ?
+      E_S))
+( (CODE SpeakerB4 .))
+( (S (NP-SBJ You)
+     (VP bet)
+     .
+     E_S))
+( (CODE SpeakerA5 .))
+( (S (NP-SBJ-1 I)
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP be
+		    (NP-PRD a big Pittsburgh fan))))
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ I)
+		      (VP was
+			  (ADJP-PRD little)
+			  (ADVP-TMP *T*-2)))))
+     .
+     E_S))
+( (CODE SpeakerB6 .))
+( (S-UNF (INTJ Well)
+	 ,
+	 (NP-SBJ I)
+	 ,
+	 (INTJ uh)
+	 ,
+	 N_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ John Stallworth)
+		  (VP played
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ he)
+     (VP was
+	 (PP-PRD from
+		 (NP (NP my hometown)
+		     (PP-LOC in
+			     (NP Alabama)))))
+     ,
+     E_S))
+( (CODE SpeakerA7 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerB8 .))
+( (S so
+     (NP-SBJ I)
+     (ADVP kind of)
+     (VP grabbed
+	 (PP on
+	     (PP to
+		 (NP that team)))
+	 ,
+	 (ADVP-TMP way back when))
+     .
+     E_S))
+( (CODE SpeakerA9 .))
+( (INTJ Huh
+	.
+	E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD pretty nice))
+     .
+     E_S))
+( (CODE SpeakerB10 .))
+( (CODE SpeakerA11 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 I)
+     (RS ])
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP watch
+		    (NP them)
+		    (NP-ADV a lot))))
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ they)
+		      (VP were
+			  (VP playing
+			      (NP the big
+				  (EDITED (RM [)
+					  iron curtain
+					  ,
+					  (IP +)
+					  or)
+				  steel curtain)
+			      (ADVP-TMP *T*-2))))))
+     .
+     (RS ])
+     E_S))
+( (CODE SpeakerB12 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (CODE SpeakerA13 .))
+( (CODE SpeakerB14 .))
+( (FRAG (WHADVP How)
+	(PP about
+	    (NP your favorite team))
+	?
+	E_S))
+( (CODE SpeakerA15 .))
+( (INTJ Huh
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (NP-TMP last year)
+     (NP-SBJ it)
+     (VP was
+	 (NP-PRD Buffalo))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 I)
+     (RS ])
+     (ADVP-TMP still)
+     (VP try
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP keep
+		    (PRT up)
+		    (PP with
+			(NP Buffalo)))))
+	 (SBAR-PRP because
+		   (S (EDITED (RM [)
+			      (S-UNF (NP-SBJ they)
+				     (ADVP just))
+			      ,
+			      (IP +))
+		      (NP-SBJ-2 they)
+		      (ADVP just)
+		      (RS ])
+		      (VP impressed
+			  (NP me)
+			  (PP as
+			      (S-NOM (NP-SBJ *-2)
+				     (VP being
+					 (ADJP-PRD so efficient))))))))
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (ADVP-TMP never)
+     (VP score)
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (ADVP-TMP never)
+     (VP blow
+	 (PRT out)
+	 (NP their opponents))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (ADVP just)
+     (VP score
+	 (NP (ADJP just enough) points))
+     ,
+     E_S))
+( (CODE SpeakerB16 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA17 .))
+( (S and
+     (NP-SBJ that)
+     (ADVP really)
+     (VP impressed
+	 (NP me))
+     .
+     E_S))
+( (S (CONJP But then)
+     (PP-LOC down
+	     (ADVP here))
+     (NP-SBJ I)
+     (VP-UNF li-)
+     ,
+     N_S))
+( (S (NP-SBJ (X MUMBLEx))
+     (VP is
+	 (ADVP-LOC-PRD pretty close
+		       (PP to
+			   (NP New Orleans))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP 've
+	 (VP been
+	     (VP keeping
+		 (PRT up)
+		 (PP with
+		     (NP the Saints))
+		 (NP-ADV a lot))))
+     .
+     E_S))
+( (CODE SpeakerB18 .))
+( (SQ (INTJ Well)
+      ,
+      (S (NP-SBJ they)
+	 (VP are
+	     (ADJP-PRD exciting)))
+      ,
+      (SQ are
+	  n't
+	  (NP-SBJ they)
+	  (ADJP-PRD *?*))
+      ?
+      E_S))
+( (CODE SpeakerA19 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ-1 the Saints)
+     (VP are
+	 (VP starting
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP impress
+			(NP me)
+			(NP-TMP this year)
+			(PRN ,
+			     (S (NP-SBJ you)
+				(VP know))
+			     ,)
+			(NP-ADV a lot))))))
+     .
+     E_S))
+( (CODE SpeakerB20 .))
+( (INTJ Boy
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ they)
+		(VP-UNF are))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP are
+	 (RS ])
+	 (ADVP just)
+	 (NP-PRD (NP a fun team)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP watch
+				  (NP *T*-1)))))))
+     .
+     E_S))
+( (CODE SpeakerA21 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF This)
+		     ,
+		     (IP +))
+	     (NP-SBJ it)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP are
+	 (ADJP-PRD-UNF really))
+     .
+     E_S))
+( (SQ Did
+      (NP-SBJ you)
+      (VP see
+	  (NP the game)
+	  (EDITED (RM [)
+		  (NP-TMP Sunday night)
+		  (IP +)
+		  or)
+	  ,
+	  (NP-TMP Sunday afternoon)
+	  ?
+	  (RS ]))
+      E_S))
+( (CODE SpeakerB22 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ no)
+	,
+	E_S))
+( (CODE SpeakerA23 .))
+( (CODE SpeakerB24 .))
+( (S (NP-SBJ I)
+     (VP did
+	 n't
+	 (VP *?*))
+     .
+     E_S))
+( (CODE SpeakerA25 .))
+( (S (NP-SBJ It)
+     (VP was
+	 (ADJP-PRD funny))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ There)
+		(VP-UNF were))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP (X ha-)
+	 ,
+	 (RS ])
+	 (INTJ uh)
+	 ,
+	 (NP a fireworks display)
+	 (PP-TMP at
+		 (NP halftime)))
+     .
+     E_S))
+( (CODE SpeakerB26 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	?
+	E_S))
+( (CODE SpeakerA27 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S and
+     (NP-SBJ (NP (NP some paper)
+		 or
+		 (NP something))
+	     (PP-LOC in
+		     (NP the Super Dome))
+	     (PP-LOC up
+		     (PP in
+			 (NP the roof))))
+     (VP caught
+	 (PP on
+	     (NP fire)))
+     .
+     E_S))
+( (CODE SpeakerB28 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ you)
+     (VP 're
+	 (VP kidding))
+     .
+     E_S))
+( (CODE SpeakerA29 .))
+( (S So
+     ,
+     (NP-SBJ-1 they)
+     (VP had
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP (VP stop
+			(NP the game)
+			(PP in
+			    (NP (NP lieu)
+				(PP of
+				    (NP the third quarter)))))
+		    and
+		    (VP put
+			(PRT out)
+			(NP this fire))))))
+     .
+     E_S))
+( (CODE SpeakerB30 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ-UNF my gos-)
+	,
+	N_S))
+( (CODE SpeakerA31 .))
+( (S (NP-SBJ-1 (NP Those big piece)
+	       (PP of
+		   (NP something)))
+     (VP (VP came
+	     (S-ADV (NP-SBJ *-1) 
+		    (EDITED (RM [)
+			    (VP-UNF flaming)
+			    ,
+			    (IP +))
+		    (VP falling
+			(RS ])
+			(PP out
+			    (PP of
+				(NP the roof))))))
+	 and
+	 (VP landed
+	     (PP-LOC on
+		     (NP the field))))
+     E_S))
+( (S so
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD this big fire)
+	 (PP-LOC on
+		 (NP the field)))
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP were
+	 (VP dumping
+	     (NP (NP the Gatorade bucket)
+		 and
+		 (NP everything))))
+     .
+     E_S))
+( (CODE SpeakerB32 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP ca
+	 n't
+	 (VP believe
+	     (NP that)))
+     .
+     E_S))
+( (CODE SpeakerA33 .))
+( (S (NP-SBJ It)
+     (VP was
+	 (ADJP-PRD-UNF funn-))
+     ,
+     E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ you)
+     (ADVP just)
+     (ADVP really)
+     (VP ca
+	 n't
+	 (VP tell
+	     (SBAR (WHNP-1 what)
+		   (S (NP-SBJ-2 *T*-1)
+		      (VP 's
+			  (VP going
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP happen)))))))))
+     .
+     E_S))
+( (CODE SpeakerB34 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD hilarious))
+     .
+     E_S))
+( (CODE SpeakerA35 .))
+( (S (NP-SBJ I)
+     (VP know)
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (SBAR-PRD like
+		   (S (ADVP-TMP (NP (QP about two) weeks) ago)
+		      (NP-SBJ I)
+		      (VP was
+			  (VP watching
+			      (NP the Saints))))))
+     .
+     E_S))
+( (CODE SpeakerB36 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA37 .))
+( (S And
+     (NP-SBJ Morton Anderson)
+     (VP kicked
+	 (NP a (ADJP sixty yard) field goal))
+     .
+     E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA39 .))
+( (S And
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP was
+	 (UCP-PRD (ADJP beautiful)
+		  ,
+		  (PP (ADVP right)
+		      down
+		      (NP the middle))))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ boy)
+	.
+	E_S))
+( (S (NP-SBJ He)
+     (VP is
+	 (ADJP-PRD tough))
+     ,
+     E_S))
+( (S (NP-SBJ he)
+     (VP has
+	 (NP an incredible leg))
+     .
+     E_S))
+( (CODE SpeakerA41 .))
+( (S (NP-SBJ He)
+     (VP is
+	 (ADJP-PRD *?*))
+     .
+     E_S))
+( (CODE SpeakerB42 .))
+( (CODE SpeakerA43 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerB44 .))
+( (SQ (INTJ Well)
+      ,
+      do
+      (NP-SBJ you)
+      (VP think
+	  (SBAR 0
+		(S (EDITED (RM [)
+			   (S (NP-SBJ they)
+			      (VP-UNF 're))
+			   ,
+			   (IP +))
+		   (NP-SBJ-1 they)
+		   (VP 're
+		       (RS ])
+		       (VP going
+			   (S (NP-SBJ-2 *-1)
+			      (VP to
+				  (VP be
+				      (ADJP-PRD able
+						(S (NP-SBJ *-2)
+						   (VP to
+						       (VP make
+							   (NP it)
+							   (NP-TMP this year)
+							   ,
+							   (PP past
+							       (NP the first playoff game))))))))))))))
+      ?
+      E_S))
+( (CODE SpeakerA45 .))
+( (S (INTJ Uh)
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(ADVP-UNF s-))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (ADVP sure)
+     (RS ])
+     (VP hope
+	 (ADVP-MNR so))
+     .
+     E_S))
+( (CODE SpeakerB46 .))
+( (CODE SpeakerA47 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP 'm
+		    not
+		    (ADJP-PRD sure)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 not
+	 (ADJP-PRD sure
+		   (RS ])
+		   (SBAR (WHNP-1 who)
+			 (S (NP-SBJ they)
+			    (VP play
+				(NP *T*-1))))))
+     .
+     E_S))
+( (S (NP-TMP Right now)
+     (NP-SBJ I)
+     (VP 've
+	 (VP got
+	     (S (NP-SBJ it)
+		(ADJP-PRD narrowed down
+			  (PP to
+			      (NP the top four teams))))))
+     .
+     E_S))
+( (CODE SpeakerB48 .))
+( (SBARQ (WHNP-1 Who)
+	 (SQ 's
+	     (NP-SBJ that)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerA49 .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADVP pretty much)
+	 (VP going
+	     (PP between
+		 (NP (NP Washington)
+		     (PRN .
+			  (S (NP-SBJ They)
+			     (VP are
+				 (ADJP-PRD undefeated)))
+			  .)
+		     And
+		     ,
+		     (INTJ uh)
+		     ,
+		     (NP Buffalo)
+		     ,
+		     (NP New Orleans)
+		     ,
+		     and
+		     (NP Chicago)))
+	     (SBAR-PRP because
+		       (S (NP-SBJ Chicago)
+			  (VP has
+			      (ADVP only)
+			      (VP lost
+				  (ADVP-TMP twice)))))))
+     E_S))
+( (CODE SpeakerB50 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA51 .))
+( (S and
+     (NP-SBJ (NP one)
+	     (PP of
+		 (NP those)))
+     (VP was
+	 (PP-PRD to
+		 (NP Buffalo)))
+     .
+     E_S))
+( (S And
+     (NP-SBJ they)
+     (VP beat
+	 (NP the Saints))
+     .
+     E_S))
+( (NP (NP Their only time)
+      (SBAR (WHADVP-1 0)
+	    (S (NP-SBJ they)
+	       (VP lost
+		   (ADVP-TMP *T*-1))))
+      .
+      E_S))
+( (CODE SpeakerB52 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP think
+		 (NP *T*-1)
+		 (PP about
+		     ,
+		     (INTJ uh)
+		     ,
+		     (NP Houston))))
+	 ?
+	 E_S))
+( (CODE SpeakerA53 .))
+( (NP Houston
+      .
+      E_S))
+( (S (NP-SBJ I)
+     (VP saw
+	 (S (NP-SBJ Houston)
+	    (VP play
+		(NP-TMP this summer)
+		(PP-LOC in
+			(NP Memphis)))))
+     .
+     E_S))
+( (CODE SpeakerB54 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	?
+	E_S))
+( (CODE SpeakerA55 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (PP from
+	 (SBAR-NOM (WHNP-1 what)
+		   (S (NP-SBJ I)
+		      (VP saw
+			  (NP *T*-1)))))
+     (NP-SBJ they)
+     (VP were
+	 (VP-UNF playing))
+     ,
+     N_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ I)
+		  (VP was
+		      (PP-PRD at
+			      (NP the game))
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ we)
+     (VP sat
+	 (PP-LOC (ADVP right)
+		 on
+		 (NP the front row))
+	 ,
+	 (PP-LOC (ADVP right)
+		 behind
+		 (NP the Houston Oilers)))
+     ,
+     E_S))
+( (CODE SpeakerB56 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerA57 .))
+( (S and
+     (PP from
+	 (SBAR-NOM (WHNP-1 what)
+		   (S (NP-SBJ I)
+		      (VP saw
+			  (NP *T*-1)
+			  (X (NP the game))))))
+     (EDITED (RM [)
+	     (NP-SBJ Houston)
+	     ,
+	     (IP +))
+     (NP-SBJ Houston)
+     (RS ])
+     (VP impressed
+	 (NP me)
+	 (NP-ADV a lot))
+     .
+     E_S))
+( (CODE SpeakerB58 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerA59 .))
+( (S But
+     (NP-SBJ my brother)
+     (VP (VP watched
+	     (NP it)
+	     (PP on
+		 (NP T V)))
+	 and
+	 (VP said
+	     (SBAR that
+		   (S (NP-SBJ Warren Moon)
+		      (VP was
+			  (ADVP just)
+			  (VP having
+			      (NP an off night)))))))
+     ,
+     E_S))
+( (S and
+     (SBAR-ADV if
+	       (S (NP-SBJ that)
+		  (VP was
+		      (NP-PRD an off night))))
+     (NP-SBJ-1 I)
+     (VP 'd
+	 (VP hate
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP see
+			(SBAR-TMP (WHADVP-2 when)
+				  (S (NP-SBJ he)
+				     (VP 's
+					 (PP-PRD on
+						 (NP a good night))
+					 (ADVP-TMP *T*-2)))))))))
+     .
+     E_S))
+( (CODE SpeakerB60 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (S-TPC-1 (EDITED (RM [)
+		      (S (NP-SBJ he)
+			 (VP-UNF 's))
+		      (IP +))
+	      (NP-SBJ he)
+	      (ADVP definitely)
+	      ,
+	      (INTJ uh)
+	      ,
+	      (VP is
+		  (RS ])
+		  (NP-PRD (NP one)
+			  (PP of
+			      (NP the best)))))
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S *T*-1)))
+     .
+     E_S))
+( (CODE SpeakerA61 .))
+( (S (NP-SBJ He)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (CODE SpeakerB62 .))
+( (CODE SpeakerA63 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF the)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF their)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ their
+	     (RS ])
+	     backfield)
+     (VP is
+	 (ADJP-PRD really impressive))
+     .
+     E_S))
+( (NP (NP Haywood Jeffreys)
+      and
+      (NP Drew Hill)
+      and
+      (NP Allen MUMBLEx)
+      ,
+      E_S))
+( (CODE SpeakerB64 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA65 .))
+( (S (NP-SBJ they)
+     (ADVP really)
+     (VP impress
+	 (NP me))
+     .
+     E_S))
+( (CODE SpeakerB66 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ they)
+     (VP squeaked
+	 (PRT out)
+	 (NP a game)
+	 (PP-TMP on
+		 (NP Sunday)))
+     .
+     E_S))
+( (CODE SpeakerA67 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (SBARQ (EDITED (RM [)
+		 (WHNP Who)
+		 ,
+		 (IP +))
+	 (WHNP-1 who)
+	 (RS ])
+	 (SQ did
+	     (NP-SBJ they)
+	     (VP play
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerB68 .))
+( (S (NP-SBJ They)
+     (VP played
+	 (NP Dallas))
+     .
+     E_S))
+( (CODE SpeakerA69 .))
+( (NP Dallas
+      ,
+      E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD right))
+     ,
+     E_S))
+( (CODE SpeakerB70 .))
+( (S (NP-SBJ They)
+     (VP won
+	 ,
+	 (PP in
+	     (NP overtime)))
+     .
+     E_S))
+( (CODE SpeakerA71 .))
+( (FRAG (ADVP all)
+	(SBAR-PRP-UNF because)
+	,
+	N_S))
+( (CODE SpeakerB72 .))
+( (CODE SpeakerA73 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP remember
+	 (NP that)
+	 (ADVP-TMP now))
+     .
+     E_S))
+( (CODE SpeakerB74 .))
+( (S So
+     (NP-SBJ that)
+     (VP-UNF was)
+     ,
+     N_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP watched
+	 (NP that game))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ that)
+     (VP-UNF was
+	     ,
+	     (INTJ uh))
+     ,
+     N_S))
+( (CODE SpeakerA75 .))
+( (SQ Do
+      (NP-SBJ you)
+      (VP have
+	  (NP a favorite)
+	  (PP between
+	      (NP those two)))
+      ?
+      E_S))
+( (CODE SpeakerB76 .))
+( (S (INTJ Well)
+     ,
+     (SBAR-PRP because
+	       (S (NP-SBJ I)
+		  (VP 'm
+		      (ADVP-LOC-PRD right here
+				    (PP in
+					(NP Dallas))))))
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (ADVP kind of)
+     (VP pull
+	 (PP for
+	     (NP Dallas)))
+     .
+     E_S))
+( (CODE SpeakerA77 .))
+( (INTJ Really
+	?
+	.
+	E_S))
+( (CODE SpeakerB78 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (ADVP also)
+     (NP-SBJ Houston)
+     (VP is
+	 ,
+	 (INTJ uh)
+	 ,
+	 (PP-LOC-PRD in
+		     (NP (NP Pittsburgh 's)
+			 division)))
+     E_S))
+( (S so
+     ,
+     (NP-SBJ I)
+     (VP 'll
+	 (ADVP-TMP almost always)
+	 (VP root
+	     (PP against
+		 (NP them))))
+     .
+     E_S))
+( (CODE SpeakerA79 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (CODE SpeakerB80 .))
+( (CODE SpeakerA81 .))
+( (X MUMBLEx
+     .))
+( (CODE SpeakerB82 .))
+( (CODE SpeakerA83 .))
+( (S (NP-SBJ-1 I)
+     (VP hate
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP say
+		    (NP it)))))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP hate
+	 (NP Dallas))
+     .
+     E_S))
+( (CODE SpeakerB84 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD okay))
+     .
+     E_S))
+( (S (INTJ Well)
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (S-UNF (PRN (S (NP-SBJ you)
+			    (VP know))
+			 ,)
+		    (NP-SBJ I))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP was
+	 (ADVP-TMP never)
+	 (ADVP really)
+	 (NP-PRD a big Dallas fan)
+	 (SBAR-TMP until
+		   (S (NP-SBJ we)
+		      (VP moved
+			  (ADVP-DIR here)))))
+     E_S))
+( (CODE SpeakerA85 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB86 .))
+( (S and
+     (NP-SBJ they)
+     (ADVP just)
+     (ADVP kind of)
+     (VP grew
+	 (PP on
+	     (NP me)))
+     .
+     E_S))
+( (CODE SpeakerA87 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP imagine)
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD the way))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 (ADVP-TMP never)
+	 (VP been
+	     (NP-PRD a big Saints fan)
+	     (PP-TMP until
+		     (NP the last year
+			 (QP or two)))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 they)
+     (VP 've
+	 (RS ])
+	 (ADVP actually)
+	 (VP started
+	     (S (NP-SBJ *-1)
+		(VP doing
+		    (NP something)))))
+     .
+     E_S))
+( (CODE SpeakerB88 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA89 .))
+( (S So
+     ,
+     (NP-SBJ I)
+     (VP 've
+	 (ADVP actually)
+	 (EDITED (RM [)
+		 (VP-UNF pl-)
+		 ,
+		 (IP +))
+	 (VP paid
+	     (RS ])
+	     (NP attention)
+	     (PP-DTV to
+		     (NP them))))
+     .
+     E_S))
+( (CODE SpeakerB90 .))
+( (INTJ Well
+	,
+	N_S))
+( (CODE SpeakerA91 .))
+( (SQ (INTJ Well)
+      ,
+      do
+      (NP-SBJ you)
+      (VP know
+	  (NP (NP anything)
+	      (PP about
+		  (NP (NP the expansion teams)
+		      (SBAR (WHNP-1 0)
+			    (S (NP-SBJ they)
+			       (VP 're
+				   (VP thinking
+				       (PP about
+					   (S-NOM (NP-SBJ *)
+						  (VP bringing
+						      (NP *T*-1)
+						      (PRT in))))))))))))
+      ?
+      E_S))
+( (CODE SpeakerB92 .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP To
+		(VP tell
+		    (NP you)
+		    (NP the truth))))
+     (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP paid
+	     (NP (ADJP too much) attention)
+	     (PP-DTV to
+		     (NP that))))
+     .
+     E_S))
+( (CODE SpeakerA93 .))
+( (INTJ Really
+	?
+	E_S))
+( (CODE SpeakerB94 .))
+( (SBARQ (INTJ Um)
+	 ,
+	 (WHNP-1 what cities)
+	 (SQ are
+	     (NP-SBJ they)
+	     (VP looking
+		 (PP at
+		     (NP *T*-1))))
+	 ?
+	 E_S))
+( (CODE SpeakerA95 .))
+( (S (INTJ Uh)
+     ,
+     (ADVP-TMP right now)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-TPC this Memphis)
+		  ,
+		  (EDITED (RM [)
+			  (S (NP-SBJ they)
+			     (VP-UNF 're))
+			  ,
+			  (IP +))
+		  (NP-SBJ-1 they)
+		  (VP 're
+		      (RS ])
+		      (VP trying
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP get
+				     (NP the teams)))))))))
+     .
+     E_S))
+( (CODE SpeakerB96 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA97 .))
+( (S And
+     (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (SBAR-LOC-PRD (WHADVP-1 where)
+		       (S (NP-SBJ I)
+			  (VP was
+			      (ADVP-LOC-PRD *T*-1))))
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ I)
+		      (VP saw
+			  ,
+			  (INTJ uh)
+			  ,
+			  (S (NP-SBJ Houston)
+			     (VP play))
+			  (ADVP-TMP *T*-2)))))
+     .
+     E_S))
+( (CODE SpeakerB98 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA99 .))
+( (S (NP-SBJ-1 Saint Louis)
+     (VP is
+	 (VP trying
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(NP a team))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ-1 Baltimore)
+     (VP is
+	 (VP trying
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(NP a team))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD some other city))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP wanting
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP say
+			(FRAG (NP Raleigh Durham)))))))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP 'm
+	 not
+	 (ADJP-PRD sure))
+     .
+     E_S))
+( (CODE SpeakerB100 .))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ you)
+		  (VP are
+		      (ADJP-PRD right)))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP is
+		      (NP-PRD Raleigh)))))
+     .
+     E_S))
+( (CODE SpeakerA101 .))
+( (SQ (NP-SBJ *)
+      (VP Think
+	  (ADVP-MNR so))
+      ?
+      E_S))
+( (CODE SpeakerB102 .))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 I)
+		  (VP remember
+		      (S (NP-SBJ *-1)
+			 (VP hearing
+			     (NP that)))))))
+     .
+     E_S))
+( (CODE SpeakerA103 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (SBAR-PRP Because
+	    (S (NP-SBJ I)
+	       (VP know
+		   (SBAR 0
+			 (S (NP-SBJ they)
+			    (VP 've
+				(VP got
+				    (NP a (X MUMBLEx) football team)))))))
+	    E_S))
+( (S but
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP might
+		      (VP be
+			  (NP-PRD them))))))
+     .
+     E_S))
+( (CODE SpeakerB104 .))
+( (S (NP-SBJ That)
+     (VP would
+	 (VP be
+	     (ADJP-PRD fun)))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 'd
+	 (VP like
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP see
+			(S (NP-SBJ (ADJP some more) teams)
+			   (VP get
+			       (PRT in))))))))
+     .
+     E_S))
+( (CODE SpeakerA105 .))
+( (S (NP-SBJ I)
+     (VP would
+	 (VP *?*
+	     ,
+	     (ADVP definitely)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 they)
+		  (VP are
+		      (VP supposed
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP put
+				     (NP two)
+				     (PRT in)
+				     (PP-TMP by
+					     (NP either
+						 (NP next year)
+						 or
+						 (NP (NP the year)
+						     (ADVP after))))))))))))
+     .
+     E_S))
+( (S And
+     (ADVP-TMP right now)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (EDITED (RM [)
+			  (S (NP-SBJ-UNF Memphis and))
+			  ,
+			  (IP +))
+		  (NP-SBJ it)
+		  (VP 's
+		      (NP-PRD (NP Memphis
+				  and
+				  (RS ])
+				  (PRN (S (NP-SBJ I)
+					  (VP think)))
+				  Baltimore)
+			      (SBAR (WHNP-1 0)
+				    (S (NP-SBJ *T*-1)
+				       (VP have
+					   (NP a (ADJP really good) shot)
+					   (PP at
+					       (NP it))))))))))
+     .
+     E_S))
+( (CODE SpeakerB106 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA107 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ I)
+	       (VP know
+		   (SBAR 0
+			 (S (NP-SBJ Saint Louis)
+			    (VP is
+				(ADJP-PRD (ADJP much bigger)
+					  (PP than
+					      (NP Memphis))))))))
+	    E_S))
+( (S and
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ I)
+		  (VP went
+		      (PP-DIR up
+			      (ADVP there))
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ they)
+     (VP were
+	 (VP saying
+	     (SBAR that
+		   (S (NP-SBJ Memphis)
+		      (VP sold
+			  (NP (NP more tickets)
+			      (SBAR than
+				    (S (NP-SBJ Saint Louis)
+				       (VP did)))))))))
+     .
+     E_S))
+( (CODE SpeakerB108 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerA109 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (SBAR-PRD like
+		   (S (NP-SBJ (NP the
+				  (EDITED (RM [)
+					  Liberty Bowl
+					  (IP +)
+					  or)
+				  Liberty Stadium
+				  (RS ]))
+			      (PP-LOC in
+				      (NP Memphis)))
+		      (VP holds
+			  (NP-UNF (QP about sixty-two))))))
+     ,
+     N_S))

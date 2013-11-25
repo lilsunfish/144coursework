@@ -1,0 +1,119 @@
+
+
+( (S (NP-SBJ (NP Unilab Corp.)
+             ,
+             (NP (NP Norcross)
+                 ,
+                 (NP Ga.))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP acquired
+                      (NP (NP the clinical laboratories)
+                          (PP of
+                              (NP (ADJP closely held)
+                                  Central Diagnostic Laboratory Inc.)))
+                      (PP-LOC in
+			      (NP (NP a cash and securities transaction)
+				  (VP valued
+				      (NP *)
+				      (PP-CLR at
+					      (NP (QP $ 85 million) *U*)))))))))
+     .))
+( (S (NP-SBJ Unilab)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its
+                          (ADJP wholly owned)
+                          MetWest Inc. unit)
+                  (VP (VP paid
+                          (NP (NP (QP $ 25 million) *U*)
+                              (PP in
+                                  (NP cash))))
+                      ,
+                      (VP provided
+                          (NP (NP (NP (QP $ 30 million) *U*)
+                                  (PP in
+                                      (NP notes)))
+                              and
+                              (NP (NP (QP $ 30 million) *U*)
+                                  (PP in
+                                      (NP preferred stock)))))
+		      (S-PRP (NP-SBJ *)
+			     (VP to
+				 (VP acquire
+				     (NP (NP (NP Central 's)
+					     labs)
+					 (PP-LOC in
+						 (NP the Western U.S))))))))))
+     .))
+( (S (NP-SBJ (NP Unilab)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP provides
+                          (NP clinical laboratory services))))
+             ,)
+     (VP competed
+         (PP-CLR with
+		 (NP (NP Central)
+		     ,
+		     (VP based
+			 (NP *)
+			 (PP-LOC-CLR in
+				     (NP (NP Tarzana)
+					 ,
+					 (NP Calif.))))))
+	 ,
+	 (PP-LOC in
+		 (NP (NP a number)
+		     (PP of
+			 (NP areas)))))
+     .))
+( (SINV (S-TPC-1 (PP Beyond
+		     (S-NOM (NP-SBJ *-2)
+			    (VP removing
+				(NP a competitor))))
+		 ,
+		 (NP-SBJ-2 the combination)
+		 (VP should
+		     (VP provide ``
+			 (NP synergies))))
+	, ''
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Fred Harlow)
+		,
+		(NP (NP Unilab 's)
+		    chief financial officer))
+	.))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (VP will
+         (VP hand
+             (NP Unilab)
+             (NP new markets)))
+     .))
+( (S (PP-LOC In
+	     (NP Los Angeles))
+     ,
+     (PP for
+         (NP example))
+     ,
+     (NP-SBJ Central)
+     (VP has
+	 (VP had
+	     (NP a strong market position)
+	     (SBAR-ADV while
+		       (S (NP-SBJ (NP Unilab 's)
+				  presence)
+			  (VP has
+			      (VP been
+				  (ADJP-PRD less prominent)))))
+	     ,
+	     (PP according
+		 (PP to
+		     (NP Mr. Harlow)))))
+     .))

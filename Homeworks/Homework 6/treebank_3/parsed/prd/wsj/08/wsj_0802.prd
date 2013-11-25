@@ -1,0 +1,90 @@
+
+
+((S (SBAR-ADV As
+	      (S (NP-SBJ *)
+		 (VP expected)))
+    ,
+    (NP-SBJ First Interstate Bancorp)
+    (VP reported
+	(NP (NP a net loss)
+	    (PP of
+		(NP (QP $ 15.5 million) *U*))
+	    (PP for
+		(NP its third quarter)))
+	(PP-PRP because of
+		(NP (NP hemorrhaging)
+		    (PP-LOC at
+			    (NP its
+				(NAC First Interstate Bank
+				     (PP of
+					 (NP Arizona)))
+				unit)))))
+    .))
+((S (NP-SBJ The
+	    (ADJP Los Angeles-based)
+	    bank holding company)
+    (VP disclosed
+	(NP-TMP last Friday)
+	(SBAR that
+	      (S (NP-SBJ it)
+		 (VP had
+		     (VP taken
+			 (NP (NP a huge
+				 (ADJP (QP $ 350 million) *U*)
+				 provision)
+			     (PP for
+				 (NP (NP (NP loan losses)
+					 (PP-LOC at
+						 (NP the Arizona bank)))
+				     ,
+				     (NP (NP the result)
+					 (PP of
+					     (NP (NP the state 's)
+						 worsening real-estate market)))))))))))
+    .))
+((S (PP-LOC In
+	    (NP (NP yesterday 's)
+		report))
+    ,
+    (NP-SBJ First Interstate)
+    (VP said
+	(SBAR 0
+	      (S (NP-SBJ (NP its bank)
+			 (PP-LOC in
+				 (NP Texas)))
+		 (ADVP also)
+		 (VP reported
+		     (NP (NP a loss)
+			 (PP of
+			     (NP (QP $ 23.5 million) *U*))
+			 (PP for
+			     (NP the quarter)))))))
+    .))
+((S But
+    (NP-SBJ it)
+    (VP said
+	(SBAR (SBAR that
+		    (S (NP-SBJ (NP its consumer banks)
+			       (PP-LOC in
+				       (NP Oregon
+					   ,
+					   California
+					   ,
+					   Nevada
+					   and
+					   Washington)))
+		       (VP performed
+			   (ADVP-MNR well)
+			   (PP-TMP during
+				   (NP the quarter)))))
+	      and
+	      (SBAR that
+		    (S (NP-SBJ (NP nonperforming assets)
+			       (PP-LOC at
+				       (NP these banks)))
+		       (VP declined
+			   (PP-EXT by
+				   (NP 14 %))
+			   (PP-TMP over
+				   (NP the year-ago period)))))))
+    .))

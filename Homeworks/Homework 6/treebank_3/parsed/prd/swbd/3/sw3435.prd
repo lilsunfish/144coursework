@@ -1,0 +1,1691 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (S-IMP (NP-SBJ *)
+	 (VP Push
+	     (NP my number))
+	 .
+	 E_S))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB2 .))
+( (INTJ Okay
+	.
+	E_S))
+( (SQ (INTJ So)
+      are
+      (NP-SBJ you)
+      (EDITED (RM [)
+	      (EDITED (RM [)
+		      (NP-PRD-UNF a)
+		      ,
+		      (IP +))
+	      (NP-UNF-PRD a)
+	      ,
+	      (RS ])
+	      (IP +))
+      (NP-PRD a
+	      (RS ])
+	      golfer)
+      E_S))
+( (SQ or
+      are
+      (NP-SBJ you)
+      (NP-PRD a spectator)
+      ?
+      E_S))
+( (CODE SpeakerA3 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (NP-PRD-UNF a))
+     ,
+     N_S))
+( (S (NP-SBJ I)
+     (VP play
+	 (NP golf))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (ADVP actually)
+	 (VP play
+	     (NP golf)))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (NP-MNR-PRD the same way))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP (VP go
+	     (PP-DIR out
+		     (ADVP there)))
+	 and
+	 (VP hit
+	     (NP the ball)))
+     .
+     E_S))
+( (CODE SpeakerA5 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB6 .))
+( (CODE SpeakerA7 .))
+( (S (NP-SBJ *)
+     (VP Hack
+	 (NP it)
+	 (PP-LOC all over 
+		 (NP the place)))
+     ?
+     E_S))
+( (CODE SpeakerB8 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA9 .))
+( (SQ (S (NP-SBJ It)
+	 (VP 's 
+	     (ADJP-PRD sickening)))
+      ,
+      (SQ is
+	  n't
+	  (NP-SBJ it)
+	  (ADJP-PRD *?*))
+      ?
+      E_S))
+( (CODE SpeakerB10 .))
+( (S (INTJ Um)
+     ,
+     (INTJ uh)
+     ,
+     (INTJ well)
+     ,
+     (PP-LOC in
+	     (NP the Carolinas)) 
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADVP just)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))
+	      ,)
+	 (SBAR-PRD 0
+		   (S (NP-SBJ we)
+		      (VP 've
+			  (VP got
+			      (NP (NP a bunch)
+				  (PP of
+				      (NP golf courses)))
+			      (PP-LOC around
+				      (ADVP here)))))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ We)
+     (VP 've
+	 (NP got
+	     (NP tons)
+	     (PP-LOC up
+		     (ADVP here))))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     .
+     E_S))
+( (SBARQ (WHADVP-1 How)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP feel
+		 (ADVP-MNR *T*-1)
+		 (PP about
+		     (NP your game))))
+	 ?
+	 E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (NP-PRD a good question)))))
+     ?
+     E_S))
+( (CODE SpeakerB12 .))
+( (S (INTJ Uh)
+     ,
+     (INTJ well)
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean)))
+     (NP-SBJ I)
+     (VP 'm
+	 not
+	 (NP-PRD a serious golfer)
+	 (ADVP at all))
+     ,
+     E_S))
+( (S (INTJ uh)
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ-1 (NP a friend)
+	       (PP of
+		   (NP mine)))
+     (VP goes
+	 (S (NP-SBJ *-1)
+	    (VP golfing
+		(NP-ADV a lot)))) 
+     E_S))
+( (S and
+     (NP-SBJ he)
+     (VP drags
+	 (NP me)
+	 (ADVP-DIR out)
+	 (ADVP-TMP every now and then))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (INTJ uh)
+	     ,
+	     (S (NP-SBJ I)
+		(VP do
+		    n't
+		    (VP have
+			(NP-UNF a))))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (ADVP really)
+	 (ADVP even)
+	 (VP have
+	     (NP a
+		 (RS ])
+		 game)))
+     .
+     E_S))
+(  (S-UNF (NP-SBJ I)
+	  (ADVP-TMP usually)
+	  N_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ I)
+		  (VP (VP go
+			  (ADVP-DIR out))
+		      and
+		      (VP play
+			  (NP golf))
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ it)
+     (VP 's
+	 (ADVP-TMP usually)
+	 (INTJ like)
+	 (EDITED (RM [)
+		 (PP-LOC-PRD at
+			     (NP-UNF a))
+		 ,
+		 (IP +))
+	 (PP-LOC-PRD at
+		     (NP (NP one)
+			 (PP of
+			     (NP (NP these
+				     (RS ])
+				     par threes)
+				 (SBAR (WHNP that)
+				       (PRN ,
+					    (S (NP-SBJ you)
+					       (VP know))
+					    ,)
+				       (S-UNF (NP-SBJ you))))))))
+     ,
+     N_S))
+( (CODE SpeakerA13 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB14 .))
+( (S but
+     ,
+     (INTJ um)
+     ,
+     (NP-SBJ-1 I)
+     (VP like
+	 (S (NP-SBJ *-1)
+	    (VP watching
+		(NP it)
+		(PP on
+		    (NP T V)))))
+     .
+     E_S))
+( (CODE SpeakerA15 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP like
+	 (NP that)
+	 (ADVP too))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (S-UNF (INTJ Uh)
+	 ,
+	 (INTJ Well)
+	 ,
+	 (EDITED (RM [)
+		 (EDITED (RM [)
+			 (EDITED (RM [)
+				 (NP-SBJ I)
+				 ,
+				 (IP +))
+			 (NP-SBJ I)
+			 ,
+			 (RS ])
+			 (IP +))
+		 (NP-SBJ I)
+		 ,
+		 (RS ])
+		 (IP +))
+	 (SBAR-ADV if
+		   (S (EDITED (RM [)
+			      (S (NP-SBJ I)
+				 (VP-UNF can))
+			      ,
+			      (IP +))
+		      (NP-SBJ I)
+		      (VP can
+			  (RS ])
+			  (RS ])
+			  (VP hit
+			      (NP a great deal)))))
+	 (INTJ like)
+	 ,
+	 (INTJ um)
+	 ,
+	 (EDITED (RM [)
+		 (EDITED (RM [)
+			 (NP-SBJ they)
+			 ,
+			 (IP +))
+		 (NP-SBJ they)
+		 ,
+		 (RS ])
+		 (IP +))
+	 (NP-SBJ my friends)
+	 (RS ])
+	 E_S))
+( (CODE SpeakerA17 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP try
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP play))))
+     ,
+     E_S))
+( (S but
+     (INTJ God) 
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (ADVP-TMP (NP a couple years)
+	       ago)
+     (NP-SBJ I)
+     (RS ])
+     (VP (VP played
+	     (NP-TMP (NP (QP two , three)  
+			 times)
+		     (NP-ADV a week)))
+	 and
+	 (VP got
+	     (ADJP-PRD lousy)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (S-SBJ (NP-SBJ that)
+			 (VP 's
+			     (NP-PRD (NP the best) 
+				     (SBAR (WHNP-1 0)
+					   (S (NP-SBJ I)
+					      (ADVP-TMP ever)
+					      (VP got
+						  (NP *T*-1)))))))
+		  (VP was
+		      (ADJP-PRD lousy)))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP thought
+	 (SBAR 0
+	       (S (S (NP-SBJ I)
+		     (VP was
+			 (ADVP really)
+			 (VP improving)))
+		  and
+		  (S (NP-SBJ-1 the big break)
+		     (VP was
+			 (VP going
+			     (S (NP-SBJ *-1)
+				(VP to
+				    (VP come)))))))))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (VP got
+	 (ADJP-PRD worse)
+	 (ADVP again))
+     E_S))
+( (S-UNF so
+	 .
+	 N_S))
+( (CODE SpeakerB18 .))
+( (S (S-PRP (NP-SBJ *)
+	    (VP to
+		(VP get
+		    (NP me))))
+     (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP say
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP hit
+		      (NP worm burners))))
+	 (SBAR-PRP because
+		   (S (EDITED (RM [)
+			      (NP-SBJ I)
+			      ,
+			      (IP +))
+		      (NP-SBJ I)
+		      (RS ])
+		      (VP ca
+			  n't
+			  (VP hit
+			      (NP it)
+			      (PP-DIR up
+				      (PP in
+					  (NP the air))))))))
+     .
+     E_S))
+( (CODE SpeakerA19 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB20 .))
+( (S (INTJ So)
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD pretty bad))
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ-1 I)
+     (RS ])
+     (VP get
+	 (NP great distance)
+	 (S-ADV (NP-SBJ *-1)
+		(VP hitting
+		    (NP it)
+		    (PRN ,
+			 (S (NP-SBJ you)
+			    (VP know))
+			 ,)
+		    (X MUMBLEx)
+		    (PP-DIR across
+			    (NP the ground)))))
+     ,
+     E_S))
+( (S and
+     (SBAR-ADV if
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (VP (VP going
+			      (PP-DIR over
+				      (NP water)))
+			  or
+			  (NP-ETC something)))))
+     (NP-SBJ-1 (NP one)
+	       (PP of
+		   (NP them)))
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP take
+		    (NP the shot)
+		    (PP for
+			(NP me)))))
+	 (SBAR-PRP because
+		   (S (NP-SBJ I)
+		      (VP-UNF 'm))))
+     ,
+     N_S))
+( (S but
+     (NP-SBJ I)
+     (VP 'm
+	 (VP getting
+	     (ADJP-PRD better)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 (VP got
+	     (SBAR-DIR (WHADVP-1 where)
+		       (S (ADVP-TMP now)
+			  (NP-SBJ I)
+			  (VP can
+			      (VP hit
+				  (NP it)
+				  (EDITED (RM [)
+					  (PP-DIR-UNF in)
+					  ,
+					  (IP +))
+				  (PP in
+				      (RS ])
+				      (NP the air))
+				  (NP-TMP (NP some)
+					  (PP of
+					      (NP the time)))
+				  (ADVP *T*-1)))))))
+     .
+     E_S))
+( (CODE SpeakerA21 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD pretty good))
+     .
+     E_S))
+( (CODE SpeakerB22 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     so
+     (NP-SBJ I)
+     (VP 'm
+	 (ADVP kind of)
+	 (NP-PRD (NP a novice)
+		 (PP at
+		     (NP it))))
+     .
+     E_S))
+( (CODE SpeakerA23 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (UCP-PRD (NP that)
+		  and
+		  (ADJP worse)))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP-UNF play)
+     N_S))
+( (S-UNF (NP-TMP next year)
+	 (NP-SBJ I)
+	 ,
+	 N_S))
+( (S (ADVP actually)
+     (NP-SBJ I)
+     (VP take
+	 (NP it)
+	 (ADVP (ADVP kind of)
+	       seriously))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP 've
+	 (VP been
+	     (VP doing
+		 (ADVP-MNR so bad))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-TMP Next year)
+	     ,
+	     (IP +)
+	     (PRN (S (NP-SBJ I)
+		     (ADVP-TMP always) 
+		     (VP say
+			 (NP this)
+			 (NP-TMP every year)))
+		  ,)
+	     but)
+     (NP-TMP next year)
+     (RS ])
+     (NP-SBJ I)
+     (VP 'm
+	 (VP starting
+	     (PRT over)
+	     (PP from
+		 (NP scratch))))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP going
+	     (S (NP-SBJ-2 *-1)
+		(VP to
+		    (VP go
+			(S (NP-SBJ *-2)
+			   (VP (VP take
+				   (NP lessons))
+			       and
+			       (NP-ETC everything))))))))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP (VP do
+			    (NP it)
+			    (ADVP-MNR right))
+			,
+			and
+			(VP see
+			    (SBAR if
+				  (S (NP-SBJ I)
+				     (VP can
+					 (ADVP actually)
+					 (VP (VP play
+						 (NP this game))
+					     or
+					     (VP (FRAG not))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB24 .))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ that)
+	     (IP +)
+	     (RS ]))
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP guess
+	 (SBAR 0
+	       (S (S-SBJ (NP-SBJ that)
+			 (VP 's
+			     (SBAR-NOM-PRD (WHNP-2 what)
+					   (S (NP-SBJ-1 I)
+					      (VP need
+						  (S (NP-SBJ *-1)
+						     (VP to
+							 (VP do
+							     (NP *T*-2)))))))))
+		  (EDITED (RM [)
+			  (VP-UNF is)
+			  ,
+			  (IP +))
+		  (VP is
+		      (RS ])
+		      (S-PRD (NP-SBJ *)
+			     (VP (VP get
+				     (NP (NP some kind)
+					 (PP of
+					     (NP lessons))))
+				 or
+				 (NP-ETC something)))))))
+     .
+     E_S))
+( (SBAR-PRP Because
+	    (S (EDITED (RM [)
+		       (EDITED (RM [)
+			       (NP-SBJ I)
+			       ,
+			       (IP +))
+		       (NP-SBJ-UNF my)
+		       ,
+		       (RS ])
+		       (IP +))
+	       (NP-SBJ my
+		       (RS ])
+		       tee off)
+	       (VP is
+		   not
+		   (ADJP-PRD bad)))
+	    ,
+	    E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean)))
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 'm))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 (RS ])
+	 (ADJP-PRD good)
+	 (PP up
+	     (PP to
+		 (NP (NP everything 
+			 (ADVP else)) 
+		     (NP (NP putting)
+			 and
+			 (NP (NP stuff)
+			     (PP like
+				 (NP that))))))))
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (ADVP just)
+	 ,
+	 (EDITED (RM [)
+		 (NP-PRD-UNF that)
+		 ,
+		 (IP +))
+	 (NP-PRD that
+		 (RS ])
+		 initial tee))
+     .
+     E_S))
+( (CODE SpeakerA25 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (SBARQ (WHNP-1 what)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP do
+		 (NP *T*-1)
+		 (SBAR-TMP (WHADVP-2 when)
+			   (S (NP-SBJ you)
+			      (VP 're
+				  (VP putting
+				      (ADVP-TMP *T*-2)))))))
+	 ?
+	 E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD a good thing))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's 
+	 (NP-PRD (NP something)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ I)
+			  (VP could
+			      (VP learn
+				  (NP *T*-1)
+				  (ADVP actually)))))))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (SBAR-TMP-PRD (WHADVP-1 when)
+		       (S (NP-SBJ I)
+			  (VP do
+			      (NP my worst)
+			      (ADVP-TMP *T*-1)))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP-TMP finally)
+     (VP get
+	 (PP to
+	     (NP the green)))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP 'm
+		      (VP doing
+			  (EDITED (RM [)
+				  (ADVP-MNR-UNF all)
+				  ,
+				  (IP +))
+			  (ADVP-MNR all
+				    (RS ])
+				    fine))))))
+     E_S))
+( (S-UNF (CONJP and then)
+	 ,
+	 N_S))
+( (CODE SpeakerB26 .))
+( (S (ADVP Just)
+     (NP-SBJ *)
+     (VP (VP walking
+	     (PP-DIR around
+		     (NP the hollow)))
+	 and
+	 (VP making
+	     (S (NP-SBJ *) 
+		(ADJP-PRD sure
+			  (SBAR 0
+				(S (NP-SBJ there)
+				   (VP-UNF 's
+					   not
+					   (ADVP really))))))))
+     ,
+     N_S))
+( (S (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ *)
+     (VP (VP checking
+	     (NP the ground))
+	 (EDITED (RM [)
+		 and
+		 ,
+		 (IP +))
+	 and
+	 (RS ])
+	 (ADVP-ETC so forth)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     .
+     E_S))
+( (CODE SpeakerA27 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB28 .))
+( (S (NP-SBJ *)
+     (VP See
+	 (SBAR (WHADVP-2 how)
+	       (S (NP-SBJ-1 it)
+		  (VP 's
+		      (VP going
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP (VP break)
+				     or
+				     (NP-ETC whatever)
+				     (ADVP-MNR *T*-2)))))))))
+     .
+     E_S))
+( (CODE SpeakerA29 .))
+( (SQ Can
+      (NP-SBJ you)
+      (ADVP really)
+      (VP see
+	  (NP it)
+	  (ADVP though))
+      ?
+      E_S))
+( (CODE SpeakerB30 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (FRAG (WHNP What)
+	(PP about
+	    (NP the speed))
+	?
+	E_S))
+( (CODE SpeakerB32 .))
+( (S (SBAR-ADV (EDITED (RM [)
+		       (SBAR-ADV If
+				 (S (NP-SBJ you)
+				    (VP-UNF get)))
+		       ,
+		       (IP +))
+	       if
+	       (S (NP-SBJ you)
+		  (VP get
+		      (RS ])
+		      (PP-LOC down
+			      (PP on
+				  (NP the ground))))))
+     (NP-SBJ you)
+     (ADVP really)
+     (VP can
+	 (VP *?*))
+     .
+     E_S))
+( (CODE SpeakerA33 .))
+( (SQ (EDITED (RM [)
+	      (SQ Can
+		  (NP-SBJ you)
+		  (VP tell
+		      (SBAR-UNF (EDITED (RM [)
+					(WHADVP-UNF ho-)
+					,
+					(IP +))
+				(X no-))))
+	      ,
+	      (RS ])
+	      (IP +))
+      but
+      can
+      (NP-SBJ you)
+      (VP tell
+	  (SBAR (EDITED (RM [)
+			(WHADVP-UNF how)
+			,
+			(IP +))
+		(WHADVP-2 how
+			  (RS ])
+			  (RS ])
+			  fast)
+		(S (NP-SBJ-1 you)
+		   (VP 're
+		       (VP going
+			   (S (NP-SBJ *-1)
+			      (VP to
+				  (VP hit
+				      (NP it)
+				      (ADVP-MNR *T*-2)))))))))
+      ?
+      E_S))
+( (CODE SpeakerB34 .))
+( (S (INTJ Um)
+     ,
+     (INTJ well)
+     ,
+     (EDITED (RM [)
+	     (SBAR-ADV-UNF if)
+	     (IP +))
+     (NP-SBJ you)
+     (VP know
+	 (SBAR (SBAR-ADV if
+			 (RS ])
+			 (S (NP-SBJ it)
+			    (VP 's
+				(PP-LOC-PRD up
+					    (PP on
+						(NP a slope))))))
+	       that
+	       (S (NP-SBJ-1 you)
+		  (VP 've
+		      (VP got
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP (VP hit
+					 (NP it))
+				     not
+				     (VP kill
+					 (NP it))))))))))
+     E_S))
+( (S but
+     (NP-SBJ-1 you)
+     (VP 've
+	 (VP got
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP hit
+			(NP-ADV (NP enough speed)
+				and
+				(NP the right angle)
+				(SBAR that
+				      (S (EDITED (RM [)
+						 (S (NP-SBJ it)
+						    (VP-UNF 's))
+						 ,
+						 (IP +))
+					 (NP-SBJ it)
+					 (VP-UNF 's
+						 ,
+						 (RS ])
+						 (PRN (S (NP-SBJ you)
+							 (VP know))))))))))))
+     ,
+     N_S))
+( (SBAR-PRP because
+	    (S (SBAR-TMP (WHADVP-1 when)
+			 (S (NP-SBJ it)
+			    (VP 's
+				(VP going
+				    (PP-DIR up
+					    (NP a hill))
+				    (ADVP-TMP *T*-1)))))
+	       (NP-SBJ-2 it)
+	       (VP 's
+		   (VP going
+		       (S (NP-SBJ *-2)
+			  (VP to
+			      (VP break
+				  (PP in
+				      (NP a direction))))))))
+	    .
+	    E_S))
+( (CODE SpeakerA35 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S but
+     (NP-SBJ you)
+     (VP can
+	 (VP feel
+	     (NP that)))
+     ?
+     E_S))
+( (CODE SpeakerB36 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA37 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF have))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP can
+	 (RS ])
+	 (EDITED (RM [)
+		 (VP-UNF gi-)
+		 ,
+		 (IP +))
+	 (VP get
+	     (RS ])
+	     (NP it)
+	     (PP within
+		 (INTJ like)
+		 (PRN ,
+		      (S (NP-SBJ you)
+			 (VP know))
+		      ,)
+		 (NP (NP (QP four or five) 
+			 feet)
+		     or
+		     (NP something)))))
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP have
+	     (NP enough field)))
+     .
+     E_S))
+( (S (ADVP-TMP Now)
+     (NP-SBJ I)
+     (VP 'm
+	 (VP T V watching))
+     .
+     E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA39 .))
+( (S (NP-SBJ They)
+     (VP make
+	 (S (NP-SBJ you)
+	    (VP die
+		(PP-LOC at
+			(NP the hole))
+		(NP-TMP every time))))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA41 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ it)
+     (ADVP just)
+     (VP (VP dies)
+	 and
+	 (VP rolls
+	     (ADVP-DIR in)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     ,
+     E_S))
+( (CODE SpeakerB42 .))
+( (S-UNF But
+	 (NP-SBJ I)
+	 ,
+	 N_S))
+( (CODE SpeakerA43 .))
+( (S (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD hard
+		   (PP for
+		       (NP me))))
+     .
+     E_S))
+( (CODE SpeakerB44 .))
+( (S-UNF (EDITED (RM [)
+		 (NP-SBJ-UNF The)
+		 ,
+		 (IP +))
+	 (NP-SBJ-UNF the)
+	 ,
+	 (RS ])
+	 N_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (SBAR-PRD like
+		   (S (NP-SBJ I)
+		      (VP said))))
+     E_S))
+( (S (SBAR-TMP once
+	       (S (NP-SBJ I)
+		  (VP get
+		      (PP-LOC up
+			      (PP on
+				  (NP the green))))))
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD fine))
+     ,
+     E_S))
+( (S-UNF but
+	 (EDITED (RM [)
+		 (NP-UNF that)
+		 ,
+		 (IP +))
+	 (NP-TPC that
+		 (RS ])
+		 tee shot)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP-SBJ it)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know)))
+	 ,
+	 N_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ *-2)
+		  (VP teeing 
+		      (PRT off)
+		      (ADVP-TMP *T*-1))))
+     (EDITED (RM [)
+	     (NP-SBJ-UNF i-)
+	     ,
+	     (IP +))
+     (NP-SBJ-2 I)
+     (VP 'll
+	 (RS ])
+	 (VP go
+	     (ADVP probably)
+	     (NP-EXT (QP a hundred) feet)
+	     (PP-DIR across
+		     (NP the ground))))
+     E_S))
+( (S so
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP takes
+	 (NP-1 me)
+	 (NP (TYPO awhile))
+	 (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(PP to
+			    (NP the hole))))))
+     E_S))
+( (S-UNF but
+	 ,
+	 N_S))
+( (CODE SpeakerA45 .))
+( (S (SBAR-TMP Once
+	       (S (NP-SBJ you)
+		  (VP 're
+		      (ADVP-LOC-PRD there))))
+     ,
+     (NP-SBJ you)
+     (VP 're
+	 all
+	 (ADJP-PRD set)
+	 (ADVP though))
+     .
+     E_S))
+( (CODE SpeakerB46 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 all
+	 (ADJP-PRD set))
+     .
+     E_S))
+( (CODE SpeakerA47 .))
+( (S (NP-SBJ We)
+     (VP should
+	 (VP play
+	     (NP team golf)
+	     (ADVP then)))
+     .
+     E_S))
+( (CODE SpeakerB48 .))
+( (CODE SpeakerA49 .))
+( (S (NP-SBJ I)
+     (VP 'll
+	 (VP get
+	     (NP us)
+	     (ADVP-LOC there)))
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP put
+	 (NP it)
+	 (ADVP-PUT in)) 
+     .
+     E_S))
+( (CODE SpeakerB50 .))
+( (S (X MUMBLEx)
+     (NP-SBJ that)
+     (VP sounds
+	 (ADJP-PRD good)
+	 (PP to
+	     (NP me)))
+     .
+     E_S))
+( (CODE SpeakerA51 .))
+( (S-UNF (NP-SBJ I)
+	 (X s-)
+	 ,
+	 N_S))
+( (S (INTJ oh)
+     ,
+     (NP-TPC the T V golfers)
+     (NP-SBJ they)
+     (VP do
+	 (NP that))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP (VP takes
+	     (NP-1 them)
+	     (NP-2 two)
+	     (S-PRP-3 (NP-SBJ *-1)
+		      (VP to
+			  (VP get
+			      (ADVP-LOC there)))))
+	 and
+	 (VP (NP=2 two)
+	     (S-PRP=3 (NP-SBJ *-1)
+		      (VP to
+			  (VP get
+			      (NP it)
+			      (ADVP in))))))
+     E_S))
+( (S so
+     (NP-SBJ it)
+     (VP 's 
+	 (NP-PRD fifty percent))
+     .
+     E_S))
+( (S And
+     (NP-TPC me)
+     (NP-SBJ it)
+     (VP (VP takes
+	     (NP-1 me)
+	     (NP-2 five)
+	     (S-PRP-3 (NP-SBJ *-1)
+		      (VP to
+			  (VP get
+			      (ADVP-LOC there)))))
+	 and
+	 (VP (NP=2 five)
+	     (S-PRP=3 (NP-SBJ *-1)
+		      (VP to
+			  (VP get
+			      (NP it)
+			      (ADVP in))))))
+     .
+     E_S))
+( (CODE SpeakerB52 .))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ it)
+		     ,
+		     (IP +))
+	     (NP-SBJ it)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (ADVP-TMP usually)
+     (VP takes
+	 (NP-1 me)
+	 (NP (QP about
+		 (ADVP probably) 
+		 (EDITED (RM [)
+			 two
+			 ,
+			 (IP +))
+		 two
+		 (RS ])
+		 or
+		 three))
+	 (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(NP it)
+			(ADVP-LOC there)))))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     (CONJP and then)
+     ,
+     (RS ])
+     (NP-SBJ that)
+     (VP 's
+	 (PP-PRD according
+		 (PP to
+		     (NP the hole))))
+     E_S))
+( (S-UNF and
+	 (NP-SBJ it)
+	 (ADVP-UNF ju-)
+	 ,
+	 N_S))
+( (FRAG (INTJ uh)
+	,
+	(INTJ uh)
+	,
+	(ADVP maybe)
+	(NP (QP one or two) 
+	    putts)
+	.
+	E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 ,
+	 (PP-PRD according
+		 (PP to
+		     (SBAR-LOC (WHADVP-1 where)
+			       (S (NP-SBJ I)
+				  (VP 'm
+				      (PP-LOC-PRD at
+						  (ADVP *T*-1))
+				      (PP-LOC on
+					      (NP the green))))))))
+     .
+     E_S))
+( (CODE SpeakerA53 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB54 .))
+( (CODE SpeakerA55 .))
+( (S (NP-SBJ That)
+     (VP 's 
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (CODE SpeakerB56 .))
+( (S But
+     (NP-TPC (NP the friends)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ I)
+		      (VP play
+			  (PP with
+			      (NP *T*-1))))))
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ they)
+     (VP play
+	 (NP-TMP all the time))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ they)
+     (VP 're
+	 (ADJP-PRD really good))
+     .
+     E_S))
+( (CODE SpeakerA57 .))
+( (NP Joe Pros
+      ?
+      E_S))
+( (CODE SpeakerB58 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ they)
+     (VP 're
+	 not
+	 (NP-PRD Joe Pros))
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP golf
+	 (PP in
+	     (NP the 
+		 (NX (NX high sixties)
+		     (NX low seventies)) )))
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP 're
+		      (ADJP-PRD pretty good)))))
+     .
+     E_S))
+( (CODE SpeakerA59 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD pretty good))
+     .
+     E_S))
+( (PP For
+      (NP eighteen)
+      ?
+      E_S))
+( (CODE SpeakerB60 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (PP For
+      (NP eighteen)
+      .
+      E_S))
+( (CODE SpeakerA61 .))
+( (INTJ Wow
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD pretty good))
+     .
+     E_S))
+( (CODE SpeakerB62 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA63 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (VP talking
+	     (PP to
+		 (NP the wrong guy))))
+     .
+     E_S))
+( (S (NP-SBJ Your shitty golf)
+     (VP is
+	 (ADVP probably)
+	 (NP-PRD (NP the best golf)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ I)
+			  (VP 've
+			      (ADVP-TMP ever)
+			      (VP seen
+				  (NP *T*-1)))))))
+     .
+     E_S))
+( (CODE SpeakerB64 .))
+( (INTJ No 
+	,
+	E_S))
+( (INTJ no 
+	,
+	E_S))
+( (INTJ no 
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 not
+	 (NP-PRD my golf))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD my friends))
+     .
+     E_S))
+( (S-UNF (EDITED (RM [)
+		 (NP-SBJ Mine)
+		 ,
+		 (IP +))
+	 (NP-SBJ mine)
+	 ,
+	 (RS ])
+	 N_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 'm))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 (RS ])
+	 (ADVP-TMP usually)
+	 (PP-PRD in
+		 (NP the eighties or nineties)))
+     E_S))
+( (S so
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 'm))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 (RS ])
+	 not
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (CODE SpeakerA65 .))
+( (S (EDITED (RM [)
+	     (SBAR-ADV-UNF If)
+	     ,
+	     (IP +))
+     (SBAR-TMP (WHADVP-1 when)
+	       (RS ])
+	       (S (NP-SBJ I)
+		  (VP 'm
+		      (PP-PRD in
+			      (NP the nineties))
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ I)
+     (VP 'm
+	 (VP feeling
+	     (ADJP-PRD good)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (ADVP-TMP usually)
+	 (PP-PRD around
+		 (NP a hundred)))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD my thing)
+	 .
+	 (PP-TPC Around
+		 (NP a hundred))) 
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ I)
+     (VP can
+	 (VP (VP hit
+		 (NP a great (TYPO drives))) 
+	     and
+	     (VP think
+		 (SBAR 0
+		       (S (NP-SBJ-1 I)
+			  (VP 'm
+			      (VP going
+				  (S (NP-SBJ *-1)
+				     (VP to
+					 (VP do
+					     (ADVP-MNR all awesome)
+					     (PP on
+						 (NP this hole))))))))))))
+     E_S))
+( (S but
+     (NP-SBJ-1 it)
+     (VP ai
+	 n't
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP happen)))))
+     .
+     E_S))
+( (CODE SpeakerB66 .))
+( (S (S (INTJ Well)
+	,
+	(S-ADV (EDITED (RM [)
+		       (S-UNF (NP-SBJ I)
+			      either)
+		       ,
+		       (IP +))
+	       (NP-SBJ *-1)
+	       (VP teeing 
+		   (PRT off)))
+	(NP-SBJ-1 I)
+	either
+	(RS ])
+	(VP slice
+	    (NP it)))
+     E_S
+     or
+     (S (NP-SBJ I)
+	(VP hook
+	    (NP it)
+	    (NP-TMP (TYPO ever) single time)))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ I)
+     (VP alternate)
+     .
+     E_S))
+( (CODE SpeakerA67 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ (NP it)
+	     (SBAR *EXP*-1))
+     (VP 's
+	 (NP-PRD (NP a good thing)
+		 (PP with
+		     (NP me)))
+	 (SBAR-1 0
+		 (S (NP-SBJ I)
+		    (VP slice
+			(NP it)
+			(NP-TMP every single time)))))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's 
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP-UNF aim)
+     ,
+     N_S))

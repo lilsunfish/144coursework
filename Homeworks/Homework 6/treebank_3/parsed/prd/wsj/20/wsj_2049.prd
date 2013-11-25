@@ -1,0 +1,119 @@
+
+
+( (S (NP-SBJ Banc One Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 Frank E. McKinney)
+                  (VP plans
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP retire
+                                 (PP-CLR as
+					 (NP (NP the bank holding company 's)
+					     president))
+                                 (PP-TMP effective
+					 (NP Jan. 12)))))))))
+     .))
+( (S (NP-SBJ Banc One)
+     (VP said
+         (SBAR 0 ``
+               (S (NP-SBJ-2 (NP it)
+                            (SBAR *EXP*-1))
+                  (VP is
+                      (VP contemplated
+                          (NP *-2)
+			  ''
+			  (SBAR-1 that
+				  (S (NP-SBJ (NP John B. McCoy)
+					     ,
+					     (NP (NP chairman)
+						 and
+						 (NP chief executive officer))
+					     ,)
+				     (VP will
+					 (VP assume
+					     (NP (NP the additional position)
+						 (PP of
+						     (NP president)))
+					     (PP-TMP upon
+						     (NP (NP Mr. McKinney 's)
+							 retirement)))))))))))
+     .))
+( (S (NP-SBJ (NP Mr. McKinney)
+             ,
+             (ADJP (NP 50 years)
+                   old)
+             ,)
+     (VP was
+         (NP-PRD (NP (NP chairman)
+                     (PP *RNR*-2))
+                 and
+                 (NP (NP chief executive)
+                     (PP *RNR*-2))
+                 (PP-2 of
+                       (NP (NP American Fletcher Corp.)
+                           ,
+                           (NP Indianapolis))))
+	 ,
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ that bank holding company)
+		      (VP merged
+			  (PP-CLR into
+				  (NP Banc One))
+			  (PP-TMP in
+				  (NP January 1987))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 Mr. McKinney)
+                  (VP plans
+                      (S (NP-SBJ *-2)
+                         (VP to
+                             (VP retire
+				 (SBAR-PRP because
+					   (S (NP-SBJ-1 (NP the process)
+							(PP of
+							    (S-NOM (NP-SBJ *)
+								   (VP affiliating
+								       (NP American Fletcher)
+								       (PP-CLR into
+									       (NP Banc One))))))
+					      ``
+					      (VP is
+						  (VP considered
+						      (S (NP-SBJ *-1)
+							 (ADJP-PRD completed)))))))))))))
+     . ''))
+( (S (NP-SBJ Mr. McKinney)
+     (VP (VP will
+	     (VP continue
+		 (PP-CLR as
+			 (NP (NP (NP chairman)
+				 (PP of
+				     (NP the board)))
+			     and
+			     (NP (NP chairman)
+				 (PP of
+				     (NP (NP the executive committee)
+					 (PP of
+					     (NP (NP Banc One Indiana Corp.)
+						 ,
+						 (NP (NP the successor company)
+						     (PP to
+							 (NP American Fletcher Corp.))))))))))))
+	 , but
+	 (VP will
+	     (ADVP no longer)
+	     (VP be
+		 (ADJP-PRD active)
+		 (PP-LOC in
+			 (NP day-to-day management)))))
+     .))
+( (S (NP-SBJ He)
+     (VP will
+         (VP remain
+             (PP-LOC-CLR on
+			 (NP the Banc One board))))
+     .))

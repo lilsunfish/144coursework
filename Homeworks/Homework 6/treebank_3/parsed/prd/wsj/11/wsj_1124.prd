@@ -1,0 +1,198 @@
+
+
+( (S (NP-SBJ-1 Wall Street securities giant
+	       Salomon Inc.)
+     (VP posted
+         (NP a
+	     big , unexpected
+	     earnings gain)
+	 (PP-TMP in
+		 (NP the third quarter))
+	 ,
+	 (S-ADV (NP-SBJ-2 *-1)
+		(VP buoyed
+		    (NP *-2)
+		    (PP by
+			(NP-LGS its securities trading and investment banking activities)))))
+     .))
+( (S (NP-SBJ Salomon)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net income)
+                  (VP soared
+                      (PP-DIR to
+			      (NP (NP (QP $ 177 million) *U*)
+				  , 
+				  or
+				  (NP (NP $ 1.28 *U*)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP (QP $ 65 million) *U*)
+				  , 
+				  or
+				  (NP (NP (NP 38 cents)
+					  (NP-ADV a share))
+				      ,
+				      (ADVP-TMP (NP a year)
+						earlier))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP (ADVP more than)
+	 doubled
+         (PP-CLR to
+		 (NP (QP $ 2.62 billion) *U*))
+         (PP-CLR from
+		 (NP (QP $ 1.29 billion) *U*)))
+     .))
+( (S (NP-SBJ A Salomon spokesman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP its stock , bond and foreign exchange trading)
+                          , 
+			  (CONJP as well as)
+                          (NP its investment banking operations)
+                          ,)
+                  (VP were
+                      (ADJP-PRD mostly responsible
+				(PP for
+				    (NP the earnings jump)))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ The earnings)
+		 (VP were
+		     (UCP-PRD (ADJP fine)
+			      and
+			      (PP-LOC above
+				      (NP expectations)))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Michael W. Blumstein)
+		,
+		(NP (NP an analyst)
+		    (PP-LOC at
+			    (NP First Boston Corp))))
+	.))
+( (S (ADVP Nevertheless)
+     ,
+     (NP-SBJ-1 (NP Salomon 's)
+	       stock)
+     (VP fell
+         (NP-ADV $ 1.125 *U*)
+         (NP-TMP yesterday)
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP (NP $ 23.25 *U*)
+				    (NP-ADV a share)))
+			(PP-LOC in
+				(NP New York Stock Exchange composite trading))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ I)
+	      (VP suspect
+		  (SBAR 0
+			(S (NP-SBJ October)
+			   (VP was n't
+			       (ADJP-PRD (ADJP as good)
+					 (PP as
+					     (NP the third quarter)))))
+			, 
+			and
+			(S (NP-SBJ-2 they)
+			   (VP 'll
+			       (VP have
+				   (NP (NP difficulty)
+				       (S-ADV (NP-SBJ *-2)
+					      (VP matching
+						  (NP the third quarter)
+						  (PP-TMP in
+							  (NP the fourth quarter)))))))))))
+     ,
+     ''
+     (NP-SBJ Mr. Blumstein)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S But
+     (NP-SBJ some analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ Salomon)
+                  (VP has
+                      (VP turned
+                          (NP the corner))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP upgraded
+		     (NP the firm)
+		     (PP-CLR to
+			     (NP my buy list))
+		     (SBAR-PRP because
+			       (S (NP-SBJ I)
+				  (ADVP certainly)
+				  (VP see
+				      (NP (NP signs)
+					  (PP of
+					      (NP improvement))))))))
+	,
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Lawrence Eckenfelder)
+		,
+		(NP (NP an analyst)
+		    (PP-LOC at
+			    (NP Prudential-Bache Securities))))
+	.))
+( (S ``
+     (NP-SBJ The market)
+     (VP has
+         (VP been
+             (ADJP-PRD overly harsh
+		       (PP to
+			   (NP them)))))
+     . 
+     ''))
+( (S (NP-SBJ Analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ investors)
+                  (VP remain
+                      (ADJP-PRD skittish
+				(PP toward
+				    (NP Salomon)))
+		      (PP-PRP because of
+			      (NP its volatile earnings))))))
+     .))
+( (S (PP-TMP In
+	     (NP the first quarter))
+     ,
+     (NP-SBJ Salomon)
+     (VP had
+         (NP (NP a record loss)
+             (PP of
+                 (NP (QP $ 28 million) *U*)))
+	 (PP on
+	     (NP (NP revenue)
+		 (PP of
+		     (NP (QP $ 1.54 billion) *U*)))))
+     .))
+( (S But
+     (PP-TMP in
+	     (NP the second quarter))
+     ,
+     (NP-SBJ Salomon)
+     (VP posted
+         (NP a record 
+	     (ADJP (QP $ 253 million) *U*) 
+	     net)
+	 (PP on
+	     (NP (NP revenue)
+		 (PP of
+		     (NP (QP $ 2.33 billion) *U*)))))
+     .))

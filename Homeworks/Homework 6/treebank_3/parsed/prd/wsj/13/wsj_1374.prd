@@ -1,0 +1,349 @@
+
+
+( (S (NP-SBJ-1 Tandy Corp.)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP citing
+		(NP (NP sluggish sales)
+		    (PP of
+			(NP consumer-electronics goods)))))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net income)
+                  (VP dropped
+                      (NP-EXT 3.3 %)
+                      (PP for
+                          (NP (NP the first quarter)
+                              (VP ended
+                                  (NP *)
+                                  (NP-TMP-CLR Sept. 30))))))))
+     .))
+( (S (NP-SBJ (NP The results)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP represented
+                          (NP (NP the fifth consecutive quarter)
+                              (PP of
+                                  (NP flat-to-lower earnings))
+			      (PP for
+				  (NP the big electronics retailer))))))
+             ,)
+     (VP disappointed
+         (NP analysts and traders))
+     .))
+( (S (NP-SBJ-1 (NP Tandy 's)
+	       stock)
+     (VP fell
+         (NP-EXT (NP $ 1.375 *U*)
+		 (NP-ADV a share))
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP $ 44 *U*)))))
+         (PP-LOC in
+		 (NP New York Stock Exchange composite trading)))
+     .))
+( (S (NP-SBJ (NP Net)
+             (PP for
+                 (NP the quarter)))
+     (VP was
+         (NP-PRD (NP (QP $ 62.8 million) *U*)
+                 , or
+                 (NP (NP 73 cents)
+                     (NP-ADV a share))
+                 ,)
+         (ADVP down
+               (PP from
+                   (NP (NP (QP $ 64.9 million) *U*)
+                       , or
+                       (NP (NP 72 cents)
+                           (NP-ADV a share)))
+		   ,
+		   (ADVP (NP a year)
+			 earlier))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ earnings)
+		  (VP would
+		      (VP have
+			  (VP increased
+			      (SBAR-ADV if
+					(S (NP-SBJ it)
+					   (VP had n't
+					       (VP been
+						   (VP (VP (ADVP-MNR actively)
+							   repurchasing
+							   (NP its shares))
+						       ,
+						       (ADVP thus)
+						       (VP (VP increasing
+							       (NP its interest expense))
+							   and
+							   (VP reducing
+							       (NP its interest income))))))))))))))
+     .))
+( (S (NP-SBJ Tandy)
+     (VP had
+         (NP (NP (QP 86.3 million) shares)
+             (ADJP outstanding)
+	     (ADVP *ICH*-1))
+         (PP-TMP at
+		 (NP Sept. 30))
+         ,
+         (ADVP-1 down
+		 (PP from
+		     (NP (QP 90 million))
+		     (ADVP-TMP (NP a year)
+			       earlier))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 5 %)
+         (PP-DIR to
+		 (NP (QP $ 986 million) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 937 million) *U*)))
+     .))
+( (S (NP-SBJ Tandy)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP consumer electronics sales)
+                          (PP-LOC at
+				  (NP its Radio Shack stores)))
+                  (VP have
+                      (VP been
+                          (ADJP-PRD slow)
+			  ,
+			  (PP-PRP partly because of 
+				  (NP (NP a lack)
+				      (PP of
+					  (NP hot , new products)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ-2 Radio Shack)
+		 (VP continues
+		     (S (NP-SBJ *-2)
+			(VP to
+			    (VP be
+				(ADJP-PRD lackluster))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Dennis Telzrow)
+		,
+		(NP (NP analyst)
+		    (PP with
+			(NP (NP Eppler , Guerin & Turner)
+			    (PP-LOC in
+				    (NP Dallas))))))
+	.))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ-2 Tandy)
+                     ``
+                     (VP has
+                         (VP done
+                             (NP a decent job)
+                             ''
+                             (S-CLR (NP-SBJ-3 *-2)
+				    (VP increasing
+					(NP sales)
+					(PP-MNR by
+						(S-NOM (NP-SBJ *-3)
+						       (VP (VP manufacturing
+							       (NP computers)
+							       (PP-BNF for
+								       (NP others)))
+							   and
+							   (VP expanding
+							       (NP (NP sales)
+								   (PP of
+								       (NP (NP its Grid Systems Corp. subsidiary)
+									   ,
+									   (SBAR (WHNP-1 which)
+										 (S (NP-SBJ *T*-1)
+										    (VP sells
+											(NP computers)
+											(PP-DTV to
+												(NP bigger businesses)))))))))))))))))
+                  , but
+		  ``
+		  (S (NP-SBJ it)
+                     (VP 's not
+			 (ADJP-PRD enough
+				   (SBAR (WHNP-4 0)
+					 (S (NP-SBJ *T*-4)
+					    (VP to
+						(VP offset
+						    (NP (NP the problems)
+							(PP-LOC at
+								(NP Radio Shack)))))))))))))
+     .
+     ''))
+( (S (S-TPC-1 (NP-SBJ (NP Sales)
+		      (PP-LOC at
+			      (NP (NP Radio Shack stores)
+				  (RRC (ADJP open)
+				       (NP-TMP (QP more than a)
+					       year)))))
+	      (VP grew
+		  (NP (QP only 2) %)
+		  (PP-TMP in
+			  (NP the quarter))
+		  (PP from 
+		      (NP a year earlier))))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP As
+         (NP a result))
+     ,
+     (NP-SBJ Mr. Telzrow)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP cut
+                      (NP (NP his fiscal 1990 per-share earnings estimate)
+                          (PP for
+                              (NP Tandy)))
+                      (PP-DIR to
+			      (NP $ 4.05 *U*))
+		      (PP-DIR from
+			      (NP $ 4.20 *U*))))))
+     .))
+( (S (NP-SBJ Tandy)
+     (VP earned
+         (NP (NP (QP $ 88.8 million) *U*)
+             , or
+             (NP (NP $ 3.64 *U*)
+                 (NP-ADV a share))
+             ,)
+         (PP-TMP in
+		 (NP (NP the year)
+		     (VP ended
+			 (NP *)
+			 (NP-TMP-CLR June 30)))))
+     .))
+( (S (NP-SBJ (NP Barry Bryant)
+             ,
+             (NP (NP an analyst)
+                 (PP with
+                     (NP Drexel Burnham Lambert Inc.)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Tandy)
+                  (ADVP also)
+                  (VP has
+                      (VP suffered
+                          (PP-CLR from
+				  (NP (NP lethargic sales)
+				      (PP of
+					  (NP (NP its computers)
+					      (VP aimed
+						  (NP *)
+						  (PP-DIR at
+							  (NP the (ADJP home and small-office) market)))
+					      ,
+					      (SBAR (WHNP-1 which)
+						    (S (NP-SBJ *T*-1)
+						       (VP are
+							   (ADJP-PRD (ADJP less-advanced and cheaper) 
+								     (PP than
+									 (NP (NP computers)
+									     (VP aimed
+										 (NP *)
+										 (PP-DIR at
+											 (NP the corporate market))))))))))))))))))
+     .))
+( (S (NP-SBJ Tandy)
+     (VP (VP has
+	     (VP added
+		 (NP (NP several new products)
+		     (PP *ICH*-3))
+		 (PP-CLR to
+			 (NP that line))
+		 ,
+		 (PP-3 including
+		       (NP (NP a laptop computer)
+			   (VP priced
+			       (NP *)
+			       (PP-CLR around
+				       (NP $ 1,000 *U*)))))
+		 ,))
+	 and
+	 (VP is
+	     (VP focusing
+		 (NP its advertising)
+		 (PP-CLR on
+			 (NP (NP the easy-to-use software)
+			     (SBAR (WHNP-2 that)
+				   (S (NP-SBJ-1 *T*-2)
+				      (VP is
+					  (VP packaged
+					      (NP *-1)
+					      (PP-CLR with
+						      (NP its machines)))))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Bryant)
+             and
+             (NP other analysts))
+     (VP hope
+         (SBAR 0
+               (S (NP-SBJ-1 all those moves)
+                  (VP will
+                      (VP combine
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP help
+                                     (S (NP-SBJ (NP Tandy 's)
+                                                results)
+                                        (VP improve
+                                            (PP-TMP in
+						    (NP the important Christmas quarter))))))))))))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ They)
+	      (VP 've
+		  (VP been
+		      (VP promising
+			  (NP (NP (ADJP (QP 13 % to 15 %)
+					*U*)
+				  growth)
+			      (VP based
+				  (NP *)
+				  (PP-CLR on
+					  (NP (NP the strategic moves)
+					      (SBAR (WHNP-1 0)
+						    (S (NP-SBJ they)
+						       (VP 've
+							   (VP made
+							       (NP *T*-1)))))))))))))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-2))
+     .))
+( (S ``
+     (SBAR-ADV If
+	       (S (NP-SBJ-1 the earnings acceleration)
+		  (VP is
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP take
+				 (NP-CLR place)))))))
+     ,
+     (NP-SBJ that)
+     (VP should
+	 (VP be
+	     (NP-PRD the quarter)))
+     .))

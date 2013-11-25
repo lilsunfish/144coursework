@@ -1,0 +1,75 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP (NP Japan 's)
+			  index)
+		      (PP of
+			  (NP leading indicators)))
+	      (VP rose
+		  (PP-DIR to
+			  (NP (NP 63.6)
+			      (PP-LOC *ICH*-3)))
+		  (PP-TMP in
+			  (NP August))
+		  ,
+		  (PP-LOC-3 above
+			    (NP (NP the so-called boom-or-bust line)
+				(PP of
+				    (NP 50))))
+		  (PP-TMP for
+			  (NP (NP the first time)
+			      (PP-TMP since
+				      (NP May))))))
+     ,
+     (NP-SBJ the Economic Planning Agency)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ The leading index)
+     (VP recovered
+         (PP-CLR from
+		 (NP (NP (NP July 's)
+			 revised level)
+		     (PP of
+			 (NP 36.6))))
+	 (PP on
+	     (NP (NP strong performances)
+		 (PP-LOC in
+			 (NP (NP (NP consumer durables) and (NP machinery orders)) 
+			     ,
+			     (PP-LOC among
+				     (NP other factors))
+			     ,))))
+	 (PP according
+	     (PP to
+		 (NP an agency spokeswoman))))
+     .))
+( (S (NP-SBJ-1 The index)
+     (VP is
+         (VP intended
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP measure
+                        (NP future economic performance))))))
+     .))
+( (S (S (NP-SBJ (NP A figure)
+                (PP-LOC above
+			(NP 50)))
+        (VP indicates
+            (SBAR 0
+                  (S (NP-SBJ-1 the economy)
+                     (VP is
+                         (ADJP-PRD likely
+				   (S (NP-SBJ *-1)
+				      (VP to
+					  (VP expand)))))))))
+     ;
+     (S (NP-SBJ (NP one)
+                (PP-LOC below
+			(NP 50)))
+        (VP indicates
+            (SBAR 0
+                  (S (NP-SBJ a contraction)
+                     (VP may
+                         (VP be
+                             (ADVP-LOC-PRD ahead)))))))
+     .))

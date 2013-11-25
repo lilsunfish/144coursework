@@ -1,0 +1,66 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP The average unemployment rate)
+		      (PP-LOC in
+			      (NP the 15 biggest industrialized democracies)))
+	      (VP was
+		  (ADJP-PRD steady)
+		  (PP-TMP in
+			  (NP August))
+		  (PP at
+		      (NP (NP the (ADJP 6.1 %) rate)
+			  (PP of
+			      (NP the two previous months))))))
+     ,
+     (NP-SBJ (NP (NP the Organization)
+		 (PP for
+		     (NP Economic Cooperation and Development)))
+	     (PRN -LRB- (NP OECD) -RRB-))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The August rate)
+     (VP was
+	 (ADJP-PRD (ADJP (NP-ADV 0.6 percentage point)
+			 lower)
+		   (PP than
+		       (PP-TMP in
+			       (NP (NP the like month)
+				   (ADVP-TMP (NP a year)
+					     earlier)))))
+         ,
+         (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP (NP the pickup)
+			(PP of
+			    (NP activity))
+			(PP-LOC in
+				(NP the 15 countries))))))
+     .))
+( (S (S (NP-SBJ The OECD)
+        (VP said
+            (SBAR that
+                  (S (NP-SBJ (NP most)
+			     (PP of
+				 (NP the improvement)))
+                     (VP occurred
+                         (PP-TMP in
+				 (NP (NP the second half)
+				     (PP of
+					 (NP last year)))))))))
+     ;
+     (S (PP-TMP since
+		(NP (NP February)
+		    (PP of
+			(NP this year))))
+        ,
+        (NP-SBJ unemployment)
+        (VP has
+            (VP been
+                (ADJP-PRD steady)
+                (PP at
+                    (NP (NP (QP around 6.2) %)
+                        (PP of
+                            (NP the labor force)))))))
+     .))

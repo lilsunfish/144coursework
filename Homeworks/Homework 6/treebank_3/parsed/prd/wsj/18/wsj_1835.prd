@@ -1,0 +1,47 @@
+
+
+( (S (NP-SBJ-1 Denis C. Smith)
+     (VP was
+         (VP named
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the new post)
+			 (PP of
+			     (NP (NP vice president)
+				 (PP of
+				     (NP world-wide advanced materials operations))
+				 (PP for
+				     (NP this chemicals concern))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Smith)
+             ,
+             (ADJP (NP 50 years)
+                   old)
+             ,)
+     (VP was
+	 (ADVP-TMP formerly)
+	 (ADJP-PRD responsible
+                   (PP for
+                       (NP (NP advanced materials)
+                           ,
+                           (SBAR (WHNP-1 which)
+                                 (S (NP-SBJ *T*-1)
+                                    (VP include
+                                        (NP (NP plastic composites)
+                                            and
+                                            (NP alloys))))))))
+	 ,
+	 (PP-LOC in
+		 (NP (NP North America) 
+		     (ADVP only))))
+     .))
+( (S (NP-SBJ Himont)
+     (VP is
+         (ADJP-PRD 81%-owned
+                   (PP by
+                       (NP (NP Montedison S.p . A.)
+                           (PP of
+                               (NP (NP Milan)
+                                   ,
+                                   (NP Italy)))))))
+     .))

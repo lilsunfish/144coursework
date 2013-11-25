@@ -1,0 +1,68 @@
+
+
+( (NP-HLN PAPERS
+	  :))
+( (S (NP-SBJ-1 (NP Management and unions)
+	       (VP representing
+		   (NP (NP 2,400 employees)
+		       (PP-LOC at
+			       (NP (NP Torstar Corp. 's)
+				   Toronto Star)))))
+     (VP reached
+         (NP a tentative contract agreement)
+	 (NP-TMP Friday)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP averting
+		    (NP (NP a strike)
+			(PP by
+			    (NP (NP most employees)
+				(PP of
+				    (NP (NP Canada 's)
+					largest daily newspaper))))))))
+     .))
+( (S (NP-SBJ (NP Members)
+             (PP of
+                 (NP (NP the largest union)
+                     ,
+                     (VP representing
+                         (NP 1,700 workers))
+                     ,)))
+     (VP voted
+         (PP-MNR in
+		 (NP (NP favor)
+		     (PP of
+			 (NP the pact))))
+         (NP-TMP yesterday))
+     .))
+( (S (S (NP-SBJ-1 Four other unions)
+        (VP have
+            (ADVP-TMP yet)
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP vote)))))
+     , 
+     but
+     (S (NP-SBJ their leadership)
+        (ADVP also)
+        (VP recommended
+            (NP approval)))
+     .))
+( (S (NP-SBJ The pact)
+     (VP proposes
+         (NP (NP a (ADJP 2 1) contract)
+             (PP with
+                 (NP (NP a raise)
+                     (PP of
+                         (NP (NP (NP 8 %)
+                                 (PP-TMP in
+					 (NP the first year)))
+                             ,
+                             (NP (NP 7 %)
+                                 (PP-TMP in
+					 (NP the second)))
+                             and
+                             (NP (NP 4 %)
+                                 (PP-TMP for
+					 (NP the final six months)))))))))
+     .))

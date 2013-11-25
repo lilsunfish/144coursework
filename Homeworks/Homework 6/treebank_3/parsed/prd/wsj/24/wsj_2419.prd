@@ -1,0 +1,88 @@
+
+
+( (S (NP-SBJ (NP @ Charles H. Tenney II)
+             ,
+             (NP (NP chairman)
+                 (PP of
+                     (NP Unitil Corp.)))
+             ,)
+     (VP purchased
+         (NP (NP 34,602 shares)
+             , 
+	     or
+             (NP 4.9 %)
+             ,
+             (PP of
+                 (NP (NP Unitil 's)
+                     common)))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP a filing)
+		     (PP with
+			 (NP the Securities and Exchange Commission))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The stock)
+	      (VP was
+		  (VP bought
+		      (NP *-1)
+		      (PP-TMP on
+			      (NP Thursday))
+		      (PP-LOC in
+			      (NP a
+				  (ADJP privately negotiated)
+				  transaction)))))
+     ,
+     (NP-SBJ the filing)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ *)
+		  (ADVP-TMP previously)
+		  (VP reported)))
+     ,
+     (NP-SBJ (NP (NP Unitil)
+                 ,
+                 (NP (NP Exeter)
+                     ,
+                     (NP N.H.))
+                 ,)
+             and
+             (NP (NP Fitchburg Gas & Electric Co.)
+                 ,
+                 (NP (NP Fitchburg)
+                     ,
+                     (NP Mass.))
+                 ,))
+     (VP are
+         (NP-PRD (NP targets)
+                 (PP of
+                     (NP (NP unsolicited tender offers)
+                         (PP from
+                             (NP Boston-based Eastern Utilities Associates))))))
+     .))
+( (S (NP-SBJ Eastern Utilities)
+     (VP (VP has
+	     (VP (VP offered
+		     (NP-1 (NP $ 40 *U*)
+			   (NP-ADV a share))
+		     (PP-CLR-2 for
+			       (NP Unitil)))
+		 and
+		 (VP (NP=1 (NP $ 36 *U*)
+			   (NP-ADV a share))
+		     (PP=2 for
+			   (NP Fitchburg Gas)))))
+	 and
+	 (VP has
+	     (VP extended
+		 (NP both offers)
+		 (PP-TMP-CLR to
+			     (NP Dec. 4)))))
+     .))
+( (S (NP-SBJ Both companies)
+     (VP rejected
+         (NP the offers))
+     .))

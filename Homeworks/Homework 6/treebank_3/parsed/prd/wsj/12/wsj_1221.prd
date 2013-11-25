@@ -1,0 +1,154 @@
+
+
+( (S (NP-SBJ Computer Associates International Inc.)
+     (VP reported
+         (SBAR 0
+               (S (NP-SBJ (NP earnings)
+                          (PP for
+                              (NP (NP the second quarter)
+                                  ,
+                                  (VP ended
+                                      (NP-TMP Sept. 30))
+                                  ,)))
+                  (VP plummeted
+                      (NP-EXT 66 %)
+                      ,
+                      (PP-PRP (ADVP primarily)
+			      because
+			      of
+			      (NP (NP the acquisition)
+				  (PP of
+				      (NP Cullinet Software Inc))))))))
+     .))
+( (S (NP-SBJ (NP The nation 's)
+             largest software company)
+     (VP earned
+         (NP (NP (QP $ 9.6 million) *U*)
+             , or
+             (NP (NP five cents)
+                 (NP-ADV a share)))
+         ,
+         (PP compared
+             (PP with
+                 (NP (NP (QP $ 28 million) *U*)
+                     , or
+                     (NP (NP 16 cents)
+                         (NP-ADV a share)
+                         ,
+                         (ADVP-TMP (NP a year)
+				   earlier))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 5 %)
+         (PP-DIR to
+		 (NP (QP $ 282 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 268.3 million) *U*)))
+     .))
+( (S (S (NP-SBJ-1 (NP The drop)
+                  (PP in
+                      (NP earnings)))
+        (VP had
+            (VP been
+                (VP anticipated
+                    (NP *-1)
+                    (PP by
+                        (NP-LGS most Wall Street analysts))))))
+     , but
+     (S (NP-SBJ-2 the results)
+        (VP were
+            (VP reported
+                (NP *-2)
+		(SBAR-TMP after
+			  (S (NP-SBJ the market)
+			     (VP closed))))))
+     .))
+( (S (NP-SBJ Computer Associates)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 13.625 *U*))
+         ,
+         (ADVP down
+               (NP 25 cents))
+	 ,
+	 (PP-LOC in
+		 (NP (NP composite trading)
+		     (PP-LOC on
+			     (NP the New York Stock Exchange)))))
+     .))
+( (S (NP-SBJ (NP Anthony Wang)
+             ,
+             (NP president)
+             ,)
+     (VP attributed
+         (NP the drop)
+         (PP-CLR to
+		 (NP (NP the disruption)
+		     (PP of
+			 (NP (NP the company 's)
+			     business))
+		     (VP resulting
+			 (PP-CLR from
+				 (NP (NP the prolonged process)
+				     (PP of
+					 (S-NOM (NP-SBJ *)
+						(VP acquiring
+						    (NP Cullinet))))))))))
+     .))
+( (S (NP-SBJ-1 The acquisition)
+     (VP was
+         (VP completed
+             (NP *-1)
+	     (PP-TMP in
+		     (NP September))))
+     .))
+( (S (PP-TMP In
+	     (NP August))
+     ,
+     (S (NP-SBJ the company)
+        (VP warned
+            (NP investors)
+            (SBAR that
+                  (S (NP-SBJ-1 the acquisition)
+                     (VP was
+                         (VP being
+                             (VP delayed
+                                 (NP *-1))))))))
+     , and
+     (S (NP-SBJ many customers)
+        (VP were
+            (VP holding 
+		(PRT off)
+                (PP-CLR on
+			(NP purchase decisions))
+		(SBAR-TMP until
+			  (S (NP-SBJ-2 the takeover)
+			     (VP was
+				 (VP completed
+				     (NP *-2))))))))
+     .))
+( (S (NP-SBJ The delays)
+     (VP (ADVP mainly)
+         affected
+         (NP (NP sales)
+	     (PP of
+		 (NP (NP data base management products)
+		     ,
+		     (NP (NP a core area)
+			 (PP for
+			     (NP both
+				 (NP Computer Associates)
+				 and
+				 (NP Cullinet))))
+		     ,))
+             (ADVP as well
+                   (PP as
+                       (NP (NP sales)
+			   (PP of
+			       (NP other products))
+                           (PP as
+                               (NP (NP part)
+                                   (PP of
+                                       (NP package sales)))))))))
+     .))

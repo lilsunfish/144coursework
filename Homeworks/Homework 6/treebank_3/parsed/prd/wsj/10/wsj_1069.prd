@@ -1,0 +1,256 @@
+
+
+( (S (NP-SBJ Genentech Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter profit)
+                  (VP (ADVP more than) 
+                      doubled
+                      (PP-DIR to
+			      (NP (NP (QP $ 11.4 million) *U*)
+				  , or
+				  (NP (NP 13 cents)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP a depressed 1988 third-quarter performance)
+				  (PP of
+				      (NP (NP (QP $ 5.3 million) *U*)
+					  , or
+					  (NP (NP six cents)
+					      (NP-ADV a share))))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 23 %)
+         (PP-DIR to
+		 (NP (QP $ 100 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 81.6 million) *U*)))
+     .))
+( (S (NP-SBJ Net product sales)
+     (VP accounted
+         (PP-CLR for
+		 (NP (QP $ 76 million) *U*))
+	 ,
+	 (ADVP up 
+	       (PP from
+		   (NP (QP $ 57.5 million) *U*)
+		   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))
+( (S (NP-SBJ (NP Sales)
+             (PP of
+                 (NP the heart drug TPA)))
+     (VP were
+         (NP-PRD (NP (QP $ 43.6 million) *U*)
+                 ,
+                 (ADJP better 
+                       (PP than
+                           (NP (NP (NP last year 's)
+                                   depressed third period)
+                               (SBAR (WHADVP-1 when)
+                                     (S (NP-SBJ the company)
+                                        (VP sold
+                                            (NP (NP (QP just $ 29.1 million) *U*) 
+                                                (PP of
+                                                    (NP the drug)))
+					    (ADVP-TMP *T*-1)))))))))
+     .))
+( (S But
+     (NP-SBJ TPA sales)
+     (VP fell
+         (PP-DIR below
+		 (NP (NP levels)
+		     (PP for
+			 (NP (NP (NP this year 's)
+				 (ADJP first and second)
+				 quarter sales)
+			     (PP of
+				 (NP (QP $ 48 million) *U*))))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP cooling
+		    (NP investors))))
+     .))
+( (S (NP-SBJ Genentech stock)
+     (VP fell
+         (NP-EXT 12.5 cents)
+         (PP-LOC in 
+		 (NP (NP trading)
+		     (NP-TMP yesterday)
+		     (PP-LOC on
+			     (NP the New York Stock Exchange))))
+         (PP-DIR to
+		 (NP $ 20.125 *U*)))
+     .))
+( (S (PP-TMP In
+	     (NP the nine months))
+     ,
+     (NP-SBJ net income)
+     (VP slid
+         (NP-ADV 21 %)
+         (PP-DIR to
+		 (NP (NP (QP $ 28.4 million) *U*)
+		     , or
+		     (NP (NP 33 cents)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 36 million) *U*)
+		     , or
+		     (NP (NP 42 cents)
+			 (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ Revenues)
+     (VP climbed
+         (NP-EXT 18 %)
+         (PP-DIR to
+		 (NP (QP $ 289 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 245.3 million) *U*)))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-1 We)
+		 (VP continue
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP be
+				(PP on
+				    (NP target))
+				(PP-PRD for ...
+					(S-NOM (NP-SBJ *)
+					       (VP increasing
+						   (NP TPA sales)
+						   (NP (NP 20 %)
+						       (PP to
+							   (NP 25 %))))
+					       (NP this year))))))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ founder and Chief Executive Officer Robert Swanson)
+	.))
+( (S But
+     (NP-SBJ some analysts)
+     (VP remain
+         (ADJP-PRD sour
+                   (PP on
+                       (NP the company))))
+     .))
+( (S ``
+     (NP-SBJ TPA sales)
+     (VP are
+         (ADVP-PRD down)
+	 (NP-TMP (NP quarter) 
+		 (PP to
+		     (NP quarter))))
+     .))
+( (S (S (NP-SBJ Expenses)
+        (VP are
+            (ADJP-PRD flat)))
+     and
+     (S (NP-SBJ that)
+        (VP 's
+            (NP-PRD a good sign)))
+     .))
+( (S (NP-SBJ There)
+     (VP 's
+         (NP-PRD (NP contract revenue)
+                 (PP from
+                     (NP -LCB- limited research and development -RCB- partnerships))))
+     .))
+( (SINV (S-TPC-1 But
+		 (NP-SBJ I)
+		 (ADVP still)
+		 (VP think
+		     (SBAR 0
+			   (S (NP-SBJ the fundamentals)
+			      (VP are
+				  (ADJP-PRD poor))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Denise Gilbert)
+		,
+		(NP (NP an analyst)
+		    (PP with
+			(NP (NP Montgomery Securities)
+			    (PP-LOC in
+				    (NP San Francisco))))))
+	.))
+( (S (NP-SBJ Genentech)
+     (VP faces
+         (NP (NP competition)
+             (PP-LOC in
+		     (NP the cardiac-drug market))
+             (PP from
+                 (NP (NP (NP SmithKline Beecham PLC 's)
+			 heart drug Eminase)
+                     ,
+                     (VP expected
+                         (S (NP-SBJ *)
+                            (VP to
+                                (VP receive
+                                    (NP market approval)
+				    (ADVP-TMP shortly)))))))))
+     .))
+( (S (S-TPC-2 And
+	      (NP-SBJ-1 Genentech)
+	      (VP is n't
+		  (ADJP-PRD likely
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP have
+				       (S (NP-SBJ any new products)
+					  (ADJP-PRD ready
+						    (PP for
+							(NP market))))
+				       (PP-TMP until
+					       (NP (ADVP at least)
+						   1992))))))))
+     ,
+     (NP-SBJ Ms. Gilbert)
+     (VP added
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S ``
+     (S-TPC-1 (S (NP-SBJ (NP The company 's)
+			 stock)
+		 (VP is
+		     (VP trading
+			 (PP-CLR at
+				 (NP (QP 40 times)
+				     (NP next year 's)
+				     numbers)))))
+	      , and
+	      (S (NP-SBJ that)
+		 (VP 's
+		     (ADJP-PRD too much))))
+     , ''
+     (NP-SBJ she)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (S-TPC-1 (PP On
+		  (NP the plus side))
+	      ,
+	      (NP-SBJ Genentech)
+	      (VP is
+		  (VP benefiting
+		      (PP-CLR from
+			      (NP (NP (NP a lower tax rate)
+				      (PP due to
+					  (NP its research outlays)))
+				  ,
+				  (VP giving
+				      (NP a boost)
+				      (PP-DTV to
+					      (NP earnings))))))))
+     ,
+     (NP-SBJ she)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

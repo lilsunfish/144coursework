@@ -1,0 +1,84 @@
+
+
+( (S (NP-SBJ Boston Edison Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP take
+                          (NP (NP a
+				  (ADJP previously
+					reported)
+				  (ADJP (QP $ 60 million) *U*)
+				  charge)
+			      (PP against
+				  (NP earnings)))
+			  (PP-TMP in
+				  (NP the fourth quarter)))))))
+     .))
+( (S (NP-SBJ The charge)
+     (VP resulted
+         (PP-CLR from
+		 (NP (NP a settlement)
+		     (VP approved
+			 (NP *)
+			 (NP-TMP yesterday)
+			 (PP by
+			     (NP-LGS (NP the Massachusetts Department)
+				     (PP of
+					 (NP Public Utilities))))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-1 *)
+		  (VP expected
+		      (NP *-1))))
+     ,
+     (NP-SBJ the settlement)
+     (VP (VP limits
+	     (NP rate increases)
+	     (PP-TMP for
+		     (NP three years)))
+	 and
+	 (VP ties
+	     (NP (NP future charges)
+		 (PP to
+		     (NP customers))
+		 (PP for
+		     (NP (NP operation)
+			 (PP of
+			     (NP the troubled Pilgrim Nuclear Power Station)))))
+	     (PP-CLR to
+		     (NP (NP that plant 's)
+			 performance))))
+     .))
+( (S (PP In
+         (NP its order))
+     ,
+     (NP-SBJ the state regulatory agency)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-96 the company)
+                  ``
+                  (VP must
+                      (VP be
+                          (VP held
+                              (S (NP-SBJ *-96)
+				 (ADJP-PRD accountable
+					   (PP for
+					       (NP (NP the mistakes)
+						   (VP made
+						       (NP *)
+						       (PP-LOC in
+							       (NP (NP the management)
+								   (PP of
+								       (NP (NP the plant 's)
+									   operation)))))))))))))))
+     .
+     ''))
+( (S (NP-SBJ Pilgrim)
+     (VP had
+         (VP been
+             (ADJP-PRD closed)
+	     (PP-TMP for
+		     (NP 32 months))))
+     .))

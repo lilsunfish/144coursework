@@ -1,0 +1,65 @@
+
+
+( (S (NP-SBJ AEP INDUSTRIES Inc. directors)
+     (VP authorized
+         (NP (NP a 3-for-2 split)
+             (PP of
+                 (NP (NP the common)
+                     ,
+                     (ADVP payable
+                           (NP-TMP Dec. 7)
+                           (PP-DIR to
+				   (NP (NP stock)
+				       (PP of
+					   (NP record))
+				       (NP-TMP Nov. 22))))))))
+     .))
+( (SINV (S-2 (NP-SBJ-1 The split)
+	     (VP was
+		 (VP aimed
+		     (NP *-1)
+		     (PP-CLR at
+			     (S-NOM (NP-SBJ *)
+				    (VP boosting
+					(NP (NP the stock 's)
+					    liquidity)))))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Brendan Barba)
+		,
+		(NP (NP chairman)
+		    (PP of
+			(NP (NP the
+				(NAC-LOC (NP Moonachie)  
+					 ,
+					 (NP N.J.)
+					 ,)
+				maker)
+			    (PP of
+				(NP plastic film products))))))
+	.))
+( (S (PP-TMP After
+	     (NP the split))
+     ,
+     (NP-SBJ the company)
+     (VP will
+         (VP have
+             (NP (NP (QP more
+			 than
+			 4.7 million) shares)
+		 (ADJP outstanding))))
+     .))
+( (S (PP-LOC In
+	     (NP national over-the-counter trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ AEP shares)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 21.25 *U*))
+         ,
+         (ADVP down
+               (NP 50 cents)))
+     .))

@@ -1,0 +1,173 @@
+
+
+( (S (NP-SBJ The National Highway Traffic Safety Administration)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 it)
+                  (VP will
+                      (VP start
+                          (S (NP-SBJ *-2)
+                             (VP enforcing
+                                 (NP (NP stiffer regulations)
+                                     (PP *ICH*-1))))
+			  (NP-TMP-CLR Jan. 31)
+			  (PP-1 for
+				(NP (NP (ADJP so-called gray-market)
+					imports)
+				    (PP of
+					(NP vehicles)))))))))
+     .))
+( (S (NP-SBJ (NP The regulations)
+             ,
+             (VP required
+                 (NP *)
+                 (PP-LOC under
+			 (NP (NP legislation)
+			     (VP enacted
+				 (NP *)
+				 (PP by
+				     (NP-LGS Congress))
+				 (NP-TMP last year)))))
+             ,)
+     (VP will
+         (VP apply
+             (PP-CLR to
+		     (NP (NP imports)
+			 (PP of
+			     (NP (NP vehicles)
+				 (SBAR (WHNP-1 that)
+				       (S (NP-SBJ-2 *T*-1)
+					  (VP (VP were n't
+						  (VP built
+						      (NP-3 *-2)
+						      (S-PRP-CLR (NP-SBJ *-3)
+								 (VP to
+								     (VP meet
+									 (NP U.S. government auto safety standards))))))
+					      and
+					      (VP were
+						  (VP intended
+						      (PP-CLR for
+							      (NP (NP use)
+								  (UCP-LOC (PP in
+									       (NP Europe))
+									   or
+									   (ADVP elsewhere abroad)))))))))))))))
+     .))
+( (S (NP-SBJ U.S. officials)
+     (VP estimated
+         (SBAR that
+               (S (NP-SBJ gray-market imports)
+                  (VP total
+                      (NP (NP (NP (QP about 2,100) units)
+                              (NP-ADV a year))
+                          ,
+                          (NP (NP a small part)
+                              (PP of
+                                  (NP (NP the
+                                          (QP more than three million)
+                                          vehicles)
+                                      (VP exported
+                                          (NP *)
+                                          (PP-DIR to
+						  (NP the U.S.))
+                                          (NP-TMP each year))))))))))
+     .))
+( (S (PP According
+         (PP to
+             (NP the NHTSA)))
+     ,
+     (NP-SBJ the new regulations)
+     (VP will
+	 (VP prohibit
+	     (NP-4 (NP anyone)
+		   (ADJP other
+			 (PP than
+			     (NP (NP (NP an importer)
+				     (SBAR (WHNP-1 that)
+					   (S (NP-SBJ *T*-1)
+					      (VP has
+						  (VP registered
+						      (PP-CLR with
+							      (NP the U.S. government)))))))
+				 , or
+				 (NP (NP a person)
+				     (SBAR (WHNP-2 who)
+					   (S (NP-SBJ *T*-2)
+					      (VP has
+						  (NP (NP a contract)
+						      (PP with
+							  (NP a registered importer)))))))
+				 ,))))
+	     (PP-CLR from
+		     (S-NOM (NP-SBJ *-4)
+			    (ADVP permanently)
+			    (VP importing
+				(NP (NP a vehicle)
+				    (SBAR (WHNP-3 that)
+					  (S (NP-SBJ *T*-3)
+					     (VP does n't
+						 (VP meet
+						     (NP the U.S. auto safety standards)))))))))))
+     .))
+( (S (NP-SBJ-1 The registered importer)
+     (VP would
+         (VP be
+             (VP required
+                 (S (NP-SBJ *-1)
+                    (VP to
+                        (VP bring
+                            (NP such vehicles)
+                            (PP-CLR into
+				    (NP (NP compliance)
+					(PP with
+					    (NP the U.S. safety standards)))))))
+		 ,
+		 (PP compared
+		     (PP with
+			 (NP (NP the current situation)
+			     (SBAR (WHPP-2 in
+					   (WHNP which))
+				   (S (NP-SBJ anyone)
+				      (VP can
+					  (VP (VP bring (PRT in)
+						  (NP such vehicles))
+					      and
+					      (VP modify
+						  (NP-3 them)
+						  (S-CLR (NP-SBJ *-3)
+							 (VP to
+							     (VP meet
+								 (NP the U.S. standards)))))
+					      (PP-LOC *T*-2)))))))))))
+     .))
+( (S (NP-SBJ Congress)
+     (VP tightened
+	 (NP (NP auto safety standards)
+	     (PP for
+		 (NP gray-market imports)))
+	 (SBAR-TMP after
+		   (S (NP-SBJ (NP U.S. auto dealers)
+			      ,
+			      (PP including
+				  (NP franchised foreign-car dealers))
+			      ,)
+		      (VP complained
+			  (SBAR that
+				(S (NP-SBJ-1 they)
+				   (ADVP often)
+				   (VP were
+				       (VP blamed
+					   (NP *-1)
+					   (SBAR-TMP (WHADVP-2 when)
+						     (S (NP-SBJ (NP the second and third buyers)
+								(PP of
+								    (NP such vehicles)))
+							(VP found
+							    (SBAR that
+								  (S (NP-SBJ the cars)
+								     (VP could n't
+									 (VP meet
+									     (NP U.S. auto safety standards)))))
+							    (ADVP-TMP *T*-2))))))))))))
+     .))

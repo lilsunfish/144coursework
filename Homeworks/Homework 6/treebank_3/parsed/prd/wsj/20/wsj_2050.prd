@@ -1,0 +1,62 @@
+
+
+( (S (NP-SBJ-1 The Treasury)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP raise
+                    (NP (NP (QP $ 1.55 billion) *U*)
+                        (PP in
+                            (NP new cash)))
+                    (PP with
+                        (NP (NP the sale)
+			    (NP-TMP Monday)
+			    (PP of 
+				(NP (NP (QP about $ 15.6 billion) *U*)
+				    (PP in
+					(NP short-term bills))))
+			    (SBAR (WHADVP-3 0)
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP redeem
+					     (NP (NP (QP $ 14.1 billion) *U*)
+						 (PP in
+						     (NP maturing bills)))
+					     (ADVP *T*-3)))))))))))
+     .))
+( (S (NP-SBJ-1 The offering)
+     (VP will
+         (VP be
+             (VP divided
+                 (NP *-1)
+                 (ADVP-MNR evenly)
+                 (PP between
+                     (NP (NP 13-week and 26-week bills)
+                         (VP maturing
+                             (PP-TMP on
+				     (NP (NP Jan. 25 , 1990)
+					 , and
+					 (NP April 26 , 1990)
+					 ,
+					 (ADVP respectively)))))))))
+     .))
+( (S (NP-SBJ-1 (NP Tenders)
+               (PP for
+                   (NP (NP the bills)
+                       ,
+                       (ADJP available
+                             (PP in
+                                 (NP minimum (ADJP $ 10,000 *U*) denominations))))))
+     ,
+     (VP must
+         (VP be
+             (VP received
+                 (NP *-1)
+		 (PP-TMP by
+			 (NP 1 p.m. EDT Monday))
+		 (PP-LOC (PP at
+			     (NP the Treasury))
+			 or
+			 (PP at
+			     (NP Federal Reserve banks or branches))))))
+     .))

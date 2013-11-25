@@ -1,0 +1,194 @@
+
+
+( (S (NP-SBJ (NP A group)
+             (PP of
+                 (NP (NP institutional investors)
+                     (PP-LOC in
+			     (NP Telerate Inc.)))))
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP (NP Dow Jones & Co. 's)
+			      (ADJP $ 18-a-share *U*) 
+			      offer)
+                          (PP for
+                              (NP the electronic financial information services company)))
+                  (VP is ``
+                      (ADJP-PRD grossly inadequate)))))
+     . ''))
+( (S (PP-LOC In
+	     (NP (NP a letter)
+		 (VP filed
+		     (NP *)
+		     (PP-CLR with
+			     (NP the Securities and Exchange Commission)))))
+     ,
+     (NP-SBJ (NP the group)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP holds
+                          (NP (NP (QP about 4.5 million) Telerate shares)
+                              , or
+                              (NP (NP (QP about 4.7) %)
+                                  (PP of
+                                      (NP (NP the shares)
+                                          (ADJP outstanding))))))))
+             ,)
+     (VP said 
+	 `` ...
+         (S (PP-TMP at
+		    (NP present))
+            (S (NP-SBJ (NP none)
+                       (PP of
+                           (NP us)))
+               (VP believes
+                   (SBAR 0
+                         (S (NP-SBJ (NP an offer)
+                                    (PP for
+					(NP (NP (QP less
+						    than
+						    $ 25)
+						*U*)
+					    (PP per
+						(NP share)))))
+                            (VP would
+                                (VP be
+                                    (ADJP-PRD fair)))))))
+            and
+            (S (NP-SBJ some)
+               (VP believe
+                   (SBAR that
+                         (S (NP-SBJ $ 25 *U*)
+                            (VP is
+                                (ADJP-PRD too low))))))))
+     . ''))
+( (S (NP-SBJ-1 The letter)
+     (VP was
+         (VP dated
+             (NP *-1)
+	     (NP-CLR Oct. 6)))
+     .))
+( (S (PP-LOC In
+	     (NP (NP composite trading)
+		 (PP-LOC on
+			 (NP the New York Stock Exchange))))
+     ,
+     (NP-SBJ Telerate shares)
+     (VP closed
+         (NP-TMP yesterday)
+         (PP-CLR at
+		 (NP $ 18.875 *U*))
+         ,
+         (ADVP down
+	       (NP (NP 75 cents)
+		   (NP-ADV a share))))
+     .))
+( (S (S (NP-SBJ (NP Dow Jones)
+                ,
+                (NP (NP publisher)
+                    (PP of
+                        (NP The Wall Street Journal)))
+                ,)
+        (VP has
+            (VP launched
+                (NP an (ADJP (ADJP $ 18-a-share *U*) 
+			     , or 
+			     (ADJP (QP $ 576 million) *U*)
+			     ,)
+		    tender offer
+                    (S (NP-SBJ *)
+                       (VP to
+                           (VP acquire
+                               (NP (NP the remaining Telerate shares)
+                                   (ADJP outstanding)))))))))
+     ;
+     (S (NP-SBJ Dow Jones)
+        (VP owns
+            (NP (NP 67 %)
+		(PP of
+		    (NP Telerate)))))
+     .))
+( (S (NP-SBJ Telerate)
+     (VP has
+         (VP rejected
+             (NP (NP the offer)
+                 ,
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP expires
+			      (NP-TMP-CLR Nov. 3)))))))
+     .))
+( (S (NP-SBJ The group)
+     (VP includes
+         (NP (NP (NP Putnam Cos.)
+                 and
+                 (NP (NP various affiliates)
+                     (VP based
+                         (NP *)
+                         (PP-LOC-CLR in
+				     (NP Boston)))))
+             ;
+             (NP (NP Wells Fargo Bank)
+                 ,
+                 (NP-LOC San Francisco))
+             ;
+             (NP (NP the California Public Employees Retirement System)
+                 ,
+                 (NP-LOC (NP Sacramento)
+			 ,
+			 (NP Calif.)))
+             , and
+             (NP (NP T. Rowe Price Associates Inc.)
+                 ,
+                 (NP-LOC Baltimore))))
+     .))
+( (S (PP-LOC Among
+	     (NP other issues))
+     ,
+     (NP-SBJ (NP the group 's)
+             letter)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has ``
+                      (NP (NP concerns)
+                          (PP as
+                              (PP to
+                                  (SBAR whether
+					(S (NP-SBJ (NP Dow Jones 's)
+						   offer)
+					   (VP meets
+					       (NP (NP the applicable requirements)
+						   (PP of
+						       (NP procedural fairness)))))))))))))
+     . ''))
+( (S (NP-SBJ (NP A spokesman)
+             (PP for
+                 (NP Dow Jones)))
+     (VP (VP said
+             (SBAR 0
+                   (S (NP-SBJ he)
+                      (VP had n't
+                          (VP seen
+                              (NP (NP the group 's)
+                                  filing))))))
+         , but
+         (VP added , ``
+             (S (ADVP obviously)
+                (NP-SBJ Dow Jones)
+                (VP disagrees
+                    (PP-CLR with
+			    (NP their conclusions))))))
+     .))
+( (S (NP-SBJ Our offer)
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP to
+		    (VP buy
+			(NP (NP (ADJP any and all) shares)
+			    (VP tendered
+				(NP *)
+				(PP-CLR at
+					(NP (NP $ 18 *U*)
+					    (NP-ADV a share)))))))))
+     .))

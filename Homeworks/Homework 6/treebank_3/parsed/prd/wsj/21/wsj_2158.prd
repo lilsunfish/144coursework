@@ -1,0 +1,65 @@
+
+
+( (S (NP-SBJ CALIFORNIA REAL ESTATE INVESTMENT Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its directors)
+                  (VP declared
+                      (NP (NP a dividend)
+			  (PP of
+			      (NP (NP five cents)
+				  (PP per
+				      (NP Class A common stock))))
+                          (ADJP payable
+                                (NP-TMP Nov. 6)
+                                (PP to 
+                                    (NP (NP (NP stock)
+					    (PP of
+						(NP record)))
+					(NP-TMP Oct. 16)))))))))
+     .))
+( (S (NP-SBJ The dividend)
+     (VP represents
+         (NP (NP the balance)
+             (PP of
+                 (NP (NP (NP its regular quarterly payout)
+                         (PP of
+                             (NP (NP 10 cents)
+                                 (NP-ADV a share))))
+                     ,
+                     (SBAR (WHPP-2 of
+				   (WHNP which))
+                           (S (NP-SBJ-1 (NP half)
+					(PP *T*-2))
+                              (VP was
+                                  (VP paid
+                                      (NP *-1)
+                                      (NP-TMP July 17)
+                                      (PP-MNR in
+					      (NP a final distribution))
+				      (ADVP-TMP prior
+						(PP to
+						    (NP (NP its merger)
+							(PP with
+							    (NP B.B. Real Estate Investment Corp.))
+							, 
+							(PP-TMP (ADVP also)
+								in
+								(NP July)))))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP hopes
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP resume
+                                 (NP (NP its schedule)
+                                     (PP of
+                                         (NP regular quarterly dividends)))
+				 (PP-TMP at
+					 (NP (NP the end)
+					     (PP of
+						 (NP this year)))))))))))
+     .))

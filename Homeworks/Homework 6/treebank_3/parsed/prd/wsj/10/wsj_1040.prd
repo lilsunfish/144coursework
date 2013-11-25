@@ -1,0 +1,81 @@
+
+
+( (S (NP-SBJ ONEIDA Ltd.)
+     (VP declared
+         (NP (NP a (ADJP 10 %) stock dividend)
+             ,
+             (ADJP payable
+                   (NP-TMP Dec. 15)
+                   (PP to
+                       (NP (NP stock)
+                           (PP of
+			       (NP (NP record) 
+				   (NP Nov. 17))))))))
+     .))
+( (S (NP-SBJ (NP The
+		 (NAC-LOC Oneida
+			  ,
+			  N.Y.
+			  ,)
+		 maker)
+             (PP of
+                 (NP (UCP consumer , food-service and industrial)
+		     products)))
+     (ADVP also)
+     (VP declared
+         (NP (NP (NP a quarterly cash dividend)
+		 (PP of
+		     (NP (NP 12 cents)
+			 (NP-ADV a share))))
+             ,
+             (PP with
+                 (NP the same (UCP payable and record) dates)))) 
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The cash dividend)
+		      (VP paid
+			  (NP *)
+			  (PP-CLR on
+				  (NP the common stock))))
+	      (ADVP also)
+	      (VP will
+		  (VP apply
+		      (PP-CLR to
+			      (NP the new shares)))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ The move)
+	      (VP (VP rewards
+		      (NP shareholders))
+		  and
+		  (VP should
+		      (VP improve
+			  (NP (NP the stock 's)
+			      liquidity)))))
+     ,
+     (NP-SBJ Oneida)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The company)
+     (VP has
+         (NP (NP (QP about 8.8 million) shares)
+             (ADJP outstanding)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ (NP Oneida 's)
+             shares)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 18.375 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP unchanged)) 
+     .))

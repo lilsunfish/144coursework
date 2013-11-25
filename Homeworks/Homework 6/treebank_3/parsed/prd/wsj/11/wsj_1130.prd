@@ -1,0 +1,135 @@
+
+
+( (S (NP-SBJ-1 (NP The state attorney general 's)
+	       office)
+     (VP filed
+         (NP suit)
+         (PP-CLR against
+		 (NP five New York brokerage firms))
+         ,
+         (S-ADV (NP-SBJ *-1)
+		(VP charging
+		    (NP them)
+		    (PP-CLR with
+			    (NP (NP responsibility)
+				(PP for
+				    (NP (NP much)
+					(PP of
+					    (NP (NP a (ADJP (QP $ 200 million) *U*) loss)
+						(VP incurred
+						    (NP *)
+						    (PP by
+							(NP-LGS (NP the state treasurer 's)
+								office))
+						    (PP-TMP in
+							    (NP 1987))))))))))))
+     .))
+( (S (NP-SBJ The suit)
+     (VP sets
+         (NP (NP the firms ')
+             liability)
+         (PP-CLR at
+		 (NP (QP more
+			 than
+			 $ 185 million) *U*)))
+     .))
+( (S (NP-SBJ The firms)
+     (VP are
+         (NP-PRD (NP Morgan Stanley & Co.)
+		 ,
+		 (NP Salomon Brothers Inc.)
+		 ,
+		 (NP County Natwest Government Securities Inc.)
+		 ,
+		 (NP Greenwich Capital Markets Inc.)
+		 and
+		 (NP Goldman , Sachs & Co)))
+     .))
+( (S (NP-SBJ The firms)
+     (VP have 
+	 all
+         (VP said
+             (SBAR that
+                   (S (NP-SBJ (NP West Virginia 's)
+                              suit)
+                      (VP is
+                          (PP-PRD without
+				  (NP merit)))))))
+     .))
+( (S (PP-TMP On
+	     (NP Friday))
+     ,
+     (NP-SBJ the firms)
+     (VP filed
+         (NP (NP a suit)
+	     (VP *ICH*-1))
+	 (PP-CLR against
+		 (NP West Virginia))
+         (PP-TMP in
+		 (NP New York state court))
+         (VP-1 asking
+	       (PP-CLR for
+		       (NP (NP a declaratory judgment)
+			   (VP absolving
+			       (NP them)
+			       (PP-CLR of
+				       (NP liability)))))))
+     .))
+( (S (NP-SBJ-1 That suit)
+     (VP is
+	 (S-PRD (NP-SBJ *-1)
+		(VP pending)))
+     .))
+( (S (NP-SBJ The suits)
+     (VP relate
+         (PP-CLR to
+		 (NP (NP a (ADJP (QP $ 200 million) *U*) loss)
+		     ,
+		     (VP disclosed
+			 (NP *)
+			 (PP-TMP in
+				 (NP December)))
+		     ,
+		     (SBAR (WHNP-2 that)
+			   (S (NP-SBJ-1 *T*-2)
+			      (VP was
+				  (VP suffered
+				      (NP *-1)
+				      (PP by
+					  (NP-LGS (NP West Virginia 's)
+						  consolidated investment pool)))))))))
+     .))
+( (S (NP-SBJ The pool)
+     (VP invested
+         (NP idle cash)
+         (PP for
+             (NP many
+		 (NX (NX state agencies)
+		     and
+		     (NX local governments)))))
+     .))
+( (S (PP-LOC In
+	     (NP its suit))
+     ,
+     (NP-SBJ (NP the attorney general 's)
+             office)
+     (VP alleges
+         (SBAR that
+               (S (NP-SBJ brokers)
+                  (VP encouraged
+		      (S (NP-SBJ (NP members)
+				 (PP of
+				     (NP (NP the treasurer 's)
+					 office)))
+                         (VP to
+                             (VP engage
+                                 (PP-CLR in
+					 (NP (NP high-volume
+						 ,
+						 high-risk
+						 transactions)
+					     (SBAR (WHNP-1 that)
+						   (S (NP-SBJ *T*-1)
+						      (VP benefited
+							  (NP the brokers)))))))))))))
+     .))

@@ -1,0 +1,54 @@
+
+
+( (S (NP-SBJ-1 C.B. Rogers Jr.)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP chief executive officer)
+			(PP of
+			    (NP this business information concern))))))
+     .))
+( (S (NP-SBJ (NP Mr. Rogers)
+             ,
+             (ADJP (NP 60 years)
+                   old)
+             ,)
+     (VP succeeds
+         (NP (NP J.V. White)
+             ,
+             (NP 64)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP will
+                          (VP remain
+                              (NP-PRD (NP chairman)
+				      and
+				      (NP (NP chairman)
+					  (PP of
+					      (NP the executive committee))))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Rogers)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP was
+                          (NP-PRD (NP (NP president) and (NP chief operating officer))
+				  (PP of
+				      (NP Equifax))))))
+             ,)
+     (VP will
+         (VP retain
+             (NP (NP his position)
+                 (PP as
+                     (NP president)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 a new chief operating officer)
+                  (VP wo n't
+                      (VP be
+                          (VP appointed
+                              (NP *-1)))))))
+     .))

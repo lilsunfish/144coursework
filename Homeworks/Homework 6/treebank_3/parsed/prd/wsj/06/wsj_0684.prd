@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ Telxon Corp.)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ (NP its vice president)
+                             (PP for
+                                 (NP manufacturing)))
+                     (VP resigned))
+                  and
+                  (S (NP-SBJ-1 its Houston work force)
+                     (VP has
+			 (VP been
+			     (VP trimmed
+				 (NP *-1)
+				 (PP-EXT by 
+					 (NP (NP 40 people)
+					     , 
+					     or
+					     (NP (QP about 15)
+						 %))))))))))
+     .))
+( (S (NP-SBJ (NP The maker)
+             (PP of
+                 (NP hand-held computers
+		     and 
+		     computer systems)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the personnel changes)
+                  (VP were
+                      (VP needed
+			  (NP *-1)
+                          (S-CLR (NP-SBJ *)
+				 (VP to
+				     (VP improve
+					 (NP (NP the efficiency)
+					     (PP of
+						 (NP its manufacturing operation)))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has n't
+                      (VP named
+                          (NP (NP a successor)
+                              (PP to
+                                  (NP (NP Ronald Bufton)
+                                      ,
+                                      (NP (NP the vice president)
+                                          (SBAR (WHNP-1 who)
+                                                (S (NP-SBJ *T*-1)
+                                                   (VP resigned))))))))))))
+     .))
+( (S (NP-SBJ Its Houston work force)
+     (ADVP-TMP now)
+     (VP totals
+         (NP 230))
+     .))

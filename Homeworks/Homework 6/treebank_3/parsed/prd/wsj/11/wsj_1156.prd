@@ -1,0 +1,428 @@
+
+
+( (S (NP-SBJ Johnson & Johnson)
+     (VP reported
+         (NP (NP (NP a (ADJP 10 %) rise)
+                 (PP-LOC in
+			 (NP third-quarter net income))
+                 (PP on
+                     (NP a 12 % sales increase)))
+             -
+             (NP (NP results)
+                 (SBAR (WHNP-2 that)
+                       (S (NP-SBJ-1 *T*-2)
+                          (VP were
+                              (VP driven
+                                  (NP *-1)
+				  (PP (ADVP particularly)
+				      by
+                                      (NP-LGS (NP new products)
+					      (PP including
+						  (NP (NP pharmaceuticals)
+						      and
+						      (NP (NP the company 's)
+							  professional operations))))))))))))
+     .))
+( (S (NP-SBJ (NP Net)
+             (PP for
+                 (NP (NP the
+			 (NP (NP New Brunswick)
+			     ,
+			     (NP N.J.)
+			     ,)
+			 maker)
+                     (PP of
+                         (NP health-care products)))))
+     (VP climbed
+         (PP-DIR to
+		 (NP (NP (QP $ 265 million) *U*)
+		     , or
+		     (NP (NP 80 cents)
+			 (NP-ADV a share))))
+         ,
+         (PP-DIR from
+		 (NP (NP (NP (QP $ 240 million) *U*)
+			 , or
+			 (NP (NP 71 cents)
+			     (NP-ADV a share))
+			 ,)
+		     (PP-TMP in
+			     (NP the year-earlier period)))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (PP-DIR to
+		 (NP (QP $ 2.45 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 2.2 billion) *U*)))
+     .))
+( (S (NP-SBJ-1 The year-ago per-share earnings)
+     (VP are
+         (VP adjusted
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP reflect
+                        (NP (NP a 2-for-1 stock split)
+			    (NP-TMP last May)))))))
+     .))
+( (S (PP-LOC In
+	     (NP a statement))
+     ,
+     (NP-SBJ (NP Ralph S. Larsen)
+             ,
+             (NP (NP chairman)
+                 and
+                 (NP chief executive officer))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP was
+                      (ADJP-PRD pleased
+                                (PP with
+                                    (NP its third-quarter sales performance)))
+		      ,
+		      ``
+		      (PP (ADVP especially)
+			  in
+			  (NP (NP light)
+			      (PP of
+				  (NP (NP (NP the extremely competitive environment)
+					  (PP-LOC in
+						  (NP domestic consumer markets)))
+				      and
+				      (NP (NP the negative impact)
+					  (PP of
+					      (NP (NP unfavorable exchange rates)
+						  (NP-TMP this quarter))))))))))))
+     . 
+     ''))
+( (S (NP-SBJ (NP David J. Lothson)
+             ,
+             (NP (NP an industry analyst)
+                 (PP for
+                     (NP PaineWebber Group Inc.)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP Johnson & Johnson 's)
+                          results)
+                  (VP (ADVP-EXT slightly)
+                      exceeded
+                      (NP (NP his expectations)
+                          (PP for
+                              (NP the third quarter)))))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ Johnson & Johnson shares)
+     (VP fell
+         (NP-EXT 37.5 cents)
+         (PP-DIR to
+		 (NP $ 54.625 *U*)))
+     .))
+( (S (NP-SBJ Mr. Larsen)
+     (VP noted
+         (NP (NP `` substantial sales growth '')
+             (PP for
+                 (NP (NP the (ADJP recently introduced) Acuvue disposable contact lens)
+                     and
+                     (NP (NP Hismanal)
+                         ,
+                         (NP a once-a-day antihistamine))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP (NP Eprex)
+			  ,
+			  (VP used
+			      (NP *)
+			      (PP by
+				  (NP-LGS (NP dialysis patients)
+					  (SBAR (WHNP-1 who)
+						(S (NP-SBJ *T*-1)
+						   (VP are
+						       (ADJP-PRD anemic))))))))
+		      , and
+		      (NP (NP Prepulsid)
+			  ,
+			  (NP a gastro-intestinal drug))
+		      ,)
+	      (VP did
+		  (ADVP-MNR well)
+		  (ADVP-LOC overseas)))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S-TPC-3 (PP Despite
+		  (NP (NP health-care cost controls)
+		      and
+		      (NP (NP programs)
+			  (SBAR (WHNP-2 0)
+				(S (NP-SBJ *T*-2)
+				   (VP to
+				       (VP hold
+					   (PRT down)
+					   (NP inventory))))))))
+	      ,
+	      (NP-SBJ (NP the professional division)
+		      ,
+		      (SBAR (WHNP-1 which)
+			    (S (NP-SBJ *T*-1)
+			       (VP makes
+				   (NP (NP products)
+				       (PP including
+					   (NP (NP sutures)
+					       and
+					       (NP surgical stapling equipment)))))))
+		      ,)
+	      ``
+	      (VP achieved
+		  (NP solid growth)))
+     ,
+     ''
+     (NP-SBJ Johnson & Johnson)
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))
+( (S But
+     (NP-SBJ domestic consumer sales)
+     (VP slipped
+         (NP-EXT 1.2 %)
+         (PP for
+             (NP the quarter))
+         ,
+         (PP-DIR to
+		 (NP (QP $ 490 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 496 million) *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP cited
+         (NP (NP (NP softness)
+                 (PP-LOC in
+			 (NP the retail health and beauty aids category)))
+             , 
+	     `` 
+	     as well as
+             (NP (NP the intense competition)
+                 (PP-LOC in
+			 (NP (NP the company 's)
+			     sanitary protection product line)))))
+     . 
+     ''))
+( (S (S-TPC-2 (NP-SBJ Overseas sales)
+	      (VP were
+		  (ADJP-PRD stronger)
+		  ,
+		  (PP-PRP (ADVP principally)
+			  because of
+			  (NP (NP a rebound)
+			      (PP-LOC in
+				      (NP (NP Brazil)
+					  ,
+					  (SBAR (WHADVP-1 where)
+						(S (NP-SBJ economic turmoil)
+						   (VP had
+						       (VP hurt
+							   (NP year-earlier results)
+							   (ADVP-LOC *T*-1)))))))))))
+     ,
+     (NP-SBJ Johnson & Johnson)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP Mr. Lothson)
+             (PP of
+                 (NP PaineWebber)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the company 's)
+                          sales pace)
+                  (VP has
+                      (VP been
+                          (VP picking
+                              (ADVP-CLR up)
+			      (SBAR-PRP (ADVP largely)
+					because
+					(S (NP-SBJ (NP the effect)
+						   (PP of
+						       (NP unfavorable exchange rates)))
+					   (VP has
+					       (VP been
+						   (VP easing
+						       --
+						       (NP-ADV (NP a pattern) 
+							       (VP continuing
+								   (NP-TMP this quarter))))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP cautioned
+	 ,
+         (ADVP however)
+         ,
+         (SBAR that
+               (S (NP-SBJ a `` tough tax-rate comparison '')
+                  (VP may
+                      (VP slow
+                          (NP (NP (NP the company 's)
+				  earnings growth)
+                              (PP for
+                                  (NP the current quarter))))))))
+     .)) 
+( (S (S-TPC-1 (PP For
+		  (NP (NP last year 's)
+		      fourth quarter))
+	      ,
+	      (NP-SBJ (NP the company 's)
+		      tax rate)
+	      (VP was
+		  (NP-PRD (QP less than 20) %)))
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S-2 (SBAR-ADV While
+		 (S (NP-SBJ the third period)
+		    (VP contained
+			(NP no major surprises))))
+       (PRN ,
+	    (S (NP-SBJ Mr. Lothson)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,)
+       (NP-SBJ the results)
+       (VP show
+	   (SBAR (WHADJP-1 how
+			   sensitive)
+		 (S (NP-SBJ the multinationals)
+		    (VP can
+			(VP be
+			    (ADJP-PRD *T*-1)
+			    (PP to
+				(NP (NP developments)
+				    (PP-LOC in
+					    (NP (NP a single country)
+						such as
+						(NP Brazil))))))))))
+       .))
+( (S (NP-SBJ He)
+     (ADVP also)
+     (VP questioned
+         (SBAR whether
+               (S (NP-SBJ-1 (NP recent gains)
+                            (PP-LOC in
+				    (NP that country)))
+                  (VP can
+                      (VP be
+                          (VP sustained
+                              (NP *-1)))))))
+     .))
+( (S (NP-SBJ-4 The following issues)
+     (VP were
+	 (ADVP-TMP recently)
+	 (VP filed
+	     (NP *-4)
+	     (PP-CLR with
+		     (NP the Securities and Exchange Commission))))
+     :))
+( (NP (NP Bergen Brunswig Corp.)
+      ,
+      (NP (NP proposed offering)
+	  (PP of
+	      (NP liquid yield option notes)))
+      ,
+      (PP via
+	  (NP Merrill Lynch Capital Markets))
+      .))
+( (NP (NP Columbia Gas System Inc.)
+      ,
+      (NP (NP shelf offering)
+	  (PP of
+	      (NP (NP (QP up to $ 200 million) *U*)
+		  (PP of
+		      (NP debentures)))))
+      .))
+( (NP (NP Laserscope)
+      ,
+      (NP (NP initial offering)
+	  (PP of
+	      (NP (NP 1,656,870 common shares)
+		  ,
+		  (SBAR (WHPP-2 of
+				(WHNP which))
+			(S (S (NP-SBJ-3 (NP 1,455,000 shares)
+					(PP *T*-2))
+			      (VP are
+				  (S (NP-SBJ-1 *-3)
+				     (VP to
+					 (VP be
+					     (VP sold
+						 (NP *-1)
+						 (PP-4 by
+						       (NP-LGS the company))))))))
+			   and
+			   (S (NP-SBJ=3 (NP 201,870)
+					(PP *T*-2))
+			      (PP=4 by
+				    (NP-LGS holders)))))))
+	  ,
+	  (PP via
+	      (NP (NP Alex . Brown & Sons Inc.)
+		  and
+		  (NP Volpe , Covington & Welty))))
+      .))
+( (NP (NP TeleVideo Systems Inc.)
+      ,
+      (NP (NP proposed offering)
+	  (PP of
+	      (NP (NP 1,853,735 common shares)
+		  ,
+		  (SBAR (WHNP-1 0)
+			(S (NP-SBJ-2 *T*-1)
+			   (VP to
+			       (VP be
+				   (VP sold
+				       (NP *-2)
+				       (PP by
+					   (NP-LGS holders))))))))))
+      .))
+( (NP (NP Western Gas System Inc.)
+      ,
+      (NP (NP initial offering)
+	  (PP of
+	      (NP (NP 3,250,000 common shares)
+		  ,
+		  (SBAR (WHPP-1 of
+				(WHNP which))
+			(S (NP-SBJ-3 (NP 3,040,000 shares)
+				     (PP *T*-1))
+			   (VP will
+			       (VP be
+				   (VP sold
+				       (NP *-3)
+				       (PP-2 by
+					     (NP-LGS the company)))))
+			   and
+			   (S (NP-SBJ=3 (NP 210,000)
+					(PP *T*-1))
+			      (PP=2 by
+				    (NP a holder)))))))
+	  ,
+	  (PP via
+	      (NP (NP Prudential-Bache Capital Funding)
+		  ,
+		  (NP Smith Barney)
+		  ,
+		  (NP Harris Upham & Co.)
+		  and
+		  (NP Hanifen , Imhoff Inc))))
+      .))

@@ -1,0 +1,55 @@
+
+
+( (S (NP-SBJ Basf AG)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+		  (VP (VP moved
+			  (NP-1 (NP its headquarters)
+				(PP for
+				    (NP Latin America)))
+			  (PP-DIR-2 to
+				    (NP Mexico)))
+		      and
+		      (VP (NP=1 (NP the headquarters)
+				(PP for
+				    (NP the Asia/Australia regional division)))
+			  (PP-DIR=2 to
+				    (NP Singapore)))
+		      ,
+		      (S-ADV (NP-SBJ *)
+			     (ADJP-PRD effective) 
+			     (NP-TMP Oct))))))
+     .))
+( (S (NP-SBJ-1 (NP The central offices)
+	       (PP for
+		   (NP both regions)))
+     (VP were
+         (ADVP-TMP previously)
+         (VP located
+	     (NP *-1)
+             (PP-LOC-CLR in
+			 (NP (NP Ludwigshafen)
+			     ,
+			     (NP Basf headquarters)))))
+     .))
+( (S (NP-SBJ The (ADJP West German) chemical concern)
+     (VP called
+         (S (NP-SBJ the moves)
+	    (NP-PRD (NP a further step)
+		    (PP-LOC in
+			    (NP (NP the internationalization)
+				(PP of
+				    (NP its business activities)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Both regions)
+	      (VP are
+		  (NP-PRD (NP the fastest-growing areas)
+			  (PP for
+			      (NP Basf)))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

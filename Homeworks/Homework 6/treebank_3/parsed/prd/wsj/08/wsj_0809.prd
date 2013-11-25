@@ -1,0 +1,58 @@
+
+
+((S (NP-SBJ-1 (NP Michael Grobstein)
+	      ,
+	      (ADJP (NP 46 years) 
+		    old)
+	      ,)
+    (VP was
+	(VP named
+	    (S (NP-SBJ *-1)
+	       (NP-PRD (NP (NP vice chairman)
+			   (PP for
+			       (NP planning
+				   ,
+				   marketing and industry services)))
+		       ,
+		       (NP a new post)))))
+    .))
+( (S (NP-SBJ Mr. Grobstein)
+     (VP had
+	 (VP been
+	     (NP-PRD (NP a vice chairman)
+		     (PP of
+			 (NP (NP Ernst & Whinney)
+			     ,
+			     (NP (NP an accounting firm)
+				 (SBAR (WHNP-1 that)
+				       (S (NP-SBJ-2 *T*-1)
+					  (VP merged
+					      (PP-CLR with
+						      (NP rival Arthur Young))
+					      (PP-TMP in
+						      (NP July))
+					      (S-PRP-CLR (NP-SBJ *-2)
+							 (VP to
+							     (VP form
+								 (NP (NP Ernst & Young)
+								     ,
+								     (NP a major accounting , tax and management consulting firm)))))))))))))) 
+     .))
+((S (S-TPC-2 (NP-SBJ (NP Mr. Grobstein 's)
+		     appointment)
+	     (VP formalizes
+		 (NP (NP a role)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ he)
+			      (VP has
+				  (VP been
+				      (VP performing
+					  (NP *T*-1)
+					  (PP-PRP since
+						  (NP the merger))))))))))
+    ,
+    (NP-SBJ a spokeswoman)
+    (VP said
+	(SBAR 0
+	      (S *T*-2)))
+    .))

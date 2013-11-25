@@ -1,0 +1,36 @@
+
+
+( (S (NP-SBJ Consumers Power Co.)
+     (VP filed
+         (PP-CLR with
+		 (NP the Michigan Public Service Commission))
+         (NP a contract
+             (S (NP-SBJ *)
+                (VP to
+                    (VP buy
+                        (NP power)
+                        (PP-CLR from
+				(NP the Palisades nuclear plant))
+                        (PP-LOC under
+				(NP (NP a proposed new ownership arrangement)
+				    (PP for
+					(NP the plant)))))))))
+     .))
+( (S (NP-SBJ (NP Consumers Power)
+             and
+             (NP Bechtel Power Corp.))
+     (NP-TMP last year)
+     (VP announced
+         (NP a joint venture
+             (S (NP-SBJ *)
+                (VP to
+                    (VP buy
+                        (NP (NP the plant)
+                            ,
+                            (VP (ADVP-TMP currently)
+                                owned
+				(NP *)
+				(ADVP-MNR completely)
+                                (PP by
+                                    (NP-LGS the utility)))))))))
+     .))

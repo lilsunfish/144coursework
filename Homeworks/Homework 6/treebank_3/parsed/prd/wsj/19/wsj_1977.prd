@@ -1,0 +1,75 @@
+
+
+( (S (NP-SBJ Enserch Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP (NP (QP about 12 million))
+				, 
+				or
+				(NP 93 %)
+				,)
+                            (PP of
+                                (NP (NP the
+					(ADJP publicly traded)
+					units)
+                                    (PP of
+                                        (NP (NP its limited partnership)
+                                            ,
+                                            (NP Enserch Exploration Partners Ltd.)
+                                            ,)))))
+                  (VP were
+                      (VP tendered
+                          (NP *-1)
+                          (PP in
+                              (NP (NP response)
+                                  (PP to
+                                      (NP (NP an offer)
+                                          (SBAR (WHNP-2 that)
+                                                (S (NP-SBJ *T*-2)
+                                                   (VP expired
+                                                       (NP-TMP Monday)))))))))))))
+     .))
+( (S (NP-SBJ Enserch)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the tendered units)
+                  (VP will
+                      (VP raise
+                          (NP (NP its ownership)
+                              (PP of
+                                  (NP the partnership)))
+                          (PP-DIR to
+				  (NP (QP more than 99) %))
+                          (PP-DIR from
+				  (NP 87 %)))))))
+     .))
+( (S (S-TPC-3 (NP-SBJ-2 (QP About 900,000) units)
+	      (VP will
+		  (VP continue
+		      (S (NP-SBJ-1 *-2)
+			 (VP to
+			     (VP be
+				 (VP (ADVP-MNR publicly)
+				     traded
+				     (NP *-1)
+				     (PP-LOC on
+					     (NP the New York Stock Exchange)))))))))
+     ,
+     (NP-SBJ Enserch)
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))
+( (S (NP-SBJ Enserch)
+     (VP had
+         (VP offered
+             (NP (NP (NP one-half a share)
+                     (PP of
+                         (NP its common)))
+                 and
+                 (NP (NP $ 1 *U*)
+                     (PP in
+                         (NP cash))))
+             (PP for
+		 (NP each unit))))
+     .))

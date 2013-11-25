@@ -1,0 +1,82 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP The
+			  (ADJP West German)
+			  machinery and plant equipment industry 's)
+		      orders)
+	      (VP rose
+		  (NP-EXT an inflation-adjusted 1 %)
+		  (PP-TMP in
+			  (NP September))
+		  (PP-DIR from
+			  (NP-TMP a year
+				  earlier))
+		  (PP despite
+		      (NP (NP a sharp drop)
+			  (PP-LOC in
+				  (NP foreign orders))))))
+     ,
+     (NP-SBJ (NP the German Association)
+	     (PP of
+		 (NP Machinery Makers)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S-1 (PP-TMP Before
+	       (NP (NP adjustment)
+		   (PP for
+		       (NP inflation))))
+       (PRN ,
+	    (S (NP-SBJ the association)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ orders)
+       (VP were
+	   (ADVP-PRD up
+		     (NP a nominal 5 %)))
+       .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ domestic orders)
+		  (VP climbed
+		      (NP-EXT (NP an adjusted 8 %)
+			      and
+			      (NP a nominal 11 %))
+		      (PP-TMP in
+			      (NP September)))))
+     ,
+     (NP-SBJ foreign orders)
+     (VP (VP declined
+	     (NP-EXT-1 4 %)
+	     (PP-TMP-2 after
+		       (NP inflation)))
+	 and
+	 (VP (NP-EXT=1 1 %)
+	     (PP=2 on
+		   (NP a nominal basis))))
+     .))
+( (S (PP-TMP In
+	     (NP the third quarter))
+     ,
+     (NP-SBJ orders)
+     (VP rose
+         (NP-EXT (NP a real 5 %)
+		 and
+		 (NP a nominal 9 %)))
+     .))
+( (S (NP-SBJ Domestic orders)
+     (VP were
+	 (ADVP-PRD up
+		   (NP (NP a real 11 %)
+		       and
+		       (NP a nominal 14 %)))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ foreign orders)
+		      (VP rose
+			  (NP-EXT (NP a real 1 %)
+				  and
+				  (NP a nominal 5 %))))))
+     .))

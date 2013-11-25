@@ -1,0 +1,54 @@
+
+
+( (S (NP-SBJ This magazine and book publisher)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 three men)
+                  (VP were
+		      (VP elected
+			  (S (NP-SBJ *-1)
+			     (NP-PRD directors))
+			  ,
+			  (S-ADV (NP-SBJ *)
+				 (VP increasing
+				     (NP the board)
+				     (PP-DIR to
+					     (NP 10)))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP are 
+	 :
+         (NP-PRD (NP (NP James R. Eiszner)
+                     ,
+                     (UCP (ADJP (NP 62 years)
+				old)
+			  and
+			  (NP (NP (NP chairman)
+				  and 
+				  (NP chief executive officer))
+			      (PP of
+				  (NP CPC International Inc.)))))
+                 ;
+                 (NP (NP Robert G. Schwartz)
+                     ,
+                     (NP 61)
+                     ,
+                     (NP (NP (NP chairman) 
+			     ,
+			     (NP president)
+			     and 
+			     (NP chief executive officer))
+                         (PP of
+                             (NP Metropolitan Life Insurance Co.))))
+                 , 
+		 and
+                 (NP (NP Walter V. Shipley)
+                     ,
+                     (NP 53)
+                     ,
+                     (NP (NP (NP chairman) 
+			     and 
+			     (NP chief executive officer))
+			 (PP of
+			     (NP Chemical Banking Corp))))))
+     .))

@@ -1,0 +1,57 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP The current account deficit)
+		      (PP-LOC on
+			      (NP (NP (NP France 's)
+				      balance)
+				  (PP of
+				      (NP payments)))))
+	      (VP narrowed
+		  (PP-DIR to
+			  (NP (NP (QP 1.48 billion) 
+				  French francs)
+			      (PRN -LRB-
+				   (NP (QP $ 236.8 million) 
+				       *U*)
+				   -RRB-))
+			  (PP-TMP in
+				  (NP August)))
+		  (PP-DIR from
+			  (NP a revised 
+			      (QP 2.1 billion) 
+			      francs)
+			  (PP-TMP in
+				  (NP July)))))
+     ,
+     (NP-SBJ the Finance Ministry)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (ADVP-TMP Previously)
+     ,
+     (NP-SBJ-1 the July figure)
+     (VP was
+         (VP estimated
+	     (NP *-1)
+	     (PP-CLR at
+		     (NP (NP a deficit)
+			 (PP of
+			     (NP (QP 613 million)
+				 francs))))))
+     .))
+( (S (NP-SBJ (NP Seasonally adjusted figures)
+             (PP for
+                 (NP August)))
+     (VP were
+	 n't
+         (ADJP-PRD available)
+	 (PP-PRP because of
+		 (NP (NP a recent strike)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP has
+				  (VP disrupted
+				      (NP (NP the ministry 's)
+					  data collection))))))))
+     .))

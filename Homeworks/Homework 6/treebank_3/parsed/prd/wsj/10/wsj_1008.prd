@@ -1,0 +1,109 @@
+
+
+( (S (NP-SBJ Lawrence Insurance Group Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP acquired
+                      (NP (NP United Republic Reinsurance Co.)
+                          ,
+                          (NP a Houston property and casualty reinsurance company)
+                          ,)
+                      (PP-CLR from 
+			      (NP (NP United Savings Association)
+				  (PP of
+				      (NP Texas))))
+                      (PP-CLR for
+			      (NP (QP $ 28 million) *U*))))))
+     .))
+( (S (NP-SBJ Lawrence Insurance)
+     (ADVP also)
+     (VP sold
+         (NP (NP (QP 3.2 million))
+             (PP of
+		 (NP its shares)))
+         (PP-CLR for
+		 (NP (NP $ 7.125 *U*)
+		     (NP-ADV each)))
+         (PP-DTV to
+		 (NP (NP its parent)
+		     ,
+		     (NP Lawrence Group Inc))))
+     .))
+( (S (NP-SBJ-1 (NP Lawrence Insurance)
+	       ,
+	       (VP based
+		   (NP *)
+		   (PP-LOC in
+			   (NP Albany
+			       ,
+			       N.Y.
+			       ,))))
+     (VP plans
+         (S (NP-SBJ-2 *-1)
+            (VP to
+                (VP use
+                    (NP (NP the
+			    (QP $ 22.5 million)
+			    *U*)
+                        (PP in
+                            (NP proceeds)))
+                    (S-CLR (NP-SBJ-3 *-2)
+			   (VP to
+			       (VP help
+				   (S (NP-SBJ *-3)
+				      (VP finance
+					  (NP (NP the acquisition)
+					      (PP of
+						  (NP United Republic))))))))))))
+     .))
+( (S (PP-MNR By
+	     (S-NOM (NP-SBJ *-1)
+		    (VP acquiring
+			(NP the shares))))
+     ,
+     (NP-SBJ-1 Lawrence Group)
+     (VP increased
+         (NP (NP its stake)
+             (PP in 
+                 (NP Lawrence Insurance)))
+         (PP-DIR to
+		 (NP 93.2 %))
+         (PP-DIR from
+		 (NP 91.2 %)))
+     .))
+( (S (S-TPC-1 (NP-SBJ Lawrence Insurance)
+	      (VP underwrites
+		  (ADVP mostly)
+		  (NP primary insurance)))
+     ,
+     (NP-SBJ a company spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ A reinsurance company)
+     (ADVP effectively)
+     (VP insures
+         (NP (NP insurance companies)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP wish
+                          (S (NP-SBJ *-2)
+                             (VP to
+                                 (VP spread
+                                     (NP (NP the risk)
+                                         (PP of
+                                             (NP a particular policy)))))))))))
+     .))
+( (S (NP-SBJ Lawrence Group)
+     (ADVP also)
+     (VP owns
+         (NP (NP (NP Lawrence Agency Corp.)
+                 ,
+                 (NP-LOC Schenectady
+			 ,
+			 N.Y.))
+             ,
+             (NP an insurance agency and brokerage)))
+     .))

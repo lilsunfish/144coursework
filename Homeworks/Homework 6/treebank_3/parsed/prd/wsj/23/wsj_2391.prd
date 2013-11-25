@@ -1,0 +1,152 @@
+
+
+( (FRAG (NP Plunge)
+	?))
+( (FRAG (WHNP What plunge)
+	?))
+( (S (NP-SBJ Twenty-four
+             New York
+             Stock Exchange issues)
+     (VP hit
+         (NP 52-week highs)
+         (PP-TMP during
+		 (NP (NP Friday 's)
+		     trading))
+	 ,
+	 (PP despite
+	     (NP (NP the Dow Jones Industrial Average 's)
+		 190.58-point plunge)))
+     .))
+( (S (NP-SBJ (NP Stocks)
+             (PP of
+                 (NP utilities)))
+     (VP held
+         (PRT up)
+         (ADVP-MNR (ADVP relatively better)
+		   (PP than
+		       (NP other market sectors)))
+         (PP-TMP during
+		 (NP the sell-off)))
+     .))
+( (SINV And
+	(PP-LOC-PRD-TPC-1 among
+			  (NP (NP the issues)
+			      (VP hitting
+				  (NP new highs))))
+	(VP were
+	    (PP-LOC-PRD *T*-1))
+	(NP-SBJ (NP Detroit Edison Co.)
+		and
+		(NP Niagara Mohawk Power Corp))
+	.))
+( (S (NP-SBJ (NP Other major issues)
+             (VP hitting
+                 (NP highs)))
+     (VP included
+         (NP (NP American Telephone & Telegraph Co.)
+             ,
+             (NP Westinghouse Electric Corp.)
+             ,
+             (NP Exxon Corp.)
+             and
+             (NP (NP Cigna Corp.)
+                 ,
+                 (NP the big insurer))))
+     .))
+( (S (PP Of
+         (NP course))
+     ,
+     (NP-SBJ (NP many more issues)
+             (PRN --
+		  (NP 93)
+		  --))
+     (VP hit
+         (NP new lows))
+     .))
+( (S (NP-SBJ These)
+     (VP included
+         (NP (NP International Business Machines Corp.)
+             ,
+             (SBAR (WHNP-1 which)
+		   (S (NP-SBJ *T*-1)
+		      (PP-TMP during
+			      (NP (NP Friday 's)
+				  session))
+		      (VP traded
+			  (PP-LOC below
+				  (NP (NP $ 100 *U*)
+				      (NP-ADV a share)))
+			  (PP for
+			      (NP (NP the first time)
+				  (PP-TMP since
+					  (NP June 1984)))))))))
+     .))
+( (S (NP-SBJ IBM)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 102 *U*))
+         ,
+         (ADVP down
+               (NP $ 5.625 *U*)))
+     .))
+( (S (NP-SBJ Other new lows)
+     (VP included
+         (NP (NP (NP Navistar International Corp.)
+                 ,
+                 (NP Union Carbide Corp.)
+                 and
+                 (NP Bethlehem Steel Corp.))
+             ,
+             (SBAR (WHNP-2 (NP all)
+                           (WHPP of
+                                 (WHNP which)))
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP are
+                          (VP included
+                              (NP *-1)
+                              (PP-LOC-CLR in
+					  (NP the industrial average))))))))
+     .))
+( (S (ADVP-TMP Meanwhile)
+     ,
+     (NP-SBJ two initial public offerings)
+     (VP braved
+         (NP the cascading market)
+         (PP-TMP in
+		 (NP (NP their maiden day)
+		     (PP of
+			 (NP national over-the-counter trading))))
+	 (NP-TMP Friday))
+     .))
+( (S (S (NP-SBJ (NP Shares)
+                (PP of
+                    (NP (NP (NP Rally 's)
+                            Inc.)
+                        ,
+                        (NP (NP an operator)
+                            (PP of
+                                (NP fast-food restaurants)))
+                        ,)))
+        (VP closed
+            (PP-CLR at
+		    (NP (NP $ 17 *U*)
+			(NP-ADV each)))
+            ,
+            (ADVP up
+                  (PP from
+                      (NP its (ADJP $ 15 *U*) offering price)))))
+     and
+     (S (NP-SBJ (NP shares)
+                (PP of
+                    (NP (NP Employee Benefit Plans Inc.)
+                        ,
+                        (NP a health-care consultant)
+                        ,)))
+        (VP closed
+            (PP-CLR at
+		    (NP $ 14.125 *U*))
+            ,
+            (ADVP up
+                  (PP from
+                      (NP its (ADJP $ 12 *U*) offering price)))))
+     .))

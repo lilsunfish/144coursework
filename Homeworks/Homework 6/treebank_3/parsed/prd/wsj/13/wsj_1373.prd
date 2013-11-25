@@ -1,0 +1,732 @@
+
+
+( (S-HLN (NP-SBJ (NP Chip 's)
+		 Memory)
+	 (VP (VP Is
+		 (ADVP-LOC-PRD-1 Here)
+		 (NP-TMP-2 Today))
+	     ,
+	     (VP (ADVP-LOC-PRD=1 Here)
+		 (NP-TMP=2 Tomorrow)))))
+( (S (NP-SBJ-2 TWO COMPANIES)
+     (VP plan
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP market
+                    (NP (NP a new chip)
+                        (PP with
+                            (NP (NP ceramic circuits)
+                                (SBAR (WHNP-1 that)
+                                      (S (NP-SBJ *T*-1)
+                                         (VP store
+                                             (NP data)
+                                             (SBAR-TMP (WHADVP-3 even when)
+						       (S (NP-SBJ the power)
+							  (VP is
+							      (ADVP-PRD off)
+							      (ADVP-TMP *T*-3))))))))))))))
+     .))
+( (S (NP-SBJ (NP Today 's) 
+	     (ADJP (ADVP most widely) used)
+	     data-storing chips)
+     (VP have
+         (NP (NP `` volatile '' memories)
+             --
+             (S (S (NP-SBJ their data)
+		   (VP disappear
+		       (SBAR-ADV if
+				 (S (NP-SBJ they)
+				    (VP are n't
+					(VP fed
+					    (NP (NP a steady diet)
+						(PP of
+						    (NP electricity)))))))))
+                ,
+                so 
+		(S (NP-SBJ they)
+		   (VP need
+		       (NP external power supplies))))))
+     .))
+( (S (NP-SBJ-2 (NP National Semiconductor Corp.)
+	       and
+	       (NP (NP a start-up)
+		   (VP named
+		       (S (NP-SBJ *)
+			  (NP-PRD Ramtron Corp.)))))
+     (VP plan
+         (S (NP-SBJ-3 *-2)
+            (VP to
+                (VP start
+                    (S (NP-SBJ *-3)
+                       (VP shipping
+                           (NP (NP so-called ferroelectric memories)
+                               ,
+                               (SBAR (WHNP-1 which)
+                                     (S (NP-SBJ *T*-1)
+                                        (VP can
+                                            (VP remember
+                                                (NP data)
+                                                (PP-TMP for
+							(NP (QP at least 10)
+							    years))
+                                                (PP-MNR without
+							(NP (NP any current)
+							    (VP flowing
+								(PP-CLR to
+									(NP them))))))))))))))))
+     .))
+( (S (NP-SBJ-2 The chips)
+     (VP use
+         (NP (NP materials)
+             ,
+             (PP such as
+		 (NP lead zirconate titanate))
+             ,)
+         (S-CLR (NP-SBJ *-2)
+		(VP to
+		    (VP form
+			(NP (NP microscopic switches)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP retain
+					 (NP their data)
+					 (PP-MNR without
+						 (NP electricity))))))))))
+     .))
+( (S (NP-SBJ Developers)
+     (VP caution
+         (SBAR that
+               (S (NP-SBJ broad applications)
+		  (VP are
+		      (ADVP-PRD (NP several years)
+				away)
+		      (SBAR-PRP because
+				(S (NP-SBJ-1 the technology)
+				   (VP is n't
+				       (ADVP fully)
+				       (VP refined
+					   (NP *-1)))))))))
+     .))
+( (S But
+     (NP-SBJ-1 (NP Ramtron)
+	       (PP of
+		   (NP (NP Colorado Springs)
+		       ,
+		       (NP Colo.)
+		       ,)))
+     (VP plans
+         (S (NP-SBJ-2 *-1)
+            (VP to
+                (VP start
+                    (S (NP-SBJ *-2)
+                       (VP shipping
+                           (NP (NP commercial quantities)
+                               (PP of
+                                   (NP simple ferroelectric chips)))))
+                    (PP-TMP in
+			    (NP December))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP expects
+	 (S (NP-SBJ-2 the chips)
+	    (ADVP-TMP eventually)
+            (VP to
+                (VP be
+                    (VP used
+			(NP *-2)
+                        (PP-CLR in
+				(NP (NP devices)
+				    (SBAR (WHNP-1 that)
+					  (S (NP-SBJ *T*-1)
+					     (VP mimic
+						 (NP (NP a whole range)
+						     (PP of
+							 (NP computer memory equipment))
+						     ,
+						     (PP including
+							 (NP (ADJP floppy-disk and hard-disk) drives)))))))))))))
+     .))
+( (S (NP-SBJ National Semiconductor)
+     (VP is
+         (VP getting
+             (NP ferroelectric technology)
+             (PP-CLR from
+		     (NP (NP Krysalis Corp.)
+			 (PP-LOC in
+				 (NP (NP Albuquerque)
+				     ,
+				     (NP N.M)))))))
+     .))
+( (S (NP-SBJ National)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP (VP agreed
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP acquire
+				     (NP (NP Krysalis 's)
+					 assets)))))
+		      and
+		      (VP will
+			  (VP start
+			      (S (NP-SBJ *-1)
+				 (VP shipping
+				     (NP (NP commercial quantities)
+					 (PP of
+					     (NP (NP its first chips)
+						 ,
+						 (PP including
+						     (NP a 4-kilobit memory))
+						 ,)))))
+			      (NP-TMP next year)))))))
+     .))
+( (S (SBAR-TMP Once
+	       (S (NP-SBJ-1 production hurdles)
+		  (VP are
+		      (VP overcome
+			  (NP *-1)))))
+     ,
+     (NP-SBJ the chips)
+     (VP could
+         (VP take
+             (PRT over)
+             (NP (NP a significant part)
+                 (PP of
+                     (NP the market)))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (S-NOM (NP-SBJ *-1)
+			(VP not needing
+			    (NP an outside power source))))))
+     ,
+     (NP-SBJ-1 they)
+     (VP are
+	 (ADVP potentially)
+	 (ADJP-PRD cheaper
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP make
+			      (NP *-1))))) 
+	 (SBAR-TMP because
+		   (S (NP-SBJ they)
+		      (VP require
+			  (NP (NP fewer manufacturing steps)
+			      (PP than
+				  (NP conventional chips)))))))
+     .))
+( (S-1 (NP-SBJ Military buyers)
+       (VP have
+	   (VP shown
+	       (NP interest)
+	       (PRN ,
+		    (S (NP-SBJ National)
+		       (VP says
+			   (SBAR 0
+				 (S *T*-1))))
+		    ,)
+	       (SBAR-PRP because
+			 (S (NP-SBJ ferroelectric chips)
+			    (VP resist
+				(NP atomic radiation))))))
+       .))
+( (S And
+     (SBAR-ADV while
+	       (S (NP-SBJ-1 (NP (NP today 's)
+				non-volatile chips)
+			    --
+			    (PP such as
+				(NP (ADJP electronically erasable)
+				    programmable read-only
+				    memory chips))
+			    --)
+		  (VP ca n't
+		      (VP be
+			  (VP used
+			      (NP *-1)
+			      (PP-LOC in
+				      (NP (NP a computer 's)
+					  central memory))
+			      (SBAR-PRP because
+					(S (NP-SBJ they)
+					   (VP `` learn ''
+					       (NP data)
+					       (ADVP-MNR slowly)))))))))
+     ,
+     (NP-SBJ ferroelectric chips)
+     (VP accept
+         (NP data)
+         (PP-TMP at
+		 (NP very high speeds)))
+     .))
+( (S-HLN (NP-SBJ *)
+	 (VP Showing
+	     (PRT Up)
+	     (PP-LOC-CLR in
+			 (NP Court))
+	     (PP-MNR Without
+		     (S-NOM (NP-SBJ *)
+			    (VP Being
+				(ADVP-LOC-PRD There)))))))
+( (S (NP-SBJ-1 AN
+	       (NAC-LOC AUSTIN
+			,
+			Texas
+			,)
+	       company)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP make
+                    (S (NP-SBJ (NP it)
+			       (SBAR *EXP*-2))
+		       (ADJP-PRD easy)
+		       (SBAR-2 for
+			       (S (NP-SBJ-3 you)
+				  (VP show
+				      (PRT up)
+				      (PP-LOC-CLR in
+						  (NP court))
+				      (ADVP-LOC (NP a thousand miles)
+						away)
+				      (PP-MNR without
+					      (S-NOM (NP-SBJ *-3)
+						     (VP leaving
+							 (NP town))))))))))))
+     .))
+( (S (NP-SBJ-1 Witnesses)
+     (ADVP-TMP often)
+     (VP must
+         (VP travel
+             (NP long distances)
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP give
+			    (NP face-to-face depositions)
+			    (PP-LOC before
+				    (NP (NP lawyers) and (NP court reporters))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP means
+         (NP huge travel bills))
+     .))
+( (S And
+     (NP-SBJ telephone or videotape depositions)
+     (ADVP just)
+     (VP do n't
+         (VP match
+             (NP physical encounters)))
+     .))
+( (S (NP-SBJ That)
+     (VP could
+         (VP change
+	     ,
+	     (NP-ADV (NP thanks)
+		     (PP to
+			 (NP (NP lower long-distance rates)
+			     and
+			     (NP cheaper electronics))))))
+     .))
+( (S (NP-SBJ-2 (NP Video Telecom Corp.)
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP markets
+			    (NP videoconferencing systems))))
+	       ,)
+     (VP is
+         (VP working
+             (PP with
+		 (NP court reporters))
+             (S-CLR (NP-SBJ *-2)
+		    (VP to
+			(VP wire
+			    (NP (NP a nationwide network)
+				(SBAR-PRP (WHNP-3 0)
+					  (S (NP-SBJ *T*-3)
+					     (VP to
+						 (VP allow
+						     (NP (NP depositions)
+							 (PP by
+							     (NP live television)))))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP installed
+         (NP (NP a prototype system)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP connects
+                          (NP Dallas)
+                          (PP-CLR with
+				  (NP Miami))
+                          (PP-MNR over
+				  (NP digital phone lines)))))))
+     .))
+( (S And
+     (NP-SBJ-1 it)
+     (VP is
+         (VP preparing
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP set
+                        (PRT up)
+                        (NP shop)
+                        (PP-LOC in
+				(NP (NP (NP Chicago)
+					,
+					(NP New York)
+					and
+					(NP 10 other cities))
+				    (SBAR (WHADVP-2 where)
+					  (S (NP-SBJ court-reporting agencies)
+					     (VP can
+						 (VP tie
+						     (NP conference rooms)
+						     (PP-CLR into
+							     (NP the network))
+						     (ADVP-LOC *T*-2))))))))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ lawyers)
+		  (VP arranged
+		      (NP individual tie-ups)
+		      (ADVP-TMP before))))
+     ,
+     (NP-SBJ (NP the formal network)
+             (PP of
+                 (NP court reporters)))
+     (VP should
+         (VP make
+             (S (NP-SBJ things)
+		(ADJP-PRD easier and cheaper))))
+     .))
+( (S (NP-SBJ-1 An attorney)
+     (VP will
+         (VP be
+             (ADJP-PRD able
+                       (S (NP-SBJ-2 *-1)
+                          (VP to
+                              (VP use
+                                  (NP the network)
+                                  (PP-CLR for
+					  (NP (NP an hourly fee)
+					      (PP of
+						  (NP (NP (QP between $ 200 and $ 400)
+							  *U*)
+						      ,
+						      (PP (NP depending)
+							  (PP on
+							      (NP (NP the quality)
+								  (PP of
+								      (NP the picture)))))
+						      ,))))
+                                  (S-CLR (NP-SBJ *-2)
+					 (VP to
+					     (VP take
+						 (NP depositions)
+						 (PP-CLR from
+							 (NP (NP witnesses)
+							     (PP-LOC in
+								     (NP (NP any)
+									 (PP of
+									     (NP the connected cities)))))))))))))))
+     .))
+( (S-HLN (NP-SBJ Japanese)
+	 (VP Reverse
+	     (NP Tack)
+	     (PP On
+		 (NP Patent Protection)))))
+( (S (NP-SBJ (NP (NP JAPAN 'S) MISUSE) 
+             (PP of
+                 (NP U.S. patents)))
+     (VP has
+         (VP been
+             (NP-PRD (NP a sore point)
+                     (PP for
+                         (NP American chip makers)))))
+     .))
+( (S (ADVP-TMP Now)
+     (NP-SBJ (QP at least one)
+	     Japanese company)
+     (VP is
+         (VP turning
+             (NP-PRD the courtroom tables)))
+     .))
+( (S (PP-TMP Until
+	     (NP now))
+     ,
+     (NP-SBJ most Japanese charges)
+     (VP have
+         (VP been
+             (NP-PRD (NP responses)
+                     (PP to
+                         (NP (NP suits)
+                             (PP against
+                                 (NP them)))))))
+     .))
+( (S But
+     (NP-TMP last year)
+     (NP-SBJ Hitachi Ltd.)
+     (VP surprised
+         (NP (NP Japan 's)
+             electronics industry)
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ it)
+		      (VP accused
+			  (NP-1 (NP Korea 's)
+				Samsung Electronics Co.)
+			  (PP-CLR of
+				  (S-NOM (NP-SBJ-3 *-1)
+					 (VP using
+					     (NP Hitachi technology)
+					     (S-CLR (NP-SBJ *-3)
+						    (VP to
+							(VP make
+							    (NP dynamic random-access memory chips)))))))
+			  (ADVP-TMP *T*-2)))))
+     .))
+( (S -LRB-
+     (NP-SBJ-1 A settlement)
+     (VP (VP was
+	     (VP reached
+		 (NP *-1)))
+	 but
+	 (VP was n't
+	     (VP made
+		 (S (NP-SBJ *-1)
+		    (ADJP-PRD public)))))
+     . -RRB-))
+( (S And
+     (NP-SBJ Hitachi)
+     (VP went
+         (PP-CLR on
+		 (NP the offensive))
+	 (PP-CLR against
+		 (NP (NP the U.S. 's)
+		     Motorola Inc.))
+         (NP-TMP earlier this month)
+         (PP-MNR with
+		 (NP (NP a suit)
+		     (VP charging
+			 (SBAR that
+			       (S (NP-SBJ (NP Motorola 's)
+					  new MC88200 chip)
+				  (VP infringes
+				      (PP-CLR on
+					      (NP a Hitachi patent)))))))))
+     .))
+( (S (NP-SBJ Another recent Hitachi suit)
+     (VP (VP accuses
+	     (NP-1 Motorola)
+	     (PP-CLR of
+		     (S-NOM (NP-SBJ *-1)
+			    (VP (ADVP reverse) 
+				engineering
+				(NP a Hitachi technology)))))
+	 --
+	 (NP (NP a turnabout)
+	     (PP from
+		 (NP (NP a nation)
+		     (PP of
+			 (NP champion reverse engineers))))))
+     .))
+( (S (NP-SBJ The moves)
+     (VP illustrate
+         (NP (NP the (ADJP more aggressive) attitude)
+	     (PP toward
+		 (NP patent protection))
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ patent experts)
+                      (VP say
+                          (SBAR 0
+                                (S (NP-SBJ-2 Japan)
+                                   (VP is
+                                       (VP starting
+                                           (S (NP-SBJ *-2)
+                                              (VP to
+                                                  (VP take
+                                                      (NP *T*-1)))))))))))))
+     .))
+( (S (NP-SBJ Hitachi)
+     (VP made
+         (NP the reverse-engineering charges)
+         (PP-LOC in
+		 (NP (NP an amendment)
+		     (PP to
+			 (NP (NP a counterclaim)
+			     (VP filed
+				 (NP *)
+				 (PP-LOC-CLR in
+					     (NP (NP a federal district court)
+						 (PP-LOC in
+							 (NP Texas))))
+				 (SBAR-TMP after
+					   (S (NP-SBJ Motorola)
+					      (VP sued
+						  (NP Hitachi)
+						  (PP-CLR for
+							  (NP patent violation)))))))))))
+     .))
+( (S (NP-SBJ Hitachi)
+     (VP charges
+         (SBAR 0
+               (S (NP-SBJ Motorola)
+                  ``
+                  (VP has
+                      (VP engaged
+                          (PP-CLR in
+				  (NP (ADJP fraudulent and inequitable) conduct))
+                          (PP-LOC in
+				  (NP (NP the procurement)
+				      (PP of
+					  (NP (NP certain Motorola patents)
+					      ''
+					      (VP used
+						  (NP *)
+						  (PP-CLR in
+							  (NP (NP Motorola 's)
+							      MC68030 microprocessor chip))))))))))))
+     .))
+( (FRAG (NP Translation)
+	:
+	(S-4 (NP-SBJ-3 Motorola)
+	     (VP appears
+		 (S (NP-SBJ-5 *-3)
+		    (VP to
+			(VP have
+			    (VP (VP taken
+				    (NP (NP a Hitachi technology)
+					(SBAR (WHNP-2 that)
+					      (S (NP-SBJ-1 *T*-2)
+						 (VP is
+						     (VP patented
+							 (NP *-1)
+							 (PP-LOC in
+								 (NP the U.S.))))))))
+				(PRN ,
+				     (S (NP-SBJ Hitachi)
+					(VP says
+					    (SBAR 0
+						  (S *T*-4))))
+				     ,)
+				and
+				``
+				(VP tried
+				    (S (NP-SBJ *-5)
+				       (VP to
+					   (VP make
+					       (S (NP-SBJ it)
+						  (VP look
+						      (PP-CLR like
+							      (NP a new technology)))))))
+				    . '')))))))))
+( (S (NP-SBJ Motorola)
+     (VP either
+	 (VP (VP denied
+		 (NP *RNR*-1))
+	     or
+	     (VP would n't
+		 (VP comment
+		     (PP-CLR on
+			     (NP *RNR*-1))))
+	     (NP-1 the various charges)))
+     .))
+( (NP-HLN Odds and Ends))
+( (S (NP-SBJ-1 (NP COMPUTER chips)
+               (SBAR (WHNP-2 that)
+                     (S (NP-SBJ *T*-2)
+                        (VP simulate
+                            (NP human vision)))))
+     (VP have
+         (VP been
+             (VP developed
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP Japan 's)
+			     Sharp Corp)))))
+     .))
+( (S (NP-SBJ-1 They)
+     (VP mimic
+         (NP the brain)
+         (PP-MNR by
+		 (S-NOM (NP-SBJ *-1)
+			(VP (VP `` looking ''
+				(PP-CLR at
+					(NP an image)))
+			    ,
+			    (VP extracting
+				(NP (NP the fundamentals)
+				    --
+				    (NP boundaries 
+					,
+					corners
+					and
+					lines)
+				    --))
+			    and
+			    (VP translating
+				(NP them)
+				(PP-CLR into
+					(NP computer data)))))))
+     .))
+( (S (NP-SBJ Sharp)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ (NP the set)
+                          (PP of
+                              (NP chips)))
+                  (VP could
+                      (VP improve
+                          (NP (NP fax machines)
+                              ,
+                              (NP graphics computers)
+                              or
+                              (NP (NP identification systems)
+                                  (SBAR (WHNP-1 that)
+                                        (S (NP-SBJ *T*-1)
+                                           (VP recognize
+                                               (NP facial features)))))))))))
+     ... .))
+( (S (NP-SBJ An N.V . Philips unit)
+     (VP has
+         (VP created
+             (NP (NP a computer system)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP processes
+                              (NP video images)
+                              (ADVP-MNR (ADVP (NP 3,000 times)
+					      faster) 
+					(PP than
+					    (NP conventional systems)))))))))
+     .))
+( (S (S-MNR (NP-SBJ *-2)
+	    (VP Using
+		(NP (NP (ADJP reduced instruction-set) computing (PRN , or (NP RISC) ,) chips) 
+		    (VP made
+			(NP *)
+			(PP by
+			    (NP-LGS (NP Intergraph)
+				    (PP of
+					(NP (NP Huntsville)
+					    ,
+					    (NP Ala.)
+					    ,))))))))
+     (NP-SBJ-2 the system)
+     (VP splits
+	 (NP (NP the image)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ it)
+		      (VP `` sees ''
+			  (NP *T*-1)))))
+	 (PP-CLR into
+		 (NP (NP 20 digital representations)
+		     ,
+		     (NP (NP each) 
+			 (VP processed
+			     (NP *)
+			     (PP by
+				 (NP-LGS one chip)))))))
+     .))

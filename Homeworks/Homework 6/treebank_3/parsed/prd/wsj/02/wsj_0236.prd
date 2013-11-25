@@ -1,0 +1,54 @@
+
+
+( (S (NP-SBJ Martin Marietta Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP won
+                      (NP (NP a 
+			      (ADJP (QP $ 38.2 million ) *U*) 
+			      contract)
+			  (SBAR *ICH*-2))
+                      (PP-CLR from
+			      (NP the U.S. Postal Service))
+                      (SBAR-2 (WHNP-1 0)
+			      (S (NP-SBJ *T*-1)
+				 (VP to
+				     (VP manufacture and install
+					 (NP automated mail-sorting machines)))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP (NP terms)
+		 (PP of
+		     (NP the three-year contract))))
+     ,
+     (NP-SBJ Martin Marietta)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP make and install
+                          (NP (NP 267)
+                              (PP of
+                                  (NP (NP the new machines)
+                                      (PP-LOC at
+					      (NP 156 postal offices))))))))))
+     .))
+( (S (NP-SBJ-1 The new machines)
+     (VP are
+         (ADJP-PRD capable
+		   (PP of
+		       (S-NOM (NP-SBJ *-1)
+			      (VP sorting
+				  (PP by
+				      (NP zip code))
+				  (NP (NP (QP up to 10,000)
+					  large flat mail pieces)
+				      ,
+				      (PP including
+					  (NP magazines
+					      and
+					      parcels))
+				      ,
+				      (NP-ADV an hour)))))))
+     .))

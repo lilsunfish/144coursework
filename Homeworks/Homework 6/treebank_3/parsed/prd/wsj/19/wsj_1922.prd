@@ -1,0 +1,435 @@
+
+
+( (S (NP-SBJ (NP The lethal shudders)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP wracked
+			  (NP the San Francisco Bay Area))))
+             --
+             (VP rated
+                 (S (NP-SBJ *)
+		    (NP-PRD (NP a 6.9)
+			    (PP-LOC on
+				    (NP the Richter scale)))))
+             --)
+     (VP did n't
+         (VP match
+             (NP (NP the great earthquake)
+		 (PP of
+		     (NP 1906))
+                 ,
+                 (VP rated
+                     (NP *)
+                     (PP-CLR at
+			     (NP 8.25))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The difference)
+			 (PP of
+			     (NP (NP (QP just 1.35) points)
+				 (PP-LOC on
+					 (NP (NP the scale)
+					     ,
+					     (VP designed
+						 (NP *)
+						 (PP by
+						     (NP-LGS (NP Charles Richter)
+							     (PP of
+								 (NP CalTech))))
+						 (PP-TMP in
+							 (NP the 1930s)))
+					     ,)))))
+		 (VP means
+		     (SBAR 0
+			   (S (NP-SBJ the older quake)
+			      (VP was
+				  ``
+				  (ADJP-PRD (QP 10 to 20 times)
+					    stronger))))))
+	, 
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Lane Johnson)
+		,
+		(NP (NP director)
+		    (PP of
+			(NP the 
+			    (NAC University
+				 (PP of
+				     (NP California))
+				 (NP-LOC Berkeley))
+			    Seismographic Station))))
+	.))
+( (S (S-TPC-1 (NP-SBJ The ground)
+	      (VP ruptured
+		  (PP-LOC along
+			  (NP (NP a 20-to-30-mile stretch)
+			      (PP of
+				  (NP the San Andreas Fault))))
+		  (PP-TMP on
+			  (NP Tuesday))))
+     ,
+     (NP-SBJ Mr. Johnson)
+     (VP added
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP-TMP In
+	     (NP 1906))
+     ,
+     (NP-SBJ the rupture)
+     (VP was
+         (ADJP-PRD (ADJP (NP 300 miles)
+                         long)
+                   and
+                   (ADJP (NP a couple feet)
+                         wide)))
+     .))
+( (S (SBAR-ADV Though
+	       (S (NP-SBJ-1 (NP the epicenter)
+			    (PP of
+				(NP (NP Tuesday 's)
+				    temblor)))
+		  (VP was
+		      (VP located
+			  (NP *-1)
+			  (ADVP-CLR (ADVP (NP 10 miles)
+					  north
+					  (PP of
+					      (NP (NP the town)
+						  (PP of
+						      (NP Santa Cruz)))))
+				    , 
+				    and
+				    (ADVP (NP 50 miles)
+					  south
+					  (PP of
+					      (NP San Francisco))))))))
+     ,
+     (NP-SBJ its havoc)
+     (VP hopscotched
+	 (PP-DIR up
+		 (NP the coast))
+	 (PP-MNR in
+		 (NP (ADJP seemingly random) fashion)))
+     .))
+( (S But
+     (NP-SBJ-1 the greatest damage)
+     (VP was
+         (VP visited
+             (NP *-1)
+             (PP-CLR on
+		     (NP (NP buildings and roadways)
+			 (VP perched
+			     (NP *) 
+			     (PP-LOC-CLR upon
+					 (NP landfill))
+			     ,
+			     (SBAR-ADV as
+				       (SINV (VP were
+						 (VP *?*))
+					     (NP-SBJ (NP (NP (NP the Marina District)
+							     (PP of
+								 (NP San Francisco)))
+							 and
+							 (NP the Bay Bridge))
+						     --
+						     (NP (NP two areas)
+							 (PP of
+							     (NP maximum devastation)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ (NP Landfill)
+			    --
+			    (NP (ADJP loose and unconsolidated) earth)
+			    --)
+		    (VP may
+			(VP feel
+			    (PP-CLR like
+				    (NP rock)))))
+		 but
+		 (S (NP-SBJ it)
+		    (VP behaves
+			(PP-MNR like
+				(NP liquid))
+			(SBAR-TMP (WHADVP-1 when)
+				  (S (NP-SBJ you)
+				     (VP shake
+					 (NP it)
+					 (ADVP-TMP *T*-1)))))))
+	, 
+	''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Douglas Segar)
+		,
+		(NP (NP professor)
+		    (PP of
+			(NP geosciences))
+		    (PP-LOC at
+			    (NP San Francisco State University))))
+	(PP-LOC in
+		(NP a televised interview))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP liquefies
+         (PP-MNR in
+		 (NP a patchwork quilt pattern)))
+     .))
+( (S (NP-SBJ Our quake)
+     (VP behaved
+         (PP-MNR much like
+		 (NP (NP the Mexico City earthquake)
+		     ,
+		     (SBAR (WHADVP-1 where)
+			   (S (NP-SBJ great damage)
+			      (VP was
+				  (PP-LOC-PRD (NP miles)
+					      from
+					      (NP the epicenter))
+				  (ADVP-LOC *T*-1)))))))
+     . 
+     ''))
+( (S (NP-SBJ (NP Mr. Johnson)
+             ,
+             (PP of
+                 (NP the Berkeley seismographic station))
+             ,)
+     (VP said 
+	 :
+	 ``
+	 (S (NP-SBJ-2 Landfill)
+            (VP can
+                (VP be
+                    (VP done
+			(NP *-2)
+			(SBAR-ADV if
+				  (S (NP-SBJ-1 it)
+				     (VP 's
+					 (VP (ADVP-MNR properly)
+					     compacted
+					     (NP *-1))))))))))
+     .))
+( (S (NP-SBJ You)
+     (VP can
+         (VP (VP drive
+                 (NP piles)
+                 (PP-LOC on
+			 (NP it)))
+             and
+             (VP build
+                 (PP-LOC on
+			 (NP it)))))
+     . 
+     ''))
+( (S (NP-SBJ He)
+     (VP cited
+         (NP (NP the example)
+             (PP of
+                 (NP (NP (NP San Francisco 's)
+                         financial district)
+                     ,
+                     (SBAR (WHADVP-1 where)
+                           (S (NP-SBJ-2 many new glass towers)
+                              (VP survived
+                                  (S-CLR (NP-SBJ *-2)
+					 (ADJP-PRD almost unscathed)) 
+				  (ADVP-LOC *T*-1))))))))
+     .))
+( (S (S-TPC-2 But
+	      (NP-SBJ (NP the public policy issues)
+		      (VP raised
+			  (NP *)
+			  (PP by
+			      (NP-LGS earthquake damage))))
+	      (VP will
+		  (VP be
+		      (ADJP-PRD difficult
+				(SBAR (WHNP-1 0)
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP address
+						 (NP *T*-1)))))))))
+     ,
+     (NP-SBJ Mr. Johnson)
+     (VP predicted
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ (NP The attention span)
+		      (PP of
+			  (NP the public)))
+	      (VP is
+		  (ADJP-PRD short)))
+     , 
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ We)
+     (VP 've
+         (VP known
+             (PP-TMP for
+		     (NP years and years))
+             (SBAR 0
+                   (S (NP-SBJ we)
+                      (VP 've
+                          (VP got
+                              (NP (NP lots)
+                                  (PP of
+                                      (NP old 
+					  (PRN -LCB- pre-1950s -RCB-)
+					  unreinforced brick and masonry buildings)))))))))
+     . 
+     ''))
+( (S (NP-SBJ (NP One old building)
+             ,
+             (NP (NP the Golden State Bank Building)
+                 (PP-LOC on
+			 (NP Front Street)))
+             ,)
+     (VP had
+         (S (NP-SBJ-1 its yellow brick facade)
+	    (VP sheared
+		(NP *-1)
+		(ADVP-CLR off)
+		(PP by
+		    (NP-LGS (NP the shock)
+			    (PP of
+				(NP the quake))))
+		,
+		(S-ADV (NP-SBJ *)
+		       (VP leaving
+			   (S (NP-SBJ (NP a wedge)
+				      (PP of
+					  (NP its third floor)))
+			      (ADJP-PRD open
+					(PP to
+					    (NP the air))))
+			   ,
+			   (SBAR-TMP while
+				     (S (NP-SBJ-2 (NP piles)
+						  (PP of
+						      (NP dusty bricks)))
+					(VP tumbled
+					    (PP-DIR to
+						    (NP the street below))
+					    (S-ADV (NP-SBJ *-2)
+						   (VP (ADVP-MNR narrowly)
+						       missing
+						       (NP rush-hour pedestrians and cars)))))))))))
+     .))
+( (S-1 (S-NOM-SBJ (NP-SBJ *)
+		  (VP Reinforcing
+		      (NP such old building stock)))
+       (PRN ,
+	    (S (NP-SBJ Mr. Johnson)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,) 
+       ``
+       (VP comes 
+	   (ADVP-CLR down)
+	   (PP-CLR to
+		   (NP money)))
+       .))
+( (S (NP-SBJ It)
+     (VP 's
+         (NP-PRD a danger))
+     .))
+( (S (NP-SBJ We)
+     (VP know
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP 's
+                      (ADVP-LOC-PRD there)))))
+     .))
+( (S And
+     (ADVP-TMP sooner or later)
+     ,
+     (NP-SBJ-1 we)
+     (VP have
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP do
+                    (NP something)
+                    (PP about
+                        (NP it))))))
+     . 
+     ''))
+( (S (NP-SBJ-1 The urgency)
+     (VP is
+         (VP heightened
+             (NP *-1)
+	     (SBAR-PRP because
+		       (S (NP-SBJ (NP this week 's)
+				  earthquake)
+			  --
+			  (SBAR-ADV while
+				    (S (NP-SBJ *)
+				       (UCP-PRD (ADJP-PRD major)
+						and
+						(VP followed
+						    (NP *) 
+						    (PP by
+							(NP-LGS (NP hundreds)
+								(PP of
+								    (NP aftershocks))))))))
+			  --
+			  (VP did n't
+			      (VP release
+				  (NP (NP enough pent-up energy tension
+					  (S *ICH*-2))
+				      (PP-LOC along
+					      (NP the faultlines))
+				      (S-2 (NP-SBJ *)
+					   (VP to
+					       (VP preclude
+						   (NP (NP (ADJP more and bigger) quakes)
+						       (ADVP-TMP soon))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ The big one)
+	      (VP is
+		  (ADVP-TMP still)
+		  (ADJP-PRD due)))
+     , 
+     ''
+     (NP-SBJ Mr. Johnson)
+     (VP predicted
+	 (S *T*-1)
+	 (PP-LOC in
+		 (NP an interview)))
+     .))
+( (S ``
+     (NP-SBJ The Bay Area)
+     (VP has
+         (NP (NP three (ADJP very dangerous) faults)
+             ,
+             (NP (NP the San Andreas)
+                 ,
+                 (NP the Hayward fault)
+                 and
+                 (NP the Calaveras fault))))
+     .))
+( (S (NP-SBJ (NP It)
+             (PRN -LCB-
+		  (NP (NP Tuesday 's)
+		      quake)
+		  -RCB-))
+     (VP has n't
+         (VP solved
+             (NP our problem)))
+     .))
+( (S (PP-LOC In
+	     (NP California))
+     ,
+     (NP-SBJ this)
+     (VP is
+         (NP-PRD the reality))
+     .))

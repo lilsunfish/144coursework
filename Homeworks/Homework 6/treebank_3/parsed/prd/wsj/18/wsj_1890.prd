@@ -1,0 +1,87 @@
+
+
+( (S (NP-SBJ (NP Continental Bank Corp. 's)
+             third-quarter net income)
+     (VP slipped
+         (NP-EXT 11 %)
+	 (PP despite
+	     (NP (NP a big gain)
+		 (PP from
+		     (NP (NP the sale)
+			 (PP of
+			     (NP (NP the company 's)
+				 London headquarters building)))))))
+     .))
+( (S (NP-SBJ-1 (NP The (ADJP (QP $ 55 million) *U*) gain)
+               (PP on
+		   (NP the sale)))
+     (VP was
+         (VP offset
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP lower interest income)
+			 ,
+			 (NP (NP poorer results)
+			     (PP from
+				 (NP foreign-exchange trading)))
+			 and
+			 (NP (NP a (ADJP (QP $ 9 million) *U*) loss)
+			     (PP on
+				 (NP (NP the sale)
+				     (PP of
+					 (NP (NP a unit)
+					     ,
+					     (NP Securities Settlement Corp))))))))))
+     .))
+( (S (NP-SBJ Chicago-based Continental)
+     (VP earned
+         (NP (NP (QP $ 65.2 million) *U*)
+             ,
+	     or
+             (NP (NP $ 1.04 *U*)
+                 (NP-ADV a share))
+             ,)
+	 (PP compared
+	     (PP with
+		 (NP (NP (QP $ 73.6 million) *U*)
+		     ,
+		     or
+		     (NP (NP $ 1.19 *U*)
+			 (NP-ADV a share))
+		     ,)
+		 (ADVP-TMP (NP a year)
+			   earlier))))
+     .))
+( (S (NP-SBJ The 1988 quarter)
+     (ADVP also)
+     (VP included
+         (NP (NP one-time gains)
+             (VP totaling
+                 (NP (QP about $ 35 million) *U*))))
+     .))
+( (S (NP-SBJ (NP The bank)
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ *T*-2)
+                      (VP has
+                          (NP (NP loss reserves)
+                              (ADJP equal
+                                    (PP to
+                                        (NP (NP (QP about half) 
+						its 
+						(ADJP long-term and medium-term) 
+						loans)
+                                            (PP to
+                                                (NP less-developed nations)))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP does n't
+                      (VP think
+                          (SBAR 0
+                                (S (NP-SBJ-1 additional reserves)
+                                   (VP are
+                                       (VP required
+                                           (NP *-1))))))))))
+     .))

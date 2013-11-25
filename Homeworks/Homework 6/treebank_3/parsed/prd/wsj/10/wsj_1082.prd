@@ -1,0 +1,52 @@
+
+
+( (S (NP-SBJ Bob Evans Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP authorized
+                      (NP (NP the purchase)
+                          (PP of
+                              (NP (NP (QP as many as 500,000)
+				      shares)
+                                  (PP of
+                                      (NP its common)))))))))
+     .))
+( (S (NP-SBJ-1 (NP The stock)
+               ,
+               (SBAR (WHNP-3 0)
+		     (S (NP-SBJ-2 *T*-3)
+			(VP to
+			    (VP be
+				(VP purchased
+				    (NP *-2)
+				    (PP-MNR (PP on
+						(NP the open market))
+					    or
+					    (PP through
+						(NP (ADJP privately negotiated)
+						    transactions))))))))
+               ,)
+     (VP will
+         (VP be
+             (VP held
+                 (NP *-1)
+                 (PP-CLR as
+			 (NP (NP treasury shares)
+			     (PP for
+				 (NP (NP stock options)
+				     or
+				     (NP other general corporate purposes))))))))
+     .))
+( (S (NP-SBJ The program)
+     (VP expires
+	 (NP-TMP April 27))
+     .))
+( (S (NP-SBJ The restaurant operator)
+     (VP had
+         (NP (NP (QP 32.2 million) shares)
+             (ADJP outstanding))
+	 (PP-TMP as
+		 (PP of
+		     (NP Sept. 29))))
+     .))

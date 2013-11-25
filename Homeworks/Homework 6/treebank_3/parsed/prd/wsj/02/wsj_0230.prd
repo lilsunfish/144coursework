@@ -1,0 +1,81 @@
+
+
+( (S (S (NP-SBJ (NP Sales)
+		(PP of
+		    (NP new cars))
+		(PP-LOC in
+			(NP Europe)))
+        (VP fell
+            (NP-EXT 4.2 %)
+	    (PP-TMP in
+		    (NP September))
+	    (PP-DIR from
+		    (ADVP-TMP (NP a year)
+			      earlier))))
+     and
+     (S (NP-SBJ analysts)
+        (VP say
+            (SBAR 0
+                  (S (NP-SBJ-1 the market)
+                     (VP could
+                         (VP continue
+                             (S (NP-SBJ *-1)
+                                (VP to
+                                    (VP soften)))
+			     (PP-TMP in
+				     (NP the months ahead))))))))
+     .))
+( (S (PP-TMP After
+	     (NP (NP a stronger-than-expected pace)
+		 (NP-TMP early this year)))
+     ,
+     (NP-SBJ analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ the market)
+                  ,
+		  (PP-TMP after
+			  (NP (NP a series)
+			      (PP of
+				  (NP sharp swings))
+			      (PP-LOC in
+				      (NP recent months))))
+		  ,
+                  (ADVP-TMP now)
+                  (VP shows
+                      (NP (NP signs)
+                          (PP of
+                              (NP retreating)))))))
+     .))
+( (S (NP-SBJ (NP Statistics)
+             (PP from
+                 (NP (NP 12 countries)
+                     (SBAR (WHNP-75 which)
+                           (S (NP-SBJ *T*-75)
+                              (ADVP normally)
+			      (VP account
+                                  (PP-CLR for
+					  (NP (NP 94 %)
+					      (PP of
+						  (NP (NP non-communist Europe 's)
+						      passenger car sales))))))))))
+     (VP showed
+         (SBAR 0
+               (S (NP-SBJ new car registrations)
+                  (VP totaled
+                      (NP 911,606)
+		      (PP-TMP in
+			      (NP September))
+		      ,
+		      (ADVP (ADVP down
+				  (NP 21 %)
+				  (PP from
+				      (NP-TMP August)))
+			    and
+			    (ADVP down
+				  (NP 4.2 %)
+				  (PP for
+				      (NP (NP the year)
+					  (PP to
+					      (NP date))))))))))
+     .))

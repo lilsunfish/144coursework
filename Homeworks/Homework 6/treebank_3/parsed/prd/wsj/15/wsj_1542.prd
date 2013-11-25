@@ -1,0 +1,176 @@
+
+
+( (S (NP-SBJ The Food and Drug Administration)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-3 American Home Products Corp.)
+                  (VP agreed
+                      (S (NP-SBJ *-3)
+                         (VP to
+                             (VP recall
+                                 (NP (NP certain generic drugs)
+                                     (SBAR (WHNP-2 that)
+                                           (S (NP-SBJ-1 *T*-2)
+                                              (VP were
+                                                  (VP produced
+                                                      (NP *-1)
+                                                      (PP by
+                                                          (NP-LGS (NP its Quantum Pharmics unit)
+								  (PP-LOC in
+									  (NP (NP Amityville)
+									      ,
+									      (NP N.Y)))))))))))))))))
+     .))
+( (S (NP-SBJ Quantum)
+     (VP stopped
+         (VP shipping
+             (NP the drugs)
+	     (NP-TMP last month)
+	     ,
+	     (PP-TMP following
+		     (NP (NP a federal investigation)
+			 (VP regarding
+			     (NP (NP information)
+				 (SBAR (WHNP-1 0)
+				       (S (NP-SBJ-2 the company)
+					  (VP supplied
+					      (NP *T*-1)
+					      (S-PRP (NP-SBJ *-2)
+						     (VP to
+							 (VP obtain
+							     (NP three drug approvals)))))))))))))
+     .))
+( (S (NP-SBJ The FDA)
+     (VP requested
+         (NP (NP the recall)
+             (PP of
+                 (NP (NP Quantum 's)
+                     mioxidil tablets , chlorazepate dipotassium tablets and meclofenamate sodium capsules)))
+         (SBAR-PRP because
+		   (PRN ,
+			(S (NP-SBJ it)
+			   (VP said
+			       (SBAR 0
+				     (S *T*-2))))
+			,)
+		   (S-2 (NP-SBJ-1 (NP the size)
+				  (PP of
+				      (NP (NP the production runs)
+					  (VP submitted
+					      (NP *)
+					      (PP-PRP for
+						      (NP testing))
+					      (S-PRP (NP-SBJ *)
+						     (VP to
+							 (VP gain
+							     (NP FDA approval))))))))
+			(VP was
+			    (PP-LOC in
+				    (NP each case))
+			    (VP misrepresented
+				(NP *-1)
+				(PP-CLR as
+					(ADJP (ADJP much larger)
+					      (SBAR than
+						    (S (NP-SBJ it)
+						       (ADVP actually)
+						       (VP was
+							   (ADJP-PRD *?*)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP American Home Products)
+	       ,
+	       (VP based
+		   (NP *)
+		   (PP-LOC-CLR in
+			       (NP New York)))
+	       ,)
+     (VP agreed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP recall
+                    (NP (NP four other products)
+                        ,
+                        (NP trazadone
+                            ,
+                            doxepin
+                            ,
+                            diazepam
+                            and
+                            lorazapam))
+                    ,
+                    (PP-PRP because of
+			    (NP (NP concerns)
+				(PP about
+				    (NP (NP data)
+					(VP submitted
+					    (NP *)
+					    (PP-LOC in
+						    (NP their original approval applications))
+					    (PP-LOC before
+						    (NP the FDA)))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP No safety problems)
+			(PP with
+			    (NP the products)))
+	      (VP are
+		  (VP known
+		      (NP *-1))))
+     ,
+     (NP-SBJ the FDA)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ An FDA spokesperson)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the drugs)
+                  (VP are
+                      (ADVP-TMP still)
+                      (ADJP-PRD available)
+		      (PP-LOC under
+			      (NP other brand names))))))
+     .))
+( (S (NP-TMP Last month)
+     ,
+     (NP-SBJ American Home Products)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP was
+                      (VP suspending
+                          (NP (NP production and distribution)
+                              (PP of
+                                  (NP (NP all 21)
+                                      (PP of
+                                          (NP (NP Quantum 's)
+                                              generic drug products)))))
+			  (PP pending
+			      (NP (NP the completion)
+				  (PP of
+				      (NP an exhaustive internal audit)))))))))
+     .))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (ADVP-TMP temporarily)
+     (VP closed
+         (NP Quantum)
+	 ,
+	 (PP-PRP because of
+		 (NP (NP the internal investigation)
+		     , 
+		     as well as
+		     (NP (NP the FDA 's)
+			 ongoing inquiry))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ American Home Products)
+     (VP rose
+         (NP-EXT 75 cents)
+         (PP-DIR to
+		 (NP $ 105 *U*))
+         (PP-TMP on
+		 (NP Friday)))
+     .))

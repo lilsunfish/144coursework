@@ -1,0 +1,107 @@
+
+
+( (S (NP-SBJ Banc One Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP agreed
+                      (PP-MNR in
+			      (NP principle))
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP buy
+                                 (NP five branch offices)
+                                 (PP-CLR from
+					 (NP (NP Trustcorp Inc.)
+					     ,
+					     (NP-LOC (NP Toledo)
+						     ,
+						     (NP Ohio))
+					     ,))
+				 (PP-TMP following
+					 (NP (NP the planned merger)
+					     (PP of
+						 (NP Trustcorp))
+					     (PP into
+						 (NP (NP Society Corp.)
+						     ,
+						     (NP-LOC Cleveland))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The five offices)
+		      (PP-LOC in
+			      (NP (NP Erie and Ottawa counties)
+				  (PP-LOC in
+					  (NP northern Ohio)))))
+	      (VP have
+		  (NP (NP total assets)
+		      (PP of
+			  (NP (QP about $ 88 million) *U*)))))
+     ,
+     (NP-SBJ Banc One)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The purchase price)
+	      (VP will
+		  (VP be
+		      (VP established
+			  (NP *-1)
+			  (SBAR-TMP after
+				    (S (NP-SBJ Banc One)
+				       (VP has
+					   (NP an opportunity
+					       (S (NP-SBJ *)
+						  (VP to
+						      (VP study
+							  (NP (NP the quality)
+							      (PP of
+								  (NP the assets))))))))))))))
+     ,
+     (NP-SBJ Banc One)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S (NP-SBJ Society Corp.)
+        (ADVP already)
+        (VP has
+            (NP branches)
+            (PP-LOC in
+		    (NP the area))))
+     , and
+     (S (S-NOM-SBJ (NP-SBJ *)
+		   (VP selling
+		       (NP the Trustcorp offices)))
+        (VP could
+            (VP avoid
+                (NP (NP a problem)
+                    (PP with
+                        (NP regulators))
+		    (PP over
+			(NP (NP excessive concentration)
+			    (PP of
+				(NP (NP banking)
+				    (PP-LOC in
+					    (NP the two counties))))
+			    (PP-TMP after
+				    (NP (NP the merger)
+					(PP of
+					    (NP Trustcorp))
+					(PP into
+					    (NP Society))))))))))
+     ,
+     (PP according
+         (PP to
+             (NP industry sources)))
+     .))
+( (S (NP-SBJ-1 The merger)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP take
+                        (NP-CLR place)
+                        (PP-TMP in
+				(NP the 1990 first quarter)))))))
+     .))

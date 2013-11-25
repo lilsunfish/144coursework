@@ -1,0 +1,553 @@
+
+
+( (S (NP-SBJ (NP Short interest)
+             (PP in
+                 (NP Nasdaq over-the-counter stocks)))
+     (VP rose
+         (NP-EXT 6 %)
+	 (PP-TMP as
+		 (PP of
+		     (NP mid-October)))
+	 ,
+	 (NP-ADV (NP its biggest jump)
+		 (PP-TMP since
+			 (NP (NP 6.3 %)
+			     (NP-TMP last April)))))
+     .))
+( (S (NP-SBJ-1 The
+               (ADJP most recent)
+               OTC short interest statistics)
+     (VP were
+         (VP compiled
+             (NP *-1)
+             (NP-TMP (NP Oct. 13)
+		     ,
+		     (NP (NP the day)
+			 (SBAR (WHADVP-2 0)
+			       (S (S (NP-SBJ the Nasdaq composite index)
+				     (VP slid
+					 (NP-EXT 3 %)))
+				  and
+				  (S (NP-SBJ the New York Stock Exchange)
+				     (VP tumbled
+					 (NP-EXT 7 %)))
+				  (ADVP-TMP *T*-2)))))))
+     .))
+( (S (NP-SBJ The coincidence)
+     (VP might
+         (VP lead
+             (PP-DIR to
+		     (NP the conclusion
+			 (SBAR that
+			       (S (NP-SBJ short-sellers)
+				  (VP bet
+				      (ADVP-MNR heavily)
+				      (PP-TMP on
+					      (NP that day))
+				      (SBAR that
+					    (S (NP-SBJ OTC stocks)
+					       (VP would
+						   (VP decline
+						       (ADVP further))))))))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ it)
+		  (VP happens)))
+     ,
+     (NP-SBJ-1 the Nasdaq composite)
+     (VP did
+         (VP continue
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP fall)))
+	     (PP-TMP for
+		     (NP two days))
+	     (PP-TMP after
+		     (NP the initial plunge))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ (NP the short interest figures)
+             (VP reported
+                 (NP *)
+                 (PP by
+                     (NP-LGS brokerage and securities clearing firms))
+                 (PP-CLR to
+			 (NP (NP the National Association)
+			     (PP of
+				 (NP Securities Dealers))))))
+     (VP include
+         (ADVP only)
+         (NP (NP (NP those trades)
+		 (VP completed
+		     , 
+		     or
+		     settled
+		     ,
+		     (NP *) 
+		     (PP-TMP by
+			     (NP Oct. 13)))
+		 ,)
+	     (CONJP rather than)
+	     (NP (NP trades)
+		 (SBAR (WHNP-2 that)
+		       (S (NP-SBJ *T*-2)
+			  (VP occurred
+			      (PP-TMP on
+				      (NP that day)))))))
+	 ,
+         (PP according
+             (PP to
+                 (NP (NP Gene Finn)
+                     ,
+                     (NP (NP chief economist)
+                         (PP for
+                             (NP the NASD)))))))
+     .))
+( (S (ADVP Generally)
+     ,
+     (NP-SBJ (NP it)
+	     (S *EXP*-1))
+     (VP takes
+         (NP five business days)
+         (S-1 (NP-SBJ *)
+	      (VP (VP to
+		      (VP transfer
+			  (NP stock)))
+		  and
+		  (VP to
+		      (VP take
+			  (NP (NP the other steps)
+			      (ADJP necessary
+				    (S (NP-SBJ *)
+				       (VP to
+					   (VP settle
+					       (NP a trade)))))))))))
+     .))
+( (S (NP-SBJ (NP The total short interest)
+             (PP in
+                 (NP Nasdaq stocks))
+             (PP-TMP as
+		     (PP of
+			 (NP mid-October))))
+     (VP was
+         (NP-PRD (NP (QP 237.1 million) shares)
+		 ,
+		 (UCP (ADVP up
+			    (PP from
+				(NP 223.7 million)
+				(PP-TMP in
+					(NP September))))
+		      but
+		      (PP (ADVP well)
+			  below
+			  (NP (NP the record level)
+			      (PP of
+				  (NP (QP 279 million) shares))
+			      (VP established
+				  (NP *)
+				  (PP-TMP in
+					  (NP July 1987))))))))
+     .))
+( (S (NP-SBJ (NP The sharp rise)
+             (PP-LOC in
+		     (NP OTC short interest)))
+     (VP compares
+         (PP-CLR with
+		 (NP (NP (NP the (ADJP 4.2 %) decline)
+			 (PP-LOC in
+				 (NP short interest))
+			 (PP-LOC on
+				 (NP the New York Stock Exchange)))
+		     and
+		     (NP (NP the (ADJP 3 %) rise)
+			 (PP-LOC on
+				 (NP the American Stock Exchange))
+			 (PP-TMP during
+				 (NP the September-October period))))))
+     .))
+( (S (S (ADVP Generally)
+	,
+	(NP-SBJ-5 a short seller)
+	(VP (VP expects
+		(NP (NP a fall)
+		    (PP-LOC in
+			    (NP (NP a stock 's)
+				price))))
+	    and
+	    (VP aims
+		(S (NP-SBJ-6 *-5)
+		   (VP to
+		       (VP profit
+			   (PP-MNR by
+				   (S-NOM (NP-SBJ *-6)
+					  (VP selling
+					      (NP (NP borrowed shares)
+						  (SBAR (WHNP-3 that)
+							(S (NP-SBJ-7 *T*-3)
+							   (VP are
+							       (S (NP-SBJ-1 *-7)
+								  (VP to
+								      (VP be
+									  (VP replaced
+									      (NP *-1)
+									      (ADVP-TMP later))))))))))))))))))
+     ;
+     (S (NP-SBJ the short seller)
+	(VP hopes
+	    (SBAR 0
+		  (S (NP-SBJ (NP the replacement shares)
+			     (VP bought
+				 (NP *)
+				 (ADVP-TMP later)))
+		     (VP will
+			 (VP cost
+			     (NP (NP less)
+				 (PP than
+				     (NP (NP those)
+					 (SBAR (WHNP-4 that)
+					       (S (NP-SBJ-2 *T*-4)
+						  (VP were
+						      (VP sold
+							  (NP *-2))))))))))))))
+     .))
+( (S (NP-SBJ (NP Short interest)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP represents
+                          (NP (NP the number)
+                              (PP of
+                                  (NP (NP shares)
+                                      (VP borrowed
+                                          and
+                                          sold
+                                          , 
+					  but
+					  (ADVP-TMP not
+						    yet)
+                                          replaced
+					  (NP *) 
+                                          ,))))))))
+     (VP can
+         (VP be
+             (NP-PRD (NP a bad-expectations barometer)
+		     (PP for
+			 (NP many stocks)))))
+     .))
+( (S (PP-LOC Among
+	     (NP (NP 2,412)
+		 (PP of
+		     (NP the largest OTC issues))))
+     ,
+     (NP-SBJ short interest)
+     (VP rose
+         (PP-DIR to
+		 (NP (QP 196.8 million) shares))
+         ,
+         (PP-DIR from
+		 (NP 185.7 million))
+         (PP-LOC in
+		 (NP 2,379 stocks))
+         (PP-TMP in
+		 (NP September)))
+     .))
+( (S (NP-SBJ (NP Big stocks)
+             (PP with
+                 (NP large short interest gains))
+             (PP-TMP as
+		     (PP of
+			 (NP Oct. 13))))
+     (VP included
+         (NP (NP First Executive)
+             ,
+             (NP Intel)
+             ,
+             (NP Campeau)
+             and
+             (NP LIN Broadcasting)))
+     .))
+( (S (NP-SBJ (NP Short interest)
+             (PP in
+                 (NP (NP First Executive)
+                     ,
+                     (NP an insurance issue)
+                     ,)))
+     (VP rose
+         (NP-EXT 55 %)
+         (PP-DIR to
+		 (NP 3.8 million)))
+     .))
+( (S (NP-SBJ (NP Intel 's)
+             short interest)
+     (VP jumped
+         (NP-EXT 42 %) 
+         ,
+         (SBAR-ADV while
+		   (S (NP-SBJ Campeau 's)
+		      (VP increased
+			  (NP-EXT 62 %)))))
+     .))
+( (S (S (NP-SBJ Intel)
+        (VP makes
+            (NP semiconductors)))
+     and
+     (S (NP-SBJ Campeau)
+        (VP (VP operates
+		(NP department-store chains))
+	    and
+	    (VP is
+		(ADJP-PRD strained
+			  (PP for
+			      (NP cash))))))
+     .))
+( (S (NP-SBJ Meritor Savings)
+     (ADVP-TMP again)
+     (VP had
+         (NP (NP the dubious honor)
+             (PP of
+                 (S-NOM (NP-SBJ *)
+			(VP being
+			    (NP-PRD (NP the OTC stock)
+				    (PP with
+					(NP (NP the biggest short interest position)
+					    (PP-LOC on
+						    (NP Nasdaq))))))))))
+     .))
+( (S (NP-SBJ Meritor)
+     (VP has
+         (VP headed
+             (NP the list)
+	     (PP-TMP since
+		     (NP May))))
+     .))
+( (S (NP-SBJ (NP First Executive)
+             and
+             (NP (NP troubled Valley National Corp.)
+                 (PP of
+                     (NP Arizona))))
+     (VP were
+         (ADJP-PRD next
+		   (PP-LOC in
+			   (NP line))))
+     .))
+( (S (NP-SBJ Short selling)
+     (VP is n't
+         (ADVP necessarily)
+	 (ADJP-PRD bad)
+	 (PP for
+	     (NP the overall market)))
+     .))
+( (S (NP-SBJ-1 Shorted shares)
+     (VP must
+         (ADVP-TMP eventually)
+         (VP be
+             (VP replaced
+                 (NP *-1)
+                 (PP through
+                     (NP buying)))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ-1 (NP changes)
+               (PP-LOC in
+		       (NP short interest))
+               (PP-LOC in
+		       (NP some stocks)))
+     (VP may
+	 (VP be
+	     (VP caused
+		 (NP *-1)
+		 (PP by
+		     (NP-LGS arbitrage)))))
+     .))
+( (S (PP For
+         (NP example))
+     ,
+     (NP-SBJ-1 an investor)
+     (VP may
+         (VP seek
+             (S (NP-SBJ-2 *-1)
+                (VP to
+                    (VP profit
+                        (PP-TMP during
+				(NP some takeover situations))
+                        (PP-MNR by
+				(S-NOM (NP-SBJ *-2)
+				       (VP (VP buying
+					       (NP (NP stock)
+						   (PP in
+						       (NP (NP one company)
+							   (ADJP involved)))))
+					   and
+					   (VP shorting
+					       (NP (NP the stock)
+						   (PP of
+						       (NP the other))))))))))))
+     .))
+( (S (NP-SBJ (NP Two big stocks)
+             (ADJP involved
+		   (PP in
+		       (NP takeover activity))))
+     (VP saw
+         (S (NP-SBJ their short interest)
+	    (VP surge)))
+     .))
+( (S (NP-SBJ (NP Short interest)
+             (PP in
+                 (NP (NP the American depositary receipts)
+                     (PP of
+                         (NP (NP Jaguar)
+                             ,
+                             (NP (NP the target)
+                                 (PP of
+                                     (NP both
+					 (NP Ford Motor)
+                                         and
+                                         (NP General Motors))))
+                             ,)))))
+     (VP (ADVP more than)
+         doubled)
+     .))
+( (S (NP-SBJ (NP Nasdaq stocks)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP showed
+                          (NP (NP a drop)
+                              (PP-LOC in
+				      (NP short interest)))))))
+     (VP included
+         (NP (NP Adobe Systems)
+             ,
+             (NP (NP Class A shares)
+                 (PP of
+                     (NP Tele-Communications)))
+             and
+             (NP (NP takeover targets)
+                 (NP Lyphomed and Jerrico))))
+     .))
+( (S (NP-SBJ (NP The NASD)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP operates
+                          (NP (NP the Nasdaq computer system)
+                              (SBAR (WHPP-4 on
+					    (WHNP which))
+                                    (S (NP-SBJ 5,200 OTC issues)
+                                       (VP trade
+					   (PP-LOC *T*-4))))))))
+             ,)
+     (VP compiles
+         (NP (NP short interest data)
+             (PP-LOC in
+		     (NP (NP two categories)
+			 :
+			 (NP (NP (NP the 
+				     (ADJP (ADJP approximately two-thirds) 
+					   , 
+					   and 
+					   (ADJP generally biggest) 
+					   ,) 
+				     Nasdaq stocks)
+				 (SBAR (WHNP-2 that)
+				       (S (NP-SBJ *T*-2)
+					  (VP trade
+					      (PP-LOC on
+						      (NP the National Market System))))))
+			     ;
+			     and
+			     (NP (NP the 
+				     (ADJP (ADJP one-third) 
+					   , 
+					   and 
+					   (ADJP generally smaller)) 
+				     , 
+				     Nasdaq stocks)
+				 (SBAR (WHNP-3 that)
+				       (S (NP-SBJ *T*-3)
+					  (VP are n't
+					      (NP-PRD (NP a part)
+						      (PP of
+							  (NP the system))))))))))))
+     .))
+( (S (NP-SBJ (NP Short interest)
+             (PP in
+                 (NP 1,327 non-NMS securities)))
+     (VP totaled
+         (NP (QP 40.3 million) shares)
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP (QP almost 38 million) shares)
+		     (PP-LOC in
+			     (NP 1,310 issues))
+		     (PP-TMP in
+			     (NP September))))))
+     .))
+( (S (NP-SBJ The October short interest)
+     (VP represents
+         (NP (NP 1.04 days)
+             (PP of
+                 (NP (NP average daily trading volume)
+                     (PP-LOC in
+			     (NP (NP the smaller stocks)
+				 (PP-LOC in
+					 (NP the system))))
+		     (PP for
+			 (NP the reporting period))))
+	     ,
+	     (PP compared
+		 (PP with
+		     (NP (NP 0.94 day)
+			 (ADVP-TMP (NP a month)
+				   ago))))))
+     .))
+( (S (PP-LOC Among
+	     (NP bigger OTC stocks))
+     ,
+     (NP-SBJ the figures)
+     (VP represent
+         (NP (NP (NP 2.05 days)
+		 (PP of
+		     (NP average daily volume)))
+	     ,
+	     (PP compared
+		 (PP with
+		     (NP (NP 2.14 days)
+			 (PP-TMP in
+				 (NP September)))))))
+     .))
+( (S (NP-SBJ The adjacent tables)
+     (VP show
+         (NP (NP the issues)
+             (SBAR (SBAR (WHPP-1 in
+				 (WHNP which))
+                         (S (NP-SBJ (NP a short interest position)
+                                    (PP of
+                                        (NP (QP at least 50,000) shares)))
+                            (VP existed
+                                (PP-TMP as
+					(PP of
+					    (NP Oct. 13)))
+				(PP-LOC *T*-1))))
+                   or
+                   (SBAR (WHPP-2 in
+				 (WHNP which))
+                         (S (NP-SBJ there) 
+                            (VP was
+                                (NP-PRD (NP a short position change)
+					(PP of
+					    (NP (QP at least 25,000) shares))
+					(PP-TMP since
+						(NP Sept. 15)))
+				(PP-LOC *T*-2))))))
+	 (PRN -LRB-
+	      (S (NP-SBJ *)
+		 (VP see
+		     (NP (NP accompanying tables)
+			 --
+			 (NP-LOC WSJ Oct. 25 , 1989))))
+	      -RRB-))
+     .))

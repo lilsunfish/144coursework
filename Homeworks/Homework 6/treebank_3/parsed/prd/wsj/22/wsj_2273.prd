@@ -1,0 +1,114 @@
+
+
+( (S (NP-SBJ (NP CMS Energy Corp.)
+             ,
+             (NP-LOC (NP Jackson)
+		     ,
+		     (NP Mich.)
+		     ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP has
+                      (VP resumed
+                          (NP (NP the purchase)
+                              (PP of
+                                  (NP its common stock)))
+                          (PP-LOC under
+				  (NP (NP a program)
+				      (VP approved
+					  (NP *)
+					  (PP by
+					      (NP-LGS its directors))
+					  (PP-TMP in
+						  (NP 1987))))))))))
+     .))
+( (S (PP-TMP At
+	     (NP (NP the time)
+		 (PP of
+		     (NP the original announcement))))
+     ,
+     (NP-SBJ CMS)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP authorized
+                      (NP (NP the purchase)
+                          (PP of
+			      (NP (NP (QP as many
+					  as
+					  five million))
+				  (PP of
+				      (NP its shares)))))))))
+     .))
+( (S (NP-SBJ A spokesman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (QP 2.6 million) shares)
+                  (VP have
+                      (VP been
+                          (VP purchased
+                              (NP *-1)
+                              (PP-TMP since
+				      (NP then))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP buy
+                          (NP additional shares)
+                          ``
+                          (PP-TMP from
+				  (NP (NP time)
+				      (PP to
+					  (NP time))))
+                          (PP-LOC (PP in
+				      (NP the open market))
+				  or
+				  (PP in
+				      (NP private transactions)))
+                          (PP-CLR at
+				  (NP prevailing market prices)))))))
+     . ''))
+( (S (PP-LOC In
+	     (NP (NP composite trading)
+		 (PP-LOC on
+			 (NP the New York Stock Exchange))))
+     ,
+     (NP-SBJ CMS Energy)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 34.375 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP down
+	       (NP 62.5 cents)
+	       ,
+	       (PP from
+		   (NP (NP the closing price)
+		       (PP of
+			   (NP (NP $ 37.375 *U*)
+			       (NP-ADV a share))))
+		   (PP-TMP on
+			   (NP (NP Thursday)
+			       ,
+			       (PP-TMP before
+				       (NP (NP Friday 's)
+					   plunge)))))))
+     .))
+( (S (NP-SBJ The utility company)
+     (ADVP-TMP currently)
+     (VP has
+         (NP (NP (QP about 82.1 million) shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ Morgan Stanley & Co.)
+     (VP will
+         (VP act
+             (PP-CLR as
+		     (NP (NP the exclusive broker)
+			 (PP for
+			     (NP the repurchase))))))
+     .))

@@ -1,0 +1,84 @@
+
+
+( (S (NP-SBJ (NP (NP Lyphomed Inc.)
+                 ,
+                 (NP (NP Rosemont)
+		     ,
+		     (NP Ill.))
+                 ,)
+             and
+             (NP (NP Medco Research Inc.)
+                 ,
+                 (NP Los Angeles)
+                 ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the Food and Drug Administration)
+                  (VP granted
+                      (NP (NP full marketing approval)
+                          (PP for
+                              (NP (NP a new drug)
+                                  (PP for
+                                      (NP (NP the treatment)
+                                          (PP of
+                                              (NP (NP a condition)
+                                                  (SBAR (WHPP-1 in
+								(WHNP which))
+                                                        (S (NP-SBJ the heart)
+                                                           (VP beats
+							       (NP (NP (QP between 150 
+									   and 200) 
+								       beats)
+								   (NP-ADV a minute))
+							       (PP-LOC *T*-1)))))))))))))))
+     .))
+( (S (NP-SBJ (NP The condition)
+             ,
+             (VP known
+                 (NP *)
+                 (PP-CLR as
+			 (NP paroxysmal supraventricular tachycardia)))
+             ,)
+     (VP leads
+         (PP-CLR to
+		 (NP dizziness
+		     and
+		     fainting)))
+     .))
+( (S (NP-SBJ The
+             typical healthy
+             heart)
+     (VP beats
+         (NP (NP 70 times)
+             (NP-ADV a minute)))
+     .))
+( (S (NP-SBJ (NP The drug)
+             ,
+             (VP called
+                 (S (NP-SBJ *) 
+		    (NP-PRD adenocard)))
+             ,)
+     (VP returns
+         (NP the heart)
+         (PP-CLR to
+		 (NP a normal rhythm))
+	 (PP-TMP within
+		 (NP seconds))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP Lyphomed))))
+     .))
+( (S (NP-SBJ Medco Research)
+     (VP (VP developed
+             (NP the drug))
+         and
+         (VP licensed
+             (NP it)
+             (PP-CLR to
+		     (NP Lyphomed))
+             (PP-CLR for
+		     (NP (NP sale)
+			 (PP-LOC in
+				 (NP (NP the U.S.) and (NP Canada)))))))
+     .))

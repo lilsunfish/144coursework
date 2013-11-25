@@ -1,0 +1,41 @@
+
+
+( (S (NP-SBJ Moscom Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP approved
+                      (NP (NP the repurchase)
+                          (PP of
+                              (NP (QP as many
+				      as
+				      300,000)
+                                  common shares)))
+		      (SBAR-TMP (WHADVP-1 when)
+				(S (NP-SBJ market conditions)
+				   (VP are
+				       (ADJP-PRD suitable)
+				       (ADVP-TMP *T*-1))))))))
+     .))
+( (S (NP-SBJ (NP The maker)
+             (PP of
+                 (NP telecommunications management systems)))
+     (VP had
+         (NP (NP 6,420,268 shares)
+             (ADJP outstanding))
+	 (PP-TMP as
+		 (PP of
+		     (NP Sept. 30))))
+     .))
+( (S (PP-LOC In  
+	     (NP over-the-counter trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ Moscom)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 4.375 *U*))
+         ,
+         (ADVP up
+               (NP 37.5 cents)))
+     .))

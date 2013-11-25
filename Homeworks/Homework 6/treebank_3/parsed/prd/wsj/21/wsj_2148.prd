@@ -1,0 +1,257 @@
+
+
+( (S (S (NP-SBJ TRW Inc.)
+        (VP reported
+            (NP (NP a (ADJP 12 %) decline)
+                (PP in
+                    (NP third-quarter net income)))))
+     , but
+     (S (NP-SBJ the company)
+        (VP said
+            (SBAR that
+                  (S (S-ADV (NP-SBJ *)
+			    (VP excluding
+				(NP (NP unusual gains)
+				    (PP in
+					(NP both quarters)))))
+                     ,
+                     (NP-SBJ operating profit)
+		     (VP rose
+			 (NP-EXT 16 %))))))
+     .))
+( (S (NP-SBJ The electronics , automotive and aerospace concern)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter net)
+                  (VP was
+                      (NP-PRD (NP (QP $ 60 million) *U*)
+                              , or
+                              (NP (NP 98 cents)
+                                  (NP-ADV a share))
+                              ,)
+                      (ADVP down
+                            (PP from
+                                (NP (NP (QP $ 68 million) *U*)
+                                    , or
+                                    (NP (NP $ 1.11 *U*)
+                                        (NP-ADV a share))
+                                    ,)
+                                (ADVP-TMP (NP a year)
+					  earlier)))))))
+     .))
+( (S (NP-SBJ-1 Share earnings)
+     (VP are
+         (VP reported
+             (NP *-1)
+             (PP-MNR on
+		     (NP a
+			 (ADJP fully diluted)
+			 basis))
+             ,
+             (PP by
+                 (NP company tradition))))
+     .))
+( (S (NP-SBJ (NP Results)
+             (PP for
+                 (NP the 1988 quarter)))
+     (VP included
+         (NP (NP (NP a gain)
+                 (PP of
+                     (NP (NP $ 1.05 *U*)
+                         (NP-ADV a share)))
+                 (PP from
+                     (NP (NP sale)
+                         (PP of
+                             (NP the Reda Pump and Oilwell Cable units)))))
+             ,
+             (VP (ADVP partly)
+                 offset
+		 (NP *)
+		 (PP by
+		     (NP-LGS (NP a charge)
+			     (PP of
+				 (NP (NP 69 cents)
+				     (NP-ADV a share)))
+			     (PP for
+				 (NP (NP recall)
+				     (PP of
+					 (NP faulty truck steering systems)))))))))
+     .))
+( (S (NP-SBJ The latest quarter)
+     (VP included
+         (NP (NP a gain)
+             (PP of
+                 (NP (NP 11 cents)
+                     (NP-ADV a share))))
+         (PP as
+             (NP (NP a partial reversal)
+                 (PP of
+                     (NP the recall charge))))
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ (NP the reserve)
+			      (VP established
+				  (NP *)
+				  (NP-TMP last year)))
+		      (VP exceeded
+			  (NP the actual recall costs)))))
+     .))
+( (S (NP-SBJ (NP Sales)
+             (PP for
+                 (NP the quarter)))
+     (VP rose
+         (NP-EXT 8.3 %)
+         (PP-DIR to
+		 (NP (QP $ 1.79 billion) *U*))
+         ,
+         (PP-DIR from
+		 (NP (QP $ 1.65 billion) *U*))
+         ,
+         (PP with
+             (S-NOM (NP-SBJ all three major product groups)
+		    (VP reporting
+			(NP gains)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ aerospace and defense sales)
+		     (VP were
+			 (ADVP-PRD up
+				   (NP 2 %))
+			 (PP-TMP for
+				 (NP the quarter))
+			 (PP-DIR to
+				 (NP (QP $ 802 million) *U*))))
+		  , and
+		  (S (NP-SBJ operating profit)
+		     (VP climbed
+			 (NP-EXT 6 %)
+			 (PP-DIR to
+				 (NP (QP $ 61 million) *U*))))
+                  ,
+                  (PP-PRP (ADVP mainly) 
+			  because of
+                          (NP (NP improved program performance)
+                              (PP-LOC in
+				      (NP spacecraft and advanced-technology contracts)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Automotive sales)
+	      (VP jumped
+		  (NP-EXT 16 %)
+		  (PP-DIR to
+			  (NP (QP $ 791 million) *U*))
+		  ,
+		  (PP-PRP (ADVP mainly) 
+			  because of
+			  (NP (NP higher sales)
+			      (PP of
+				  (NP (NP air bags)
+				      and
+				      (NP other passenger restraint systems)))))))
+     ,
+     (NP-SBJ TRW)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The group)
+     (VP had
+         (NP (NP an operating profit)
+             (PP of
+                 (NP (QP $ 65 million) *U*)))
+         ,
+         (PP against
+             (NP (NP a loss)
+                 (PP of
+                     (NP (QP $ 13 million) *U*))
+                 (ADVP-TMP (NP a year)
+			   earlier))))
+     .))
+( (S (ADVP However)
+     ,
+     (S-ADV (NP-SBJ *)
+	    (VP excluding
+		(NP (NP the year-earlier charge)
+		    (PP for
+			(NP (NP recall)
+			    (PP of
+				(NP steering gear)))))))
+     ,
+     (NP-SBJ (NP operating profit)
+	     (PP-TMP in
+		     (NP the latest quarter)))
+     (VP declined
+	 (NP-EXT 14 %)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP (NP higher start-up and product development expenses)
+			(PP-LOC in
+				(NP passenger-restraint systems))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Materials and production costs)
+	      (ADVP also)
+	      (VP rose))
+     ,
+     (NP-SBJ TRW)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The information systems segment)
+     (VP had
+         (NP a (ADJP 44 %) jump sales)
+         (PP-DIR to 
+		 (NP (QP $ 196 million) *U*)))
+     .))
+( (S (S-TPC-1 (NP-SBJ An acquisition)
+	      (VP accounted
+		  (PP-CLR for
+			  (NP half the sales rise))))
+     ,
+     (NP-SBJ TRW)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Operating profit)
+     (VP rose
+         (ADVP-EXT threefold) 
+         (PP-DIR to
+		 (NP (QP $ 18 million) *U*))
+         ,
+         (PP-DIR from
+		 (NP (QP $ 6 million) *U*)))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ (NP TRW 's)
+             net)
+     (VP was
+         (NP-PRD (NP (QP $ 199 million) *U*)
+                 , or
+                 (NP (NP $ 3.22 *U*)
+                     (NP-ADV a share))
+                 ,)
+         (ADVP down
+               (NP 3 %)
+               (PP from
+                   (NP (NP (QP $ 205 million) *U*)
+                       , or
+                       (NP (NP $ 3.33 *U*)
+                           (NP-ADV a share))
+                       ,)
+                   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 2.9 %)
+         (PP-DIR to
+		 (NP (QP $ 5.42 billion) *U*))
+         ,
+         (PP-DIR from
+		 (NP (QP $ 5.27 billion) *U*)))
+     .))

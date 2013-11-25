@@ -1,0 +1,2362 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( (SBAR 
+    (WHNP-1 
+      (NP (DT All) )
+      (WHPP (IN of) 
+        (WHNP (WDT which) )))
+    (S 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBZ brings) 
+        (PRT (RP up) )
+        (NP 
+          (NP (DT another) (NN problem) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (NN use) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ psychoanalytic) (NN insight) )
+                  (PP (IN in) 
+                    (NP (DT a) (JJ literary) (NN work) )))))))))
+    (. .) ))
+( (SQ (VBZ Is) 
+    (NP-SBJ 
+      (NP (DT the) (NNP Oedipus) (NN complex) )
+      (, ,) 
+      (NP (DT the) (JJ clinical) (NN syndrome) )
+      (, ,) )
+    (NP-PRD 
+      (NP (NN material) )
+      (PP (IN for) 
+        (NP (DT a) (NN tragedy) )))
+    (. ?) (. ?) ))
+( (SQ 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP remove) 
+          (NP (PRP ourselves) )
+          (PP-TMP (IN for) 
+            (NP (DT a) (NN moment) ))
+          (PP (IN from) 
+            (NP 
+              (NP (PRP$ our) (NN time) )
+              (CC and) 
+              (NP 
+                (NP (PRP$ our) (NN infatuation) )
+                (PP (IN with) 
+                  (NP (JJ mental) (NN disease) ))))))))
+    (, ,) (VBZ is) (RB n't) 
+    (NP-SBJ (EX there) )
+    (NP-PRD 
+      (NP (NN something) )
+      (ADJP (JJ absurd) 
+        (PP (IN about) 
+          (NP 
+            (NP (DT a) (NN hero) )
+            (PP (IN in) 
+              (NP (DT a) (NN novel) ))
+            (SBAR 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBZ is) 
+                  (VP (VBN defeated) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS (PRP$ his) (JJ infantile) (NN neurosis) ))))))))))
+    (. ?) (. ?) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBP am) (RB not) 
+        (VP (VBG making) 
+          (NP (DT a) (JJ clinical) (NN judgment) )
+          (ADVP-LOC (RB here) ))))
+    (, ,) (IN for) 
+    (S 
+      (NP-SBJ (JJ such) (JJ personal) (NNS tragedies) )
+      (VP 
+        (VP (VBP are) 
+          (ADJP-PRD (JJ real) ))
+        (CC and) 
+        (VP (VBP are) 
+          (ADJP-PRD (JJ commonplace) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (NN analyst) (POS 's) )
+              (NN consulting) (NN room) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NN literature) )
+      (VP (VBZ makes) 
+        (NP 
+          (NP (DT a) (JJ different) (NN claim) )
+          (PP (IN upon) 
+            (NP (PRP$ our) (NNS sympathies) ))
+          (PP (IN than) 
+            (NP 
+              (NP (NN tragedy) )
+              (PP (IN in) 
+                (NP (NN life) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT A) (NN man) )
+        (PP (IN in) 
+          (NP (DT a) (NN novel) ))
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-1) )
+            (VP (VBZ is) 
+              (VP 
+                (VP (VBN defeated) 
+                  (NP (-NONE- *-2) )
+                  (PP (IN in) 
+                    (NP (PRP$ his) (NN childhood) )))
+                (CC and) 
+                (VP (VBN condemned) 
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (JJ unconscious) (NNS forces) )
+                      (PP (IN within) 
+                        (NP (PRP him) ))))
+                  (S 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (ADVP-MNR (RB tiredly) )
+                      (VP (VB repeat) 
+                        (NP 
+                          (NP (PRP$ his) (JJS earliest) (NN failure) )
+                          (PP (IN in) 
+                            (NP (NN love) ))))))))))))
+      (, ,) 
+      (ADVP (RB only) )
+      (VP (VBZ makes) 
+        (S 
+          (NP-SBJ (PRP us) )
+          (ADJP-PRD 
+            (NP-ADV (DT a) (RB little) )
+            (JJ weary) 
+            (PP (IN of) 
+              (NP (NN man) ))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP$ his) (NN tragedy) )
+      (VP (VBZ seems) 
+        (ADJP-PRD (JJ unworthy) 
+          (CC and)
+          (JJ trivial) )))
+    (. .) ))
+( (S 
+    (S 
+      (ADVP (RB Now) )
+      (NP-SBJ (PRP we) )
+      (VP (MD can) 
+        (VP (VB argue) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (JJ irresistible) (NN fate) )
+                (PP (IN of) 
+                  (NP (NNP Oedipus) (NNP Rex) )))
+              (VP (VBD was) 
+                (NP-PRD 
+                  (NP (NN nothing) )
+                  (ADJP 
+                    (ADJP (JJR more) )
+                    (PP (IN than) 
+                      (NP 
+                        (NP 
+                          (NP (DT the) (JJ irresistible) (JJ unconscious) (NNS longings) )
+                          (PP (IN of) 
+                            (NP (NNP Oedipus) )))
+                        (VP (VBN projected) 
+                          (NP (-NONE- *) )
+                          (ADVP (RB outward) ))))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (DT this) (NN externalization) )
+        (PP (IN of) 
+          (NP (JJ unconscious) (NN conflict) )))
+      (VP (VBZ makes) 
+        (NP 
+          (NP (PDT all) (DT the) (NN difference) )
+          (PP (IN between) 
+            (NP 
+              (NP (DT a) (NN story) )
+              (CC and) 
+              (NP (DT a) (JJ clinical) (NN case) (NN history) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (MD can) 
+      (ADVP (RB also) )
+      (VP (VB argue) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (CD three) (NNS brothers) (NNP Karamazov) )
+              (CC and) 
+              (NP (NNP Smerdyakov) ))
+            (VP (VBD were) 
+              (NP-PRD 
+                (NP (DT the) (JJ external) (NNS representatives) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (DT an) (JJ internal) (NN conflict) )
+                      (PP (IN within) 
+                        (NP 
+                          (NP (CD one) (NN man) )
+                          (, ,) 
+                          (NP (NNP Dostoevsky) )
+                          (, ,) )))
+                    (NP 
+                      (NP (DT a) (NN conflict) )
+                      (VP (VBG having) 
+                        (S 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB do) 
+                              (PP (IN with) 
+                                (NP 
+                                  (NP (NN father-murder) )
+                                  (CC and) 
+                                  (NP (DT the) (NN wish) 
+                                    (S 
+                                      (NP-SBJ (-NONE- *) )
+                                      (VP (TO to) 
+                                        (VP (VB possess) 
+                                          (NP 
+                                            (NP (DT the) (NN father) (POS 's) )
+                                            (NN woman) ))))))))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT a) (NN novel) )
+      (SBAR 
+        (WHPP-1 (IN in) 
+          (WHNP (WDT which) ))
+        (S 
+          (NP-SBJ 
+            (NP (CD one) (NN man) )
+            (NP (NNP Karamazov) ))
+          (VP (VBD explored) 
+            (NP 
+              (NP (DT the) (NNS divisions) )
+              (PP (IN within) 
+                (NP (PRP$ his) (NN personality) )))
+            (PP (-NONE- *T*-1) )))))
+    (VP (MD would) 
+      (ADVP (RB scarcely) )
+      (VP (VB merit) 
+        (NP 
+          (NP (NN publication) )
+          (PP (IN in) 
+            (NP-TTL (DT the) (NNP Psychoanalytic) (NNP Quarterly) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (S (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (NP-PRD (DT a) (NN mistake) )
+      (S-1 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB look) 
+            (PP (IN upon) 
+              (NP 
+                (NP (DT the) (NNP Oedipus) )
+                (PP (IN of) 
+                  (NP (NNP Oedipus) (NNP Complex) ))))
+            (PP (IN as) 
+              (NP 
+                (NP (DT a) (JJ literary) (NN descendant) )
+                (PP (IN of) 
+                  (NP (NNP Oedipus) (NNP Rex) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV 
+      (WHNP (WDT Whatever) )
+      (FRAG 
+        (NP 
+          (NP (DT the) (JJ psychological) (NN truth) )
+          (PP (IN in) 
+            (NP (DT the) (NNP Oedipus) (NN myth) )))))
+    (, ,) 
+    (S 
+      (S 
+        (NP-SBJ 
+          (NP (DT an) (NNP Oedipus) )
+          (SBAR 
+            (WHNP-2 (WP who) )
+            (S 
+              (NP-SBJ-1 (-NONE- *T*-2) )
+              (VP (VBZ is) 
+                (VP (VBN drawn) 
+                  (NP (-NONE- *-1) )
+                  (PP (TO to) 
+                    (NP (PRP$ his) (NN fate) ))
+                  (PP (IN by) 
+                    (NP-LGS (JJ irresistible) (JJ external) (NNS forces) )))))))
+        (VP (MD can) 
+          (VP (VB carry) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN symbol) )
+                (PP (IN of) 
+                  (NP (NN humanity) )))
+              (CC and) 
+              (NP (PRP$ its) (JJ archaic) (NN crime) )))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ 
+          (NP (DT the) (NN incest) )
+          (SBAR 
+            (WHNP-3 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-3) )
+              (VP (VBZ is) 
+                (ADJP-PRD (JJ unknowing) )))))
+        (VP 
+          (VP (VBZ renews) 
+            (NP 
+              (NP (DT the) (NN mystery) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (JJ eternal) (NN dream) )
+                  (PP (IN of) 
+                    (NP (NN childhood) ))))))
+          (CC and) 
+          (VP (VBZ absorbs) 
+            (NP (PRP us) )
+            (PP (IN in) 
+              (NP (DT the) (NN secret) ))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP-SBJ 
+        (NP (DT a) (JJ modern) (NNP Oedipus) )
+        (SBAR 
+          (WHNP-2 (WP who) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBZ is) 
+              (VP (VBN doomed) 
+                (NP (-NONE- *-1) )
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ (PRP he) )
+                    (VP (MD can) (RB not) 
+                      (VP (VB oppose) 
+                        (NP (PRP$ his) (JJ own) (NN childhood) ))))))))))
+      (VP (VBZ is) 
+        (ADJP-PRD (RB only) (JJ pathetic) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (PP (IN for) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG renouncing) 
+            (NP (DT the) (NN mystery) )
+            (PP (IN in) 
+              (NP 
+                (NP (NN favor) )
+                (PP (IN of) 
+                  (NP (JJ psychological) (NN truth) )))))))
+      (NP-SBJ (PRP he) )
+      (VP (VBZ gives) 
+        (PRT (RP up) )
+        (NP 
+          (NP (DT the) (NN claim) )
+          (PP (IN on) 
+            (NP (PRP$ our) (NNS sympathies) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP am) 
+      (VP (VBG suggesting) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (NN case-history) (NN approach) )
+              (PP (TO to) 
+                (NP (DT the) (NNP Oedipus) (NN complex) )))
+            (VP (VBZ is) 
+              (NP-PRD (DT a) (JJ blind) (NN alley) )
+              (PP (IN for) 
+                (NP (DT a) (NN storyteller) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJS best) (NNS gifts) )
+      (PP (IN of) 
+        (NP (DT the) (NN novelist) )))
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN wasted) 
+          (NP (-NONE- *-1) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NN reader) )
+              (SBAR 
+                (WHNP-3 (WP who) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-3) )
+                  (VP (VBZ is) 
+                    (VP (VBN insulated) 
+                      (NP (-NONE- *-2) )
+                      (PP (IN against) 
+                        (NP 
+                          (NP (DT any) (NNS surprises) )
+                          (SBAR 
+                            (WHNP-4 (-NONE- 0) )
+                            (S 
+                              (NP-SBJ (DT the) (NN novelist) )
+                              (VP (MD may) 
+                                (VP (VB have) 
+                                  (NP (-NONE- *T*-4) )
+                                  (PP (IN in) 
+                                    (NP 
+                                      (NP (NN store) )
+                                      (PP (IN for) 
+                                        (NP (PRP him) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Incest) )
+      (VP (VBZ is) 
+        (ADVP-TMP (RB still) )
+        (NP-PRD (DT a) (JJ durable) (NN theme) )))
+    (, ,) (CC but) 
+    (S 
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ wants) 
+            (S 
+              (NP-SBJ-2 (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB get) 
+                  (VP (VBN written) 
+                    (PP (IN about) 
+                      (NP (-NONE- *-2) )))))))))
+      (NP-SBJ-3 (PRP it) )
+      (VP (MD will) 
+        (VP (VB have) 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB find) 
+                (NP 
+                  (NP (NNS ways) )
+                  (SBAR 
+                    (WHADVP-4 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB surprise) 
+                          (NP (DT the) (NNS emotions) )
+                          (ADVP-MNR (-NONE- *T*-4) ))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (EX there) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT no) (JJR better) (NN way) )
+          (SBAR 
+            (WHADVP-5 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB do) 
+                  (NP (DT this) )
+                  (ADVP-MNR (-NONE- *T*-5) )))))
+          (PP (IN than) 
+            (NP 
+              (NP (IN that) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN concealment) )
+                  (CC and) 
+                  (NP (JJ symbolic) (NN representation) ))))))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ 
+      (NP (DT the) (JJS best) (NN way) )
+      (SBAR 
+        (WHADVP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB conceal) 
+              (CC and)
+              (VB disguise) 
+              (NP 
+                (NP (DT the) (NNS elements) )
+                (PP (IN of) 
+                  (NP (DT an) (NN incest) (NN story) )))
+              (ADVP-MNR (-NONE- *T*-1) ))))))
+    (VP (VBZ is) (RB not) 
+      (S-PRD 
+        (NP-SBJ-2 (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB set) 
+            (PRT (RP out) )
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB write) 
+                  (NP (DT an) (NN incest) (NN story) ))))))))
+    (. .) ))
+( (SBAR 
+    (WHNP-1 (WDT Which) )
+    (S 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBZ brings) 
+        (PP (TO to) 
+          (NP (VB mind) ))
+        (NP 
+          (NP (DT another) (NNP Lawrence) (NN story) )
+          (CC and) 
+          (NP 
+            (NP (DT some) (JJ interesting) (NNS comparisons) )
+            (PP (IN in) 
+              (NP 
+                (NP (DT the) (NN treatment) )
+                (PP (IN of) 
+                  (NP (DT the) (JJ Oedipal) (NN theme) ))))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP-TTL-SBJ (NNP The) (NNP Rocking) (NNP Horse) (NNP Winner) )
+    ('' '') 
+    (VP (VBZ is) 
+      (ADVP (RB also) )
+      (NP-PRD 
+        (NP (DT a) (NN story) )
+        (PP (IN about) 
+          (NP 
+            (NP 
+              (NP (DT a) (NN boy) (POS 's) )
+              (NN love) )
+            (PP (IN for) 
+              (NP (PRP$ his) (NN mother) ))))))
+    (. .) ))
+( (S 
+    (S-IMP 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ (PRP I) )
+          (ADVP-TMP (RB now) )
+          (VP (VBP risk) 
+            (NP 
+              (NP (DT some) (NNS comparisons) )
+              (PP (IN with) 
+                (NP-TTL (NNPS Sons) (NNP And) (NNPS Lovers) ))))))
+      (NP-SBJ (-NONE- *) )
+      (VP (VBD let) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP it) )
+            (SBAR (-NONE- *EXP*-1) ))
+          (VP (VB be) 
+            (ADJP-PRD (JJ clear) )
+            (SBAR-1 (IN that) 
+              (S 
+                (NP-SBJ (PRP I) )
+                (VP (VBP am) (RB not) 
+                  (VP 
+                    (VP (VBG comparing) 
+                      (NP (DT the) (CD two) (NNS works) ))
+                    (CC or) 
+                    (VP (VBG judging) 
+                      (NP (PRP$ their) (NNS merits) ))))))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBP am) 
+        (ADVP (RB only) )
+        (VP (VBG singling) 
+          (PRT (RP out) )
+          (NP 
+            (NP 
+              (NP (NNS differences) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NN treatment) )
+                  (PP (IN of) 
+                    (NP (DT a) (NN theme) )))))
+            (CC and) 
+            (NP (DT the) (JJ resultant) (NNS effects) )))))
+    (. .) ))
+( (S 
+    (S (`` ``) 
+      (NP-TTL-SBJ (NNP The) (NNP Rocking) (NNP Horse) (NNP Winner) )
+      ('' '') 
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT a) (NN fantasy) )
+          (PP (IN with) 
+            (NP 
+              (NP (JJ extraordinary) (NN power) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB disturb) 
+                      (NP (DT the) (NN reader) )
+                      (ADVP (-NONE- *T*-1) ))))))))))
+    (: --) (CC but) 
+    (S 
+      (NP-SBJ (PRP we) )
+      (VP (VBP do) (RB not) 
+        (VP (VB know) 
+          (FRAG 
+            (WHADVP (WRB why) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN story) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ hopeless) (NN love) )
+            (PP (IN of) 
+              (NP (DT a) (JJ little) (NN boy) ))
+            (PP (IN for) 
+              (NP (PRP$ his) 
+                (ADJP (JJ cold) 
+                  (CC and)
+                  (JJ vain) )
+                (NN mother) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (JJ ghostly) (NNS scenes) )
+        (SBAR 
+          (WHPP-2 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (JJ little) (NN boy) )
+              (PP (IN on) 
+                (NP (PRP$ his) (NN rocking) (NN horse) )))
+            (VP (VBZ rocks) 
+              (ADVP-MNR (RB madly) )
+              (PP (IN toward) 
+                (NP 
+                  (NP (DT the) (NN climax) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (MD will) 
+                        (ADVP (RB magically) )
+                        (VP (VB give) 
+                          (NP (PRP him) )
+                          (NP 
+                            (NP (DT the) (NN name) )
+                            (PP (IN of) 
+                              (NP (DT the) (VBG winning) (NN horse) )))))))))
+              (PP (-NONE- *T*-2) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN child) )
+    (VP 
+      (VP (VBZ grows) 
+        (ADJP-PRD (JJ rich) )
+        (PP (IN on) 
+          (NP (PRP$ his) (NNS winnings) )))
+      (CC and) 
+      (VP (VBZ conspires) 
+        (PP (IN with) 
+          (NP (PRP$ his) (NN uncle) ))
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB make) 
+              (NP 
+                (NP (JJ secret) (NNS gifts) )
+                (PP (IN of) 
+                  (NP (PRP$ his) (NN money) )))
+              (PP-DTV (TO to) 
+                (NP (PRP$ his) (NN mother) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN story) )
+    (VP (VBZ ends) 
+      (PP (IN in) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN child) (POS 's) )
+            (NN illness) 
+            (CC and)
+            (NN delirium) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD brought) 
+                (PRT (RP on) )
+                (PP (IN by) 
+                  (NP-LGS (DT the) (JJ feverish) (NN compulsion) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB ride) 
+                          (NP (PRP$ his) (NN horse) )
+                          (S-PRP 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB win) 
+                                (PP (IN for) 
+                                  (NP (PRP$ his) (NN mother) ))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN child) )
+    (VP (VBZ dies) 
+      (PP (IN with) 
+        (NP 
+          (NP (PRP$ his) (VBG mourning) (NN mother) )
+          (PP-LOC (IN at) 
+            (NP (PRP$ his) (NN bedside) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBD had) 
+      (VP (VBN read) 
+        (NP (DT the) (NN story) )
+        (NP-ADV (JJ many) (NNS times) )
+        (PP (IN without) 
+          (S-NOM 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG asking) 
+                (NP (PRP myself) )
+                (SBAR 
+                  (WHADVP-1 (WRB why) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD affected) 
+                      (NP (PRP me) )
+                      (ADVP-PRP (-NONE- *T*-1) ))))))
+            (CC or) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG caring) 
+                (SBAR 
+                  (WHADVP-2 (WRB why) )
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBD did) 
+                      (ADVP-PRP (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (PP-TMP (IN on) 
+      (NP 
+        (NP (CD one) (NN occasion) )
+        (SBAR 
+          (WHADVP-2 (WRB when) )
+          (S 
+            (NP-SBJ (PRP I) )
+            (VP (VBD encountered) 
+              (NP (DT a) (JJ similar) (NN fantasy) )
+              (PP (IN in) 
+                (NP 
+                  (NP (DT a) (JJ little) (NN boy) )
+                  (SBAR 
+                    (WHNP-1 (WP who) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBD was) 
+                        (NP-PRD (PRP$ my) (NN patient) ))))))
+              (ADVP-TMP (-NONE- *T*-2) ))))))
+    (NP-SBJ-3 (PRP I) )
+    (VP (VBD began) 
+      (S 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (TO to) 
+          (VP (VB understand) 
+            (NP 
+              (NP (DT the) (JJ uncanny) (NNS effects) )
+              (PP (IN of) 
+                (NP (DT this) (NN story) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP It) )
+      (VP (VBD was) 
+        (, ,)
+        (PP (IN of) 
+          (NP (NN course) ))
+        (, ,) 
+        (NP-PRD 
+          (NP 
+            (NP (DT a) (JJ little) (NN boy) (POS 's) )
+            (NN fantasy) )
+          (PP (IN of) 
+            (S-NOM 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG winning) 
+                  (NP (PRP$ his) (NN mother) )
+                  (PP (TO to) 
+                    (NP (PRP himself) ))))
+              (, ,) 
+              (CC and)
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG replacing) 
+                  (NP 
+                    (NP (DT the) (NN father) )
+                    (SBAR 
+                      (WHNP-1 (WP who) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD could) (RB not) 
+                          (VP (VB give) 
+                            (NP (PRP her) )
+                            (NP 
+                              (NP (DT the) (NNS things) )
+                              (SBAR 
+                                (WHNP-2 (-NONE- 0) )
+                                (S 
+                                  (NP-SBJ (PRP she) )
+                                  (VP (VBD wanted) 
+                                    (NP (-NONE- *T*-2) )))))))))))))))
+        (PRN (: --) 
+          (NP 
+            (NP (DT a) (JJ classical) (JJ oedipal) (NN fantasy) )
+            (SBAR-ADV (IN if) 
+              (S 
+                (NP-SBJ (PRP you) )
+                (VP (VBP like) ))))
+          (: --) )))
+    (S (CC but) 
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD were) 
+            (ADVP (RB only) )
+            (NP-PRD (DT this) ))))
+      (NP-SBJ (DT the) (NN story) )
+      (VP (MD would) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ banal) ))))
+    (. .) ))
+( (SBARQ 
+    (WHADVP-1 (WRB Why) )
+    (SQ (VBZ does) 
+      (NP-SBJ (DT the) (NN story) )
+      (VP (VB affect) 
+        (NP (PRP us) )
+        (ADVP-PRP (-NONE- *T*-1) )))
+    (. ?) (. ?) ))
+( (SBARQ 
+    (WHADVP-1 (WRB How) )
+    (SQ (VBZ does) 
+      (NP-SBJ (DT the) (NN rocking) )
+      (VP (VB exert) 
+        (NP (PRP$ its) (JJ uncanny) (NN effect) )
+        (PP (IN upon) 
+          (NP (DT the) (NN reader) ))
+        (ADVP-MNR (-NONE- *T*-1) )))
+    (. ?) (. ?) ))
+( (S 
+    (NP-SBJ-2 
+      (NP (DT The) (NN rocking) )
+      (NP (-NONE- *ICH*-1) ))
+    (VP (VBZ is) 
+      (ADVP (RB actually) )
+      (VP (VBN felt) 
+        (NP-PRD (-NONE- *-2) )
+        (PP (IN in) 
+          (NP (DT the) (NN story) )))
+      (, ,) 
+      (NP-1 
+        (NP (DT a) 
+          (ADJP (JJ terrible) 
+            (CC and)
+            (JJ ominous) )
+          (NN rhythm) )
+        (SBAR 
+          (WHNP-3 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-3) )
+            (VP (VBZ prophesies) 
+              (NP (DT the) (NN tragedy) ))))))
+    (. .) ))
+( (S-4 
+    (NP-SBJ (DT The) (NN rocking) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBD realized) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-4) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ single) (NN element) )
+        (PP (IN in) 
+          (NP (DT the) (NN story) ))
+        (SBAR 
+          (WHNP-2 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (VBZ carries) 
+              (NP 
+                (NP (DT the) (JJ erotic) (NN message) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP (JJ unspoken) 
+                      (CC and)
+                      (JJ unconscious) )
+                    (NN undercurrent) )
+                  (SBAR 
+                    (WHNP-3 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-3) )
+                      (VP (MD would) 
+                        (VP 
+                          (VP (VB mar) 
+                            (NP 
+                              (NP (DT the) (NN innocence) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (DT a) (NN child) (POS 's) )
+                                  (NN fantasy) ))))
+                          (CC and) 
+                          (VP (VB disturb) 
+                            (NP 
+                              (NP (DT the) (NNS effects) )
+                              (PP (IN of) 
+                                (NP (DT the) (NN work) )))))
+                        (SBAR-ADV (IN if) 
+                          (S 
+                            (NP-SBJ-1 (PRP it) )
+                            (VP (VBD were) 
+                              (VP (VBN made) 
+                                (S 
+                                  (NP-SBJ (-NONE- *-1) )
+                                  (ADJP-PRD (JJ explicit) ))))))))))))))))
+    (. .) ))
+( (UCP 
+    (S 
+      (NP-SBJ (DT The) (NN rocking) )
+      (VP (VBZ has) 
+        (NP 
+          (NP (DT the) (JJ ambiguous) (NN function) )
+          (PP (IN of) 
+            (S-NOM 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG keeping) 
+                  (S 
+                    (NP-SBJ (DT the) (JJ erotic) (NN undercurrent) )
+                    (ADJP-PRD (JJ silent) ))))
+              (CC and) 
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG making) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (ADJP-PRD (JJ present) )))))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP 
+        (VP (VBZ conceals) )
+        (CC and) 
+        (VP 
+          (ADVP (RB yet) )
+          (VBZ is) 
+          (ADJP-PRD (JJ suggestive) ))))
+    (: ;) (: ;) 
+    (NP (DT a) (JJ perfect) (NN symbol) )
+    (. .) ))
+( (S (CC And) 
+    (SBAR-ADV (IN if) 
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP understand) 
+          (NP (DT the) (NN rocking) )
+          (PP (IN as) 
+            (NP (DT an) (JJ erotic) (NN symbol) )))))
+    (NP-SBJ (PRP we) )
+    (VP (MD can) 
+      (ADVP (RB also) )
+      (VP (VB see) 
+        (SBAR 
+          (WHADVP-1 (WRB how) (RB well) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBZ serves) 
+              (ADVP (-NONE- *T*-1) )
+              (PP (IN as) 
+                (NP 
+                  (NP (DT the) (NN symbol) )
+                  (PP (IN of) 
+                    (NP (JJ impending) (NN tragedy) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP 
+        (NP (DT this) (NN love) )
+        (PP (IN of) 
+          (NP (DT the) (NN boy) ))
+        (PP (IN for) 
+          (NP (PRP$ his) (NN mother) ))))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP (JJ hopeless) 
+            (CC and)
+            (VBN forbidden) )
+          (NN love) )
+        (, ,) 
+        (VP (VBN doomed) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (PRP$ its) (NN nature) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBP are) 
+      (ADVP (RB also) )
+      (VP (VBN struck) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NN fact) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT this) (NN story) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (DT a) (NN boy) (POS 's) )
+                        (NN love) )
+                      (PP (IN for) 
+                        (NP (PRP$ his) (NN mother) )))))
+                (VP (VBZ does) (RB not) 
+                  (VP (VB offend) 
+                    (, ,)
+                    (SBAR-ADV (IN while) 
+                      (S 
+                        (NP-SBJ 
+                          (NP (DT the) (JJ incestuous) (NN love) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (DT the) (NN man) )
+                              (, ,) 
+                              (NP (NNP Paul) (NNP Morel) )
+                              (, ,) )))
+                        (ADVP-TMP (RB sometimes) )
+                        (VP (VBZ repels) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (S (-NONE- *EXP*-2) ))
+    (VP (VBZ 's) 
+      (ADJP-PRD (JJ easy) )
+      (S-2 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB see) 
+            (FRAG 
+              (WHADVP (WRB why) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT This) (NN love) )
+      (VP (VBZ belongs) 
+        (PP (TO to) 
+          (NP (NN childhood) ))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP we) )
+      (VP (VBP accord) 
+        (NP (PRP it) )
+        (NP (PRP$ its) (NN place) )
+        (ADVP-LOC (RB there) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (PP (IN in) 
+        (NP 
+          (NP (NNP Lawrence) (POS 's) )
+          (NN treatment) ))
+      (NP-SBJ-1 (PRP we) )
+      (VP (VBP are) 
+        (VP (VBN given) 
+          (NP (-NONE- *-1) )
+          (NP 
+            (NP 
+              (NP (DT the) (JJ innocent) (NN fantasy) )
+              (PP (IN of) 
+                (NP (DT a) (NN child) )))
+            (, ,) 
+            (PP (IN in) 
+              (NP (NN fact) ))
+            (, ,) 
+            (NP 
+              (NP (DT the) (NN form) )
+              (SBAR 
+                (WHPP-3 (IN in) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ-2 (JJ oedipal) (NN love) )
+                  (VP (VBZ is) 
+                    (VP (VBN expressed) 
+                      (NP (-NONE- *-2) )
+                      (PP (-NONE- *T*-3) )
+                      (PP (IN in) 
+                        (NP (NN childhood) )))))))))))
+    (. .) ))
+( (S (CC And) 
+    (SBAR-TMP 
+      (WHADVP (WRB when) )
+      (S 
+        (NP-SBJ (DT the) (NN child) )
+        (VP (VBZ dies) 
+          (PP (IN in) 
+            (NP 
+              (NP (NNP Lawrence) (POS 's) )
+              (NN story) ))
+          (PP (IN in) 
+            (NP 
+              (NP (DT a) (NN delirium) )
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ-2 (-NONE- *T*-1) )
+                  (VP (VBZ is) 
+                    (ADVP-MNR (RB somehow) )
+                    (VP (VBN brought) 
+                      (NP (-NONE- *-2) )
+                      (PRT (RP on) )
+                      (PP (IN by) 
+                        (NP-LGS 
+                          (NP (PRP$ his) (NN mania) )
+                          (SBAR 
+                            (WHADVP-3 (-NONE- 0) )
+                            (S 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB win) )))
+                              (CC and) 
+                              (S 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (TO to) 
+                                  (VP (VB make) 
+                                    (S 
+                                      (NP-SBJ (PRP$ his) (NN mother) )
+                                      (ADJP-PRD (JJ rich) )))))
+                              (ADVP (-NONE- *T*-3) ))))))))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (JJ manifest) (NN absurdity) )
+      (PP (IN of) 
+        (NP 
+          (NP (PDT such) (DT a) (NN disease) )
+          (CC and) 
+          (NP (PDT such) (DT a) (NN death) ))))
+    (VP (VBZ does) (RB not) 
+      (VP (VB enter) 
+        (PP (IN into) 
+          (NP (PRP$ our) (NNS thoughts) ))
+        (ADVP (IN at) (DT all) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBP have) 
+      (ADVP 
+        (ADVP (RB so) (RB completely) )
+        (SBAR (-NONE- *ICH*-1) ))
+      (VP (VBD entered) 
+        (NP 
+          (NP (DT the) (NN child) (POS 's) )
+          (NN fantasy) )
+        (SBAR-1 (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (PRP$ his) (NN illness) )
+              (CC and) 
+              (NP (PRP$ his) (NN death) ))
+            (VP (VBP are) 
+              (NP-PRD 
+                (NP (DT the) (NN plausible) 
+                  (NX (-NONE- *ICH*-2) ))
+                (CC and) 
+                (NP (DT the) (JJ necessary) 
+                  (NX (-NONE- *ICH*-2) ))
+                (NX-2 (NN conclusion) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP am) 
+      (ADJP-PRD (JJ sure) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 
+              (NP (NN none) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NNS effects) )
+                  (PP (IN of) 
+                    (NP (DT this) (NN story) )))))
+            (VP (VBD were) 
+              (ADVP-MNR (RB consciously) )
+              (VP (VBN employed) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (NNP Lawrence) ))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB describe) 
+                      (NP 
+                        (NP (DT an) (JJ oedipal) (NN fantasy) )
+                        (PP (IN in) 
+                          (NP (NN childhood) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (PRP It) )
+      (SBAR (-NONE- *EXP*-3) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (RBS most) (JJ probable) )
+      (SBAR-3 (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Freud) )
+            (CC and) 
+            (NP (DT the) (NNP Oedipus) (NN complex) ))
+          (ADVP-TMP (RB never) )
+          (VP (VBD entered) 
+            (NP (PRP$ his) (NN head) )
+            (PP (IN in) 
+              (NP 
+                (NP (DT the) (NN writing) )
+                (PP (IN of) 
+                  (NP (DT this) (NN story) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBD was) 
+        (ADVP (RB simply) )
+        (VP (VBG writing) 
+          (NP 
+            (NP (DT a) (NN story) )
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ-3 (-NONE- *T*-2) )
+                (VP (VBD wanted) 
+                  (S 
+                    (NP-SBJ-1 (-NONE- *-3) )
+                    (VP (TO to) 
+                      (VP (VB be) 
+                        (VP (VBN told) 
+                          (NP (-NONE- *-1) ))))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (PP (IN in) 
+        (NP (DT the) (NN writing) ))
+      (NP-SBJ 
+        (NP (DT a) (NN childhood) (NN fantasy) )
+        (PP (IN of) 
+          (NP (PRP$ his) (JJ own) )))
+      (VP (VBD emerged) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (MD would) (RB not) 
+        (VP (VB have) 
+          (VP (VBN cared) 
+            (SBAR 
+              (WHADVP-2 (WRB why) )
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD emerged) 
+                  (ADVP-PRP (-NONE- *T*-2) ))))))))
+    (, ,) 
+    (S 
+      (NP-SBJ-3 (PRP he) )
+      (ADVP (RB only) )
+      (VP (VBD wanted) 
+        (S 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB capture) 
+                (NP (DT a) (NN memory) ))))
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB play) 
+                (PP (IN with) 
+                  (NP (PRP it) ))
+                (ADVP (RB again) )
+                (PP (IN in) 
+                  (NP (PRP$ his) (NN imagination) )))))
+          (CC and) 
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (ADVP-MNR (RB somehow) )
+            (VP (TO to) 
+              (VP (VB fix) 
+                (CC and)
+                (VB hold) 
+                (PP (IN in) 
+                  (NP (DT the) (NN story) ))
+                (NP 
+                  (NP (DT the) (JJ disturbing) (NNS emotions) )
+                  (SBAR 
+                    (WHNP-1 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (VBD accompanied) 
+                        (NP (DT the) (NN fantasy) )))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (PRP$ our) (JJ own) (NN time) ))
+    (NP-SBJ (PRP we) )
+    (VP (VBP have) 
+      (VP (VBN seen) 
+        (SBAR 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP 
+                  (NP (DT the) (NN novelist) (POS 's) )
+                  (NN debt) )
+                (PP (TO to) 
+                  (NP (NN psychoanalysis) )))
+              (VP (VBZ has) 
+                (VP (VBN increased) ))))
+          (CC but) 
+          (SBAR (IN that) 
+            (S 
+              (NP 
+                (NP (DT the) (NN novel) )
+                (NP (PRP itself) ))
+              (VP (VBZ has) (RB not) 
+                (VP (VBN profited) 
+                  (ADVP (RB much) )
+                  (PP (IN from) 
+                    (NP (DT this) (NN marriage) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Ortega) (POS 's) )
+      (NN hope) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (JJ modern) (NN psychology) )
+          (VP (MD might) 
+            (ADVP-TMP (RB yet) )
+            (VP (VB bring) 
+              (ADVP (RB forth) )
+              (NP 
+                (NP (DT a) (JJ last) (NN flowering) )
+                (PP (IN of) 
+                  (NP (DT the) (NN novel) ))))))))
+    (VP (VBZ has) 
+      (ADVP (RB only) )
+      (VP (VBN been) 
+        (ADVP (RB partially) )
+        (VP (VBN fulfilled) 
+          (NP (-NONE- *-1) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT The) (JJ young) (NN writer) )
+      (VP (VBZ seems) 
+        (ADJP-PRD (VBN intimidated) 
+          (PP (IN by) 
+            (NP (JJ psychological) (NN knowledge) )))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBZ has) 
+        (VP (VBN lost) 
+          (NP 
+            (NP (NN confidence) )
+            (PP 
+              (PP (IN in) 
+                (NP (PRP$ his) (JJ own) (NNS eyes) ))
+              (CC and) 
+              (PP (IN in) 
+                (NP 
+                  (NP (DT the) (NN validity) )
+                  (PP (IN of) 
+                    (NP (PRP$ his) (JJ own) (JJ psychological) (NNS insights) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP 
+      (VP (VBZ borrows) 
+        (NP 
+          (NP (DT the) (NNS insights) )
+          (PP (IN of) 
+            (NP (NN psychology) )))
+        (S-PRP 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB improve) 
+              (NP (PRP$ his) (VBN impaired) (NN vision) )))))
+      (CC but) 
+      (VP (MD can) (RB not) 
+        (VP (VB bring) 
+          (PP (TO to) 
+            (NP (PRP$ his) (NN work) ))
+          (NP 
+            (NP (DT the) (JJ distinctive) (NN vision) )
+            (SBAR 
+              (WHNP-1 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (MD should) 
+                  (VP (VB be) 
+                    (NP-PRD 
+                      (NP (DT a) (NN novelist) (POS 's) )
+                      (JJ own) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN been) 
+          (VP (VBN seduced) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (DT the) (NNS marvels) )
+                (PP (IN of) 
+                  (NP (DT the) (NN unconscious) )))))))
+      (CC and) 
+      (VP (VBZ has) 
+        (VP (VBN lost) 
+          (NP (NN interest) )
+          (PP (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG studying) 
+                (NP 
+                  (NP (DT the) (NNS surfaces) )
+                  (PP (IN of) 
+                    (NP (NN character) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-2 
+          (NP (JJ many) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS characters) )
+              (PP (IN in) 
+                (NP (JJ contemporary) (NNS novels) )))))
+        (VP (VBP appear) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (NP-PRD 
+                  (NP (DT the) (JJ bloodless) (NNS relations) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNS characters) )
+                      (PP (IN in) 
+                        (NP (DT a) (NN case) (NN history) )))))))))))
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (SBAR-PRP-PRD (RB because) 
+        (S 
+          (NP-SBJ (DT the) (NN novelist) )
+          (VP (VBZ is) 
+            (ADVP-TMP (RB often) )
+            (ADJP-PRD (JJ forgetful) 
+              (SBAR (-NONE- *ICH*-3) ))
+            (NP-TMP (RB today) )
+            (SBAR-3 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT those) (NNS things) )
+                    (SBAR 
+                      (WHNP-4 (IN that) )
+                      (S 
+                        (NP-SBJ (PRP we) )
+                        (VP (VBP call) 
+                          (S 
+                            (NP-SBJ (NN character) )
+                            (NP-PRD (-NONE- *T*-4) ))))))
+                  (VP (VBP manifest) 
+                    (NP (PRP themselves) )
+                    (PP (IN in) 
+                      (NP (NN surface) (NN behavior) )))))
+              (, ,) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (DT the) (NN ego) )
+                  (VP (VBZ is) 
+                    (ADVP-TMP (RB still) )
+                    (NP-PRD 
+                      (NP (DT the) (JJ executive) (NN agency) )
+                      (PP (IN of) 
+                        (NP (NN personality) ))))))
+              (, ,) 
+              (CC and)
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-1 
+                    (NP (DT all) )
+                    (SBAR 
+                      (WHNP-5 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (PRP we) )
+                        (VP (VBP know) 
+                          (NP (-NONE- *T*-5) )
+                          (PP (IN of) 
+                            (NP (NN personality) ))))))
+                  (VP (MD must) 
+                    (VP (VB be) 
+                      (VP (VBN discerned) 
+                        (NP (-NONE- *-1) )
+                        (PP (IN through) 
+                          (NP (DT the) (NN ego) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN novelist) )
+      (SBAR 
+        (WHNP-2 (WP who) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-2) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (ADVP-MNR (RB badly) )
+              (VP (VBN baptized) 
+                (NP (-NONE- *-1) )
+                (PP (IN in) 
+                  (NP (NN psychoanalysis) ))))))))
+    (ADVP-TMP (RB often) )
+    (VP (VBZ gives) 
+      (NP (PRP us) )
+      (NP (DT the) (NN impression) 
+        (SBAR (IN that) 
+          (S 
+            (SBAR-PRP (IN since) 
+              (S 
+                (NP-SBJ (DT all) (NNS men) )
+                (VP (MD must) 
+                  (VP (VB have) 
+                    (NP (DT an) (NNP Oedipus) (JJ complex) )))))
+            (NP-SBJ (DT all) (NNS men) )
+            (VP (MD must) 
+              (VP (VB have) 
+                (NP (DT the) (JJ same) (NNS faces) )))))))
+    (. .) ))
+( (NP (CD 2) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP have) 
+      (VP (VBN argued) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (NNP Oedipus) )
+              (PP (IN of) 
+                (NP (DT the) (NNP Oedipus) (NN complex) )))
+            (VP (VBZ has) 
+              (NP (DT a) (JJ doubtful) (NN future) )
+              (PP (IN as) 
+                (NP 
+                  (NP (DT a) (JJ tragic) (NN figure) )
+                  (PP (IN in) 
+                    (NP (NN literature) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT a) (NN writer) )
+      (SBAR 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ has) 
+              (NP 
+                (NP (DT a) (NN taste) )
+                (PP (IN for) 
+                  (NP (NN irony) ))))))
+        (CC and) 
+        (SBAR 
+          (WHNP-2 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-2) )
+            (VP (VBZ sees) 
+              (NP (NN incest) )
+              (PP (IN in) 
+                (NP (PDT all) (PRP$ its) (JJ modern) (NNS dimensions) )))))))
+    (VP (MD can) 
+      (VP (VB let) 
+        (S 
+          (NP-SBJ (PRP$ his) (NN imagination) )
+          (VP (NN work) 
+            (PP (IN on) 
+              (NP 
+                (NP 
+                  (NP (DT the) (JJ disturbing) (NN joke) )
+                  (PP (IN in) 
+                    (NP (DT the) (NN incest) (NN myth) )))
+                (, ,) 
+                (NP 
+                  (NP (DT the) (NN joke) )
+                  (SBAR 
+                    (WHNP-3 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-3) )
+                      (VP (VBZ strikes) 
+                        (PP 
+                          (ADVP (RB right) )
+                          (IN at) 
+                          (NP 
+                            (NP (DT the) (NN center) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NN man) (POS 's) )
+                                (NN humanness) ))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (JJ Moral) (NN dread) )
+      (VP (VBZ is) 
+        (VP (VBN seen) 
+          (NP (-NONE- *-1) )
+          (PP (IN as) 
+            (NP 
+              (NP (DT the) (JJ other) (NN face) )
+              (PP (IN of) 
+                (NP (NN desire) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (ADVP-LOC (RB here) )
+      (NP-SBJ (NN psychoanalysis) )
+      (VP (VBZ delivers) 
+        (PP (TO to) 
+          (NP (DT the) (NN writer) ))
+        (NP 
+          (NP (DT a) (JJ magnificent) (NN irony) )
+          (CC and) 
+          (NP 
+            (NP (DT a) (JJ moral) (NN problem) )
+            (PP (IN of) 
+              (NP (JJ great) (NN complexity) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBZ is) 
+      (ADVP (RB probably) )
+      (NP-PRD 
+        (NP (DT some) (NN significance) )
+        (PP (IN in) 
+          (NP (DT the) (NN fact) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (CD two) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJS best) (NN incest) (NNS stories) )
+                      (SBAR 
+                        (WHNP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP I) )
+                          (VP (VBP have) 
+                            (VP (VBN encountered) 
+                              (NP (-NONE- *T*-1) )
+                              (PP-TMP (IN in) 
+                                (NP (JJ recent) (NNS years) )))))))))
+                (VP (VBP are) 
+                  (NP-PRD 
+                    (NP (NNS burlesques) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN incest) (NN myth) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (JJ ancient) (NNS types) )
+      (VP (VBP are) 
+        (VP (VBN reassembled) 
+          (NP (-NONE- *-1) )
+          (PP (IN in) 
+            (NP (NN gloom) 
+              (CC and)
+              (NN foreboding) ))
+          (S-PRP 
+            (NP-SBJ-2 (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (ADVP (RB irresistibly) )
+                (VP (VBN drawn) 
+                  (NP (-NONE- *-2) )
+                  (PP (TO to) 
+                    (NP (PRP$ their) (NNS destinies) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (S 
+        (NP-SBJ (DT the) (NN myth) )
+        (VP (VBZ fails) 
+          (PP (IN before) 
+            (NP (DT the) (JJ modern) (NN truth) ))))
+      (: ;) (: ;) 
+      (S 
+        (S 
+          (NP-SBJ (DT the) (NN oracle) )
+          (VP (VBZ speaks) 
+            (ADVP (JJ false) )))
+        (CC and) 
+        (S 
+          (NP-SBJ (DT the) (NN dream) )
+          (VP (VBZ speaks) 
+            (ADVP (JJ true) )))))
+    (. .) ))
+( (S 
+    (S 
+      (PP 
+        (PP (IN In) 
+          (ADVP (PDT both) )
+          (NP 
+            (NP 
+              (NP (DT the) (NN farmer) (POS 's) )
+              (NN tale) )
+            (PP (IN in) 
+              (NP 
+                (NP (NNP Ralph) (NNP Ellison) (POS 's) )
+                (NX-TTL (NNP Invisible) (NNP Man) )))))
+        (CC and) 
+        (PP (IN in) 
+          (NP 
+            (NP (NNP Thomas) (NNP Mann) (POS 's) )
+            (NX-TTL (NNP The) (NNP Holy) (NNP Sinner) ))))
+      (, ,) 
+      (NP-SBJ (DT the) (NN incest) (NN hero) )
+      (VP (VBZ rises) 
+        (PP (IN above) 
+          (NP (DT the) (NN myth) ))
+        (PP (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG accepting) 
+              (NP (DT the) (NN wish) )
+              (PP (IN as) 
+                (NP (JJ motive) )))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (DT the) (JJ heroic) (NN act) )
+      (VP (VBZ is) 
+        (NP-PRD 
+          (NP (DT the) (NN casting) (IN off) )
+          (PP (IN of) 
+            (NP (NN pretense) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Thomas) (NNP Mann) )
+    (VP (VBD wrote) 
+      (NP-TTL (NNP The) (NNP Holy) (NNP Sinner) )
+      (PP-TMP (IN in) 
+        (NP (CD 1951) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (PRP It) )
+      (VP (VBD was) 
+        (VP (VBN conceived) 
+          (NP (-NONE- *-1) )
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN leave-taking) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NN kind) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ melancholy) (NN gathering-in) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NNS myths) )
+                        (PP (IN of) 
+                          (NP (DT the) (NN West) ))))))))))))
+    (, ,) (`` ``) 
+    (X (FW bevor) (FW die) (FW Nacht) (FW sinkt) 
+      (, ,)
+      (FW eine) (FW lange) (FW Nacht) (FW vielleicht) (FW und) (FW ein) (FW tiefes) (FW Vergessen) )
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP 
+      (VP (VBD chose) 
+        (NP 
+          (NP 
+            (NP (DT a) (JJ medieval) (NN legend) )
+            (PP (IN of) 
+              (NP (NN incest) )))
+          (, ,) 
+          (NP (NNP Gregorius) (NNP Vom) (NNP Stein) )
+          (, ,) ))
+      (CC and) 
+      (VP 
+        (ADVP (RB freely) )
+        (VBD borrowed) 
+        (CC and)
+        (VBD parodied) 
+        (NP 
+          (NP (JJ other) (NNS myths) )
+          (PP (IN of) 
+            (NP (DT the) (NN West) ))))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG mixing) 
+          (NP (NNS themes) 
+            (, ,)
+            (NN language) 
+            (, ,)
+            (NNS peoples) 
+            (CC and)
+            (NNS times) )
+          (PP (IN in) 
+            (NP 
+              (NP (DT a) (NN master) (NN myth) )
+              (SBAR 
+                (WHPP-2 (IN in) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ (DT the) (JJ old) (NNS forms) )
+                  (ADVP (RB continually) )
+                  (VP (VBP renew) 
+                    (NP (PRP themselves) )
+                    (PP (-NONE- *T*-2) )
+                    (, ,) 
+                    (PP (IN as) 
+                      (PP (IN in) 
+                        (NP 
+                          (NP (PRP$ his) (JJ previous) (NN treatment) )
+                          (PP (IN of) 
+                            (NP (NNP Joseph) )))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-TTL-SBJ (NNP The) (NNP Holy) (NNP Sinner) )
+    (VP (VBZ is) (RB not) 
+      (ADVP (RB simply) )
+      (NP-PRD 
+        (NP (DT a) (NN retelling) )
+        (PP (IN of) 
+          (NP (JJ old) (NNS stories) )))
+      (PP (IN for) 
+        (NP 
+          (NP (DT an) (JJ old) (NN man) (POS 's) )
+          (NN entertainment) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mann) )
+    (VP (VBD understood) 
+      (ADVP 
+        (ADVP (JJR better) )
+        (PP (IN than) 
+          (NP (JJS most) (NNS men) )))
+      (NP 
+        (NP 
+          (NP (DT the) (NN incest) (NN comedy) )
+          (PP (IN at) 
+            (NP 
+              (NP (DT the) (NN center) )
+              (PP (IN of) 
+                (NP (DT the) (NN myth) )))))
+        (CC and) 
+        (NP 
+          (NP (DT the) (JJ psychological) (NN truth) )
+          (SBAR 
+            (WHPP-2 (IN in) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ-1 (NN dread) )
+              (VP (VBZ is) 
+                (VP (VBN shown) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN as) 
+                    (NP (DT the) (JJ other) (NN face) ))
+                  (PP (-NONE- *T*-2) )))))))
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ (VBG longing) )
+          (VP (VBD was) 
+            (PP (IN for) 
+              (NP (PRP him) ))
+            (NP-PRD 
+              (NP 
+                (NP (RB just) (DT the) (NN kind) )
+                (PP (IN of) 
+                  (NP 
+                    (ADJP (JJ deep) 
+                      (CC and)
+                      (JJ complicated) )
+                    (NN joke) )))
+              (SBAR 
+                (WHNP-4 (-NONE- 0) )
+                (S 
+                  (NP-SBJ-3 (PRP he) )
+                  (VP (VBD liked) 
+                    (S 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (TO to) 
+                        (VP (VB tell) 
+                          (NP (-NONE- *T*-4) ))))))))))))
+    (. .) ))
+( (S 
+    (S (CC And) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD retold) 
+            (NP 
+              (NP (DT the) (NN legend) )
+              (PP (IN of) 
+                (NP (NNP Gregorius) )))
+            (ADVP-TMP (-NONE- *T*-1) ))))
+      (NP-SBJ (PRP he) )
+      (VP (VBD interpolated) 
+        (NP 
+          (NP (DT a) (JJ modern) (NN version) )
+          (SBAR 
+            (WHPP-2 (IN in) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP-SBJ (DT the) (JJ medieval) (NNS players) )
+              (VP (VBP speak) 
+                (NP (JJ contemporary) (NNS thoughts) )
+                (PP (IN in) 
+                  (NP (JJ archaic) (NN language) ))
+                (PP (-NONE- *T*-2) )))))))
+    (: ;) (: ;) 
+    (S 
+      (SBAR-TMP (IN while) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP 
+            (VP (VBP move) 
+              (PP (IN through) 
+                (NP 
+                  (NP (DT the) (NN pageantry) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ ancient) (NN incest) (NN myth) )))))
+            (CC and) 
+            (VP (VBP cover) 
+              (NP (PRP themselves) )
+              (PP (IN through) 
+                (NP (RB|VBG not-knowing) ))))))
+      (, ,) 
+      (NP-SBJ (PRP they) )
+      (VP 
+        (VP (VBP reveal) 
+          (NP (DT the) (JJ unconscious) (NN motive) )
+          (PP (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG seeking) 
+                (NP (DT each) (JJ other) )))))
+        (CC and) 
+        (VP 
+          (PP (IN in) 
+            (NP (DT the) (JJ last) (NN scene) ))
+          (VBP make) 
+          (NP 
+            (NP (DT an) (JJ extraordinary) (NN confession) )
+            (PP (IN of) 
+              (NP (NN guilt) )))
+          (PP (IN in) 
+            (NP (DT the) (JJ twentieth-century) (NN manner) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grigorss) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN child) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT an) (JJ incestuous) (NN union) )
+            (PP (IN between) 
+              (NP 
+                (NP (DT a) (JJ royal) (NN brother) 
+                  (CC and)
+                  (NN sister) )
+                (, ,) 
+                (NP 
+                  (NP (DT the) (NNS twins) )
+                  (NP (NNP Sibylla) 
+                    (CC and)
+                    (NNP Wiligis) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBZ is) 
+      (VP 
+        (VP (VBN born) 
+          (NP (-NONE- *-1) )
+          (PP (IN in) 
+            (NP (NN secrecy) ))
+          (PP (IN after) 
+            (NP 
+              (NP (DT the) (NN death) )
+              (PP (IN of) 
+                (NP (PRP$ his) (NN father) ))))
+          (CC and) 
+          (VP (VBD cast) 
+            (NP (-NONE- *-1) )
+            (ADVP (RB adrift) )
+            (PP-TMP 
+              (ADVP (RB soon) )
+              (IN after) 
+              (NP (NN birth) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NN infant) )
+    (VP (VBZ is) 
+      (VP (VBN discovered) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (NN fisherman) )
+            (SBAR 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBZ brings) 
+                  (NP (PRP him) )
+                  (ADVP-DIR (NN home) )
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB rear) 
+                        (NP (PRP him) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT An) (NN ivory) (NN tablet) )
+      (PP (IN in) 
+        (NP 
+          (NP (DT the) (NN infant) (POS 's) )
+          (NN cask) )))
+    (VP 
+      (VP (VBZ recounts) 
+        (NP 
+          (NP (DT the) (NN story) )
+          (PP (IN of) 
+            (NP (PRP$ his) (JJ sinful) (NNS origins) ))))
+      (CC and) 
+      (VP (VBZ is) 
+        (VP (VBN preserved) 
+          (NP (-NONE- *-1) )
+          (PP (IN for) 
+            (NP (DT the) (NN child) ))
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NNS monks) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT a) (NN monastery) )
+                  (PP (IN in) 
+                    (NP (DT the) (NN fishing) (NN village) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grigorss) )
+    (, ,) 
+    (PP (IN at) 
+      (NP (CD seventeen) ))
+    (, ,) 
+    (VP 
+      (VP (VBZ learns) 
+        (NP (PRP$ his) (NN story) ))
+      (CC and) 
+      (VP (VBZ goes) 
+        (ADVP (RB forth) )
+        (PP (IN as) 
+          (NP (DT a) (NN knight) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB uncover) 
+              (NP (PRP$ his) (NNS origins) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP$ His) (NN sailing) (NN vessel) )
+    (VP (VBZ is) 
+      (VP (VBN guided) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (NN fate) ))
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (DT the) (NNS shores) )
+            (PP (IN of) 
+              (NP (PRP$ his) (JJ own) (NN country) ))))
+        (PP-TMP (IN at) 
+          (NP 
+            (NP (DT a) (NN time) )
+            (SBAR 
+              (WHADVP-3 (WRB when) )
+              (S 
+                (NP-SBJ-2 
+                  (NP (NNP Sibylla) (POS 's) )
+                  (NN domain) )
+                (VP (VBZ is) 
+                  (VP (VBN overrun) 
+                    (NP (-NONE- *-2) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (DT the) (NNS armies) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NN one) )
+                            (PP (IN of) 
+                              (NP (PRP her) (VBN rejected) (NNS suitors) ))))))
+                    (ADVP-TMP (-NONE- *T*-3) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grigorss) )
+    (VP 
+      (VP (VBZ overcomes) 
+        (NP (DT the) (NN suitor) )
+        (PP (IN in) 
+          (NP (NN battle) )))
+      (, ,) 
+      (VP (VBZ delivers) 
+        (NP (DT the) (NN city) )
+        (PP (IN from) 
+          (NP (PRP$ its) (NNS oppressors) )))
+      (CC and) 
+      (VP (VBZ marries) 
+        (NP 
+          (NP (NNP Sibylla) )
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD had) 
+                (VP (VBN fallen) 
+                  (PP (IN in) 
+                    (NP (NN love) ))
+                  (PP (IN with) 
+                    (NP (DT the) (JJ beautiful) (NN knight) ))
+                  (NP-TMP 
+                    (NP (DT the) (NN moment) )
+                    (SBAR 
+                      (WHADVP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (PRP she) )
+                        (VP (VBD saw) 
+                          (NP (PRP him) )
+                          (ADVP-TMP (-NONE- *T*-2) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sibylla) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ pregnant) 
+        (PP (IN with) 
+          (NP (PRP$ their) (JJ second) (NN child) )))
+      (SBAR-TMP 
+        (WHADVP-2 (WRB when) )
+        (S 
+          (S 
+            (NP-SBJ (PRP she) )
+            (VP (VBZ finds) 
+              (NP 
+                (NP (DT the) (NN ivory) (NN tablet) )
+                (VP (VBN concealed) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS (PRP$ her) (NN husband) ))))
+              (ADVP-TMP (-NONE- *T*-2) )))
+          (, ,) 
+          (CC and)
+          (S 
+            (NP-SBJ-1 
+              (NP (DT the) (NNS identities) )
+              (PP (IN of) 
+                (NP (NN mother) 
+                  (CC and)
+                  (NN son) )))
+            (VP (VBP are) 
+              (VP (VBN revealed) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grigorss) )
+    (VP (VBZ goes) 
+      (PRT (RP off) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB do) 
+            (NP (NN penance) )
+            (PP-LOC (IN on) 
+              (NP (DT a) (NN rock) ))
+            (PP-TMP (IN for) 
+              (NP (CD seventeen) (NNS years) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP 
+        (NP (DT the) (NN end) )
+        (PP (IN of) 
+          (NP (DT this) (NN period) ))))
+    (NP-SBJ 
+      (NP (CD two) (JJ pious) (NNPS Christians) )
+      (PP-LOC (IN in) 
+        (NP (NNP Rome) )))
+    (VP (VBP receive) 
+      (NP 
+        (NP (DT the) (NN revelation) )
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ leads) 
+              (S 
+                (NP-SBJ (PRP them) )
+                (VP (TO to) 
+                  (VP (VB seek) 
+                    (NP (DT the) (JJ next) (NNP Pope) )
+                    (PP-LOC (IN on) 
+                      (NP (DT the) (NN rock) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Grigorss) )
+    (VP 
+      (VP (VBZ comes) 
+        (PP-DIR (TO to) 
+          (NP (NNP Rome) )))
+      (CC and) 
+      (VP (VBZ becomes) 
+        (NP-PRD (DT a) 
+          (ADJP (JJ great) 
+            (CC and)
+            (JJ beloved) )
+          (NNP Pope) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (DT the) (JJ last) (NNS pages) )
+        (PP (IN of) 
+          (NP (DT the) (NN book) ))))
+    (NP-SBJ (NNP Sibylla) )
+    (VP (VBZ comes) 
+      (PP-DIR (TO to) 
+        (NP (NNP Rome) ))
+      (S-PRP 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB seek) 
+              (NP 
+                (NP (DT an) (NN audience) )
+                (PP (IN with) 
+                  (NP (DT the) (JJ great) (NNP Pope) ))))))
+        (CC and) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB give) 
+              (NP (PRP$ her) (NN confession) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Mother) 
+        (CC and)
+        (NN son) )
+      (VP 
+        (VP (VBP recognize) 
+          (NP (DT each) (JJ other) ))
+        (CC and) 
+        (, ,)
+        (VP 
+          (PP (IN in) 
+            (NP 
+              (NP 
+                (NP (NNP Mann) (POS 's) )
+                (NN version) )
+              (PP (IN of) 
+                (NP (DT this) (NN legend) ))))
+          (, ,) (VBP make) 
+          (NP 
+            (NP 
+              (NP (DT a) (JJ remarkable) (NN confession) )
+              (PP (IN of) 
+                (NP (NN guilt) )))
+            (NP (-NONE- *ICH*-2) ))
+          (PP (TO to) 
+            (NP (DT each) (JJ other) ))
+          (, ,) 
+          (NP-2 
+            (NP (DT the) (NN confession) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ unconscious) (NN motive) )
+                (CC and) 
+                (NP 
+                  (NP (JJ unconscious) (NN knowledge) )
+                  (PP (IN of) 
+                    (NP (PRP$ their) (JJ true) (NNS identities) ))
+                  (PP (IN from) 
+                    (NP 
+                      (NP (DT the) (NN time) )
+                      (SBAR 
+                        (WHADVP-1 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP they) )
+                          (VP (VBD had) 
+                            (ADVP-TMP (RB first) )
+                            (VP (VBN set) 
+                              (NP (NNS eyes) )
+                              (PP (IN on) 
+                                (NP (DT each) (JJ other) ))
+                              (ADVP-TMP (-NONE- *T*-1) ))))))))))))))
+    (. .) ))

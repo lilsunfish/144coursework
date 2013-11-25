@@ -1,0 +1,73 @@
+
+
+( (S (NP-SBJ-2 Paul Tanner)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-2)
+		(NP-PRD (NP (NP president)
+			    (PP *RNR*-1))
+			,
+			(NP (NP chief executive officer)
+			    (PP *RNR*-1))
+			and
+			(NP (NP chairman)
+			    (PP *RNR*-1))
+			(PP-1 of
+			      (NP this oil and natural gas company))))))
+     .))
+( (S (NP-SBJ He)
+     (VP succeeds
+         (NP (NP John A. Boudreau)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP resigned
+                          (PP-PRP for
+				  (NP personal reasons)))))))
+     .))
+( (S (NP-SBJ Mr. Tanner)
+     (VP had
+         (VP been
+             (NP-PRD (NP president)
+                     (PP of
+                         (NP (NP Penn Pacific 's)
+                             National Southwest Capital Group subsidiary)))))
+     .))
+( (S (NP-SBJ Mr. Boudreau)
+     (VP will
+         (VP remain
+             (PP-CLR with
+		     (NP Penn Pacific))
+             (PP-CLR as
+		     (NP (NP a director)
+			 and
+			 (NP (NP a member)
+			     (PP of
+				 (NP the executive committee)))))))
+     .))
+( (S (S-TPC-4 (NP-SBJ-2 He)
+	      (VP has
+		  (ADVP also)
+		  (VP agreed
+		      (S (NP-SBJ *-2)
+			 (VP to
+			     (VP become
+				 (NP-PRD (NP president)
+					 (PP of
+					     (NP (NP a new subsidiary)
+						 (SBAR (WHNP-3 0)
+						       (S (NP-SBJ-1 *T*-3)
+							  (VP to
+							      (VP be
+								  (VP formed
+								      (NP *-1)
+								      (S-PRP (NP-SBJ *)
+									     (VP to
+										 (VP make
+										     (NP future acquisitions))))))))))))))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-4)))
+     .))

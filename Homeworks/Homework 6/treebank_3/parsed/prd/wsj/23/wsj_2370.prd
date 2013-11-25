@@ -1,0 +1,107 @@
+
+
+( (S (NP-SBJ (NP The official
+		 White House
+		 reaction)
+	     (PP to
+		 (NP (NP a plunge)
+		     (PP-LOC in
+			     (NP stock prices)))))
+     (VP has
+	 (NP (NP a 60-year history)
+	     (PP of
+		 (NP calm)))
+	 ,
+	 (ADVP-TMP right up
+		   (PP through
+		       (NP Friday))))
+     .))
+( (S (NP-SBJ Treasury Secretary
+             Nicholas Brady)
+     (VP said
+         (PP-LOC in
+		 (NP a statement))
+         (NP-TMP Friday)
+         (SBAR that
+               (S (NP-SBJ the stock-market decline)
+                  ``
+                  (VP does n't
+                      (VP signal
+                          (NP (NP any fundamental change)
+                              (PP-LOC in
+				      (NP (NP the condition)
+					  (PP of
+					      (NP the economy))))))))))
+     .
+     ''))
+( (S-1 (S ``
+	  (NP-SBJ The economy)
+	  (PRN , 
+	       ''
+	       (S (NP-SBJ he)
+		  (VP added
+		      (SBAR 0
+			    (S *T*-1))))
+	       ,) 
+	  ``
+	  (VP remains
+	      (ADJP-PRD well-balanced)))
+       and
+       (S (NP-SBJ the outlook)
+	  (VP is
+	      (PP-PRD for
+		      (NP continued moderate growth))))
+       . 
+       ''))
+( (S (NP-SBJ *)
+     (VP Sound
+	 (ADJP-PRD familiar))
+     ?))
+( (S (SINV (ADVP-LOC-PRD-TPC-2 Here)
+           (VP 's
+	       (ADVP-LOC-PRD *T*-2))
+           (SBAR-NOM-SBJ (WHNP-1 what)
+			 (S (NP-SBJ Ronald Reagan)
+			    (VP said
+				(NP *T*-1)
+				(PP-TMP after
+					(NP the 1987 crash))))))
+     : 
+     ``
+     (S (NP-SBJ The underlying economy)
+        (VP remains
+            (ADJP-PRD sound)))
+     .))
+( (S (S (NP-SBJ There) 
+        (VP is
+            (NP-PRD (NP nothing)
+                    (ADJP wrong
+                          (PP with
+                              (NP the economy))))))
+     ...
+     (S (NP-SBJ all the indices)
+        (VP are
+            (ADVP-PRD up)))
+     . 
+     ''))
+( (S (NP-SBJ *)
+     (VP Heard
+	 (NP that)
+	 (ADVP-TMP before))
+     ?))
+( (S (PP-TMP After
+	     (NP the 1929 crash))
+     ,
+     (NP-SBJ Herbert Hoover)
+     (VP said 
+	 :
+         (SBAR 0
+	       ``
+	       (S (NP-SBJ (NP The fundamental business)
+                          (PP of
+                              (NP the country)))
+                  ...
+                  (VP is
+                      (PP-LOC-PRD on
+				  (NP a (ADJP sound and prosperous) basis))))))
+     .))

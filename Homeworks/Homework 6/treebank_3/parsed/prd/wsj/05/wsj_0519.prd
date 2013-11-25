@@ -1,0 +1,81 @@
+
+
+( (S (S-TPC-1 (NP-SBJ The Belgian consumer price index)
+	      (VP (VP rose
+		      (NP-EXT a provisional 0.1 %)
+		      (PP-TMP in
+			      (NP October))
+		      (PP-DIR from
+			      (NP-TMP the previous month)))
+		  and
+		  (VP was
+		      (ADVP-PRD up
+				(NP 3.64 %)
+				(PP from
+				    (NP-TMP October 1988))))))
+     ,
+     (NP-SBJ (NP the Ministry)
+	     (PP of
+		 (NP Economic Affairs)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-1 (NP The index)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ *T*-2)
+                        (VP uses
+                            (NP (NP a base)
+                                (PP of
+                                    (NP 1981)))
+                            (PP-CLR as
+				    (NP 100)))))
+               ,)
+     (VP was
+         (VP calculated
+             (NP *-1)
+             (PP-CLR at
+		     (NP 140.91 points))
+	     (PP-TMP in
+		     (NP October))
+	     ,
+	     (PP-DIR from
+		     (NP 140.74)
+		     (PP-TMP in
+			     (NP September)))))
+     .))
+( (S (NP-SBJ Annual inflation)
+     (VP rose
+         (PP-DIR to
+		 (NP 3.64 %)
+		 (PP-TMP in
+			 (NP October)))
+	 (PP-DIR from
+		 (NP 3.55 %)
+		 (PP-TMP in
+			 (NP September))))
+     .))
+( (S (S (NP-SBJ (NP Belgium 's)
+                inflation)
+        (VP has
+            (VP been
+                (VP rising
+                    (ADVP-MNR steadily)
+                    (PP-TMP for
+			    (NP the past year))))))
+     , 
+     but
+     (S (NP-SBJ the ministry)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ the latest rise)
+                     (VP is
+                         (ADJP-PRD (ADJP slower)
+				   (PP than
+				       (NP (NP gains)
+					   (PP-TMP in
+						   (NP September
+						       and
+						       August))))))))))
+     .))

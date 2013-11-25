@@ -1,0 +1,1679 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerB1 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ 's
+	     (NP-SBJ your favorite T V show)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerA2 .))
+( (S (INTJ Oh)
+     (PRN .
+	  (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ-1 I)
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP like
+		    (NP-TTL ST . ELSEWHERE)))))
+     .
+     E_S))
+( (CODE SpeakerB3 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA4 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP one)
+		 (PP of
+		     (NP my old favorites))))
+     .
+     E_S))
+( (S (INTJ Um)
+     ,
+     and
+     (NP-SBJ that)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP being
+	     (VP beeped
+		 (NP *-1))))
+     ,
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (VP 'll
+	 (ADVP just)
+	 (VP ignore
+	     (NP it)))
+     .
+     E_S))
+( (S (INTJ Um)
+     ,
+     and
+     (ADVP-TMP now)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP did
+	 (VP like
+	     (NP-TTL THIRTY SOMETHING)))
+     E_S))
+( (CODE SpeakerB5 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA6 .))
+( (INTJ (INTJ oh)
+	,
+	(INTJ yes)
+	,
+	E_S))
+( (S (NP-SBJ my daughter)
+     (VP says
+	 (FRAG (NP-TTL NINE OH TWO ONE OH)))
+     .
+     E_S))
+( (S (NP-SBJ We)
+     (VP like
+	 (NP that one))
+     .
+     E_S))
+( (CODE SpeakerB7 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (NP-PRD (NP one)
+		 (PP of
+		     (NP my favorites))))
+     .
+     E_S))
+( (CODE SpeakerA8 .))
+( (INTJ Good
+	,
+	E_S))
+( (SBARQ and
+	 (WHADJP-1 how old)
+	 (SQ are
+	     (NP-SBJ you)
+	     (ADJP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerB9 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (NP-PRD twenty-eight))
+     .
+     E_S))
+( (CODE SpeakerA10 .))
+( (S (INTJ Oh)
+     ,
+     so
+     (NP-SBJ you)
+     (VP 're
+	 (ADJP-PRD (ADJP (NP-ADV little bit) 
+			 younger)
+		   (SBAR than
+			 (S (NP-SBJ I)
+			    (VP am
+				(ADJP-PRD *?*))))))
+     ,
+     E_S))
+( (FRAG but
+	(INTJ yeah)
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S-UNF (SBAR-ADV if
+				(S (NP-SBJ (NP my 
+					       seventeen year  
+					       old)
+					   ,
+					   (NP my 
+					       fourteen year 
+					       old)
+					   ,
+					   (NP my other two children))
+				   (VP like
+				       (NP it)))))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (PP-PRD over
+		 (NP forty)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP like
+	 (NP it))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (ADJP-PRD wonderful)))))
+     .
+     E_S))
+( (CODE SpeakerB11 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (NP-PRD a good show))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP like
+	 (NP (NP-TTL MURPHY BROWN)
+	     and
+	     (NP-TTL DESIGNING WOMEN))
+	 ,
+	 (ADVP too))
+     .
+     E_S))
+( (CODE SpeakerA12 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (INTJ now)
+     (INTJ see)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ we)
+     (RS ])
+     (VP are
+	 (ADJP-PRD so busy
+		   (PP-UNF with)))
+     ,))
+( (S (NP-SBJ (NP all)
+	     (PP of
+		 (NP our kids)))
+     (VP are
+	 (PP-PRD in
+		 (NP sports)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (ADVP-TMP hardly ever)
+     (VP watch
+	 (NP T V))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD (NP one)
+		 (SBAR (EDITED (RM [)
+			       (WHNP that)
+			       ,
+			       (IP +))
+		       (WHNP-1 that)
+		       (RS ])
+		       (S (NP-SBJ we)
+			  (VP watch
+			      (NP *T*-1))))))
+     .
+     E_S))
+( (S (CONJP And then)
+     (NP-TMP Sunday nights)
+     (NP-SBJ we)
+     (VP watch
+	 ,
+	 (INTJ uh)
+	 ,
+	 (S-TTL (NP-SBJ LIFE)
+		(VP GOES
+		    (ADVP ON))))
+     .
+     E_S))
+( (CODE SpeakerB13 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP like
+	 (NP that))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (NP-PRD a good show)
+	 ,
+	 (ADVP too))
+     .
+     E_S))
+( (CODE SpeakerA14 .))
+( (ADJP Very good
+	.
+	E_S))
+( (SQ Did
+      (NP-SBJ you)
+      (VP see
+	  (NP (NP the one)
+	      (PP-TMP on
+		      (NP Sunday))))
+      ?
+      E_S))
+( (CODE SpeakerB15 .))
+( (INTJ Yes
+	,
+	E_S))
+( (S (NP-SBJ it)
+     (VP was
+	 (NP-PRD-UNF a
+		     ,
+		     (INTJ uh)
+		     ,
+		     (INTJ uh)))
+     N_S))
+( (S (NP-SBJ I)
+     (VP did
+	 (VP miss
+	     (NP that Sunday)))
+     ,
+     E_S))
+( (INTJ no
+	E_S))
+( (S (NP-SBJ I)
+     (VP did
+	 n't)
+     .
+     E_S))
+( (CODE SpeakerA16 .))
+( (S (NP-TPC (NP That one kid)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ Becca)
+		      (VP likes
+			  (NP *T*-1)))))
+     (NP-SBJ he)
+     (VP has
+	 (NP AIDS))
+     .
+     E_S))
+( (CODE SpeakerB17 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (NP-PRD a good episode))
+     .
+     E_S))
+( (CODE SpeakerA18 .))
+( (CODE SpeakerB19 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (NP-SBJ (NP the
+		 (RS ])
+		 new character)
+	     (PP-LOC on
+		     (ADVP there)))
+     (VP did)
+     .
+     E_S))
+( (CODE SpeakerA20 .))
+( (INTJ Right
+	,
+	E_S))
+( (INTJ right
+	.
+	E_S))
+( (PP-DIR (NP-ADV All the way) 
+	  to
+	  (NP North Carolina)
+	  .
+	  E_S))
+( (SBARQ (WHNP-1 What time)
+	 (SQ is
+	     (NP-SBJ it)
+	     (NP-PRD *T*-1)
+	     (ADVP-LOC there))
+	 ?
+	 E_S))
+( (CODE SpeakerB21 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (VP is
+	 (NP-TMP-PRD (NP twenty minutes) 
+		     (PP to
+			 (NP nine))))
+     .
+     E_S))
+( (CODE SpeakerA22 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ my gosh)
+	.
+	E_S))
+( (S (INTJ See)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (NP-TMP-PRD (NP twenty minutes)
+		     (PP to
+			 (NP six)))
+	 (ADVP-LOC here))
+     .
+     E_S))
+( (CODE SpeakerB23 .))
+( (NP (NP-ADV Three hours)  
+      difference
+      .
+      E_S))
+( (CODE SpeakerA24 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ yeah
+	.
+	E_S))
+( (INTJ Okay
+	.
+	E_S))
+( (SBARQ (WHNP-1 What else)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP like
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerB25 .))
+( (S-IMP (INTJ Uh)
+	 ,
+	 (NP-SBJ *)
+	 (VP let
+	     (S (NP-SBJ 's)
+		(VP see)))
+	 ,))
+( (S (NP-SBJ I)
+     (VP like
+	 (NP (NP a lot)
+	     (PP of
+		 (NP different shows))))
+     .
+     E_S))
+( (S-IMP (NP-SBJ *)
+	 (VP Let
+	     (S (NP-SBJ 's)
+		(VP see)))
+	 ,))
+( (S (INTJ um)
+     ,
+     (NP-SBJ I)
+     (VP like
+	 (S-TTL (NP-TPC-1 MURDER)
+		,
+		(NP-SBJ SHE)
+		(VP WROTE
+		    (NP *T*-1))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ That)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP-UNF 's)
+     ,
+     (RS ])
+     N_S))
+( (CODE SpeakerA26 .))
+( (S (INTJ Oh)
+     ,
+     (EDITED (RM [)
+	     (S-UNF (NP-SBJ I)
+		    (ADVP-TMP never))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (ADVP-TMP never)
+     (RS ])
+     (VP watched
+	 (NP that)
+	 (ADVP-TMP ever)
+	 (PP-TMP in
+		 (NP my entire life)))
+     .
+     E_S))
+( (CODE SpeakerB27 .))
+( (S And
+     (NP-TTL-SBJ MATLOCK)
+     (VP is
+	 (NP-PRD (NP another good one)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ I)
+			  (VP watch
+			      (NP *T*-1))))))
+     .
+     E_S))
+( (CODE SpeakerA28 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB29 .))
+( (S (INTJ Um)
+     ,
+     (ADVP then)
+     (PP-TMP during
+	     (NP daytimes))
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF like))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP like
+	 (RS ])
+	 (NP-TTL ALL MY CHILDREN))
+     .
+     E_S))
+( (CODE SpeakerA30 .))
+( (S (NP-SBJ A small bowl)
+     (VP will
+	 (VP be
+	     (ADJP-PRD plenty)))
+     .
+     E_S))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD mine))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP the only one)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ I)
+			  (VP watch
+			      (NP *T*-1)
+			      (SBAR-TMP (WHADVP whenever)
+					(S-UNF (NP-SBJ I)
+					       ,
+					       (INTJ oh))))))))
+     ,
+     N_S))
+( (S (NP-SBJ a small bowl)
+     (VP will
+	 (VP be
+	     (ADJP-PRD better)
+	     (SBAR-PRP because
+		       (S (NP-SBJ it)
+			  (VP 's
+			      (ADJP-PRD pretty fattening))))))
+     .
+     E_S))
+( (S (NP-SBJ *)
+     (VP Talk
+	 (PP to
+	     (NP my daughter)))
+     .
+     E_S))
+( (INTJ (INTJ Um)
+	,
+	(INTJ um)
+	,
+	E_S))
+( (CODE SpeakerB31 .))
+( (NP-TTL ALL MY CHILDREN
+	  ,
+	  E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 (VP watched
+	     (NP that)
+	     (PP-TMP for
+		     (NP (QP about twelve) 
+			 years))))
+     .
+     E_S))
+( (CODE SpeakerA32 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 've))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 (RS ])
+	 (ADJP-PRD sure
+		   (SBAR 0
+			 (S (NP-SBJ I)
+			    (VP watched
+				(NP it)
+				(PP for
+				    (NP (NP more)
+					(PP than
+					    (NP that))))
+				(ADVP probably))))))
+     .
+     E_S))
+( (NP Twenty something
+      .
+      E_S))
+( (S (NP-SBJ-1 I)
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP watch
+		    (NP-TTL GENERAL HOSPITAL)
+		    (SBAR-TMP (WHADVP-2 when)
+			      (S (NP-SBJ I)
+				 (VP was
+				     (NP-PRD a teenager)
+				     (ADVP-TMP *T*-2))))
+		    (SBAR-PRP because
+			      (S-UNF (NP-SBJ I)))))))
+     ,
+     N_S))
+( (CODE SpeakerB33 .))
+( (S (NP-SBJ-3 I)
+     (VP quit
+	 (S (NP-SBJ *-3)
+	    (VP watching
+		(NP-TTL GENERAL HOSPITAL)
+		(SBAR-TMP (WHADVP-2 when)
+			  (S (NP-SBJ-1 Leslie)
+			     (VP got
+				 (VP killed
+				     (NP *-1)
+				     (ADVP-TMP *T*-2))))))))
+     .
+     E_S))
+( (CODE SpeakerA34 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerB35 .))
+( (S So
+     (NP-SBJ that)
+     (VP was
+	 (ADVP-TMP-PRD (NP a long time) 
+		       ago))
+     .
+     E_S))
+( (S (NP-SBJ-3 I)
+     (VP used
+	 (S (NP-SBJ *-3)
+	    (VP to
+		(VP watch
+		    (NP it)
+		    ,
+		    (EDITED (RM [)
+			    (VP-UNF was)
+			    (IP +)
+			    (RS ]))
+		    (PP-TMP in
+			    (NP (NP high school)
+				and 
+				(NP college)))
+		    (SBAR-TMP (WHADVP-2 when)
+			      (S (NP-SBJ-1 (NP Laura 's)
+					   mother)
+				 (VP got
+				     (VP killed
+					 (NP *-1)
+					 (ADVP-TMP *T*-2)))))))))
+     .
+     E_S))
+( (CODE SpeakerA36 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB37 .))
+( (S (NP-SBJ She)
+     (VP was
+	 (NP-PRD (NP my favorite character)
+		 (PP-LOC on
+			 (ADVP there))))
+     .
+     E_S))
+( (CODE SpeakerA38 .))
+( (CODE SpeakerB39 .))
+( (S-UNF (NP-SBJ I)
+	 (ADVP just)
+	 ,
+	 N_S))
+( (S (NP-SBJ I)
+     (VP read
+	 (SBAR 0
+	       (S (NP-SBJ (NP the reason)
+			  (SBAR (WHADVP-1 0)
+				(S (EDITED (RM [)
+					   (S (NP-SBJ she)
+					      (VP-UNF got))
+					   ,
+					   (IP +)
+					   (RS ]))
+				   (EDITED (RM [)
+					   (NP-SBJ they)
+					   ,
+					   (IP +))
+				   (NP-SBJ they)
+				   (RS ])
+				   (VP killed
+				       (NP her)
+				       (PRT off)
+				       (ADVP-PRP *T*-1)))))
+		  (VP was
+		      (SBAR-PRD-PRP because
+				    (S (NP-SBJ they)
+				       (VP could
+					   n't
+					   (VP settle
+					       (NP a contract)))))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP said
+	 (S-SEZ , 
+		(INTJ well)
+		,
+		(SBAR-ADV if
+			  (S (NP-SBJ-1 they)
+			     (VP 're
+				 (VP going
+				     (S (NP-SBJ *-1)
+					(VP to
+					    (VP do
+						(NP that)
+						(PP to
+						    (NP her)))))))))
+		,
+		(NP-SBJ I)
+		(VP wo
+		    n't
+		    (VP watch
+			(NP it)))))
+     .
+     E_S))
+( (CODE SpeakerA40 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD great))
+     .
+     E_S))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP do
+	 (VP like
+	     (NP-TTL ALL MY CHILDREN)))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     (S-UNF and
+		    (NP-SBJ I))
+	     ,
+	     (IP +))
+     and
+     (NP-SBJ I)
+     (RS ])
+     (VP-UNF like
+	     (NP it)
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))))
+     ,))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     .
+     E_S))
+( (S-UNF (NP-SBJ I)
+	 (ADVP just)
+	 ,
+	 N_S))
+( (S (S-TPC-1 (NP-SBJ I)
+	      (VP like
+		  (NP (NP the people)
+		      (PP on
+			  (NP it)))))
+     ,
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S *T*-1))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     .
+     E_S))
+( (CODE SpeakerB41 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP like
+	 (NP it))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP just)
+     (VP wish
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP 'd
+		      (VP bring
+			  (NP (NP some)
+			      (PP of
+				  (NP the old characters)))
+			  (ADVP back))))))
+     .
+     E_S))
+( (CODE SpeakerA42 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ well) 
+     ,
+     (S-TPC-3 (NP-SBJ-1 Tad)
+	      (VP 's
+		  (VP going
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP come
+				 (ADVP back)))))))
+     ,
+     (NP-SBJ I)
+     (VP bet
+	 (SBAR 0
+	       (S *T*-3)))
+     ,))
+( (SQ do
+      (NP-SBJ you) 
+      (VP think)
+      ?
+      E_S))
+( (CODE SpeakerB43 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD sure
+		   (SBAR 0
+			 (S (NP-SBJ he)
+			    (VP will
+				(VP *?*))))))
+     .
+     E_S))
+( (CODE SpeakerA44 .))
+( (S (NP-SBJ He)
+     (VP 'll
+	 (VP (VP come
+		 (ADVP back))
+	     ,
+	     (VP show
+		 (PRT up)
+		 (PP-TMP at
+			 (NP just the right moment)))))
+     .
+     E_S))
+( (CODE SpeakerB45 .))
+( (S (NP-SBJ I)
+     (ADVP kind of)
+     (VP wish
+	 (SBAR that
+	       ,
+	       (INTJ uh)
+	       ,
+	       (S (NP-SBJ Nina)
+		  (VP would
+		      (VP come
+			  (ADVP back)
+			  (SBAR-PRP (EDITED (RM [)
+					    (SBAR-PRP because
+						      (S-UNF (NP-SBJ she)))
+					    (IP +))
+				    because
+				    (S-UNF (RS ])
+					   (NP-SBJ the story)
+					   (PRN ,
+						(S (NP-SBJ you)
+						   (VP know))))))))))
+     ,
+     N_S))
+( (CODE SpeakerA46 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerB47 .))
+( (FRAG (PP-TMP (ADVP just)
+		for
+		(NP (NP a brief visit)
+		    or
+		    (NP whatever)))
+	,
+	(SBAR-PRP because
+		  (S (NP-SBJ-1 it)
+		     (ADVP-TMP never)
+		     (VP has 
+			 (VP been
+			     (VP resolved
+				 (NP *-1)
+				 (PP with
+				     (S-NOM (NP-SBJ Palmer)
+					    (VP (VP remarrying)
+						,
+						and
+						(NP-ETC everything)))))))))
+	,
+	N_S))
+( (CODE SpeakerA48 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ like)
+     (NP-SBJ Daisy)
+     ,
+     (VP pops
+	 (ADVP-DIR in)
+	 (ADVP-TMP once
+		   (PP in
+		       (NP a while))))
+     ,
+     E_S))
+( (S and
+     ,
+     (NP-SBJ I)
+     (VP forgot
+	 (PP about
+	     (NP Nina and Cliff))
+	 ,
+	 (INTJ right))
+     .
+     E_S))
+( (CODE SpeakerB49 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ Cliff)
+     (VP 's
+	 (PP-PRD on
+		 (NP-TTL (NP THE YOUNG)
+			 AND
+			 (NP THE RESTLESS)))
+	 (ADVP-TMP now))
+     .
+     E_S))
+( (CODE SpeakerA50 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ he)
+     (VP is
+	 (PP-PRD *?*))
+     .
+     E_S))
+( (S So
+     (NP-SBJ he)
+     (VP 's
+	 (ADVP-PRD out)
+	 (PP-TMP for
+		 (ADJP good)))
+     .
+     E_S))
+( (CODE SpeakerB51 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ he)
+     (VP 's
+	 (ADVP-PRD out)
+	 (PP-TMP for
+		 (ADJP good)))
+     .
+     E_S))
+( (CODE SpeakerA52 .))
+( (SQ Did
+      (NP-SBJ they)
+      (VP marry)
+      ?
+      E_S))
+( (CODE SpeakerB53 .))
+( (INTJ Uh
+	E_S))
+( (CODE SpeakerA54 .))
+( (NP Nina and Cliff
+      ?
+      E_S))
+( (CODE SpeakerB55 .))
+( (S (NP-SBJ that)
+     (VP 's
+	 (SBAR-PRD-MNR (WHADVP-1 how)
+		       (S (NP-SBJ they)
+			  (VP left
+			      (NP the show)
+			      (ADVP-MNR *T*-1)
+			      ,
+			      (NAC but 
+				   not
+				   (PP in
+				       (NP real life)))))))
+     .
+     E_S))
+( (CODE SpeakerA56 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB57 .))
+( (S (ADVP-TMP Now)
+     (NP-SBJ she)
+     (VP 's
+	 (ADJP-PRD married
+		   (PP to
+		       (NP (NP some guy)
+			   (PP-LOC in
+				   (NP New York))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ she)
+     (VP 's
+	 (ADJP-PRD happily married))
+     E_S))
+( (S and
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD (NP the reason)
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ she)
+			  (VP left
+			      (NP the show)
+			      (ADVP-PRP *T*-1))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ she)
+		  (VP wanted
+		      (NP a private life)))))
+     .
+     E_S))
+( (CODE SpeakerA58 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ okay)
+	,
+	E_S))
+( (S (INTJ oh)
+     ,
+     (INTJ see)
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP watch
+	 (NP it)
+	 (ADVP-TMP (ADVP maybe)
+		   twice
+		   (NP a month)))
+     ,
+     E_S))
+( (S so
+     ,
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP watch
+	     (NP it)
+	     (ADVP-TMP everyday)
+	     (SBAR-ADV like
+		       (S (NP-SBJ I)
+			  (VP did
+			      (SBAR-TMP (WHADVP-1 when)
+					(S (NP-SBJ I)
+					   (VP had
+					       (NP babies)
+					       (ADVP-TMP *T*-1)))))))))
+     .
+     E_S))
+( (CODE SpeakerB59 .))
+( (S (INTJ Oh)
+     ,
+     (INTJ well)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP watch)
+     .
+     E_S))
+( (CODE SpeakerA60 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ I)
+	       (VP play
+		   (NP (NP lots)
+		       (PP of
+			   (NP tennis)))))
+	    E_S))
+( (S and
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD gone) 
+	 (NP-TMP a lot))
+     ,
+     E_S))
+( (S so
+     ,
+     (NP-SBJ-1 I)
+     (VP do
+	 n't
+	 (VP get
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP watch)))))
+     ,
+     E_S))
+( (CODE SpeakerB61 .))
+( (S (NP-SBJ I)
+     (VP watch
+	 (NP it)
+	 (ADVP-TMP everyday)
+	 ,
+	 (ADVP-MNR religiously))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP videotape
+	 (NP it)
+	 (SBAR-TMP (WHADVP-2 when)
+		   (S (NP-SBJ-1 I)
+		      (VP have
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP miss
+				     (NP it)
+				     (ADVP-TMP *T*-2))))))))
+     .
+     E_S))
+( (CODE SpeakerA62 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ no kidding)
+	.
+	E_S))
+( (CODE SpeakerB63 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA64 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ-1 I)
+		(VP (TYPO use) 
+		    (S (NP-SBJ *-1)
+		       (VP to
+			   (VP-UNF be)))))
+	     ,
+	     (IP +))
+     (NP-SBJ-2 I)
+     (VP used
+	 (S (NP-SBJ *-2)
+	    (VP to
+		(VP be
+		    (RS ])
+		    (PP-PRD like
+			    (NP that))))))
+     .
+     E_S))
+( (CODE SpeakerB65 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (NP-PRD (NP that way)
+		 (PP about
+		     (NP (NP a lot)
+			 (PP of
+			     (NP different shows))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (NP-PRD (NP that way)
+		 (PP about
+		     (NP-TTL (NP MURPHY BROWN)
+			     ,
+			     (NP DESIGNING WOMEN)))))
+     .
+     E_S))
+( (CODE SpeakerA66 .))
+( (SQ (INTJ Now)
+      (EDITED (RM [)
+	      (SQ-UNF is
+		      n't
+		      (NP-TTL-SBJ DESIGNING WOMEN))
+	      ,
+	      (IP +))
+      do
+      n't
+      (NP-SBJ they)
+      (RS ])
+      (VP have
+	  (NP (NP a new chick)
+	      (NAC *ICH*-2))
+	  (PP-LOC on
+		  (ADVP there))
+	  (NAC-2 (EDITED (RM [)
+			 (NAC (CONJP instead of)
+			      (NP-UNF the))
+			 ,
+			 (IP +))
+		 (CONJP instead of
+			(RS ]))
+		 (SBARQ (WHNP-1 what)
+			(SQ 's
+			    (NP-SBJ her name)
+			    (NP-PRD *T*-1)))))
+      ?
+      E_S))
+( (CODE SpeakerB67 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP two new characters)
+		 (PP-LOC on
+			 (ADVP there))))
+     .
+     E_S))
+( (S (NP-SBJ There)
+     (VP 's
+	 ,
+	 (INTJ um)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP-PRD (NP Jan Hooks)
+		 (PP from
+		     (NP-TTL SATURDAY NIGHT (TYPO LIFE)))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ you)
+		      (VP (VP know
+			      (NP her))
+			  or
+			  (VP (FRAG not)))))))
+     .
+     E_S))
+( (CODE SpeakerA68 .))
+( (INTJ Huh-uh
+	.
+	E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP a show)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ I)
+			  (VP like
+			      (NP *T*-1))))))
+     .
+     E_S))
+( (CODE SpeakerB69 .))
+( (FRAG (EDITED (RM [)
+		(CONJP And then)
+		,
+		(IP +))
+	(CONJP and then)
+	,
+	(RS ])
+	(INTJ uh)
+	,
+	,
+	(INTJ uh)
+	,
+	(NP (NP the 
+		(ADJP blond headed) 
+		girl)
+	    (SBAR (WHNP-1 that)
+		  (S (NP-SBJ-2 *T*-1)
+		     (VP used
+			 (S (NP-SBJ *-2)
+			    (VP to
+				(VP be
+				    (PP-PRD on
+					    (NP-TTL NEWHART)))))))))
+	.
+	E_S))
+( (CODE SpeakerA70 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	,
+	(INTJ oh)
+	.
+	E_S))
+( (CODE SpeakerB71 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP like
+	     (NP her)
+	     (PP-LOC on
+		     (NP it))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP-TMP never)
+     (VP have
+	 (VP liked
+	     (NP her)))
+     ,
+     E_S))
+( (S-UNF so
+	 .
+	 N_S))
+( (CODE SpeakerA72 .))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (ADVP just)
+     (VP know
+	 (SBAR (WHNP-1 which one)
+	       (S (NP-SBJ she)
+		  (VP is
+		      (NP-PRD *T*-1)))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP-UNF do
+	     n't
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))))
+     .
+     N_S))
+( (CODE SpeakerB73 .))
+( (S (NP-SBJ She)
+     (VP 's
+	 (VP taken
+	     (EDITED (NP-UNF the))
+	     (NP (NP Suzanne 's)
+		 part)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ Jan Hooks)
+     (VP has
+	 (VP taken
+	     (NP (NP Charlene 's)
+		 part)))
+     .
+     E_S))
+( (CODE SpeakerA74 .))
+( (S (NP-SBJ Charlene)
+     (VP was
+	 (NP-PRD Delta Burke))
+     ?
+     E_S))
+( (CODE SpeakerB75 .))
+( (S (NP-SBJ Charlene)
+     (VP was
+	 (NP-PRD (NP Jean Smart)
+		 ,
+		 (NP the 
+		     (ADJP blond headed))))
+     .
+     E_S))
+( (CODE SpeakerA76 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ okay)
+	,
+	E_S))
+( (S (INTJ well)
+     ,
+     (INTJ see)
+     ,
+     (NP-SBJ I)
+     (ADVP-TMP never)
+     (VP watch
+	 (NP that one)
+	 (ADVP either))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP really)
+     (VP do
+	 n't
+	 (VP watch
+	     (NP (NP a whole lot)
+		 (PP of
+		     (NP T V)))))
+     ,))
+( (FRAG (ADVP just)
+	(PRN ,
+	     (S (NP-SBJ you)
+		(VP know))
+	     ,)
+	(PP-TMP on
+		(NP Sunday nights))
+	,
+	E_S))
+( (S (S-TTL-SBJ (NP-SBJ LIFE)
+		(VP GOES
+		    (ADVP ON)))
+     (VP comes
+	 (PRT on)
+	 (NP-TMP (NP about the time)
+		 (SBAR (WHADVP-1 that)
+		       (S (NP-SBJ we)
+			  (VP eat
+			      (NP dinner)
+			      (ADVP-TMP *T*-1))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ my whole family)
+     (VP 's
+	 (ADVP-PRD-LOC home)
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ I)
+		      (VP do
+			  n't
+			  (VP allow
+			      (NP the kids)
+			      (ADVP-DIR out)
+			      (PP-TMP on
+				      (NP Sunday night))
+			      (PRN (S (NP-SBJ you)
+				      (VP know))
+				   ,)
+			      (SBAR-PRP because
+					(S (NP-SBJ-1 they)
+					   (VP 've
+					       (VP got
+						   (S (NP-SBJ *-1)
+						      (VP to
+							  (VP (VP go
+								  (PP to
+								      (NP bed)))
+							      and
+							      (VP go
+								  (PP-DIR to
+									  (NP school))
+								  (NP-TMP the next day))))))))))))))
+     ,
+     E_S))
+( (CODE SpeakerB77 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA78 .))
+( (S (CONJP and so)
+     (EDITED (RM [)
+	     (NP-SBJ we)
+	     ,
+	     (IP +))
+     (NP-SBJ we)
+     (RS ])
+     (VP (VP sit
+	     (ADVP-LOC around))
+	 and
+	 (VP eat
+	     (NP popcorn)))
+     E_S))
+( (S and
+     ,
+     (INTJ oh)
+     ,
+     (ADVP-TMP then)
+     (NP-SBJ we)
+     (VP watch
+	 (NP-TTL (NP AMERICA 'S)  
+		 FUNNIEST HOME VIDEOS))
+     .
+     E_S))
+( (S (NP-SBJ Those)
+     (VP are
+	 (ADVP-TMP always)
+	 (ADJP-PRD pretty cute))
+     .
+     E_S))
+( (CODE SpeakerB79 .))
+( (S (INTJ Well)
+     ,
+     (S-TTL-SBJ (NP-TPC-1 MURDER)
+		,
+		(NP-SBJ SHE)
+		(VP WROTE
+		    (NP *T*-1)))
+     (VP comes
+	 (PRT on)
+	 (ADVP opposite
+	       (PP of
+		   (NP that))))
+     ,
+     E_S))
+( (CONJP and so
+	 ,
+	 N_S))
+( (CODE SpeakerA80 .))
+( (S (INTJ Oh)
+     ,
+     so
+     (NP-SBJ you)
+     (VP do
+	 n't
+	 (VP watch
+	     (NP-UNF (NP that one)
+		     (CONJP instead of))))
+     ,
+     N_S))
+( (CODE SpeakerB81 .))
+( (INTJ Yeah
+	E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP pick
+	 (NP nights)
+	 (ADVP pretty much)
+	 (SBAR-PRP so
+		   (PP on
+		       (NP T V)) 
+		   (SBAR that
+			 (S (NP-SBJ I)
+			    (VP watch
+				(NP different networks))))))
+     ,
+     E_S))
+( (CODE SpeakerA82 .))
+( (CODE SpeakerB83 .))
+( (S but
+     (NP-TTL-TPC (NP BEVERLY HILLS)
+		 (NP NINE OH TWO ONE OH))
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP watch
+	 (NP it)
+	 (ADVP-MNR religiously))
+     .
+     E_S))
+( (CODE SpeakerA84 .))
+( (INTJ Sure
+	.
+	E_S))
+( (CODE SpeakerB85 .))
+( (CODE SpeakerA86 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ we)
+     (VP like
+	 (NP that)
+	 (ADVP-MNR real well))
+     .
+     E_S))
+( (CODE SpeakerB87 .))
+( (S-UNF (NP-SBJ It)
+	 ,
+	 N_S))
+( (S-IMP (NP-SBJ-2 *)
+	 (VP be
+	     (ADJP-PRD sure
+		       (S (NP-SBJ *-2)
+			  (VP to
+			      (VP watch
+				  (NP it)
+				  (NP-TMP tomorrow night)
+				  (SBAR-PRP because
+					    (S (NP-SBJ-1 somebody)
+					       (VP 's 
+						   (VP getting
+						       (VP killed
+							   (NP *-1)
+							   (PP on
+							       (NP it))))))))))))
+	 .
+	 E_S))
+( (CODE SpeakerA88 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB89 .))
+( (CODE SpeakerA90 .))
+( (S (NP-SBJ I)
+     (VP know)
+     .
+     E_S))
+( (S (NP-SBJ The kids)
+     (ADVP-TMP already)
+     (VP know
+	 (SBAR (WHNP-1 who)
+	       (S (NP-SBJ it)
+		  (VP is
+		      (NP-PRD *T*-1)))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR (WHNP-1 who)
+		   (S (NP-SBJ it)
+		      (VP is
+			  (NP-PRD *T*-1))))
+	     ,
+	     (ADVP though)))
+     ,
+     E_S))
+( (CODE SpeakerB91 .))
+( (SBARQ (WHNP-1 Who)
+	 (SQ is
+	     (NP-SBJ it)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (S-IMP (NP-SBJ *)
+	 (VP Ask
+	     (NP them))
+	 .
+	 E_S))
+( (CODE SpeakerA92 .))
+( (S-IMP (NP-SBJ *)
+	 (VP Let
+	     (S (NP-SBJ me)
+		(VP ask
+		    (NP Nicole))))
+	 .
+	 E_S))
+( (NP-VOC Nicole
+	  .
+	  N_S))

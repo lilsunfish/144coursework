@@ -1,0 +1,75 @@
+
+
+( (SINV (ADJP-PRD-TPC-1 Following)
+        (VP is
+	    (ADJP-PRD *T*-1))
+        (NP-SBJ (NP a weekly listing)
+                (PP of
+                    (NP (NP unadited net asset values)
+                        (PP of
+                            (NP (NP (ADJP publicly traded)
+                                    investment fund shares)
+                                ,
+                                (VP reported
+                                    (NP *)
+                                    (PP by
+                                        (NP-LGS the companies))
+				    (PP-TMP as
+					    (PP of
+						(NP (NP Friday 's)
+						    close)))))))))
+        .))
+( (SINV (ADVP Also)
+        (VP-TPC-2 shown
+		  (NP *-1))
+	(VP is
+	    (VP *T*-2))
+	(NP-SBJ-1 (NP (NP the closing listed market price)
+		      or
+		      (NP a dealer-to-dealer asked price))
+		  (PP of
+		      (NP (NP each fund 's)
+			  shares))
+		  ,
+		  (PP with
+		      (NP (NP the percentage)
+			  (PP of
+			      (NP difference)))))
+	.))
+( (NP-HLN Closed End Bond Funds))
+( (NP-HLN Flexible Portfolio Funds))
+( (NP-HLN Specialized Equity and Convertible Funds))
+( (X (X a)
+     - 
+     (NP Ex-dividend) 
+     .))
+( (X (X b)
+     -
+     (PP-TMP As
+	     (PP of
+		 (NP (NP Thursday 's)
+		     close)))
+     .))
+( (X (X c)
+     -
+     (VP Translated
+	 (NP *) 
+	 (PP-CLR at
+		 (NP Commercial Rand exchange rate)))
+     .))
+( (X (X e)
+     -
+     (PP In
+	 (NP Canadian dollars))
+     .))
+( (X (X f)
+     -
+     (PP-TMP As
+	     (PP of
+		 (NP (NP Wednesday 's)
+		     close)))
+     .))
+( (X (X z)
+     -
+     (ADJP Not available)
+     .))

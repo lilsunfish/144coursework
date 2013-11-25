@@ -1,0 +1,863 @@
+
+
+( (S (NP-SBJ-1 *)
+     (ADJP-PRD READY
+	       (S (NP-SBJ *-1)
+		  (VP TO
+		      (VP REVIEW
+			  (NP (NP the riskiness)
+			      (PP of
+				  (NP your investment portfolio)))))))
+     ?))
+( (FRAG (ADVP-TMP First)
+	,
+	(NP a pop quiz)
+	.))
+( (SBARQ (SBAR-TMP (WHADVP-3 When) 
+		   (S (NP-SBJ you)
+		      (VP think
+			  (PP-CLR of
+				  (NP the words
+				      ``
+				      risk
+				      '' 
+				      and 
+				      ``
+				      investment))
+			  (ADVP-TMP *T*-3))))
+	 ,
+	 ''
+	 (WHNP-1 what)
+	 (SQ (NP-SBJ *T*-1)
+	     (VP 's
+		 (NP-PRD (NP the specific peril)
+			 (SBAR (WHNP-2 that)
+			       (S (NP-SBJ *T*-2)
+				  (VP comes
+				      (PP-DIR to
+					      (VP mind))))))))
+	 ?))
+( (FRAG (NP Pencils)
+	(ADVP down)
+	.))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ you)
+		  (VP 're
+		      (PP-PRD like
+			      (NP most people)))))
+     ,
+     (NP-SBJ you)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (NP-PRD (NP (NP a holding)
+				  (SBAR (WHNP-2 that)
+					(S (NP-SBJ *T*-2)
+					   (VP goes
+					       (ADJP-PRD completely sour)))))
+			      --
+			      maybe
+			      (NP (NP (NP a bond)
+				      (SBAR (WHNP-3 that)
+					    (S (NP-SBJ *T*-3)
+					       (VP defaults))))
+				  or
+				  (NP (NP a stock)
+				      (SBAR (WHNP-1 whose value)
+					    (S (NP-SBJ *T*-1)
+					       (VP disappears
+						   (PP-LOC in
+							   (NP a bankruptcy proceeding))))))))))))
+     .))
+( (SINV ``
+	(S-TPC (NP-SBJ-1 People)
+	       (VP tend
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  (VP see
+			      (NP risk)
+			      (ADVP primarily)
+			      (PP-LOC on
+				      (NP that one dimension)))))))
+	, 
+	''
+	(VP says)
+	(NP-SBJ (NP Timothy Kochis)
+		,
+		(NP (NP national director)
+		    (PP of
+			(NP personal financial planning))
+		    (PP for
+			(NP accountants
+			    Deloitte , Haskins & Sells))))
+	.))
+( (SINV But
+	(ADVP-LOC-TPC-1 therein)
+	(VP lies
+	    (ADVP-LOC-TPC *T*-1))
+	(NP-SBJ (NP (NP another aspect)
+		    (PP of
+			(NP investment risk)))
+		:
+		(NP (NP the hazard)
+		    (PP of
+			(S-NOM (NP-SBJ-2 *)
+			       (VP (VP shaping
+				       (NP your portfolio)
+				       (S-PRP (NP-SBJ *-2)
+					      (VP to
+						  (VP avoid
+						      (NP (NP (QP one or more) types)
+							  (PP of
+							      (NP risk)))))))
+				   and
+				   (VP being
+				       (VP blind-sided
+					   (NP *-2)
+					   (PP by
+					       (NP-LGS others)))))))))
+	.))
+( (S (NP-SBJ This)
+     (VP is
+         (ADVP clearly)
+         not
+         (NP-PRD good news)
+	 (PP to
+	     (NP (NP all you people)
+		 (SBAR (WHNP-1 who)
+		       (S (NP-SBJ-2 *T*-1)
+			  (VP sleep
+			      (PP-MNR like
+				      (NP babies))
+			      (NP-TMP every night)
+			      ,
+			      (S-ADV (NP-SBJ-3 *-2)
+				     (VP lulled
+					 (NP *-3)
+					 (PP by
+					     (NP-LGS (NP visions)
+						     (PP of
+							 (NP (NP your money)
+							     (VP sitting
+								 (ADVP-MNR risk-free) 
+								 (PP-LOC-CLR in
+									     (NP six-month CDs)))))))))))))))
+     .))
+( (S (S (NP-SBJ Risk)
+        (VP wears
+            (NP many disguises)))
+     , 
+     and
+     (S (NP-SBJ (NP investments)
+                (SBAR (WHNP-1 that)
+                      (S (NP-SBJ *T*-1)
+                         (VP are
+                             (ADJP-PRD low
+                                       (PP in
+                                           (NP (NP one type)
+                                               (PP of
+                                                   (NP obvious risk)))))))))
+        (VP can
+            (VP be
+                (ADJP-PRD distressingly high
+                          (PP in
+                              (NP other 
+				  , 
+				  (ADJP less obvious)
+                                  kinds))))))
+     .))
+( (S (NP-SBJ U.S. Treasury bonds)
+     ,
+     (PP for
+	 (NP example))
+     ,
+     (VP are
+         (NP-PRD supersafe)
+         (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ it)
+		      (VP comes
+			  (PP-DIR to
+				  (S-NOM (NP-SBJ *)
+					 (VP returning
+					     (NP money)
+					     (PP-TMP at
+						     (NP maturity)))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S But
+     (NP-SBJ-1 (NP their value)
+               (PP as
+                   (NP investments)))
+     (VP can
+         (VP be
+             (VP decimated
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP inflation)
+			     ,
+			     (SBAR (WHNP-2 which)
+				   (S (NP-SBJ *T*-2)
+				      (VP erodes
+					  (NP (NP the purchasing power)
+					      (PP of
+						  (NP (NP bonds ')
+						      fixed-dollar interest payments)))))))))))
+     .))
+( (S (NP-SBJ Risk)
+     (VP is
+         (ADVP also)
+         (NP-PRD (NP a function)
+                 (PP of
+                     (NP time))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ financial professionals)
+		  (VP measure
+		      (NP risk)
+		      (ADVP-MNR mathematically)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ they)
+     (ADVP-TMP usually)
+     (VP focus
+         (PP-CLR on
+		 (NP (NP the volatility)
+		     (PP of
+			 (NP short-term returns)))))
+     .))
+( (S (NP-SBJ Stocks)
+     (VP are
+         (ADJP-PRD (ADJP much riskier)
+                   (PP than
+                       (NP Treasury bills)))
+         (PRN ,
+	      (PP for
+		  (NP example))
+	      ,)
+         (SBAR-PRP because
+		   (S (NP-SBJ (NP the range)
+			      (PP-LOC in
+				      (NP performance))
+			      (PP (PP from
+				      (NP the best years))
+				  (PP to
+				      (NP the worst))))
+		      (VP is
+			  (ADJP-PRD much wider)))))
+     .))
+( (S (NP-SBJ-1 That)
+     (VP is
+         (ADVP-TMP usually)
+         (VP measured
+	     (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP the standard deviation)
+			     , 
+			     or
+			     (NP divergence)
+			     ,)
+			 (PP of
+			     (NP annual results))
+			 (PP from
+			     (NP (NP the average return)
+				 (PP-TMP over
+					 (NP time))))))))
+     .))
+( (S But
+     (NP-SBJ (NP investors)
+             (SBAR (WHNP-2 who)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP are
+                          (VP preoccupied
+                              (NP *-1)
+                              (PP-CLR with
+				      (NP short-term fluctuations)))))))
+     (VP may
+         (VP be
+             (VP paying
+                 (NP too little attention)
+                 (PP-CLR to
+			 (NP (NP another big risk)
+			     --
+			     (S-NOM (NP-SBJ *)
+				    not
+				    (VP generating
+					(NP enough money
+					    (S (NP-SBJ *)
+					       (VP to
+						   (VP meet
+						       (NP long-term 
+							   financial and life-style 
+							   goals))))))))))))
+     .))
+( (S (S (PP For
+	    (NP instance))
+	,
+	(NP-SBJ some investors)
+	(VP have
+	    (VP sworn 
+		(PRT off)
+		(NP stocks)
+		(PP-TMP since
+			(NP the 1987 market crash)))))
+     ;
+     (S (NP-SBJ (NP last Friday 's)
+		debacle)
+        (ADVP only)
+        (VP reinforced
+            (NP those feelings)))
+     .))
+( (S But
+     (NP-SBJ the stock market)
+     ,
+     (PP despite
+         (NP some stomach-churning declines))
+     ,
+     (VP has
+	 (VP (ADVP far)
+	     outperformed
+             (NP other securities)
+             (PP-TMP over
+		     (NP extended periods))))
+     .))
+( (S (PP-MNR By
+	     (S-NOM (NP-SBJ *-1)
+		    (VP retreating
+			(PP-DIR to
+				(NP (NP the apparent security)
+				    (PP of 
+					(PRN ,
+					     (ADVP say)
+					     ,)
+					(NP money-market funds)))))))
+     ,
+     (NP-SBJ-1 investors)
+     (VP may not
+         (VP be
+             (VP earning
+                 (NP enough investment return
+		     (S (NP-SBJ *)
+			(VP to
+			    (VP pay
+				(PP-CLR for
+					(NP a comfortable retirement)))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ That)
+		 (VP 's
+		     (NP-PRD (NP (NP the biggest risk)
+				 (PP of
+				     (NP all)))
+			     --
+			     (NP (NP the risk)
+				 (PP of
+				     (S-NOM (NP-SBJ *)
+					    not
+					    (VP meeting
+						(NP your objectives))))))))
+	, 
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Steven B. Enright)
+		,
+		(NP (NP a New York financial planner)
+		    (PP with
+			(NP Seidman Financial Services))))
+	.))
+( (S (PP-PRP As
+	     (NP a result))
+     ,
+     (NP-SBJ financial advisers)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP take
+                      (NP several steps)
+                      (SBAR-TMP (WHADVP-1 when)
+				(S (NP-SBJ *)
+				   (VP evaluating
+				       (NP (NP the riskiness)
+					   (PP of
+					       (NP (NP clients ')
+						   portfolios)))
+				       (ADVP-TMP *T*-1))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP estimate
+         (NP (NP (NP the return)
+		 (SBAR (WHNP-2 0)
+		       (S (NP-SBJ-3 (NP a person 's)
+				    current portfolio)
+			  (VP is
+			      (ADJP-PRD likely
+					(S (NP-SBJ *-3)
+					   (VP to
+					       (VP generate
+						   (NP *T*-2)
+						   (PP-TMP over
+							   (NP time))))))))))
+	     , 
+	     (CONJP along with)
+	     (NP (NP a standard deviation)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP suggests
+			      (SBAR-NOM (WHNP-4 how much)
+					(S (NP-SBJ the return)
+					   (VP will
+					       (VP vary
+						   (NP-EXT *T*-4)
+						   (NP-TMP (NP year)
+							   (PP by
+							       (NP year)))))))))))))
+     .))
+( (S (NP-SBJ-2 They)
+     (VP try
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP figure 
+		    (PRT out)
+                    (NP (NP the long-term results)
+                        (SBAR (WHNP-1 0)
+                              (S (NP-SBJ-3 the person)
+                                 (VP needs
+                                     (NP *T*-1)
+                                     (S-CLR (NP-SBJ *-3)
+					    (VP to
+						(VP meet
+						    (NP major goals))))))))))))
+     .))
+( (S And
+     (NP-SBJ they)
+     (VP eyeball
+         (NP (NP types)
+	     (PP of
+		 (NP risk))
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP are not
+			  (VP (ADVP-MNR easily)
+			      quantified
+			      (NP *-2)))))))
+     .))
+( (S (NP-SBJ (NP The portfolios)
+             (PP of
+                 (NP (NP two hypothetical families)
+                     ,
+                     (NP (NP (NP one)
+                             (NP (NP a couple)
+                                 (PP-TMP at
+					 (NP retirement age))))
+                         and
+                         (NP (NP another)
+                             (NP (NP a two-income couple)
+                                 (PP-TMP at
+					 (NP age 45)))))
+                     ,)))
+     (VP illustrate
+         (NP (NP several types)
+	     (PP of
+		 (NP risk))
+             (SBAR (WHNP-2 that)
+                   (S (NP-SBJ-1 investors)
+                      (VP need
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP consider
+                                     (NP *T*-2)))))))))
+     .))
+( (S (PP For
+         (NP instance))
+     ,
+     (NP-SBJ-2 (NP the insured municipal bonds)
+	       (SBAR (WHNP-1 that)
+		     (S (NP-SBJ *T*-1)
+			(VP dominate
+			    (NP (NP the older couple 's)
+				portfolio)))))
+     (VP were
+         (ADVP probably)
+         (VP selected
+	     (NP *-2)
+             (PP in
+                 (NP large part))
+             (PP-PRP for
+		     (NP their low repayment risk))))
+     .))
+( (S But
+     (NP-SBJ they)
+     (VP expose
+         (NP the holders)
+         (PP-CLR to
+		 (NP (NP a lot)
+		     (PP of
+			 (NP (NP inflation risk)
+			     and
+			     (NP interest-rate risk))))))
+     .))
+( (S (NP-SBJ (NP The younger couple 's)
+             stockholdings)
+     (VP involve
+         (NP (NP more risk)
+             (PP than
+                 (NP a diversified stock portfolio)))
+         (SBAR-PRP because
+		   (S (NP-SBJ (NP the bulk)
+			      (PP of
+				  (NP the money)))
+		      (VP is
+			  (PP-LOC-PRD in
+				      (NP a single issue))))))
+     .))
+( (S (NP-SBJ *)
+     (VP Note
+         (SBAR that
+               (S (NP-SBJ (NP the younger couple 's)
+                          portfolio)
+                  (VP has
+                      (NP (NP a higher expected annual return)
+                          ,
+                          (NP (NP 10.1 %)
+                              (PP vs.
+                                  (NP 8.8 %)))
+                          ,
+                          (SBAR as
+                                (S (NP-SBJ-2 *)
+                                   (VP calculated
+				       (NP *-2)
+                                       (PP by
+                                           (NP-LGS (NP Seidman Financial Services)
+						   ,
+						   (SBAR (WHNP-1 which)
+							 (S (NP-SBJ *T*-1)
+							    (VP is
+								(NP-PRD (NP the financial-planning affiliate)
+									(PP of
+									    (NP BDO Seidman))))))))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP (ADVP largely)
+	 reflects
+         (NP the heavy stockholdings))
+     .))
+( (S But
+     (NP-SBJ (NP one price)
+             (VP paid
+                 (NP *)
+                 (PP-CLR for
+			 (NP the higher expected return))))
+     (VP is
+         (NP-PRD greater short-term volatility)
+         ,
+         (SBAR-ADV as
+		   (S (NP-SBJ-2 *)
+		      (VP reflected
+			  (NP *-2)
+			  (PP-LOC-CLR in
+				      (NP (NP the higher standard deviation)
+					  (SBAR (WHNP-1 that)
+						(S (NP-SBJ Seidman)
+						   (VP estimates
+						       (NP *T*-1)
+						       (PP for
+							   (NP (NP the younger couple 's)
+							       portfolio)))))))))))
+     .))
+( (S -LRB-
+     (SINV (ADVP-LOC-PRD-TPC-1 Here)
+           (VP 's
+	       (ADVP-LOC-PRD *T*-1))
+           (SBAR-NOM-SBJ (WHADVP-2 how)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP interpret
+				    (NP a standard deviation figure)
+				    (ADVP-MNR *T*-2))))))
+     :
+     (S (NP-SBJ *)
+        (VP (VP Take
+                (NP the expected return))
+            and
+            (VP add
+                (NP one standard deviation)
+                (PP-CLR to
+			(NP it)))))
+     .))
+( (S Then
+     (NP-SBJ *)
+     (VP (VP take
+             (NP the expected return))
+         and
+         (VP subtract
+             (NP one standard deviation)))
+     .))
+( (S (PP-TMP In
+	     (NP (QP two of three) years))
+     ,
+     (NP-SBJ the actual result)
+     (VP should
+         (VP fall
+             (PP-DIR within
+		     (NP that range))
+             (SBAR-ADV if
+		       (S (NP-SBJ all the assumptions)
+			  (VP were
+			      (ADJP-PRD accurate))))))
+     .))
+( (S Then
+     (NP-SBJ-1 *)
+     (VP add and subtract
+         (NP two standard deviations)
+         (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(NP a wider range)))))
+     .))
+( (S (NP-SBJ There) 
+     (VP 's
+         (NP-PRD a (ADJP 95 %) probability
+                 (SBAR 0
+                       (S (NP-SBJ (NP any year 's)
+                                  result)
+                          (VP will
+                              (VP fall
+                                  (PP-DIR in
+					  (NP the range))))))))
+     .
+     -RRB-))
+( (S (PP Of
+         (NP course))
+     ,
+     (NP-SBJ (NP the greater volatility)
+             (PP of
+                 (NP (NP the younger couple 's)
+                     portfolio)))
+     (VP does n't
+	 (ADVP necessarily)
+	 (VP mean
+             (SBAR 0
+                   (S (NP-SBJ those investments)
+                      (VP are
+                          (ADJP-PRD riskier)
+			  (PP-LOC in
+				  (NP (NP terms)
+				      (PP of
+					  (S-NOM (NP-SBJ *)
+						 (VP meeting
+						     (NP (NP the holders ')
+							 long-term goals)))))))))))
+     .))
+( (S (ADVP Indeed)
+     ,
+     (NP-SBJ (NP the older couple 's)
+             portfolio)
+     (VP could
+         (ADVP actually)
+         (VP be
+             (ADJP-PRD riskier)
+	     (PP-LOC in
+		     (NP that sense))
+             (SBAR-ADV if
+		       (S (NP-SBJ the expected return)
+			  (VP wo n't
+			      (VP generate
+				  (NP enough dollars
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP meet
+						 (NP their spending plans)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ They)
+		 (VP may
+		     (VP feel
+			 (ADJP-PRD emotionally secure)
+			 (ADVP-TMP now)
+			 (SBAR-PRP because
+				   (S (NP-SBJ they)
+				      (VP are not
+					  (PP-LOC-PRD (ADVP heavily)
+						      in
+						      (NP the stock market))))))))
+	, 
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP John H. Cammack)
+		,
+		(NP (NP a financial planner)
+		    (PP with
+			(NP (NP Alexandra Armstrong Advisors Inc.)
+			    (PP-LOC in
+				    (NP Washington))))))
+	.))
+( (S `` 
+     But
+     (NP-SBJ they)
+     (VP may
+	 (VP pay
+	     (NP a price)
+	     (PP-TMP (NP 10 or 20 years)
+		     in
+		     (NP the future))))
+     . 
+     ''))
+( (S (NP-SBJ Ms. Slater)
+     (VP reports
+         (PP-CLR on
+		 (NP personal finance))
+         (PP from
+             (NP (NP The Wall Street Journal 's)
+                 New York bureau)))
+     .))
+( (S (SBAR-TMP (WHADVP-3 When)
+	       (S (NP-SBJ it)
+		  (VP comes
+		      (PP-DIR to
+			      (NP investing))
+		      (ADVP-TMP *T*-3))))
+     ,
+     (S (S-NOM-SBJ (NP-SBJ-4 *)
+		   (VP trying
+		       (S (NP-SBJ *-4)
+			  (VP to
+			      (VP weigh
+				  (NP risk and reward))))))
+	(VP can
+	    (VP seem
+		(PP-CLR like
+			(S-NOM (NP-SBJ *)
+			       (VP throwing
+				   (NP darts)
+				   (ADVP-MNR blindfolded)))))))
+     :
+     (S (NP-SBJ Investors)
+	(VP do n't
+	    (VP know
+		(NP (NP (NP the actual returns)
+			(SBAR (WHNP-2 that)
+			      (S (NP-SBJ securities)
+				 (VP will
+				     (VP deliver
+					 (NP *T*-2))))))
+		    , 
+		    or
+		    (NP (NP the ups and downs)
+			(SBAR (WHNP-1 that)
+			      (S (NP-SBJ *T*-1)
+				 (VP will
+				     (VP occur
+					 (PP-LOC along
+						 (NP the way)))))))))))
+     .))
+( (S (S-NOM-SBJ (NP-SBJ *)
+		(VP Looking
+		    (PP-CLR to
+			    (NP the past))))
+     (VP can
+         (VP provide
+             (NP some clues)))
+     .))
+( (S (PP-TMP Over
+	     (NP several decades))
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (NP-SBJ (NP investors)
+	     (SBAR (WHNP-1 who)
+		   (S (NP-SBJ *T*-1)
+		      (VP put 
+			  (PRT up)
+			  (PP-CLR with
+				  (NP (NP the stock market 's)
+				      gyrations))))))
+     (VP earned
+	 (NP (NP returns)
+	     (PP (ADVP far)
+		 in
+		 (NP (NP excess)
+		     (PP of
+			 (NP (NP those)
+			     (PP-LOC on
+				     (NP (NP bonds)
+					 and
+					 (NP (NP `` cash '' investments)
+					     (PP like
+						 (NP Treasury bills)))))))))))
+     .))
+( (S But
+     (SBAR-ADV while
+	       (S (NP-SBJ history)
+		  (VP can
+		      (VP suggest
+			  (SBAR (WHNP-1 what)
+				(S (NP-SBJ *T*-1)
+				   (VP is
+				       (ADJP-PRD reasonable
+						 (SBAR (WHNP-2 0)
+						       (S (NP-SBJ *)
+							  (VP to
+							      (VP expect
+								  (NP *T*-2)))))))))))))
+     (NP-SBJ there) 
+     (VP 's
+	 (NP-PRD no guarantee
+		 (SBAR that
+		       (S (NP-SBJ the past)
+			  (VP will
+			      (VP repeat
+				  (NP itself)))))))
+     .))
+( (S (PP For
+         (NP instance))
+     ,
+     (NP-SBJ some analysts)
+     (VP believe
+         (SBAR 0
+               (S (NP-SBJ bond returns and volatility)
+                  (VP have
+                      (VP moved
+			  (ADJP permanently closer
+                                (PP to
+                                    (NP (NP those)
+                                        (PP of
+                                            (NP the stock market))))))))))
+     .))
+( (S And
+     (NP-SBJ-1 (NP returns)
+	       (PP on
+		   (NP cash investments)))
+     (VP may
+         (VP continue
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP exceed
+                        (NP inflation)
+                        (PP-EXT by
+				(NP (NP a wider margin)
+				    (SBAR than
+					  (S (NP-SBJ they)
+					     (VP did
+						 (VP *?*
+						     (PP-TMP over
+							     (NP the long-term past)))))))))))))
+     .)) 
+( (NP (NP Portfolio A)
+      :
+      (NP (NP (NP Retired couple)
+              ,
+              (NP age 65))
+          ;
+          (NP (ADJP $ 400,000 *U*) portfolio))
+      .))
+( (NP (NP Portfolio B)
+      :
+      (NP (NP (NP Two-income couple)
+              ,
+              (NP age 45))
+          ;
+          (NP (ADJP $ 150,000 *U*) portfolio))
+      .))

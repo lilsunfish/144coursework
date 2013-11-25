@@ -1,0 +1,103 @@
+
+
+( (S (NP-SBJ-1 (NP Alusuisse)
+	       (PP of
+		   (NP America Inc.)))
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP sell
+                    (NP its Consolidated Aluminum Corp. subsidiary)
+                    (PP as
+                        (NP (NP part)
+                            (PP of
+                                (NP its strategy
+                                    (S (NP-SBJ *)
+                                       (VP to
+                                           (VP focus 
+					       (ADVP-CLR more)
+					       (PP-CLR on
+						       (NP (NP aluminum packaging)
+							   (PP-LOC in
+								   (NP the U.S)))))))))))))))
+     .))
+( (S (S (NP-SBJ-1 (NP Alusuisse)
+		  ,
+		  (PP of
+		      (NP New York))
+		  ,)
+        (VP declined
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP say
+                       (SBAR (WHNP-3 how much)
+                             (S (NP-SBJ-2 it)
+                                (VP expects
+                                    (S (NP-SBJ *-2)
+                                       (VP to
+                                           (VP get
+                                               (NP *T*-3)
+                                               (PP-CLR for
+						       (NP the unit)))))))))))))
+     ;
+     (S (NP-SBJ the company)
+        (VP has
+            (VP hired
+		(S (NP-SBJ First Boston Corp.) 
+                   (VP to
+                       (VP help
+                           (VP identify
+                               (NP bidders))))))))
+     .))
+( (S (NP-SBJ Alusuisse)
+     (VP is
+         (NP-PRD (NP a subsidiary)
+                 (PP of
+                     (NP (NP Swiss Aluminium Ltd.)
+                         ,
+                         (NP (NP a
+				 (NAC-LOC Zurich
+					  ,
+					  Switzerland
+					  ,)
+				 producer)
+                             (PP of
+                                 (NP (NP aluminum)
+                                     ,
+                                     (NP chemicals)
+                                     and
+                                     (NP packaging products))))))))
+     .))
+( (S (NP-SBJ (NP Consolidated)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP had
+                          (NP (NP 1988 revenue)
+                              (PP of
+                                  (NP (QP $ 400 million) *U*))))))
+             ,)
+     (VP (VP makes
+             (NP aluminum sheet and foil products)
+             (PP-LOC at
+		     (NP its
+			 (NAC-LOC (NAC Hannibal
+				       ,
+				       Ohio)
+				  , 
+				  and
+				  (NAC Jackson
+				       ,
+				       Tenn.
+				       ,))
+			 rolling mills)))
+         and
+         (VP recycles
+             (NP aluminum)
+             (PP-LOC at
+		     (NP (NP a plant)
+			 (PP-LOC in
+				 (NP (NP Bens Run)
+				     ,
+				     (NP W.Va)))))))
+     .))

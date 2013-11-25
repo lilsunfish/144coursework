@@ -1,0 +1,185 @@
+
+
+( (S (NP-SBJ A state judge)
+     (VP postponed
+         (NP (NP a decision)
+             (PP on
+                 (NP (NP a move)
+                     (PP by
+                         (NP (NP holders)
+			     (PP of
+				 (NP Telerate Inc.))))
+                     (SBAR (WHADVP-2 0)
+			   (S (NP-SBJ *)
+			      (VP to
+				  (VP block
+				      (NP (NP the tender offer)
+					  (PP of
+					      (NP Dow Jones & Co.))
+					  (PP for
+					      (NP (NP the 33 %)
+						  (PP of
+						      (NP Telerate))
+						  (SBAR (WHNP-1 0)
+							(S (NP-SBJ it)
+							   (VP does n't
+							       (ADVP-TMP already)
+							       (VP own
+								   (NP *T*-1))))))))
+				      (ADVP-MNR *T*-2)))))))))
+     .))
+( (S (S (NP-SBJ (NP Vice Chancellor Maurice A. Hartnett III)
+                (PP of
+                    (NP (NP (NP Delaware 's)
+			    Court)
+			(PP of
+			    (NP Chancery)))))
+        (VP heard
+            (NP arguments)
+            (PP-TMP for
+		    (NP (QP more
+			    than
+			    two)
+			hours))
+	    (ADVP-LOC here)))
+     , but
+     (S (NP-SBJ he)
+        (VP (VP made
+                (NP no comment))
+            and
+            (VP asked
+                (NP no questions))))
+     .))
+( (S (NP-SBJ He)
+     (VP could
+         (VP rule
+             (ADVP-TMP (ADVP as early)
+		       (PP as
+			   (NP today)))
+             (PP-CLR on
+		     (NP (NP the motion)
+			 (VP seeking
+			     (NP (NP a temporary injunction)
+				 (PP against
+				     (NP the Dow Jones offer))))))))
+     .))
+( (S (NP-SBJ-1 Dow Jones)
+     (VP has
+         (VP offered
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP pay
+                        (NP (NP (NP $ 18 *U*)
+                                (NP-ADV a share))
+                            , or
+                            (NP (QP about $ 576 million) *U*)
+                            ,)
+                        (PP-CLR for
+				(NP the remaining Telerate stake)))))))
+     .))
+( (S (NP-SBJ-1 The offer)
+     (VP will
+         (VP expire
+             (PP-TMP-CLR at
+			 (NP 5 p.m. EST))
+	     (PP-TMP-CLR on
+			 (NP Nov. 6))
+	     ,
+	     (SBAR-ADV unless
+		       (S (NP-SBJ-2 *-1)
+			  (VP extended
+			      (NP *-2)
+			      (ADVP again))))))
+     .))
+( (S (NP-SBJ (NP Robert Kornreich)
+             ,
+             (NP (NP an attorney)
+                 (PP for
+                     (NP the Telerate holders)))
+             ,)
+     (VP told
+         (NP Judge Hartnett)
+         (SBAR 0
+               (S (NP-SBJ the Dow Jones offer)
+                  (VP is
+                      (ADJP-PRD `` arrogant '' and `` hostile)))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP accused
+         (NP-1 Dow Jones)
+         (PP-CLR of ``
+		 (S-NOM (NP-SBJ-2 *-1)
+			(VP using
+			    (NP unfair means)
+			    (S-CLR (NP-SBJ *-2)
+				   (VP to
+				       (VP obtain
+					   (NP the stock)
+					   (PP-CLR at
+						   (NP an unfair price)))))))))
+     . ''))
+( (S (NP-SBJ (NP Michael Rauch)
+             ,
+             (NP (NP an attorney)
+                 (PP for
+                     (NP Dow Jones)))
+             ,)
+     (VP defended
+         (NP the offer)
+         (PP-CLR as
+		 (ADJP adequate))
+	 ,
+	 (PP based
+	     (PP on
+		 (SBAR (WHNP-1 what)
+		       (S (NP-SBJ the company)
+			  (VP considers
+			      (S (NP-SBJ *T*-1)
+				 (NP-PRD (NP realistic projections)
+					 (PP of
+					     (NP (NP Telerate 's)
+						 revenue growth))
+					 ,
+					 (PP in
+					     (NP (NP the range)
+						 (PP of
+						     (NP 12 %))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (ADVP also)
+     (VP contended
+         (SBAR that
+               (S (NP-SBJ-2 the plaintiffs)
+                  (VP failed
+                      (S (NP-SBJ *-2)
+                         (VP to
+                             (VP cite
+                                 (NP (NP any legal authority)
+                                     (SBAR (WHNP-1 that)
+                                           (S (NP-SBJ *T*-1)
+                                              (VP would
+                                                  (VP justify
+                                                      (NP such an injunction)))))))))))))
+     .))
+( (S (NP-SBJ Telerate)
+     (VP provides
+         (NP (NP information)
+             (PP about
+                 (NP financial markets)))
+         (PP-MNR through
+		 (NP an electronic network)))
+     .))
+( (S (NP-SBJ Dow Jones)
+     (VP (VP publishes
+             (NP (NP The Wall Street Journal)
+                 ,
+                 (NP (NP Barron 's)
+                     magazine)
+                 ,
+                 (NP other periodicals)
+                 and
+                 (NP community newspapers)))
+         and
+         (VP operates
+             (NP electronic business information services)))
+     .))

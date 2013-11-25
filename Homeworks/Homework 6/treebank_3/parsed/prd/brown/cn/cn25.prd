@@ -1,0 +1,2005 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (S (ADVP-TMP Early)
+     (NP-TMP that day)
+     (NP-SBJ Matsuo)
+     (VP saw
+         (NP a marine))
+     .))
+( (S (S (NP-SBJ-1 The enemy)
+        (VP came
+            (S (NP-SBJ *-1)
+               (VP looming
+                   (PP-LOC around
+			   (NP (NP a bend)
+			       (PP-LOC in
+				       (NP the trail))))))))
+     and
+     (S (NP-SBJ-2 Matsuo)
+        (VP (VP took
+                (NP a hasty shot))
+            , 
+	    (ADVP then)
+            (VP fled
+                (PP without
+                    (S-NOM (NP-SBJ *-2)
+			   (VP knowing
+			       (NP the result)))))
+            ,
+            (VP ran
+                (SBAR-TMP until
+			  (S (S (NP-SBJ breath)
+				(VP was
+				    (NP-PRD (NP a pain)
+					    (PP-LOC in
+						    (NP his chest)))))
+			     and
+			     (S (NP-SBJ his legs)
+				(VP were
+				    (ADJP-PRD rubbery))))))))
+     .))
+( (S (SBAR-TMP As
+	       (S (NP-SBJ his feet)
+		  (VP slowed)))
+     ,
+     (NP-SBJ-1 he)
+     (VP (VP felt
+             (ADJP-PRD ashamed
+                       (PP of
+                           (NP the panic))))
+         and
+         (VP resolved
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP make
+                        (NP a stand))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP crossed
+             (NP the next meadow))
+         and
+         (VP climbed
+             (NP a tree)
+             (SBAR-LOC (WHADVP-1 where)
+		       (S (NP-SBJ the jungle trail)
+			  (VP resumed
+			      (ADVP-LOC *T*-1))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP the leafiest part)
+		 (PP of
+		     (NP the tree))))
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP straddling
+		(NP a broad horizontal limb)))
+     ,
+     (NP-SBJ-1 he)
+     (VP could
+	 (VP see
+	     (PP over
+		 (NP the meadow))))
+     .))
+( (S (PP-TMP For
+	     (NP a while))
+     (NP-SBJ-1 he)
+     (VP was
+         (ADJP-PRD content
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  (VP let
+			      (S (NP-SBJ events)
+				 (VP develop
+				     (PP in
+					 (NP their good time)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP had
+         (NP no doubt
+             (SBAR 0
+                   (S (S (NP-SBJ the marine)
+                         (VP was
+                             (NP-PRD (NP the lead scout)
+                                     (PP of
+                                         (NP a column)))))
+                      , 
+		      and
+                      (S (SBAR-ADV while
+				   (S (NP-SBJ his shot)
+				      (VP had
+					  (ADVP probably)
+					  (VP bred
+					      (NP indecision)))))
+                         ,
+                         (NP-SBJ-1 they)
+                         (VP would
+                             (ADVP-TMP soon)
+                             (VP come
+                                 (S (NP-SBJ *-1)
+                                    (VP hunting)))))))))
+     .))
+( (S (NP-SBJ His superiors)
+     (VP had
+         (VP emphasized
+             (SBAR that
+                   (S (NP-SBJ marines)
+                      (VP tortured
+                          (NP others)
+			  (PP for
+			      (NP the sheer pleasure)))))))
+     .))
+( (FRAG (NP-TMP (NP Yesterday)
+		; ;
+		(NP today)
+		; ;
+		(NP tomorrow))
+	:
+	(NP no surrender)
+	.))
+( (S (S-NOM-SBJ (NP-SBJ His)
+		(VP remembering
+		    (NP the self-dictate)))
+     (VP brought
+         (NP (NP no peace)
+             --
+             (NP (NP only a faint chill)
+                 (PP of
+                     (NP doubt)))))
+     .))
+( (S (NP-SBJ He)
+     (VP murmured
+         (PP to
+             (NP himself))
+         ,
+         (PP with
+             (NP firmness))
+         : 
+	 ``
+         (NP No surrender)
+         '')
+     .))
+( (S (NP-SBJ (NP It)
+	     (S *EXP*-2))
+     (VP was
+         (ADJP-PRD best)
+	 (S-2 (NP-SBJ-1 *)
+	      (VP to
+		  (VP die
+		      (S-ADV (NP-SBJ *-1)
+			     (VP fighting
+				 (NP the marines)))))))
+     .))
+( (S (NP-SBJ-1 His superiors)
+     (VP had
+         (ADVP also)
+         (VP preached
+             (NP this)
+             ,
+             (S-ADV (NP-SBJ *-1)
+		    (VP saying
+			(SBAR 0
+			      (S (NP-SBJ it)
+				 (VP was
+				     (NP-PRD (NP the way)
+					     (PP for
+						 (NP eternal honor))))))))))
+     .))
+( (FRAG (WHNP What)
+	(SBAR if
+	      (S (NP-SBJ the marines)
+		 (ADVP-TMP never)
+		 (VP came)))
+	? ?))
+( (S (NP-SBJ His comrades)
+     (VP were
+         all
+         (ADJP-PRD dead))
+     .))
+( (S (NP-SBJ He)
+     (VP had
+         (NP no rice))
+     .))
+( (S (ADVP Then)
+     (NP-SBJ it)
+     (VP would
+	 (VP be
+	     (NP-PRD (NP a choice)
+		     (PP between
+			 (NP starvation and suicide)))))
+     .))
+( (S (NP-ADV Whichever the way)
+     ,
+     (NP-SBJ he)
+     (VP would
+	 (VP rot
+	     (PP-LOC in
+		     (NP this vast choking green))
+	     ,
+	     (S-ADV (NP-SBJ his wife)
+		    (ADVP-TMP never)
+		    (VP to
+			(VP receive
+			    (NP (NP an urn)
+				(PP of
+				    (NP his ashes))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP sighed)
+         and
+         (VP leaned
+             (PP-TMP for
+		     (NP a moment))
+             (PP-LOC against
+		     (NP the trunk))))
+     .))
+( (S (NP-SBJ His fingers)
+     (VP touched
+         (NP (NP the bone handle)
+             (PP of
+                 (NP a knife))))
+     .))
+( (S (NP-SBJ (NP The knife)
+             ,
+             (NP an ammunition pouch)
+             , 
+	     and
+             (NP (NP a half-filled bottle)
+                 (PP of
+                     (NP purified water))))
+     (VP hung
+         (PP-LOC on
+		 (NP his belt)))
+     .))
+( (S (PP Besides
+         (NP the belt))
+     (NP-SBJ he)
+     (VP wore
+         (NP a loin cloth))
+     .))
+( (S (SBAR-TMP As
+	       (S (NP-SBJ-1 he)
+		  (VP looked
+		      (ADVP up)
+		      (PP from
+			  (S-NOM (NP-SBJ *-1)
+				 (VP picking
+				     (PP at
+					 (NP a leg ulcer))))))))
+     ,
+     (NP-SBJ he)
+     (VP saw
+         (NP (NP a marine)
+	     (PP-LOC in
+		     (NP (NP the jungle)
+			 (PP-LOC across
+				 (NP the clearing))))))
+     .))
+( (S (NP-SBJ Gloom)
+     (VP receded)
+     .))
+( (S (NP-SBJ-1 The marine)
+     (VP (VP came
+             (PP-DIR to
+		     (NP (NP the edge)
+			 (PP of
+			     (NP the green jungle mist)))))
+         and
+         (VP stayed 
+	     ,
+             (SBAR-ADV as though
+		       (S (NP-SBJ-2 *-1)
+			  (VP debating
+			      (SBAR whether
+				    (S (NP-SBJ *-2)
+				       (VP to
+					   (VP brave
+					       (NP the sunlight))))))))))
+     .))
+( (S (NP-SBJ His fatigues)
+     (VP made
+         (NP (NP a streak)
+             (PP of
+                 (NP (ADJP almost phosphorescent)
+                     green)))
+	 (PP-LOC in
+		 (NP the mist)))
+     .))
+( (S ``
+     (S-IMP-TPC-1 (NP-SBJ *)
+		  (VP (VP Come
+			  (ADVP-DIR out))
+		      ,
+		      (VP come
+			  (PP-DIR out
+				  (PP in
+				      (NP the meadow))))))
+     '' ,
+     (NP-SBJ Matsuo)
+     (VP said
+	 (S-IMP *T*-1)
+	 (PP under
+	     (NP his breath)))
+     .))
+( (S (NP-SBJ The man)
+     (VP (VP leaned
+             (PP-LOC against
+		     (NP a tree)))
+         and
+         (VP wiped
+             (NP a sleeve)
+             (PP-DIR across
+		     (NP his face))))
+     .))
+( (NP A signal ? ?))
+( (S (NP-SBJ-1 Matsuo)
+     (VP lifted
+         (NP his rifle)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP easing
+		    (NP the sling)
+		    (PP-DIR under
+			    (NP his left upper arm))
+		    (PP for
+			(NP steadiness)))))
+     .))
+( (SINV (ADJP-PRD-TPC-2 Fresh
+			(PP on
+			    (NP his mind)))
+        (VP were
+	    (ADJP-PRD *T*-2))
+        (NP-SBJ (NP events)
+                (PP of
+                    (NP (NP the past day)
+                        (SBAR (WHADVP-3 when)
+                              (S (NP-SBJ-1 his whole regiment)
+                                 (VP was
+                                     (VP destroyed
+                                         (NP *-1)
+					 (PP-LOC in
+						 (NP the hills))
+					 (ADVP-TMP *T*-3))))))))
+        .))
+( (S (S (NP-SBJ They)
+        (VP had
+            (VP fought
+                (PP from
+                    (NP caves)))))
+     , 
+     and
+     (S (NP-SBJ-1 the marines)
+        (VP resorted
+            (PP to
+                (S-NOM (NP-SBJ *-1)
+		       (VP burning
+			   (NP them)
+			   (PRT out))))))
+     .))
+( (S (ADVP-TMP Even now)
+     ,
+     (PP like
+         (NP (NP a ringing)
+             (PP-LOC in
+		     (NP his ears))))
+     ,
+     (NP-SBJ he)
+     (VP heard
+         (NP (NP the wooooosh)
+             (PP of
+                 (S-NOM (NP-SBJ flame-throwers)
+			(VP squirting
+			    (NP great orange billows))))))
+     .))
+( (S (S (NP-SBJ (NP A wave)
+		(PP of
+		    (NP flame))
+                (VP rippling
+                    (PP-DIR through
+			    (NP their cave))))
+        (VP had
+            (VP reached
+                (NP (NP Nagamo)
+                    ,
+                    (NP his friend)))))
+     , 
+     and
+     (S (PP with
+            (NP a shriek))
+        (NP-SBJ the man)
+        (VP (VP bolted
+                (PP-DIR through
+			(NP the entrance)))
+            , 
+	    (ADVP then)
+            (VP slowed
+                (PP to
+                    (NP (NP the jerky walk)
+                        (PP of
+                            (NP a puppet))))
+                ,
+                (S-ADV (NP-SBJ his uniform)
+		       (VP blazing)))))
+     .))
+( (S (NP-SBJ The marines)
+     (VP let
+         (S (NP-SBJ him)
+	    (VP advance)))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ he)
+		  (VP sank
+		      (PP on
+			  (NP his knees))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ they)
+     (VP had
+         (VP allowed
+	     (S (NP-SBJ-2 him)
+                (VP to
+                    (VP char
+			(PP without
+			    (S-NOM (NP-SBJ *-2)
+				   (VP administering
+				       (NP (NP the stroke)
+					   (PP of
+					       (NP mercy)))))))))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP (VP had
+	     (VP faked
+		 (NP death)))
+	 and
+	 (VP was
+	     (VP pitched
+		 (PP-LOC on
+			 (NP (NP a stack)
+			     (PP of
+				 (NP (NP corpses)
+				     ,
+				     (NP both
+					 (NP the burned)
+					 and
+					 (NP the unburned))))))
+		 ,
+		 (S-ADV (NP-SBJ the latter)
+			(VP decomposing
+			    (ADVP-MNR rapidly)
+			    (PP-LOC under
+				    (NP the tropical sun)))))))
+     .))
+( (S (NP-SBJ-1 The callous marines)
+     (VP had
+         (VP laughed
+             (PP at
+                 (NP (NP each other 's)
+		     retching))
+	     ,
+	     (SBAR-TMP while
+		       (S (NP-SBJ *-1)
+			  (VP stacking
+			      (NP bodies))))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (ADVP repeatedly)
+     (VP choked
+         (PRT down)
+         (NP his own nausea))
+     .))
+( (S (PP-TMP At
+	     (NP nightfall))
+     (NP-SBJ-1 he)
+     (VP had
+         (VP been
+             (ADJP-PRD able
+                       (S (NP-SBJ-2 *-1)
+                          (VP to
+                              (VP sneak
+                                  (PP-DIR (PP down
+					      (NP a hillside))
+					  and
+					  (PP into
+					      (NP the jungle)))
+				  ,
+				  (S-ADV (NP-SBJ *-2)
+					 (VP reeking
+					     (PP of
+						 (NP death))))))))))
+     .))
+( (S (ADVP-MNR Apprehensively)
+     (NP-SBJ he)
+     (VP peered
+         (PP (PP to
+		 (NP the left))
+	     ,
+	     (PP to
+		 (NP the right)))
+         (PP into
+             (NP the leafy , vine-crisscrossed maze)))
+     .))
+( (S (NP-SBJ He)
+     (VP decided
+         (SBAR that
+               (S (NP-SBJ the marines)
+                  (VP must
+                      (VP be
+                          (VP deploying
+                              (PP-LOC around
+				      (NP the meadow))
+			      ,
+			      (SBAR-ADV with
+					(S (NP-SBJ-1 the one)
+					   (VP left
+					       (NP-2 *-1)
+					       (S-PRP (NP-SBJ *-2)
+						      (VP to
+							  (VP distract
+							      (NP him)))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP strained
+         (NP his hearing))
+     .))
+( (S (NP-TPC (NP (NP Cautious feet)
+		 (VP stepping
+		     (PP-LOC on
+			     (NP leafmold))))
+	     ; ;
+	     (NP (NP faint creaking)
+		 (PP of
+		     (NP belts and slings)))
+	     ; ;
+	     (NP whispers))
+     :
+     (NP-SBJ he)
+     (VP heard
+         (NP (NP none)
+             (PP of
+                 (NP these))))
+     .))
+( (NP (ADVP Only)
+      (NP (NP the hum)
+          (PP of
+              (NP insects)))
+      and
+      (NP (NP the distant fluttering call)
+          (PP of
+              (NP a bird)))
+      .))
+( (S (SBAR-PRP Because
+	       (S (NP-SBJ he)
+		  (VP could n't
+		      (VP hear
+			  (NP them)))))
+     ,
+     (NP-SBJ-1 he)
+     (VP was
+         (ADVP more)
+	 (VP convinced
+             (NP *-1)
+             (SBAR 0
+                   (S (NP-SBJ they)
+                      (VP were
+                          (ADVP-PRD there))))))
+     .))
+( (S (S (NP-SBJ A spectacle)
+        (VP occurred
+	    (PP-LOC across
+		    (NP the meadow))))
+     :
+     (S (S (NP-SBJ the lone marine)
+           (VP took
+               (NP a seat)
+               (PP-LOC on
+		       (NP the ground))))
+        ; ;
+        (S (S-ADV (NP-SBJ *-1)
+		  (VP leaning
+		      (ADVP-MNR sidewise)
+		      (PP-LOC on
+			      (NP a tree trunk))))
+           ,
+           (NP-SBJ-1 he)
+	   (VP embraced
+	       (NP it))))
+     .))
+( (S (NP-SBJ Humiliation)
+     (VP made
+         (S (NP-SBJ Matsuo)
+	    (VP tremble)))
+     .))
+( (S (SBAR-TMP While
+	       (S (NP-SBJ his comrades)
+		  (VP cocked
+		      (NP the trap))))
+     ,
+     (NP-SBJ that one)
+     (VP behaved
+         (SBAR as if
+               (S (NP-SBJ it)
+                  (VP was
+                      (NP-PRD some dull maneuver)))))
+     .))
+( (S (S (S-ADV (NP-SBJ *-1)
+	       (VP Taking
+		   (NP aim)
+		   (PP at
+		       (NP (NP the man 's)
+			   face))))
+        ,
+        (NP-SBJ-1 Matsuo)
+	(VP squeezed
+	    (NP the trigger)
+	    (PP up
+		(PP to
+		    (NP (NP the point)
+			(PP of
+			    (NP discharge)))))))
+     , 
+     (CONJP and then)
+     (S (NP-SBJ he)
+        (VP changed
+            (NP his mind)))
+     .))
+( (S (S (NP-SBJ He)
+        (VP wanted
+            (S (NP-SBJ the arrogant marine)
+               (VP to
+                   (VP know
+                       (NP fear))))))
+     , 
+     (CONJP and so)
+     (S (NP-SBJ he)
+        (VP aimed
+            (PP-LOC above
+		    (NP the head))))
+     .))
+( (S (NP-SBJ The shot)
+     (VP reverberated
+         (PP in
+             (NP (NP diminishing whiplashes)
+                 (PP of
+                     (NP sound)))))
+     .))
+( (S (NP-SBJ Hush)
+     (VP followed)
+     .))
+( (S (PP Like
+         (NP (NP a mischievous boy)
+             (VP expecting
+                 (NP punishment))))
+     ,
+     (NP-SBJ Matsuo)
+     (VP awaited
+         (NP (NP reaction)
+             (PP from
+                 (NP the jungle))))
+     .))
+( (FRAG (WHADJP How stupid)
+	(S (NP-SBJ *)
+	   (VP to
+	       (VP give
+		   (NP his position)
+		   (ADVP away))))
+	.))
+( (S (NP-SBJ The jungle)
+     (VP did not
+         (VP retort))
+     .))
+( (S (NP-SBJ-1 The sitter)
+     (VP remained
+         (S-ADV (NP-SBJ-2 *-1)
+		(VP seated
+		    (NP *-2)))
+	 (S-ADV (NP-SBJ *-1)
+		(VP hugging
+		    (NP the tree))))
+     .))
+( (S (PP-TMP Before
+	     (ADVP long))
+     (S (NP-SBJ the atmosphere)
+        (VP reverted
+            (PP to
+                (NP its old normalcy))))
+     , 
+     and
+     (S (S (NP-SBJ insects)
+           (VP hummed))
+        and
+        (S (NP-SBJ birds)
+           (ADVP-TMP occasionally)
+           (VP called)))
+     .))
+( (S (NP-SBJ-1 Matsuo)
+     (VP (VP puzzled
+	     (PP *RNR*-2))
+         and
+         (VP grew
+             (ADJP-PRD anxious
+		       (PP *RNR*-2)))
+         (PP-2 over
+	       (NP the complete passiveness))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP concluding
+		    (SBAR that
+			  (S (NP-SBJ he)
+			     (VP was
+				 (NP-PRD (NP the butt)
+					 (PP of
+					     (NP a devilish joke)))))))))
+     .))
+( (S (ADVP-TMP (NP (QP Five or so)
+		   minutes)
+	       later)
+     (NP-SBJ-1 the marine)
+     (VP (ADVP-MNR abruptly)
+	 (VP pulled
+             (ADVP-DIR up))
+         and
+         (VP stepped
+             (PP-DIR into
+		     (NP sunlight)))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(ADVP immediately)
+		(VP throwing
+		    (NP his hands)
+		    (PP-DIR over
+			    (NP his eyes)))))
+     .))
+( (S (NP-SBJ He)
+     (VP went
+         (PP into
+             (NP (NP a whirling dance)
+                 ,
+                 (NP (NP a sort)
+                     (PP of
+                         (NP (NP blind chasing)
+                             (PP of
+                                 (NP the tail))))))))
+     .))
+( (S (S (NP-SBJ It)
+        (VP ended
+	    (SBAR-TMP (WHADVP-1 when)
+		      (S (NP-SBJ he)
+			 (VP tumbled
+			     (ADVP-TMP *T*-1))))))
+     ; ; 
+     but
+     (S (S-ADV (NP-SBJ *-2)
+	       (VP jumping
+		   (ADVP-DIR right up)))
+        ,
+        (NP-SBJ-2 he)
+	(VP staggered
+	    (PP-DIR in
+		    (NP no particular direction))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP wore
+             (NP (NP no head cover)
+                 (PP of
+                     (NP any kind))))
+         and 
+	 ,
+	 (VP (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (ADJP-PRD more odd)))
+	     ,
+	     (VP had
+		 (NP no visible weapon))))
+     .))
+( (S (PP With
+         (NP a sudden decisiveness))
+     (NP-SBJ-1 he)
+     (VP lurched
+         (PP-DIR in
+		 (NP (NP Matsuo 's)
+		     direction))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP crossing
+		    (NP the meadow)
+		    (PP in
+			(NP a zigzagging gallop)))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ he)
+		  (VP got
+		      (ADVP-LOC closer
+				(PP to
+				    (NP the tree)))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ Matsuo)
+     (VP noted
+         (NP (NP the wild look)
+             (PP-LOC on
+		     (NP his face))))
+     .))
+( (S (NP-SBJ (NP The pockets)
+             (PP of
+                 (NP his jacket)))
+     (VP bulged)
+     .))
+( (NP Hand grenades .))
+( (S (S (NP-SBJ The bobbing head)
+        (VP was
+            (NP-PRD a poor target)))
+     , 
+     so
+     (S (NP-SBJ Matsuo)
+        (VP shot
+            (NP him)
+            (PP-LOC in
+		    (NP the upper trunk))))
+     .))
+( (S (NP-SBJ-1 The marine)
+     (VP (VP spun
+	     ,
+	     (S-ADV (NP-SBJ *-1)
+		    (VP clapping
+			(NP a hand)
+			(PP-LOC (ADVP high)
+				on
+				(NP his chest)))))
+	 , 
+	 and
+         (VP dived
+             (ADVP-DIR forward)))
+     .))
+( (S (PP In
+         (NP (NP the hush)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP followed
+                          (NP the echoes))))))
+     ,
+     (NP-SBJ Matsuo)
+     (VP was
+         (ADJP-PRD tense))
+     .))
+( (S (NP-SBJ They)
+     (VP could
+         (VP come
+             (PP on
+                 (NP him))
+             (ADVP-TMP now)
+             (PP without
+                 (NP difficulty))))
+     .))
+( (S (ADVP-MNR Gradually)
+     (NP-SBJ he)
+     (VP reached
+         (NP a conclusion))
+     .))
+( (S (NP-SBJ The marine)
+     (VP was
+	 (ADJP-PRD alone)
+	 ,
+	 (SBAR-PRP for
+		   (S (NP-SBJ-1 they)
+		      (VP (VP were
+			      (NP-PRD impatient people))
+			  and
+			  (VP (PP-TMP by
+				      (ADVP now))
+			      would
+			      (VP have
+				  (VP vied
+				      (S (NP-SBJ *-1)
+					 (VP to
+					     (VP knock
+						 (NP him)
+						 (PP-DIR from
+							 (NP the tree))))))))))))
+     .))
+( (S (PP-DIR-TPC-1 Down
+		   (NP the tree))
+     (NP-SBJ he)
+     (VP (VP scrambled
+	     (PP-DIR *T*-1))
+         and
+         (VP knelt
+             (PP-LOC at
+		     (NP (NP the edge)
+			 (PP of
+			     (NP foliage))))))
+     .))
+( (S (NP-SBJ-1 The marine)
+     (VP was
+         (VP sprawled
+             (NP *-1)
+             (ADVP-LOC (NP (QP some thirty) 
+			   yards)
+		       away)
+             ,
+             (S-ADV (NP-SBJ-2 one arm)
+		    (VP extended
+			(NP *-2)))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP jumped
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ the hidden arm)
+		      (VP flopped
+			  (ADVP out)
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (NP Reflex ? ?))
+( (S (S-ADV (NP-SBJ-1 Rifle)
+	    (VP leveled
+		(NP *-1)
+		(PP on
+		    (NP the man))))
+     ,
+     (NP-SBJ he)
+     (VP made
+	 (NP a rush))
+     .))
+( (S (NP-SBJ Heat)
+     ,
+     (PP-LOC in
+	     (NP the sunlight))
+     ,
+     (VP pressed
+         (ADVP in)
+         (PP like
+             (NP an invisible crowd)))
+     .))
+( (S (NP-SBJ He)
+     (VP squatted
+         (PP-LOC by
+		 (NP the head))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(ADVP-MNR gently)
+		(VP placing
+		    (NP the rifle)
+		    (PP-LOC on
+			    (NP the ground)))))
+     .))
+( (S (PP With
+         (NP a snakestrike motion))
+     (NP-SBJ-1 he)
+     (VP (VP grasped
+             (NP the hair))
+         ,
+	 and 
+	 ,
+	 (VP (S-ADV (NP-SBJ *-1)
+		    (VP twisting))
+	     ,
+	     pulled
+             (NP the marine)
+             (PP over
+		 (PP on
+		     (NP his back)))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP was
+         (VP bearded
+             (NP *-1)))
+     .))
+( (S (S (NP-SBJ The bullet)
+        (VP had
+            (VP penetrated
+                (PP-LOC in
+			(NP (NP the area)
+			    (PP of
+				(NP the right collarbone)))))))
+     ; ;
+     (S (PP-LOC around
+		(NP the hole))
+        ,
+        (NP-SBJ blood)
+        (VP glistened
+            (PP in
+                (NP a little patch))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Maintaining
+		(NP (NP his clutch)
+		    (PP on
+			(NP the hair)))))
+     ,
+     (NP-SBJ-1 Matsuo)
+     (VP watched
+	 (NP the closed eyes)
+	 (SBAR-TMP while
+		   (S (NP-SBJ *-1)
+		      (VP rummaging
+			  (PP-LOC in
+				  (NP the jacket pockets))))))
+     .))
+( (FRAG (PP-LOC In
+		(NP one))
+	:
+	(NP (NP (NP a package)
+		(PP of
+		    (NP cigarettes)))
+	    and
+	    (NP a tinplated lighter))
+	,
+	(S-ADV (NP-SBJ both)
+	       (ADJP-PRD sticky
+			 (PP from
+			     (NP (NP the man 's)
+				 bleeding))))
+	.))
+( (FRAG (PP-LOC In
+		(NP the other))
+	:
+	(NP (NP a wristwatch)
+	    (PP with
+		(NP broken crystal))
+	    (VP wrapped
+		(NP *)
+		(PP in
+		    (NP a dirty handkerchief))))
+	.))
+( (S (NP-ADV (NP One)
+	     (PP by
+		 (NP one)))
+     (NP-SBJ he)
+     (VP tossed
+         (NP the objects)
+         (ADVP-DIR aside))
+     .))
+( (S (S (NP-SBJ He)
+        (VP (VP did n't
+		(VP smoke))
+	    and
+	    (VP could not
+		(VP light
+		    (NP fires)
+		    (PP with
+			(NP a flintless lighter))))))
+     ; ;
+     (S (NP-SBJ he)
+        (VP had
+            (NP (NP no use)
+		(PP *ICH*-1))
+	    (ADVP-TMP any longer)
+	    (PP-1 for
+		  (NP exact time))
+	    ,
+	    (SBAR-ADV (SINV (ADVP even)
+			    had
+			    (NP-SBJ the watch)
+			    (VP been
+				(VP running))))))
+     .))
+( (S (ADVP Then)
+     (NP-SBJ there)
+     (VP was
+	 (NP-PRD no 
+		 (S-NOM (NP-SBJ *)
+			(VP saying
+			    (SBAR (WHNP-1 (WHADJP how many) times)
+				  (S (NP-SBJ the marine)
+				     (VP had
+					 (VP blown
+					     (NP his nose)
+					     (PP-LOC on
+						     (NP the handkerchief))
+					     (NP-TMP *T*-1)))))))))
+     .))
+( (FRAG (ADJP-PRD Too bad)
+	(SBAR 0
+	      (S (NP-SBJ the marine)
+		 (VP had
+		     (NP no water))))
+	.))
+( (S (PP From
+         (NP its holder))
+     (NP-SBJ he)
+     (VP took
+         (NP his own canteen))
+     .))
+( (S (NP-SBJ-1 The cap)
+     (VP (VP was
+	     (VP stuck
+		 (NP *-1)))
+	 and
+	 (VP made
+	     (NP a thin rusty squeaking)
+	     (SBAR-TMP as
+		       (S (NP-SBJ he)
+			  (VP applied
+			      (NP pressure))))))
+     .))
+( (S (NP-SBJ-2 (NP The marine 's)
+	       eyes)
+     (VP (VP opened)
+         ,
+         (VP squeezed
+             (S-ADV (NP-SBJ *-2)
+		    (ADJP-PRD shut)))
+         , 
+	 (ADVP then)
+         (VP opened
+	     (S-ADV (NP-SBJ-1 *-2)
+		    (VP squinted
+			(NP *-1)
+			(PP in
+			    (NP the glare))))))
+     .))
+( (FRAG So
+	,
+	(ADJP alive)
+	.))
+( (S (NP-SBJ Matsuo)
+     (VP put
+         (NP the bottle)
+         (PP-PUT to
+		 (NP his own lips)))
+     .))
+( (S (NP-SBJ The marine)
+     (VP reached
+         (ADVP-DIR up)
+         (NP a hand))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP shook
+         (NP his head))
+     .))
+( (NP ``
+      (NP None)
+      (PP for
+	  (NP you))
+      '' .))
+( (S (NP-SBJ-1 The marine)
+     (VP blinked
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(ADVP-TMP soon)
+		(VP dropping
+		    (NP his hand))))
+     .))
+( (S (CONJP Not only)
+     (SINV (VP had
+	       (NP *ICH*-1))
+           (NP-SBJ he)
+           (NP-1 no canteen))
+     , 
+     but
+     (S (NP-SBJ he)
+        (VP lacked
+	    (NP (NP even the belt)
+                (SBAR (WHNP-2 0)
+		      (S (NP-SBJ *)
+			 (VP to
+			     (VP hang
+				 (NP one)
+				 (PP-LOC on
+					 (NP *T*-2)))))))))
+     .))
+( (S ``
+     (NP-SBJ-1 You)
+     (VP came
+         (S-ADV (NP-SBJ-2 *-1)
+		(ADVP well)
+		(VP equipped
+		    (S (NP-SBJ *-2)
+		       (VP to
+			   (VP die))))))
+     '' .))
+( (S (NP-SBJ Some odor)
+     (VP made
+         (S (NP-SBJ him)
+	    (VP lean
+		(PP-LOC over
+			(NP the man)))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP sniffed)
+         and
+         (VP recognized
+             (NP it)))
+     .))
+( (NP Sake .))
+( (S So
+     (NP-SBJ that)
+     (VP had
+         (VP been
+             (NP-PRD his difficulty)))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (ADJP-PRD Drunk
+		      (PP on
+			  (NP sake))))
+     ,
+     (NP-SBJ-1 he)
+     (VP must
+	 (VP have
+	     (VP wandered
+		 (PP-DIR off
+			 (PP from
+			     (NP his bivouac))))))
+     .))
+( (S (NP-SBJ-1 The marine)
+     (VP (VP tried
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP roll
+                        (PP on
+			    (NP his right side))))))
+         , 
+	 and
+         (VP moaned))
+     .))
+( (S (SBAR-TMP (WHADVP When)
+	       (S (NP-SBJ-1 he)
+		  (VP rolled
+		      (PP on
+			  (NP the left side))
+		      ,
+		      (S-ADV (NP-SBJ *-1)
+			     (VP propping
+				 (PP-LOC on
+					 (NP his left elbow)))))))
+     ,
+     (NP-SBJ Matsuo)
+     (VP (VP seized
+             (NP his hair))
+         and
+         (VP pulled
+             (NP him)
+             (ADVP-DIR back over)))
+     .))
+( (S-IMP ``
+	 (NP-SBJ *)
+	 (VP Be
+	     (NP a good turtle))
+	 '' .))
+( (S (ADVP-MNR Awkwardly)
+     (PP with
+         (NP one hand))
+     (NP-SBJ Matsuo)
+     (VP got
+         (NP the cap)
+	 (PP-LOC (ADVP back)
+		 on
+		 (NP the water bottle)))
+     .))
+( (S (NP-SBJ (NP The smell)
+             (PP of
+                 (NP sake)))
+     (VP had
+         (VP freshened
+             (NP (NP yesterday 's)
+                 events)
+             (PP in
+                 (NP his thoughts))))
+     .))
+( (S (PP-LOC In
+	     (NP the caves))
+     ,
+     (PP with
+         (NP other supplies))
+     ,
+     (NP-SBJ they)
+     (VP had
+         (VP kept
+             (NP (NP cases)
+                 (PP of
+                     (NP sake)))))
+     .))
+( (S (NP-SBJ The marine)
+     (VP shut
+         (NP his eyes))
+     .))
+( (SQ ``
+      Are
+      (NP-SBJ you)
+      (NP-SBJ (NP a thrower)
+              (PP of
+                  (NP flame)))
+      ,
+      (NP-VOC marine)
+      '' ? ?))
+( (S (NP-SBJ Matsuo)
+     (VP (VP took
+             (NP the small knife)
+             (PP-DIR from
+		     (NP its scabbard)))
+         and
+         (VP laid
+             (NP it)
+             (PP-LOC on
+		     (NP the ground))
+             ,
+             (UCP-LOC (PP out
+			  (PP of
+			      (NP (NP the marine 's)
+				  reach)))
+		      and
+		      (ADVP away
+			    (PP from
+				(NP their shadows))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP waited
+         (PP in
+             (NP his squat))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP gripping
+		    (NP the hair))))
+     .))
+( (S (ADVP-TMP Every so often)
+     (NP-SBJ he)
+     (VP turned
+         (NP the knife))
+     .))
+( (S (NP-SBJ Its blade)
+     (VP was
+         (ADJP-PRD dazzling)
+         (PP-LOC in
+		 (NP the intense sunlight)))
+     .))
+( (S (S (NP-SBJ The sun)
+        (VP was
+            (ADJP-PRD noon high)))
+     and
+     (S (NP-SBJ Matsuo)
+        (VP perspired
+            (SBAR-TMP until
+		      (S (NP-SBJ his body)
+			 (VP was
+			     (VP dripping))))))
+     .))
+( (S (SINV (ADJP-PRD-TPC-1 Wet)
+           (ADVP also)
+           (VP were
+	       (ADJP-PRD *T*-1))
+           (NP-SBJ (NP the marine 's)
+                   fatigues))
+     and
+     (S (NP-SBJ the face)
+        (VP had
+            (NP an oily film)))
+     .))
+( (S (NP-SBJ The man)
+     (VP had
+         (VP thrown
+             (NP the left hand)
+             (PP over
+                 (NP his eyes))))
+     .))
+( (S (ADVP-TMP Now and again)
+     (NP-SBJ he)
+     (VP murmured
+         (NP (NP something)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP ended
+                          (PP in
+                              (NP a giggle)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP must
+         (VP have
+             (VP saturated
+                 (NP himself)
+                 (PP in
+                     (NP the drink))
+		 ,
+		 (SBAR-ADV for
+			   (S (NP-SBJ the bullet)
+			      not
+			      (VP to
+				  (VP shock
+				      (NP him)
+				      (PP out
+					  (PP of
+					      (NP his drunken haze))))))))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP shook
+         (NP his head))
+     .))
+( (ADJP Strange .))
+( (S (PP-TMP At
+	     (ADVP last))
+     (NP-SBJ he)
+     (VP reached
+         (PP for
+             (NP the knife)))
+     .))
+( (S (S (NP-SBJ Even the bone handle)
+        (VP scorched))
+     , 
+     and
+     (S (NP-SBJ-1 he)
+        (VP retrieved
+            (NP (NP the marine 's)
+                handkerchief)
+	    (S-PRP (NP-SBJ *-1)
+		   (VP to
+		       (VP wrap
+			   (NP it))))))
+     .))
+( (S (ADVP-TMP First)
+     (NP-SBJ he)
+     (ADVP barely)
+     (VP touched
+         (NP the blade)
+         (PP-LOC on
+		 (NP (NP the hand)
+		     (SBAR (WHNP-1 which)
+			   (S (NP-SBJ *T*-1)
+			      (VP shaded
+				  (NP the eyes)))))))
+     .))
+( (S (NP-SBJ The marine)
+     (VP (VP yelled)
+         and
+         (VP flung
+             (NP the hand)
+             (ADVP-DIR away)))
+     .))
+( (S (PP With
+         (NP (NP a firm grip)
+	     (PP on
+		 (NP (NP the man 's)
+		     hair))))
+     (NP-SBJ Matsuo)
+     (VP applied
+         (NP the blade)
+         (PP-LOC (ADVP flat)
+		 on
+		 (NP a cheek)))
+     .))
+( (NP (NP A shrill yelp)
+      ,
+      (NP kicked legs)
+      , 
+      and
+      (NP (NP groping hands)
+          (SBAR (WHNP-1 that)
+                (S (NP-SBJ *T*-1)
+                   (VP circled
+                       (NP (NP Matsuo 's)
+                           wrist)))))
+      .))
+( (S (NP-SBJ-1 Matsuo)
+     (VP (VP wrenched
+             (S-ADV (NP-SBJ *-1)
+		    (ADJP-PRD free)))
+         and
+         (VP (VP burned
+                 (NP the hands)
+                 (PP into
+                     (NP retreat)))
+             ; ;
+             (VP burned
+                 (NP the other cheek))
+             ; ;
+             (VP burned
+                 (NP each hand)
+                 (SBAR-TMP (WHADVP-2 when)
+			   (S (NP-SBJ-3 they)
+			      (VP came
+				  (S (NP-SBJ *-3)
+				     (VP groping))
+				  (ADVP again)
+				  (ADVP-TMP *T*-2)))))))
+     .))
+( (S (S (NP-SBJ-1 The marine)
+        (VP commenced
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP weep)))))
+     and
+     (S (NP-SBJ it)
+        (VP blighted
+            (NP (NP the sense)
+                (PP of
+                    (NP enjoyment)))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP stood
+         (PRT up))
+     .))
+( (FRAG ``
+	(NP (NP A small measure)
+	    (PP of
+		(NP payment)))
+	,
+	(NP-VOC marine)
+	'' .))
+( (S (NP-SBJ He)
+     (VP (VP dropped
+             (NP the knife)
+             (PP-LOC in
+		     (NP its scabbard)))
+         ,
+         (VP hung
+             (NP the rifle)
+             (PP-LOC behind
+		     (NP a shoulder))))
+     .))
+( (S (NP-SBJ The marine)
+     ,
+     (S-ADV (NP-SBJ hands)
+	    (PP-LOC-PRD on
+			(NP cheeks)))
+     ,
+     (VP rolled
+         (PP by
+             (NP his unwounded side))
+         (PP onto
+             (NP his stomach)))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP ceased
+         (S (NP-SBJ *-1)
+            (VP weeping)))
+     .))
+( (S (NP-SBJ-1 Matsuo)
+     (VP walked
+         (PP-DIR toward
+		 (NP his tree))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(ADVP-TMP once)
+		(VP glancing
+		    (ADVP back))))
+     .))
+( (S (NP-SBJ The marine)
+     (VP was
+         (ADJP-PRD still))
+     .))
+( (S (NP-SBJ He)
+     (VP would
+         (ADVP-TMP soon)
+         (VP die))
+     .))
+( (S (SBAR-TMP As
+	       (S (NP-SBJ-1 Matsuo)
+		  (VP climbed
+		      (PP by
+			  (S-NOM (NP-SBJ *-1)
+				 (VP (VP using
+					 (NP the vines))
+				     and
+				     (VP kicking
+					 (NP his feet)
+					 (PP against
+					     (NP the trunk)))))))))
+     ,
+     (NP-SBJ (NP a mood)
+             (PP of
+                 (NP gloom)))
+     (VP immersed
+         (NP him)
+         (PP like
+             (NP a jungle shadow)))
+     .))
+( (FRAG (WHNP What)
+	(ADVP-TMP now)
+	? ?))
+( (S (PP-LOC In
+	     (NP the jungle))
+     ,
+     (NP-SBJ birds)
+     (VP were
+         (ADJP-PRD mute)
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ insects)
+		      (VP preserved
+			  (ADVP only)
+			  (NP (NP the monotony)
+			      (PP of
+				  (NP living)))))))
+     .))
+( (S (NP-SBJ Someone)
+     (VP called)
+     .))
+( (S (S (NP-SBJ It)
+        (VP was
+            (NP-PRD the marine)))
+     :
+     (S (S-ADV (NP-SBJ-1 head)
+	       (VP lifted
+		   (NP *-1)))
+        ,
+        (NP-SBJ he)
+	(VP strained
+	    and
+	    called))
+     .))
+( (S (ADVP Then)
+     (NP-SBJ-1 he)
+     (VP astonished
+	 (NP Matsuo)
+	 (PP by
+	     (S-NOM (NP-SBJ *-1)
+		    (VP pushing and dragging
+			(NP himself)
+			(SBAR-TMP until
+				  (S (NP-SBJ he)
+				     (VP sat)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP cupped
+             (NP his mouth))
+         and
+         (VP yelled))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP hustled
+         (NP the rifle)
+         (PP-DIR off
+		 (NP his shoulder)))
+     .))
+( (S (UCP (ADVP Once)
+	  and
+	  (PP for
+	      (ADVP all)))
+     (NP-SBJ he)
+     (VP 'd
+         (VP finish
+             (NP (NP this marine)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP would not
+                              (VP die)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP aimed)
+         , 
+	 but
+         (VP listened))
+     .))
+( (UCP (S (NP-SBJ It)
+	  (VP sounded
+	      (SBAR as if
+		    (S (NP-SBJ the man)
+		       (VP were
+			   (VP calling
+			       (NP him)))))))
+       :
+       ``
+       (FRAG (FRAG (INTJ Hey)
+		   ,
+		   (NP-VOC Japanese))
+	     (FRAG (INTJ hey there)
+		   ,
+		   (NP-VOC Japanese)))
+       ''
+       .))
+( (S (NP-SBJ-1 The man)
+     (VP (VP tilted
+             (ADVP-DIR back)
+             (NP his head))
+         and
+         (VP went
+             (PP through
+                 (NP (NP the pantomime)
+                     (PP of
+                         (S-NOM (NP-SBJ *-1)
+				(VP drinking
+				    (PP from
+					(NP a container)))))))))
+     .))
+( (S (S (NP-SBJ He)
+        (VP performed
+            (NP the act)
+            (ADVP twice more)))
+     , 
+     and
+     (S (NP-SBJ (NP the begging)
+                (PP in
+                    (NP his tone)))
+        (VP grew
+            (ADJP-PRD more distinct)))
+     .))
+( (S (NP-TPC-1 `` Sake '' ? ?)
+     (NP-SBJ Matsuo)
+     (VP called
+	 (NP *T*-1))
+     .))
+( (S (NP-SBJ The marine)
+     (VP nodded
+         (ADVP-MNR vigorously))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP (VP laughed)
+         ,
+         (VP slung
+             (NP the rifle)))
+     .))
+( (S (NP-SBJ The marine)
+     (VP was
+         (NP-PRD a winehead))
+     .))
+( (S (NP-SBJ His superiors)
+     (VP had
+         (VP said
+             (SBAR that
+                   (S (NP-SBJ-1 all marines)
+                      (VP were
+                          (VP depraved
+                              (NP *-1)))))))
+     .))
+( (S (NP-SBJ The marine)
+     (VP slumped
+         (ADVP-DIR forward)
+	 (PP into
+	     (NP a bow))
+	 (PP like
+             (NP (NP a priest)
+                 (PP-LOC before
+			 (NP an idol)))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Remembering
+		(NP his own thirst)))
+     ,
+     (NP-SBJ-1 Matsuo)
+     (VP took
+	 (PRT out)
+	 (NP his water bottle))
+     .))
+( (S (S (NP-SBJ One swallow)
+        (VP was
+            (NP-PRD (NP all)
+                    (SBAR (WHNP-1 0)
+                          (S (NP-SBJ he)
+                             (VP would
+                                 (VP have
+                                     (NP *T*-1))))))))
+     ; ;
+     (S (S (NP-SBJ he)
+           (VP was
+               (ADJP-PRD very thirsty)))
+        , 
+	but
+        (S (NP-SBJ he)
+           (VP must
+               (VP observe
+                   (NP water discipline)))))
+     .))
+( (S (NP-SBJ (NP His years)
+             (PP of
+                 (NP campaigning)))
+     (VP had
+         (VP taught
+             (NP him)
+             (NP (NP the value)
+                 (PP of
+                     (NP water discipline)))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP uncap
+                    (NP the bottle)
+		    ,
+		    (S-ADV (NP-SBJ the rusty cap)
+			   (VP squealing
+			       (PP on
+				   (NP its threads))))))))
+     .))
+( (S (S-ADV (NP-SBJ-1 *-2)
+	    (VP Popping
+		(S-ADV (NP-SBJ *-1)
+		       (ADJP-PRD upright))))
+     ,
+     (NP-SBJ-2 the marine)
+     (VP (VP waved
+	     (NP both hands))
+	 and
+	 (VP shouted))
+     .))
+( (S (S (PP Of
+            (NP course))
+        (NP-SBJ (NP it)
+		(SBAR *EXP*-2))
+        (VP was
+            (NP-PRD water)
+	    (SBAR-2 (WHNP-1 0)
+		    (S (NP-SBJ he)
+		       (ADVP really)
+		       (VP craved
+			   (NP *T*-1))))))
+     ; ;
+     (S (PP-LOC down
+		(PP in
+		    (NP (NP the broil)
+			(PP of
+			    (NP the sun)))))
+        (NP-SBJ-3 he)
+        (VP was
+            (VP becoming
+                (VP dried
+		    (NP *-3) 
+		    (PRT out)))))
+     .))
+( (S (NP-SBJ The marine)
+     (VP shouted
+         (PP for
+             (NP it))
+         (SBAR-TMP until
+		   (S (NP-SBJ it)
+		      (VP seemed
+			  (SBAR that
+				(S (NP-SBJ-1 his voice)
+				   (VP had
+				       (S (NP-SBJ *-1)
+					  (VP to
+					      (VP crack))))))))))
+     .))
+( (S (NP-SBJ Matsuo)
+     (VP shook
+         (NP his head))
+     .))
+( (S (NP-SBJ He)
+     (VP had
+         (NP no water)
+	 (PP for
+	     (NP an enemy)))
+     .))
+( (S And
+     (SBAR-TMP (WHADVP-2 when)
+	       (S (NP-SBJ-1 this)
+		  (VP was
+		      (VP gone
+			  (NP *-1)
+			  (ADVP-TMP *T*-2)))))
+     ,
+     (NP-SBJ he)
+     (VP had n't
+         (ADVP even)
+         (NP (NP a little bitter tablet)
+             (SBAR (WHNP-3 0)
+		   (S (NP-SBJ *T*-3)
+		      (VP to
+			  (VP purify
+			      (NP other water)
+			      (SBAR-ADV if
+					(S (NP-SBJ-4 he)
+					   (VP were
+					       (S (NP-SBJ *-4)
+						  (VP to
+						      (VP discover
+							  (NP some stagnant 
+							      jungle pool)))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP capped
+             (NP the bottle))
+         and
+         (VP replaced
+             (NP it)))
+     .))
+( (S (PP After
+         (ADVP all))
+     ,
+     (NP-SBJ he)
+     (VP had
+         (NP (NP less reason
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP desire
+			    (NP it)))))
+	     (PP than
+                 (NP the marine))))
+     .))
+( (S (PP-TMP Before
+	     (ADVP much longer))
+     (NP-SBJ the marine)
+     (VP quieted
+         (ADVP down))
+     .))
+( (S (NP-SBJ His head)
+     (VP slumped)
+     .))
+( (S (NP-SBJ-1 (NP The upper part)
+	       (PP of
+		   (NP his packet)))
+     (VP had
+         (VP stained
+             (S-ADV (NP-SBJ *-1)
+		    (ADJP-PRD dark))))
+     .))
+( (NP-VOC `` Marine .))
+( (S (S-TPC-1 (NP-SBJ There)
+	      (VP is
+		  (NP-PRD nothing)
+		  (PP for
+		      (NP you))))
+     '' 
+     ,
+     (NP-SBJ Matsuo)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S ``
+     (NP-SBJ Your superiors)
+     (VP will
+         (ADVP certainly)
+         (VP beat
+             (NP you)
+             (PP for
+                 (NP your desertion))
+	     ,
+	     (PP besides
+		 (NP (NP the dishonor)
+		     (PP of
+			 (NP it))))))
+     .))
+( (S (NP-SBJ I)
+     (VP 've
+         (NP nothing)
+	 (PP for
+	     (NP you)))
+     '' .))
+( (S (PP From
+         (NP (NP the convulsive quivers)
+             (PP of
+                 (NP (NP the man 's)
+                     shoulders))))
+     (NP-SBJ (NP it)
+	     (SBAR *EXP*-1))
+     (VP was
+         (ADJP-PRD plain)
+	 (SBAR-1 0
+		 (S (NP-SBJ he)
+		    (VP had
+			(VP resumed
+			    (NP the weeping))))))
+     .))
+( (S (NP-SBJ He)
+     (VP reminded
+         (NP Matsuo)
+         (PP of
+             (NP (NP a similar thing)
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ he)
+                          (VP had
+                              (VP witnessed
+				  (NP *T*-1)
+				  (PP-LOC in
+					  (NP China)))))))))
+     .))
+( (S (PP-LOC In
+	     (NP China))
+     (NP-SBJ it)
+     (VP was
+	 (NP-PRD (NP a baby)
+		 (VP sitting
+		     (PP-LOC on
+			     (NP a railroad platform)))
+		 ,
+		 (ADJP smudged)
+		 ,
+		 (ADJP blood-specked)
+		 ,
+		 (PP with
+		     (NP (S-NOM (NP-SBJ the village)
+				(VP burning
+				    (PP-LOC about
+					    (NP him))))
+			 and
+			 (S-NOM (NP-SBJ shells)
+				(VP exploding))))))
+     .))

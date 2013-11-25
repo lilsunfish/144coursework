@@ -1,0 +1,82 @@
+
+
+( (S (NP-SBJ Lufthansa AG)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ passenger volume)
+                  (VP climbed
+                      (NP-EXT 5.2 %)
+                      (PP-TMP for
+			      (NP (NP the first nine months)
+				  (PP of
+				      (NP 1989))))
+                      (PP-DIR to
+			      (NP (QP 15.3 million) passengers))
+		      (PP-DIR from
+			      (NP (QP 14.5 million) passengers)
+			      (PP-TMP in
+				      (NP the year-earlier period)))))))
+     .))
+( (S (NP-SBJ The
+             (ADJP West German)
+	     national air carrier)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ cargo volume)
+                  (VP jumped
+                      (NP-EXT 12 %)
+                      (PP-DIR to
+			      (NP 638,000 metric tons))
+		      (PP-DIR from
+			      (NP 569,000 tons)
+			      (ADVP-TMP (NP a year)
+					ago))))))
+     .))
+( (S (NP-SBJ (NP Load factor)
+	     , or
+	     (NP (NP percentage)
+		 (PP of
+		     (NP (NP seats)
+			 (VP filled
+			     (NP *)))))
+	     ,)
+     (VP climbed
+	 (PP-DIR to
+		 (NP 67.1 %))
+	 (PP-DIR from
+		 (NP 66.6 %))
+	 ,
+	 (SBAR-ADV even though
+		   (S (NP-SBJ (NP the number)
+			      (PP of
+				  (NP flights)))
+		      (VP rose
+			  (NP-EXT 6.9 %)
+			  (PP-DIR to
+				  (NP 215,845))
+			  (PP-TMP in
+				  (NP the first-three quarters))))))
+     .))
+( (S (S-TPC-1 (PP-TMP (PP From
+			  (NP January))
+		      (PP through
+			  (NP September)))
+	      ,
+	      (NP-SBJ (NP the distance)
+		      (VP flown
+			  (NP *)
+			  (PP by
+			      (NP-LGS Lufthansa airplanes))))
+	      (VP rose
+		  (NP-EXT 5.6 %)
+		  (PP-DIR to
+			  (NP (QP 266.2 million) kilometers))
+		  (PP-DIR from
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ the company)
+     (VP added
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

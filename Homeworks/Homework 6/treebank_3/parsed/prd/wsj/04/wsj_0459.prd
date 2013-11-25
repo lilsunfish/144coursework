@@ -1,0 +1,35 @@
+
+
+( (NP (NP Annualized interest rates)
+      (PP on
+	  (NP certain investments))
+      (SBAR-ADV as
+		(S (NP-SBJ-1 *)
+		   (VP reported
+		       (NP *-1)
+		       (PP by
+			   (NP-LGS the Federal Reserve Board))
+		       (PP-MNR on
+			       (NP a weekly-average basis)))))
+      :)) 
+( (FRAG (X a)
+	-
+	(NP Discounted rate)
+	.))
+( (FRAG (X b)
+	-
+	(NP (NP Week)
+	    (VP ended
+		(NP-TMP (NP Wednesday , October 25 , 1989)
+			and
+			(NP Wednesday October 18 , 1989))))
+	.))
+( (FRAG (X c)
+	-
+	(NP (NP Yields)
+	    ,
+	    (VP adjusted
+		(NP *)
+		(PP-CLR for
+			(NP constant maturity))))
+	.))

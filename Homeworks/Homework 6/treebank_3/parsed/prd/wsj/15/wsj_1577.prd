@@ -1,0 +1,50 @@
+
+
+( (S (NP-SBJ HomeFed Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP its main subsidiary)
+                          ,
+                          (NP Home Federal Savings & Loan)
+                          ,)
+                  (VP (VP converted
+                          (PP-CLR from
+				  (NP a federal savings and loan))
+                          (PP-CLR to
+				  (NP a federal savings bank)))
+                      and
+                      (VP changed
+                          (NP its name)
+                          (PP-CLR to
+				  (NP HomeFed Bank)))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The federal Office)
+		      (PP of
+			  (NP Thrift Supervision)))
+	      (VP approved
+		  (NP the conversion)
+		  (NP-TMP last Friday)))
+     ,
+     (NP-SBJ HomeFed)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The change)
+		      (PP-LOC in
+			      (NP charter)))
+	      (VP does n't
+		  (VP alter
+		      (NP (NP (NP the federal insurance)
+			      (PP of
+				  (NP deposits)))
+			  ,
+			  (NP federal regulatory powers)
+			  or
+			  (NP company operations)))))
+     ,
+     (NP-SBJ a spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

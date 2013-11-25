@@ -1,0 +1,51 @@
+
+
+( (S (NP-SBJ-1 (NP Luis Nogales)
+               ,
+               (ADJP (NP 45 years)
+                     old)
+               ,)
+     (VP has
+         (VP been
+             (VP elected
+                 (NP *-1)
+                 (PP-CLR to
+			 (NP (NP the board)
+			     (PP of
+				 (NP this brewer)))))))
+     .))
+( (S (NP-SBJ (NP Mr. Nogales)
+             ,
+             (NP (NP former president)
+                 (PP of
+                     (NP (NP United Press International)
+                         and
+                         (NP the Univision Spanish-language network))))
+             ,)
+     (ADVP-TMP most recently)
+     (VP co-founded
+         (NP (NP Nogales Castro Partners)
+             ,
+             (NP a California-based media acquisition firm)))
+     .))
+( (S (NP-SBJ (NP Mr. Nogales)
+             ,
+             (NP (NP the first Hispanic person)
+                 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *T*-1)
+			  (VP to
+			      (VP serve
+				  (PP-CLR as
+					  (NP a Coors director))))))))
+     ,
+     (VP is
+         (NP-PRD (NP an addition)
+                 (PP to
+                     (NP the board)))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP increasing
+		    (NP its membership)
+		    (PP-CLR to
+			    (NP nine)))))
+     .))

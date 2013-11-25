@@ -1,0 +1,131 @@
+
+
+( (S (NP-SBJ-1 (NP Cummins Engine Co.)
+	       ,
+	       (NP-LOC (NP Columbus)
+		       ,
+		       (NP Ind.)))
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP hurt
+		(NP *)
+		(PP by
+		    (NP-LGS (NP a drop)
+			    (PP-LOC in
+				    (NP (NP engine orders)
+					(PP from
+					    (NP heavy-truck makers))))))))
+     ,
+     (VP reported
+         (NP (NP a third-quarter loss)
+             (PP of
+                 (NP (NP (QP $ 39.7 million) *U*)
+                     , or
+                     (NP (NP $ 4.12 *U*)
+                         (NP-ADV a share))))
+	     ,
+             (PP on 
+                 (NP (NP essentially flat sales)
+                     (PP of
+                         (NP (QP $ 807.6 million) *U*))))))
+     .))
+( (S (PP-TMP In
+	     (NP the year-earlier period))
+     ,
+     (NP-SBJ (NP the maker)
+             (PP of
+                 (NP (NP diesel engines) and (NP parts))))
+     (VP had
+         (NP (NP a narrower deficit)
+             (PP of
+                 (NP (NP (QP $ 17.6 million) *U*)
+                     , or
+                     (NP (NP $ 1.84 *U*)
+                         (NP-ADV a share)))))
+	 ,
+         (PP with
+             (NP (NP sales)
+                 (PP of
+                     (NP (QP $ 808.3 million) *U*)))))
+     .))
+( (S (NP-SBJ A spokeswoman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP shipments)
+                          (PP of
+                              (NP (NP truck engines)
+                                  ,
+                                  (SBAR (WHNP-1 which)
+                                        (S (NP-SBJ *T*-1)
+                                           (VP provide
+                                               (NP (NP a higher margin)
+                                                   (PP than
+                                                       (NP (NP most)
+                                                           (PP of
+                                                               (NP (NP the company 's)
+                                                                   other products))))))))
+                                  ,)))
+                  (VP declined
+                      (NP-EXT 16 %)
+                      (PP-DIR from
+			      (ADVP-TMP (NP a year)
+					earlier))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ (NP Cummins 's)
+			  stock)
+		  (VP stumbled
+		      (NP-TMP last month)
+		      (SBAR-TMP after
+				(S (NP-SBJ the company)
+				   (VP projected
+				       (NP a `` substantial '' third-period loss))))
+		      ,)))
+     (NP-SBJ the stock)
+     (ADVP also)
+     (VP fell
+         (NP-EXT $ 1.125 *U*)
+         (PP-LOC in
+		 (NP composite New York Stock Exchange trading))
+         (NP-TMP yesterday)
+	 ,
+         (PP-DIR to
+		 (NP $ 51.75 *U*)))
+     .))
+( (S (NP-SBJ It)
+     (VP traded
+         (ADVP-CLR (ADVP as high) 
+		   (PP as
+		       (NP $ 64 *U*)))
+         (ADVP-TMP (NP a month)
+		   ago)
+         ,
+         (PP-TMP before
+		 (NP the loss projection)))
+     .))
+( (S (PP For
+         (NP the nine months))
+     ,
+     (NP-SBJ the latest loss)
+     (VP trimmed
+         (NP net income)
+         (PP-CLR to
+		 (NP (NP (QP $ 3.6 million) *U*)
+		     ,
+		     (SBAR (WHNP-1 which)
+			   (S (NP-SBJ *T*-1)
+			      (PP-TMP after
+				      (NP (NP payment)
+					  (PP of
+					      (NP preferred dividends))))
+			      (VP represented
+				  (NP (NP a 31-cent loss)
+				      (NP-ADV a common share))))))))
+     .))
+( (S (NP-SBJ The year-before loss)
+     (VP was
+         (NP-PRD (NP (QP $ 8.4 million) *U*)
+                 , or
+                 (NP (NP $ 1.36 *U*)
+                     (NP-ADV a common share))))
+     .))

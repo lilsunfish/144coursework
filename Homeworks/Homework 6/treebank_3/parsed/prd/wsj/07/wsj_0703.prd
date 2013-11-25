@@ -1,0 +1,37 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP France 's)
+		      unemployment rate)
+	      (VP was
+		  (ADJP-PRD steady)
+		  (PP at
+		      (NP a
+			  (ADJP (ADVP seasonally)
+				adjusted)
+			  9.5 %))
+		  (PP-TMP in
+			  (NP September))))
+     ,
+     (NP-SBJ the Social Affairs Ministry)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP-TMP In
+	     (NP September))
+     ,
+     (NP-SBJ (NP the number)
+             (PP of
+                 (NP jobless)))  
+     (VP rose
+         (NP-EXT 0.1 %)
+         (PP-TMP from
+		 (NP the previous month))
+         (PP-DIR to
+		 (NP 2.5 million))
+         (PP on
+             (NP a
+                 (ADJP (ADVP seasonally)
+		       adjusted)
+                 basis)))
+     .))

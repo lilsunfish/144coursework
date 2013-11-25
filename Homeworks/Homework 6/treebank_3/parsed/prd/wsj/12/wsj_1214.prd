@@ -1,0 +1,75 @@
+
+
+( (S (NP-SBJ (NP BSB BANCORP Inc.)
+             ,
+             (NP-LOC (NP Binghamton)
+		     ,
+		     (NP N.Y.))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP increased
+                      (NP its regular quarterly dividend)
+                      (NP-EXT 50 %)
+                      ,
+                      (PP-DIR to
+			      (NP (NP 15 cents)
+				  (NP-ADV a share)))
+                      (PP-DIR from
+			      (NP 10 cents))))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADJP-PRD payable
+                   (NP-TMP Dec. 10)
+                   (PP to
+                       (NP (NP stock)
+                           (PP of
+                               (NP record))
+                           (NP-TMP Nov. 24)))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The move)
+	      (VP was
+		  (VP made
+		      (NP *-1)
+		      (PP-PRP because
+			      of
+			      (NP (NP the bank-holding company 's)
+				  increased profitability)))))
+     ,
+     (NP-SBJ officials)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (PP-TMP In
+	     (NP the third quarter))
+     ,
+     (NP-SBJ BSB)
+     (VP earned
+         (NP (QP $ 2 million) *U*)
+         ,
+         (ADVP up
+               (PP from
+                   (NP (QP $ 1.8 million) *U*)
+		   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))
+( (S (PP-LOC In
+	     (NP national over-the-counter trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ BSB)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 17.50 *U*))
+         ,
+         (ADVP up
+               (NP 12.5 cents)))
+     .))
+( (S (NP-SBJ BSB)
+     (VP has
+         (NP (NP (QP 3.1 million) shares)
+             (ADJP outstanding)))
+     .))

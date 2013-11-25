@@ -1,0 +1,51 @@
+
+
+( (S (NP-SBJ HASTINGS MANUFACTURING Co.)
+     (VP declared
+         (NP (NP (NP (NP a regular quarterly dividend)
+                     (PP of
+                         (NP (NP 10 cents)
+                             (NP-ADV a share))))
+                 and
+                 (NP (NP an extra dividend)
+                     (PP of
+                         (NP (NP five cents)
+                             (NP-ADV a share)))))
+	     (PP on
+		 (NP its common stock))
+             ,
+             (ADJP payable
+                   (NP-TMP Dec. 15)
+                   (PP to
+                       (NP (NP shares)
+                           (PP of
+                               (NP record))
+			   (NP-TMP Nov. 17))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (NP-PRD (NP the 11th consecutive quarter)
+                 (SBAR (WHPP-1 in
+			       (WHNP which))
+                       (S (NP-SBJ the company)
+                          (VP has
+                              (VP paid
+                                  (NP shareholders)
+                                  (NP (NP an extra dividend)
+                                      (PP of
+                                          (NP five cents)))
+				  (PP-TMP *T*-1)))))))
+     .))
+( (S (NP-SBJ The
+             (NAC-LOC Hastings
+		      ,
+		      Mich.
+		      ,) 
+	     concern)
+     (VP makes
+         (NP (NP piston rings)
+             ,
+             (NP filters)
+             and
+             (NP fuel pumps)))
+     .))

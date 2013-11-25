@@ -1,0 +1,11 @@
+README file for Merged (.mrg) files
+
+The files in this directory were automatically created by inserting the
+part of speech tags from a tagged text file (.pos file) into a parsed text
+file (.prd file).  The tags are inserted as nodes immediately dominating
+the terminals.  The -NONE- node means that there is no part of speech for
+that terminal symbol (i.e., it is a "null element"; see
+docs/parseguide1.ps).
+
+
+

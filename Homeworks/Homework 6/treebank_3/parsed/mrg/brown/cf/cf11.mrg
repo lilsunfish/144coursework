@@ -1,0 +1,2454 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( (S 
+    (NP-SBJ (NNP Ten-year-old) (NNP Richard) (NNP Stewart) )
+    (VP (VBD had) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ irritable) 
+          (CC and)
+          (JJ quarrelsome) )
+        (PP-TMP (IN for) 
+          (NP 
+            (QP (RB almost) (DT a) )
+            (NN year) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP$ His) (NNS grades) )
+      (VP (VBD had) 
+        (VP (VBN gone) 
+          (ADVP-MNR (RB steadily) )
+          (ADVP (RB downhill) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-1 (PRP he) )
+      (VP (VBD had) 
+        (VP (VBN stopped) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG bringing) 
+              (NP (NNS friends) 
+                (CC and)
+                (NNS classmates) )
+              (ADVP-DIR (NN home) 
+                (PP (IN from) 
+                  (NP (NN school) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) 
+      (CC and)
+      (NNP Mrs.) (NNP Stewart) )
+    (VP (VBD were) 
+      (ADJP-PRD (JJ puzzled) 
+        (CC and)
+        (JJ concerned) ))
+    (. .) ))
+( (S 
+    (ADVP (RB Then) )
+    (NP-TMP (CD one) (NN day) )
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Dick) (POS 's) )
+        (NN classmate) )
+      (NP 
+        (NP (NNP Jimmy) )
+        (, ,) 
+        (PP (IN from) 
+          (NP (JJ next) (NN door) ))))
+    (, ,) 
+    (VP (VBD let) 
+      (NP (DT the) (NN cat) )
+      (PP (IN out) 
+        (PP (IN of) 
+          (NP (DT the) (NN bag) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS youngsters) )
+      (PP (IN in) 
+        (NP 
+          (NP (DT the) (NNS boys) (POS ') )
+          (NN class) )))
+    (VP (VBD had) 
+      (VP (VBN nicknamed) 
+        (S 
+          (NP-SBJ (NNP Dick) )
+          (`` ``) 
+          (NP-PRD (NNP Bugs) (NNP Bunny) )
+          ('' '') )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP$ his) (NNS teeth) )
+            (VP (VBD protruded) )))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-4 (WRB When) )
+      (S 
+        (NP-SBJ 
+          (NP (NNP Richard) (POS 's) )
+          (NNS parents) )
+        (VP (VBD told) 
+          (NP (PRP him) )
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP-SBJ-3 (PRP they) )
+              (VP (VBD wanted) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB take) 
+                      (NP (PRP him) )
+                      (PP (TO to) 
+                        (NP 
+                          (NP (DT an) (NN orthodontist) )
+                          (: --) 
+                          (NP 
+                            (NP (DT a) (NN dentist) )
+                            (SBAR 
+                              (WHNP-2 (WP who) )
+                              (S 
+                                (NP-SBJ-1 (-NONE- *T*-2) )
+                                (VP (VBZ specializes) 
+                                  (PP (IN in) 
+                                    (S-NOM 
+                                      (NP-SBJ (-NONE- *-1) )
+                                      (VP (VBG realigning) 
+                                        (NP (NNS teeth) 
+                                          (CC and)
+                                          (NNS jaws) ))))))))
+                          (: --) ))))))))
+          (ADVP-TMP (-NONE- *T*-4) ))))
+    (NP-SBJ (PRP$ their) (JJ young) (NN son) )
+    (VP (VBD was) 
+      (ADJP-PRD (VBN interested) ))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP 
+        (NP (DT the) (NN year) )
+        (SBAR 
+          (WHNP-1 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD followed) )))))
+    (, ,) 
+    (NP-SBJ (NNP Dick) )
+    (VP 
+      (VP (VBD co-operated) 
+        (ADVP-MNR (RB whole-heartedly) )
+        (PP (IN with) 
+          (NP (DT the) (NN dentist) )))
+      (CC and) 
+      (VP (VBD was) 
+        (ADJP-PRD (VBN delighted) 
+          (PP (IN with) 
+            (NP 
+              (NP 
+                (NP (DT the) (JJ final) (NN result) )
+                (VP (VBN achieved) 
+                  (NP (-NONE- *) )))
+              (: --) 
+              (NP 
+                (NP (DT an) (JJ upper) (NN row) )
+                (PP (IN of) 
+                  (NP (JJ strong) (JJ straight) (NNS teeth) ))
+                (SBAR 
+                  (WHNP-2 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (ADVP (RB completely) )
+                    (VP (VBD changed) 
+                      (NP (PRP$ his) (JJ facial) (NN appearance) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Richard) (NNP Stewart) )
+    (VP (VBZ is) 
+      (NP-PRD (DT no) (JJ special) (NN case) ))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN majority) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS children) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP United) (NNP States) )))))
+      (VP (MD could) 
+        (VP (VB benefit) 
+          (PP (IN by) 
+            (NP 
+              (NP (DT some) (NN form) )
+              (PP (IN of) 
+                (NP (JJ orthodontic) (NN treatment) )))))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Dr.) (NNP Allan) (NNP G.) (NNP Brodie) )
+      (, ,) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NN professor) )
+            (CC and) 
+            (NP 
+              (NP (NN head) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN department) )
+                  (PP (IN of) 
+                    (NP (NNS orthodontics) ))))))
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (DT the) (NNP University) )
+              (PP (IN of) 
+                (NP (NNP Illinois) )))))
+        (CC and) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (RB nationally) (VBN recognized) )
+            (NN authority) )
+          (PP (IN in) 
+            (NP (PRP$ his) (NN field) )))))
+    (. .) ))
+( (SBARQ 
+    (WHNP-2 (WP What) )
+    (SQ (VBP do) 
+      (NP-SBJ-1 (NNS parents) )
+      (VP (VBP need) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB know) 
+              (NP (-NONE- *T*-2) )
+              (PP (IN about) 
+                (NP 
+                  (NP (DT those) (`` ``) (NNS years) )
+                  (PP (IN of) 
+                    (NP (DT the) (NNS braces) ))
+                  ('' '') )))))
+        (SBAR-PRP (IN in) (NN order) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (RB not) 
+            (VP (TO to) 
+              (VP (VB waste) 
+                (NP 
+                  (NP 
+                    (NP (DT a) (NN child) (POS 's) )
+                    (NN time) )
+                  (CC and) 
+                  (NP (PRP$ their) (NN money) ))))))))
+    (. ?) (. ?) ))
+( (SBARQ 
+    (WHADVP-1 (WRB How) )
+    (SQ (MD can) 
+      (NP-SBJ (PRP they) )
+      (VP (VB tell) 
+        (SBAR (IN whether) 
+          (S 
+            (NP-SBJ (DT a) (NN child) )
+            (VP (VBZ needs) 
+              (NP (JJ orthodontic) (NN treatment) ))))
+        (ADVP-MNR (-NONE- *T*-1) )))
+    (. ?) (. ?) ))
+( (SBARQ 
+    (WHADVP-2 (WRB Why) 
+      (CC and)
+      (WRB when) )
+    (SQ (MD should) 
+      (NP-SBJ-1 (NN tooth-straightening) )
+      (VP (VB be) 
+        (VP (VBN undertaken) 
+          (NP (-NONE- *-1) )
+          (ADVP (-NONE- *T*-2) ))))
+    (. ?) (. ?) ))
+( (SBARQ 
+    (WHNP-2 (WP What) )
+    (SQ (VBZ is) 
+      (NP-SBJ-1 (PRP it) )
+      (ADJP-PRD (JJ likely) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB cost) 
+              (NP (-NONE- *T*-2) ))))))
+    (. ?) (. ?) ))
+( (S 
+    (NP-SBJ (NN Tooth) (NN fit) (VBD explained) (NN occlusion) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (NP (DT the) (NN dentist) (POS 's) )
+          (NN expression) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NN way) )
+            (SBAR 
+              (WHADVP-3 (-NONE- 0) )
+              (S 
+                (NP-SBJ (NNS teeth) )
+                (VP (VBP fit) 
+                  (ADVP (RB together) )
+                  (SBAR-TMP 
+                    (WHADVP-2 (WRB when) )
+                    (S 
+                      (NP-SBJ-1 (DT the) (NNS jaws) )
+                      (VP (VBP are) 
+                        (VP (VBN closed) 
+                          (NP (-NONE- *-1) )
+                          (ADVP-TMP (-NONE- *T*-2) )))))
+                  (ADVP-MNR (-NONE- *T*-3) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Malocclusion) )
+      (, ,) (CC or) 
+      (NP (DT a) (JJ bad) (NN fit) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (SBAR-NOM-PRD 
+        (WHNP-2 (WP what) )
+        (S 
+          (NP-SBJ-1 (NNS parents) )
+          (VP (VBP need) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB look) 
+                  (PRT (RP out) )
+                  (PP (IN for) 
+                    (NP (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (CD One) (JJ main) (NN type) )
+      (PP (IN of) 
+        (NP (NN malocclusion) )))
+    (VP (VBZ is) 
+      (VP (VBN characterized) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (VBG receding) (NN chin) )
+            (CC and) 
+            (NP (VBG protruding) (JJ upper) (JJ front) (NNS teeth) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT A) (NN chin) )
+        (ADJP (RB too) (JJ prominent) 
+          (PP (IN in) 
+            (NP 
+              (NP (NN relation) )
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN rest) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN face) ))))))))
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN thrusting) (RB forward) )
+        (PP (IN of) 
+          (NP (DT the) (JJR lower) (NN front) (NNS teeth) )))
+      (, ,) 
+      (NP (DT an) (NN overdeveloped) (JJR lower) (NN jawbone) )
+      (, ,) 
+      (CC and)
+      (NP (DT an) (JJ underdeveloped) (JJ upper) (NN jaw) ))
+    (VP (VBP indicate) 
+      (NP 
+        (NP (DT the) (JJ opposite) (NN type) )
+        (PP (IN of) 
+          (NP (NN malocclusion) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (CD two) (JJ basic) (NNS malformations) )
+    (VP (VBP have) 
+      (, ,)
+      (PP (IN of) 
+        (NP (NN course) ))
+      (, ,) 
+      (NP (JJ many) (NNS variations) ))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN child) )
+    (ADVP (RB probably) )
+    (VP (VBZ requires) 
+      (NP 
+        (NP (DT some) (NN form) )
+        (PP (IN of) 
+          (NP (NN treatment) )))
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ has) 
+            (NP 
+              (NP (DT any) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (VBG following) (NNS conditions) )
+                  (: :) 
+                  (NP 
+                    (NP (DT A) (JJ noticeable) (NN protrusion) )
+                    (PP (IN of) 
+                      (NP (DT the) 
+                        (ADJP (JJ upper) (CC or) (JJ lower) )
+                        (NN jaw) ))))))))))
+    (. .) ))
+( (NP 
+    (ADJP 
+      (ADJP (JJ Crooked) )
+      (, ,) 
+      (ADJP (VBG overlapping) )
+      (, ,) 
+      (ADJP (JJ twisted) )
+      (, ,) (CC or) 
+      (ADJP (RB widely) (VBN spaced) ))
+    (NNS teeth) (. .) ))
+( (NP 
+    (NP (JJ Front) (NNS teeth) )
+    (VP (RB not) (VBG meeting) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (DT the) (JJ back) (NNS teeth) )
+          (VP (VBP close) 
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (NP 
+    (NP (JJ Upper) (NNS teeth) )
+    (VP 
+      (ADVP (RB completely) )
+      (VBG covering) 
+      (NP (DT the) (NNS lowers) )
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (DT the) (JJ back) (NNS teeth) )
+          (VP (VBP close) 
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (NP 
+    (NP 
+      (NP (DT The) (NNS eyeteeth) )
+      (PRN 
+        (-LRB- -LRB-)
+        (RRC 
+          (ADJP-PRD (JJ third) 
+            (PP (IN from) 
+              (NP (DT the) (NN middle) )))
+          (PP-LOC (IN on) 
+            (NP (NN top) ))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG counting) 
+              (NP (DT each) (JJ front) (NN tooth) )
+              (PP (IN as) 
+                (NP (DT the) (JJ first) )))))
+        (-RRB- -RRB-) ))
+    (VP (VBG beginning) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB protrude) 
+            (PP (IN like) 
+              (NP (NNS fangs) ))))))
+    (. .) ))
+( (NP 
+    (NP (JJ Second) (NNS teeth) )
+    (SBAR 
+      (WHNP-1 (WDT that) )
+      (S 
+        (NP-SBJ-2 (-NONE- *T*-1) )
+        (VP (VBP have) 
+          (VP (VBN come) 
+            (ADVP (RP in) )
+            (SBAR-TMP (IN before) 
+              (S 
+                (NP-SBJ (DT the) (JJ first) (NNS ones) )
+                (VP (VBP have) 
+                  (VP (VBN fallen) 
+                    (ADVP (RP out) )))))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG making) 
+                (NP (DT a) (JJ double) (NN row) )))))))
+    (. .) ))
+( (S 
+    (PP (JJ Contrary) 
+      (PP (TO to) 
+        (NP 
+          (NP (DT the) (NN thinking) )
+          (PP (IN of) 
+            (UCP 
+              (ADVP 
+                (NP 
+                  (QP (CD 30) (TO to) (CD 40) )
+                  (NNS years) )
+                (RB ago) )
+              (, ,) 
+              (SBAR 
+                (WHADVP-2 (WRB when) )
+                (S 
+                  (NP-SBJ-1 (DT all) (NN malocclusion) )
+                  (VP (VBD was) 
+                    (VP (VBN blamed) 
+                      (NP (-NONE- *-1) )
+                      (PP (IN on) 
+                        (NP (DT some) (JJ unfortunate) (NN habit) ))
+                      (ADVP-TMP (-NONE- *T*-2) ))))))))))
+    (, ,) 
+    (NP-SBJ (JJ recent) (NNS studies) )
+    (VP (VBP show) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (JJS most) (NN tooth) (NN irregularity) )
+          (VP (VBZ has) 
+            (NP 
+              (ADVP (IN at) (JJS least) )
+              (PRP$ its) (NN beginning) )
+            (PP (IN in) 
+              (NP (JJ hereditary) (NN predisposition) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB However) )
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (VBZ does) (RB not) 
+      (VP (VB mean) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT a) (NN child) (POS 's) )
+              (NNS teeth) (CC or) (NNS jaws) )
+            (VP (MD must) 
+              (ADVP (RB necessarily) )
+              (VP (VB resemble) 
+                (NP 
+                  (NP (DT those) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NN someone) )
+                      (PP (IN in) 
+                        (NP (PRP$ his) (NN family) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Tooth) (NN deformity) )
+      (VP (MD may) 
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT the) (NN result) )
+            (PP (IN of) 
+              (NP (JJ excessive) (NN thumb) (: -) (CC or) (NN finger-sucking) 
+                (, ,)
+                (NN tongue-thrusting) 
+                (, ,)
+                (CC or) (NN lip-sucking) ))))))
+    (: --) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (S (-NONE- *EXP*-2) ))
+      (VP (VBZ 's) 
+        (ADJP-PRD (JJ important) )
+        (S-2 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB remember) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (EX there) )
+                  (VP (VBZ 's) 
+                    (NP-PRD 
+                      (NP (DT a) (NN difference) )
+                      (PP (IN between) 
+                        (NP 
+                          (ADJP (JJ normal) 
+                            (CC and)
+                            (JJ excessive) )
+                          (NN sucking) (NNS habits) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (PRP It) )
+        (SBAR (-NONE- *EXP*-1) ))
+      (VP (VBZ 's) 
+        (ADJP-PRD (RB perfectly) (JJ normal) )
+        (SBAR-1 (IN for) 
+          (S 
+            (NP-SBJ (NNS babies) )
+            (VP (TO to) 
+              (VP (VB suck) 
+                (NP (PRP$ their) (NNS thumbs) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (DT no) (NN mother) )
+      (VP (VB need) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (VB worry) ))
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (DT a) (NN child) )
+            (VP (VBZ continues) 
+              (NP (DT this) (NN habit) )
+              (SBAR-TMP (IN until) 
+                (S 
+                  (NP-SBJ (PRP he) )
+                  (VP (VBZ is) 
+                    (ADJP-PRD 
+                      (NP-ADV 
+                        (QP (CD two) (CC or) (CD three) )
+                        (NNS years) )
+                      (JJ old) )))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Occasional) (NN sucking) )
+      (PP-TMP (IN up) 
+        (PP (TO to) 
+          (NP (DT the) (JJ fifth) (NN year) )))
+      (VP (MD may) (RB not) 
+        (VP (VB affect) 
+          (NP 
+            (NP (DT a) (NN youngster) (POS 's) )
+            (NNS teeth) ))))
+    (: ;) (: ;) (CC but) 
+    (S 
+      (PP-TMP (IN after) 
+        (NP (DT that) ))
+      (, ,) 
+      (SBAR-ADV (IN if) 
+        (S 
+          (NP-SBJ (NN thumb-sucking) (NN pressure) )
+          (VP (VBZ is) 
+            (ADJP-PRD (JJ frequent) ))))
+      (, ,) 
+      (NP-SBJ (PRP it) )
+      (VP (MD will) 
+        (VP (VB have) 
+          (NP (DT an) (NN effect) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Malocclusion) )
+    (VP (MD can) 
+      (ADVP (RB also) )
+      (VP (VB result) 
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ-1 (NN baby) (NNS teeth) )
+            (VP (VBP are) 
+              (VP 
+                (VP (VBN lost) 
+                  (NP (-NONE- *-1) )
+                  (ADVP-TMP (RB too) (RB soon) ))
+                (CC or) 
+                (VP (VBN retained) 
+                  (NP (-NONE- *-1) )
+                  (ADVP-TMP (RB too) (RB long) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT a) (NN child) )
+        (VP (VBZ loses) 
+          (NP (DT a) (NN molar) )
+          (PP-TMP (IN at) 
+            (NP 
+              (NP (DT the) (NN age) )
+              (PP (IN of) 
+                (NP (CD two) )))))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (VBG adjoining) (NNS teeth) )
+    (VP (MD may) 
+      (VP (VB shift) 
+        (PP-DIR (IN toward) 
+          (NP (DT the) (JJ empty) (NN space) ))
+        (, ,) 
+        (S-ADV 
+          (ADVP (RB thus) )
+          (NP-SBJ (-NONE- *-1) )
+          (VP 
+            (VP (VBG narrowing) 
+              (NP 
+                (NP (DT the) (NN place) )
+                (VP (VBN intended) 
+                  (NP (-NONE- *) )
+                  (PP (IN for) 
+                    (NP (DT the) (JJ permanent) (NNS ones) )))))
+            (CC and) 
+            (VP (VBG producing) 
+              (NP (DT a) (NN jumble) ))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-1 (NN baby) (NNS teeth) )
+        (VP (VBP are) 
+          (VP (VBN retained) 
+            (NP (-NONE- *-1) )
+            (ADVP-TMP (RB too) (JJ long) )))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (VBG incoming) (JJ second) (NNS teeth) )
+    (VP 
+      (VP (MD may) 
+        (VP (VB be) 
+          (VP (VBN prevented) 
+            (PP (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG emerging) 
+                  (PP-TMP (IN at) 
+                    (NP (DT the) (JJ normal) (NN time) ))))))))
+      (CC or) 
+      (VP (MD may) 
+        (VP (VB have) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB erupt) 
+                (PP-LOC (IN in) 
+                  (NP (DT the) (JJ wrong) (NN place) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Correction) )
+    (VP (MD can) 
+      (VP (VB save) 
+        (NP (NNS teeth) )))))
+( (S 
+    (NP-SBJ (DT every) (NN orthodontist) )
+    (VP (VBZ sees) 
+      (NP 
+        (NP (NNS children) )
+        (SBAR 
+          (WHNP-2 (WP who) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBP are) 
+              (VP (VBN embarrassed) 
+                (NP (-NONE- *-1) )
+                (PP (IN by) 
+                  (NP-LGS (PRP$ their) (JJ malformed) (NNS teeth) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (DT Some) (JJ such) (NNS youngsters) )
+      (ADVP-TMP (RB rarely) )
+      (VP (VBP smile) ))
+    (, ,) (CC or) 
+    (S 
+      (NP-SBJ-1 (PRP they) )
+      (VP (VBP try) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB speak) 
+              (SBAR-ADV (IN with) 
+                (S 
+                  (NP-SBJ-2 (DT the) (NN mouth) )
+                  (VP (VBN closed) 
+                    (NP (-NONE- *-2) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (JJ certain) (NNS cases) ))
+    (, ,) 
+    (PP (IN as) 
+      (PP (IN in) 
+        (NP (NNP Dick) (NNP Stewart) (POS 's) )))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT a) (NN child) (POS 's) )
+      (NN personality) )
+    (VP (VBZ is) 
+      (VP (VBN affected) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Yet) )
+    (PP (IN from) 
+      (NP 
+        (NP 
+          (NP (DT the) (NN dentist) (POS 's) )
+          (NN point) )
+        (PP (IN of) 
+          (NP (NN view) ))))
+    (, ,) 
+    (NP-SBJ-1 (JJ bad-fitting) (NNS teeth) )
+    (VP (MD should) 
+      (VP (VB be) 
+        (VP (VBN corrected) 
+          (NP (-NONE- *-1) )
+          (PP-PRP (IN for) 
+            (NP (JJ physical) (NNS reasons) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Bad) (NN alignment) )
+    (VP (MD may) 
+      (VP (VB result) 
+        (PP (IN in) 
+          (NP 
+            (NP (JJ early) (NN loss) )
+            (PP (IN of) 
+              (NP (NNS teeth) ))
+            (PP (IN through) 
+              (NP 
+                (NP (DT a) (NN breakdown) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ bony) (NN structure) )
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBZ supports) 
+                          (NP (PRP$ their) (NNS roots) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT This) (JJ serious) (NN condition) )
+      (, ,) 
+      (VP 
+        (ADVP (RB popularly) )
+        (VBN known) 
+        (NP (-NONE- *) )
+        (PP (IN as) 
+          (NP (NN pyorrhea) ))))
+    (, ,) 
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ chief) (NNS causes) )
+            (PP (IN of) 
+              (NP (NN tooth) (NN loss) ))
+            (PP (IN in) 
+              (NP (NNS adults) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Then) )
+    (, ,) 
+    (ADVP (RB too) )
+    (, ,) 
+    (NP-SBJ-1 
+      (ADJP (VBN misplaced) (CC or) (JJ jammed-together) )
+      (NNS teeth) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ prone) 
+        (PP (TO to) 
+          (S-NOM 
+            (NP-SBJ-2 (-NONE- *-1) )
+            (VP (VBG trapping) 
+              (NP (NN food) (NNS particles) )
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG increasing) 
+                  (NP 
+                    (NP (DT the) (NN likelihood) )
+                    (PP (IN of) 
+                      (NP (JJ rapid) (NN decay) ))))))))))
+    (. .) ))
+( (S-1 (`` ``) 
+    (PP (IN For) 
+      (NP 
+        (UCP (DT these) 
+          (CC and)
+          (JJ other) )
+        (NNS reasons) ))
+    ('' '') 
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBZ says) 
+          (S (-NONE- *T*-1) ))
+        (NP-SBJ (NNP Dr.) (NNP Brodie) ))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ (NNS orthodontics) )
+    (VP (MD can) 
+      (VP (VB prolong) 
+        (NP 
+          (NP (DT the) (NN life) )
+          (PP (IN of) 
+            (NP (NNS teeth) )))))
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN failure) 
+        (S (-NONE- *ICH*-2) ))
+      (PP (IN of) 
+        (NP (NNS teeth) ))
+      (S-2 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB fit) 
+            (ADVP (RB together) )
+            (SBAR-TMP 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBN closed) 
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (VP (VBZ interferes) 
+      (PP (IN with) 
+        (NP (JJ normal) (NN chewing) ))
+      (, ,) 
+      (SBAR-PRP (RB so) (IN that) 
+        (S 
+          (NP-SBJ (DT a) (NN child) )
+          (VP (MD may) 
+            (VP 
+              (VP (VB swallow) 
+                (NP-3 (NN food) )
+                (S-ADV 
+                  (NP-SBJ (-NONE- *-3) )
+                  (ADJP-PRD (NN whole) )))
+              (CC and) 
+              (VP (VBD put) 
+                (NP (DT a) (NN burden) )
+                (PP (IN on) 
+                  (NP (PRP$ his) (JJ digestive) (NN system) ))))))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN Because) (IN of) 
+      (NP (DT these) (NN chewing) (NNS troubles) ))
+    (, ,) 
+    (NP-SBJ (DT a) (NN child) )
+    (VP (MD may) 
+      (VP (VB avoid) 
+        (NP 
+          (NP (JJ certain) (NNS foods) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (PRP he) )
+              (VP (VBZ needs) 
+                (NP (-NONE- *T*-1) )
+                (PP (IN for) 
+                  (NP (JJ adequate) (NN nutrition) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (ADJP (RB Badly) (VBN placed) )
+      (NNS teeth) )
+    (VP (MD can) 
+      (ADVP (RB also) )
+      (VP (VB cause) 
+        (NP 
+          (NP (JJ such) (DT a) (NN speech) (NN handicap) )
+          (PP (IN as) 
+            (NP (VBG lisping) )))))
+    (. .) ))
+( (NP 
+    (NP (DT The) (WRB when) 
+      (CC and)
+      (WRB how) )
+    (PP (IN of) 
+      (NP (NN straightening) ))))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ-1 (RBS most) (JJ orthodontic) (NN work) )
+      (VP (VBZ is) 
+        (VP (VBN done) 
+          (NP (-NONE- *-1) )
+          (PP (IN on) 
+            (NP 
+              (NP (NNS children) )
+              (PP (IN between) 
+                (NP 
+                  (NP (DT the) (NNS ages) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP (CD 10) 
+                        (CC and)
+                        (CD 14) )))))))
+          (, ,) 
+          (SBAR-ADV (IN though) 
+            (S 
+              (NP-SBJ (EX there) )
+              (VP (VBP have) 
+                (VP (VBN been) 
+                  (NP-PRD 
+                    (NP (NNS patients) )
+                    (ADJP 
+                      (ADJP 
+                        (ADJP (RB as) (JJ young) )
+                        (PP (IN as) 
+                          (NP (CD two) )))
+                      (CC and) 
+                      (ADJP 
+                        (ADJP (RB as) (JJ old) )
+                        (PP (IN as) 
+                          (NP (CD 55) ))))))))))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (. .) ))
+( (S 
+    (S 
+      (PP-TMP (IN In) 
+        (NP 
+          (NP (DT the) (NN period) )
+          (PP (IN from) 
+            (NP 
+              (QP (CD 10) (TO to) (CD 14) )))))
+      (NP-SBJ-1 
+        (NP (DT the) (JJ permanent) (NN set) )
+        (PP (IN of) 
+          (NP (NNS teeth) )))
+      (VP (VBZ is) 
+        (ADVP-TMP (RB usually) )
+        (VP (VBN completed) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (S 
+      (ADVP (CC yet) )
+      (NP-SBJ 
+        (NP (DT the) (VBG continuing) (NN growth) )
+        (PP (IN of) 
+          (NP (JJ bony) (NN tissue) )))
+      (VP (VBZ makes) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG moving) 
+            (S 
+              (NP-SBJ 
+                (ADJP (RB badly) (VBN placed) )
+                (NNS teeth) )
+              (ADJP-PRD (RB comparatively) (JJ easy) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Orthodontic) (NN work) )
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ possible) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ-1 (NNS teeth) )
+            (VP (VBP are) 
+              (VP (VBN held) 
+                (NP (-NONE- *-1) )
+                (ADVP-MNR 
+                  (ADVP (RB firmly) )
+                  (CC but) (RB not) 
+                  (ADVP (RB rigidly) ))
+                (, ,) 
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (DT a) (NN system) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJ peridontal) (NN membrane) )
+                        (PP (IN with) 
+                          (NP (DT an) (JJ involved) (NN nerve) (NN network) ))))))
+                (, ,) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NN bone) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN jaw) ))))))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ-2 (PRP they) )
+      (VP (VBP are) (RB not) 
+        (VP (VBN anchored) 
+          (NP (-NONE- *-2) )
+          (PP 
+            (ADVP (RB directly) )
+            (TO to) 
+            (NP (DT the) (NN bone) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Abnormal) (NN pressure) )
+      (, ,) 
+      (VP (VBN applied) 
+        (NP (-NONE- *) )
+        (PP-TMP (IN over) 
+          (NP 
+            (NP (DT a) (NN period) )
+            (PP (IN of) 
+              (NP (NN time) ))))))
+    (, ,) 
+    (VP (VBZ produces) 
+      (NP 
+        (NP (DT a) (NN change) )
+        (PP (IN in) 
+          (NP (DT the) (JJ bony) (NN deposit) )))
+      (, ,) 
+      (SBAR-PRP (IN so) 
+        (S 
+          (NP-SBJ (DT a) (NN tooth) )
+          (VP (VBZ functions) 
+            (ADVP-MNR (RB normally) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (JJ new) (NN position) )
+                (SBAR 
+                  (WHPP-2 (IN into) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ-1 (PRP it) )
+                    (VP (VBZ has) 
+                      (VP (VBN been) 
+                        (VP (VBN guided) 
+                          (NP (-NONE- *-1) )
+                          (PP-DIR (-NONE- *T*-2) ))))))))))))
+    (. .) ))
+( (SBARQ 
+    (WHNP-1 (WP What) )
+    (SQ (MD can) 
+      (NP-SBJ (JJ 10-year-old) (NNP Susan) )
+      (VP (VB expect) 
+        (NP (-NONE- *T*-1) )
+        (SBAR-TMP 
+          (WHADVP-2 (WRB when) )
+          (S 
+            (NP-SBJ (PRP she) )
+            (VP (VBZ enters) 
+              (NP 
+                (NP (DT the) (NN orthodontist) (POS 's) )
+                (NN office) )
+              (ADVP-TMP (-NONE- *T*-2) ))))))
+    (. ?) (. ?) ))
+( (S 
+    (PP (IN On) 
+      (NP (PRP her) (JJ first) (VB visit) ))
+    (NP-SBJ (DT the) (NN orthodontist) )
+    (VP (MD will) 
+      (VP (VB take) 
+        (NP 
+          (NP (NNS x-rays) )
+          (, ,) 
+          (NP (NNS photographs) )
+          (, ,) 
+          (NP (NN tooth) (NNS measurements) )
+          (, ,) 
+          (CC and)
+          (NP (`` ``) 
+            (NP (NN tooth) (NNS prints) )
+            ('' '') (: --) 
+            (NP 
+              (NP (DT an) (NN impression) )
+              (PP (IN of) 
+                (NP (DT the) (NN mouth) ))
+              (SBAR 
+                (WHNP-1 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (VBZ permits) 
+                    (S 
+                      (NP-SBJ (PRP him) )
+                      (VP (TO to) 
+                        (VP (VB study) 
+                          (NP (PRP$ her) (NNS teeth) 
+                            (CC and)
+                            (NNS jaws) ))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ-1 (PRP he) )
+        (VP (VBZ decides) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB proceed) ))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (MD will) 
+      (VP (VB custom-make) 
+        (PP (IN for) 
+          (NP (NNP Susie) ))
+        (NP 
+          (NP (DT an) (NN appliance) )
+          (VP (VBG consisting) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNS bands) )
+                (, ,) 
+                (NP (JJ plastic) (NNS plates) )
+                (, ,) 
+                (NP (JJ fine) (NNS wires) )
+                (, ,) 
+                (CC and)
+                (NP (JJ tiny) (NNS springs) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN appliance) )
+    (VP (MD will) 
+      (VP (VB exert) 
+        (NP 
+          (NP (DT a) 
+            (ADJP 
+              (ADJP (JJ gentle) )
+              (CC and) 
+              (ADJP (JJ continuous) (CC or) (JJ intermittent) ))
+            (NN pressure) )
+          (PP (IN on) 
+            (NP (DT the) (NN bone) )))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN As) 
+      (S 
+        (NP-SBJ (DT the) (NN tooth) )
+        (VP (VBZ moves) )))
+    (, ,) 
+    (S 
+      (NP-SBJ 
+        (NP (NN bone) (NNS cells) )
+        (PP-LOC (IN on) 
+          (NP 
+            (NP (DT the) (NN pressure) (NN side) )
+            (PP (IN of) 
+              (NP (PRP it) )))))
+      (VP (MD will) 
+        (VP (VB dissolve) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (JJ new) (NNS ones) )
+      (VP (MD will) 
+        (VP (VB form) 
+          (PP-LOC (IN on) 
+            (NP 
+              (NP (DT the) (NN side) )
+              (SBAR 
+                (WHPP-1 (IN from) 
+                  (WHNP (WDT which) ))
+                (S 
+                  (NP-SBJ (DT the) (NN tooth) )
+                  (VP (VBZ has) 
+                    (VP (VBN moved) 
+                      (PP-DIR (-NONE- *T*-1) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT This) )
+    (VP (MD must) 
+      (VP (VB be) 
+        (VP (VBN done) 
+          (NP (-NONE- *-1) )
+          (UCP 
+            (PP (IN at) 
+              (NP 
+                (NP (DT the) (NN rate) )
+                (SBAR 
+                  (WHPP-2 (IN at) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (JJ new) (JJ bony) (NN tissue) )
+                    (VP (VBZ grows) 
+                      (PP (-NONE- *T*-2) ))))))
+            (, ,) 
+            (CC and)
+            (ADVP (RB no) (RB faster) )))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-3 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ-1 (NNS teeth) )
+          (VP (VBP are) 
+            (VP (VBN moved) 
+              (NP (-NONE- *-1) )
+              (ADVP-MNR (RB too) (RB rapidly) )))))
+      (, ,) 
+      (NP-SBJ-2 (JJ serious) (NN injury) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (VP (VBN done) 
+            (NP (-NONE- *-2) )
+            (PP 
+              (PP (TO to) 
+                (NP (PRP$ their) (NNS roots) ))
+              (CONJP (RB as) (RB well) (IN as) )
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (VBG surrounding) (NN bone) )
+                  (VP (VBG holding) 
+                    (NP (PRP them) )
+                    (PP-LOC (IN in) 
+                      (NP (NN place) ))))))))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ explains) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (. .) ))
+( (S (`` ``) 
+    (S 
+      (S-NOM-SBJ 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG Moving) 
+          (NP (CD one) (CC or) (CD two) (NNS teeth) )))
+      (VP (MD can) 
+        (VP (VB affect) 
+          (NP (DT the) (JJ whole) (NN system) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (DT an) (JJ ill-conceived) (NN plan) )
+        (PP (IN of) 
+          (NP (NN treatment) )))
+      (VP (MD can) 
+        (VP (VB disrupt) 
+          (NP 
+            (NP (DT the) (NN growth) (NN pattern) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (NN child) (POS 's) )
+                (NN face) ))))))
+    ('' '') (. .) ))
+( (S 
+    (S 
+      (PP-TMP 
+        (PP (IN During) 
+          (NP 
+            (NP (DT the) (JJ first) (JJ few) (NNS days) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG wearing) 
+                  (NP (DT the) (NN appliance) ))))))
+        (CC and) 
+        (PP 
+          (ADVP (RB immediately) )
+          (VBG following) 
+          (NP (DT each) (NN adjustment) )))
+      (, ,) 
+      (NP-SBJ (NNP Susan) )
+      (VP (MD may) 
+        (VP (VB have) 
+          (NP (DT a) (JJ slight) (NN discomfort) (CC or) (NN soreness) ))))
+    (, ,) (CC but) 
+    (S 
+      (PP-TMP (IN after) 
+        (NP (DT a) (JJ short) (NN time) ))
+      (NP-SBJ (DT this) )
+      (VP (MD will) 
+        (VP (VB disappear) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Parents) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB often) )
+      (ADJP-PRD (VBN concerned) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (JJ orthodontic) (NNS appliances) )
+            (VP (MD may) 
+              (VP (VB cause) 
+                (S 
+                  (NP-SBJ (NNS teeth) )
+                  (VP (TO to) 
+                    (VP (VB decay) )))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-3 (WRB When) )
+      (S 
+        (NP-SBJ (-NONE- *-4) )
+        (PP-LOC-PRD (IN in) 
+          (NP (NN place) ))
+        (ADVP-TMP (-NONE- *T*-3) )))
+    (, ,) 
+    (NP-SBJ-4 (DT a) (JJ well-cemented) (NN band) )
+    (ADVP (RB actually) )
+    (VP (VBZ protects) 
+      (NP 
+        (NP (DT the) (NN part) )
+        (PP (IN of) 
+          (NP (DT the) (NN tooth) ))
+        (SBAR 
+          (WHNP-2 (WDT that) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBZ is) 
+              (VP (VBN covered) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (IN Next) )
+    (NP-SBJ (NNP Susie) )
+    (VP (MD will) 
+      (VP 
+        (VP (VB enter) 
+          (NP (DT the) (NN treatment) (NN stage) ))
+        (CC and) 
+        (VP (VB visit) 
+          (NP (DT the) (NN orthodontist) )
+          (ADVP-TMP (RB once) (CC or) (RB twice) 
+            (NP (DT a) (NN month) ))
+          (, ,) 
+          (PP (VBG depending) 
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (NN severity) )
+                (PP (IN of) 
+                  (NP (PRP$ her) (NN condition) ))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP (DT these) (NNS visits) ))
+    (NP-SBJ-1 (DT the) (NN dentist) )
+    (VP (MD will) 
+      (VP (VB adjust) 
+        (NP (DT the) (NNS braces) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB increase) 
+              (NP 
+                (NP (DT the) (NN pressure) )
+                (PP-LOC (IN on) 
+                  (NP (PRP$ her) (NNS teeth) ))))))))
+    (. .) ))
+( (SINV 
+    (ADVP-TMP (RB Last) )
+    (VP (VBZ comes) )
+    (NP-SBJ (DT the) (NN retention) (NN stage) )
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Susie) (POS 's) )
+      (NNS teeth) )
+    (VP (VBP have) 
+      (ADVP-TMP (RB now) )
+      (VP (VBN been) 
+        (VP (VBN guided) 
+          (NP (-NONE- *-1) )
+          (PP-DIR (IN into) 
+            (NP (DT a) (JJ desirable) (JJ new) (NN position) )))))
+    (. .) ))
+( (S (CC But) 
+    (SBAR-PRP (IN because) 
+      (S 
+        (NP-SBJ (NNS teeth) )
+        (ADVP-TMP (RB sometimes) )
+        (VP (MD may) 
+          (VP (VB drift) 
+            (ADVP (RB back) )
+            (PP-DIR (TO to) 
+              (NP (PRP$ their) (JJ original) (NN position) ))))))
+    (, ,) 
+    (NP-SBJ-1 (DT a) (VBG retaining) (NN appliance) )
+    (VP (VBZ is) 
+      (VP (VBN used) 
+        (NP (-NONE- *-1) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB lock) 
+              (NP (PRP them) )
+              (PP-LOC (IN in) 
+                (NP (NN place) )))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Usually) )
+    (NP-SBJ (DT this) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (JJ thin) (NN band) )
+        (PP (IN of) 
+          (NP (NN wire) ))
+        (VP 
+          (VP (VBN attached) 
+            (NP (-NONE- *) )
+            (PP (TO to) 
+              (NP (DT the) (NNS molars) )))
+          (CC and) 
+          (VP (VBG stretching) 
+            (PP-LOC (IN across) 
+              (NP (DT the) (NNS teeth) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Susie) )
+    (VP (MD may) 
+      (VP (VB wear) 
+        (NP (DT this) )
+        (PP-TMP 
+          (PP 
+            (ADVP (JJ only) )
+            (IN at) 
+            (NP (NN night) ))
+          (CC or) 
+          (PP (IN for) 
+            (NP 
+              (NP (DT a) (JJ few) (NNS hours) )
+              (PP-TMP (IN during) 
+                (NP (DT the) (NN day) )))))))
+    (. .) ))
+( (SINV 
+    (ADVP-TMP (RB Then) )
+    (VP (VBZ comes) )
+    (NP-SBJ 
+      (NP (DT the) (NN time) )
+      (SBAR 
+        (WHADVP-4 (WRB when) )
+        (S 
+          (S 
+            (NP-SBJ-1 (DT the) (JJ last) (NN wire) )
+            (VP (VBZ is) 
+              (VP (VBN removed) 
+                (NP (-NONE- *-1) ))))
+          (CC and) 
+          (S 
+            (NP-SBJ-2 (NNP Susie) )
+            (VP (VBZ walks) 
+              (ADVP-DIR (RB out) )
+              (S-ADV 
+                (NP-SBJ (-NONE- *-2) )
+                (NP-PRD 
+                  (NP (DT a) 
+                    (ADJP 
+                      (ADJP (JJR healthier) )
+                      (CC and) 
+                      (ADJP (RBR more) (JJ attractive) ))
+                    (NN girl) )
+                  (PP (IN than) 
+                    (SBAR 
+                      (WHADVP-3 (WRB when) )
+                      (S 
+                        (NP-SBJ (PRP she) )
+                        (ADVP-TMP (RB first) )
+                        (VP (VBD went) 
+                          (PP (TO to) 
+                            (NP (DT the) (NN orthodontist) ))
+                          (ADVP-TMP (-NONE- *T*-3) )))))))))
+          (ADVP-TMP (-NONE- *T*-4) ))))
+    (. .) ))
+( (SBARQ 
+    (WHADVP-1 (WRB How) (RB long) )
+    (SQ (MD will) 
+      (NP-SBJ (DT this) )
+      (VP (VB take) 
+        (ADVP (-NONE- *T*-1) )))
+    (. ?) (. ?) ))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Straightening) 
+        (NP 
+          (NP (CD one) (NN tooth) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ-2 (-NONE- *T*-1) )
+              (VP (VBZ has) 
+                (VP (VBN come) 
+                  (ADVP (IN in) )
+                  (S-ADV 
+                    (NP-SBJ (-NONE- *-2) )
+                    (ADJP-PRD (NN wrong) )))))))))
+    (VP (MD may) 
+      (VP (VB take) 
+        (NP (RB only) (DT a) (JJ few) (NNS months) )))
+    (. .) ))
+( (S 
+    (S-NOM-SBJ 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBG Aligning) 
+        (NP (DT all) (DT the) (NNS teeth) )))
+    (VP (MD may) 
+      (VP (VB take) 
+        (NP (DT a) (NN year) 
+          (QP (CC or) (JJR more) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (VBN added) (NN complication) )
+      (PP (JJ such) (IN as) 
+        (NP (DT a) (JJ malformed) (NN jaw) )))
+    (VP (MD may) 
+      (VP (VB take) 
+        (NP 
+          (QP (CD two) (CC or) (CD three) )
+          (NNS years) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB correct) 
+                (NP (-NONE- *T*-1) )))))))
+    (. .) ))
+( (SBARQ 
+    (WHNP-1 (WP What) )
+    (S 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBZ is) 
+        (NP-PRD (DT the) (NN cost) )))
+    (. ?) (. ?) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN charge) )
+      (PP (IN for) 
+        (NP (DT a) (JJ complete) (JJ full-banded) (NN job) )))
+    (VP (VBZ differs) 
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (JJ various) (NNS parts) )
+          (PP (IN of) 
+            (NP (DT the) (NN country) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NN Work) )
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (MD might) 
+            (VP (VB cost) 
+              (NP 
+                (QP ($ $) (CD 500) (TO to) ($ $) (CD 750) )
+                (-NONE- *U*) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN South) )))))))
+    (VP (MD could) 
+      (VP (VB cost) 
+        (NP 
+          (QP ($ $) (CD 750) (TO to) ($ $) (CD 1,200) )
+          (-NONE- *U*) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP New) (NNP York) (NNP City) )
+            (CC or) 
+            (NP (NNP Chicago) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT An) (JJ average) (JJ national) (NN figure) )
+      (PP (IN for) 
+        (NP 
+          (NP 
+            (QP (CD two) (TO to) (CD three) )
+            (NNS years) )
+          (PP (IN of) 
+            (NP (NN treatment) )))))
+    (VP (MD would) 
+      (VP (VB be) 
+        (NP-PRD 
+          (QP ($ $) (CD 650) (TO to) ($ $) (CD 1,000) )
+          (-NONE- *U*) )))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNS Factors) )
+        (PP (IN in) 
+          (NP 
+            (NP (DT the) (NN cost) )
+            (PP (IN of) 
+              (NP (NN treatment) )))))
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP 
+            (NP (DT the) (NN length) )
+            (PP (IN of) 
+              (NP (NN time) ))
+            (VP (VBN involved) 
+              (NP (-NONE- *) )))
+          (CC and) 
+          (NP 
+            (NP (DT the) (NN skill) 
+              (CC and)
+              (NN education) )
+            (PP (IN of) 
+              (NP (DT the) (NN practitioner) ))))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (. .) ))
+( (S 
+    (S 
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO To) 
+          (VP (VB become) 
+            (NP-PRD (DT an) (NN orthodontist) ))))
+      (, ,) 
+      (NP-SBJ-1 (DT a) (NN man) )
+      (VP (MD must) 
+        (ADVP-TMP (RB first) )
+        (VP (VB be) 
+          (VP (VBN licensed) 
+            (NP (-NONE- *-1) )
+            (PP (IN by) 
+              (NP-LGS (PRP$ his) (NN state) ))
+            (PP (IN as) 
+              (NP (DT a) (NN dentist) ))))))
+    (, ,) 
+    (ADVP (RB then) )
+    (S 
+      (NP-SBJ-2 (PRP he) )
+      (VP (MD must) 
+        (VP (VB spend) 
+          (NP 
+            (QP (IN at) (JJS least) (CD two) )
+            (NNS years) )
+          (PP (IN in) 
+            (NP (JJ additional) (NN training) ))
+          (S-PRP 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB acquire) 
+                (NP (DT a) (NN license) )
+                (PP (IN as) 
+                  (NP (DT a) (NN specialist) ))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (S 
+        (NP-SBJ (NNS Costs) )
+        (VP (MD may) 
+          (VP (VB seem) 
+            (ADJP-PRD (JJ high) ))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ-1 (PRP they) )
+        (VP (VBN used) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (ADJP-PRD (RB even) (JJR higher) )))))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (NNS Fees) )
+    (VP (VBP are) 
+      (ADVP (RB about) )
+      (NP-PRD 
+        (NP 
+          (NP (JJ half) )
+          (TO to) 
+          (NP (DT a) (JJ third) ))
+        (PP (IN of) 
+          (SBAR-NOM 
+            (WHNP-1 (WP what) )
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBD were) 
+                (NP-PRD (-NONE- *T*-1) )
+                (ADVP 
+                  (NP (CD 25) (NNS years) )
+                  (RB ago) )))))))
+    ('' '') (. .) ))
+( (NP (DT The) (NN reason) (. ?) (. ?) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS People) )
+      (NP-TMP (NN today) )
+      (VP (VBP are) 
+        (ADJP-PRD (JJ aware) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN value) )
+              (PP (IN of) 
+                (NP (NNS orthodontics) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (PP-PRP (IN as) 
+        (NP (DT a) (NN result) ))
+      (NP-SBJ (EX there) )
+      (VP (VBP are) 
+        (NP-PRD (JJR more) (NNS practitioners) )
+        (PP (IN in) 
+          (NP (DT the) (NN field) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJS Most) (NNS orthodontists) )
+      (VP (VBP require) 
+        (NP 
+          (NP (DT an) (JJ initial) (NN payment) )
+          (SBAR-PRP 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB cover) 
+                  (NP 
+                    (NP (DT the) (NN cost) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (JJ diagnostic) (NNS materials) )
+                        (CC and) 
+                        (NP 
+                          (NP (NN construction) )
+                          (PP (IN of) 
+                            (NP (DT the) (NNS appliances) )))))))))))))
+    (, ,) (CC but) 
+    (S 
+      (ADVP-TMP (RB usually) )
+      (NP-SBJ-1 
+        (NP (DT the) (NN remainder) )
+        (PP (IN of) 
+          (NP (DT the) (NN cost) )))
+      (VP (MD may) 
+        (VP (VB be) 
+          (VP (VBN spread) 
+            (NP (-NONE- *-1) )
+            (PP (IN over) 
+              (NP 
+                (NP (DT a) (NN period) )
+                (PP (IN of) 
+                  (NP (NNS months) (CC or) (NNS years) ))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (JJ many) (NNS cities) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP United) (NNP States) ))))
+    (NP-SBJ 
+      (NP (NNS clinics) )
+      (VP (VBN associated) 
+        (NP (-NONE- *) )
+        (PP (IN with) 
+          (NP (JJ dental) (NNS schools) ))))
+    (VP (MD will) 
+      (VP (VB take) 
+        (NP (NNS patients) )
+        (PP (IN at) 
+          (NP (DT a) (JJ nominal) (NN fee) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT Some) (JJ municipal) (NNS agencies) )
+    (VP (MD will) 
+      (VP (VB pay) 
+        (PP (IN for) 
+          (NP 
+            (NP (JJ orthodontic) (NN treatment) )
+            (PP (IN for) 
+              (NP 
+                (NP (NNS children) )
+                (PP (IN of) 
+                  (NP (JJ needy) (NNS parents) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Research) )
+    (VP (VBZ helps) 
+      (NP (NNS families) ))))
+( (S 
+    (S 
+      (NP-SBJ-1 (NN growth) (NNS studies) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (VP (VBN carried) 
+            (NP (-NONE- *-1) )
+            (PRT (RP on) )
+            (ADVP-MNR (RB consistently) )
+            (PP (IN by) 
+              (NP-LGS (NNS orthodontists) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (VP (VBZ has) 
+      (NP 
+        (NP (JJ 30-year) (NNS records) )
+        (PP (IN of) 
+          (NP (NN head) (NN growth) ))
+        (, ,) 
+        (VP (VBD started) 
+          (NP (-NONE- *) )
+          (PP-TMP 
+            (NP-ADV (CD 20) (NNS minutes) )
+            (IN after) 
+            (NP 
+              (NP (NNS children) (POS 's) )
+              (NNS births) )))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (S 
+        (PP-TMP (IN In) 
+          (NP (DT the) (NN past) ))
+        (NP-SBJ-3 
+          (NP (NN anyone) )
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBD said) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (CD 90) (NN %) )
+                      (PP (IN of) 
+                        (NP (DT all) (NN malocclusion) )))
+                    (VP (VBZ is) 
+                      (ADJP-PRD (JJ hereditary) ))))))))
+        (VP (VBD was) 
+          (VP (VBN scoffed) 
+            (PP (IN at) 
+              (NP (-NONE- *-3) )))))
+      (: ;) (: ;) 
+      (S 
+        (ADVP-TMP (RB now) )
+        (NP-SBJ (PRP we) )
+        (VP (VBP know) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NN family) (NNS characteristics) )
+              (VP (VBP do) 
+                (VP (VB affect) 
+                  (NP (NN tooth) (NN formation) )
+                  (PP (TO to) 
+                    (NP (DT a) (JJ large) (NN extent) )))))))))
+    ('' '') 
+    (, ,)
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (. .) ))
+( (S (`` ``) 
+    (S 
+      (ADVP (RB Fortunately) )
+      (PP (IN through) 
+        (NP (PRP$ our) (NN growth) (NNS studies) ))
+      (NP-SBJ-3 (PRP we) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJ able) 
+            (S 
+              (NP-SBJ (-NONE- *-3) )
+              (VP (TO to) 
+                (VP (VB see) 
+                  (SBAR 
+                    (WHNP-1 (WP what) )
+                    (S 
+                      (NP-SBJ (NN nature) )
+                      (VP (VBZ does) 
+                        (NP (-NONE- *T*-1) )))))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT that) )
+      (VP (VBZ helps) 
+        (S 
+          (NP-SBJ (PRP us) )
+          (VP (VB know) 
+            (SBAR 
+              (WHNP-2 (WP what) )
+              (S 
+                (NP-SBJ (PRP we) )
+                (VP (MD can) 
+                  (VP (VB do) 
+                    (NP (-NONE- *T*-2) )))))))))
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN knowledge) )
+    (VP (DT both) (VBZ modifies) 
+      (CC and)
+      (VBZ dictates) 
+      (NP (NN diagnosis) 
+        (CC and)
+        (NN treatment) ))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ (DT a) (NN boy) )
+    (VP (MD may) 
+      (VP 
+        (VP (VB inherit) 
+          (NP-1 (DT a) (JJ small) (NN jaw) )
+          (PP-2 (IN from) 
+            (NP (CD one) (NN ancestor) )))
+        (CC and) 
+        (VP 
+          (NP=1 (JJ large) (NNS teeth) )
+          (PP=2 (IN from) 
+            (NP (DT another) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (DT the) (NN past) ))
+    (NP-SBJ-2 (DT an) (NN orthodontist) )
+    (VP (MD might) 
+      (VP (VB have) 
+        (VP (VBD tried) 
+          (, ,)
+          (PP-TMP (IN over) 
+            (NP 
+              (QP (CD four) (CC or) (CD five) )
+              (NNS years) ))
+          (, ,) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB straighten) 
+                (CC and)
+                (VB fit) 
+                (NP 
+                  (NP (DT the) (NN boy) (POS 's) )
+                  (JJ large) (NNS teeth) )
+                (PP (IN into) 
+                  (NP 
+                    (NP (DT a) (NN jaw) )
+                    (SBAR 
+                      (WHNP-1 (IN that) )
+                      (, ,) 
+                      (S 
+                        (PP (IN despite) 
+                          (NP (DT some) (NN growth) ))
+                        (, ,) 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD would) 
+                          (ADVP-TMP (RB never) )
+                          (VP (VB accommodate) 
+                            (NP (PRP them) )))))))))))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Now) )
+    (NP-SBJ (DT a) (NN dentist) )
+    (VP (MD can) 
+      (VP (VB recommend) 
+        (NP (NN extraction) )
+        (ADVP (RB immediately) )))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (JJ other) (NNS cases) ))
+    (, ,) 
+    (PP (IN in) 
+      (NP 
+        (NP (NN view) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ present-day) (NN knowledge) )
+            (PP (IN of) 
+              (NP (NN head) (NN growth) ))))))
+    (, ,) 
+    (NP-SBJ (NNS orthodontists) )
+    (VP (MD will) 
+      (VP (VB recommend) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG waiting) 
+            (NP-TMP 
+              (QP (CD four) (CC or) (CD five) )
+              (NNS years) )
+            (PP-TMP (IN before) 
+              (NP (NN treatment) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (NN child) )
+      (VP (VBZ is) 
+        (VP (VBN kept) 
+          (NP (-NONE- *-1) )
+          (PP (IN on) 
+            (NP (NN call) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT the) (NN orthodontist) )
+      (VP (VBZ watches) 
+        (NP (DT the) (NN growth) )))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (NN Nature) )
+      (ADVP-TMP (RB often) )
+      (VP (VBZ takes) 
+        (NP (NN care) )
+        (PP (IN of) 
+          (NP (DT the) (NN problem) ))))
+    ('' '') 
+    (, ,)
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ 
+      (NP (DT A) (NN child) )
+      (PP (IN with) 
+        (NP 
+          (NP (DT a) (JJ certain) (NN type) )
+          (PP (IN of) 
+            (NP (NN head) 
+              (CC and)
+              (NNS teeth) )))))
+    (VP (MD will) 
+      (VP (VB outgrow) 
+        (NP (NN tooth) (NN deformity) )))
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ is) 
+      (SBAR-PRP-PRD 
+        (WHADVP-3 (WRB why) )
+        (S 
+          (NP-SBJ (NNP Dr.) (NNP Brodie) )
+          (VP (VBZ asks) 
+            (NP-1 (NNS parents) )
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (RB not) 
+              (VP (TO to) 
+                (VP (VB insist) 
+                  (, ,)
+                  (PP (IN against) 
+                    (NP 
+                      (NP (PRP$ their) (NN dentist) (POS 's) )
+                      (NN advice) ))
+                  (, ,) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (PRP$ their) (NN child) )
+                      (VP (VB have) 
+                        (S 
+                          (NP-SBJ-2 (JJ orthodontic) (NN work) )
+                          (VP (VBN done) 
+                            (NP (-NONE- *-2) )
+                            (ADVP-TMP (RB too) (RB early) )))))))))
+            (ADVP-PRP (-NONE- *T*-3) )))))
+    (. .) ))
+( (S (`` ``) 
+    (PP-PRP (DT Both) (IN because) (IN of) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (PRP$ our) (NN culture) (POS 's) )
+            (NN stress) )
+          (PP (IN on) 
+            (NP (NN beauty) )))
+        (CC and) 
+        (NP (PRP$ our) (VBN improved) (JJ economic) (NNS conditions) )))
+    (, ,) 
+    (NP-SBJ (DT some) (NNS parents) )
+    (VP (VBP demand) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN dentist) )
+          (VP (VB try) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB correct) 
+                  (NP (DT a) (NN problem) )
+                  (SBAR-TMP (IN before) 
+                    (S 
+                      (NP-SBJ 
+                        (NP (PRP it) )
+                        (S (-NONE- *EXP*-3) ))
+                      (VP (VBZ is) 
+                        (ADJP-PRD (JJ wise) )
+                        (S-3 
+                          (NP-SBJ (-NONE- *) )
+                          (VP (TO to) 
+                            (VP (VB do) 
+                              (ADVP (RB so) ))))))))))))))
+    (. .) ))
+( (S 
+    (S-IMP-TPC-1 
+      (NP-SBJ (-NONE- *) )
+      (VP (VB Let) 
+        (S 
+          (NP-SBJ (DT the) (NN orthodontist) )
+          (VP (VB decide) 
+            (NP 
+              (NP (DT the) (JJ proper) (NN time) )
+              (SBAR 
+                (WHADVP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB start) 
+                      (NP (NN treatment) )
+                      (ADVP-TMP (-NONE- *T*-2) ))))))))))
+    ('' '') 
+    (, ,)
+    (NP-SBJ (PRP he) )
+    (VP (VBZ urges) 
+      (S-IMP (-NONE- *T*-1) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Superior) (JJ new) (NN material) )
+      (PP (IN for) 
+        (NP (JJ orthodontic) (NN work) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT another) (NN result) )
+        (PP (IN of) 
+          (NP (NN research) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Plastics) )
+      (VP (VBP are) 
+        (ADJP-PRD 
+          (ADJP (JJR easier) 
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB handle) 
+                    (NP (-NONE- *T*-1) ))))))
+          (PP (IN than) 
+            (NP 
+              (NP (DT the) (VBN vulcanized) (NN rubber) )
+              (VP 
+                (ADVP-TMP (RB formerly) )
+                (VBN used) 
+                (NP (-NONE- *) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP (VBP save) 
+        (NP (NN time) 
+          (CC and)
+          (NN money) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NNP Plaster) )
+      (PP (IN of) 
+        (NP (NNP Paris) ))
+      (, ,) 
+      (VP 
+        (ADVP-TMP (RB once) )
+        (VBN utilized) 
+        (NP (-NONE- *) )
+        (PP (IN in) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG making) 
+              (NP 
+                (NP (NNS impressions) )
+                (PP (IN of) 
+                  (NP (NNS teeth) ))))))))
+    (, ,) 
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN replaced) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP 
+                (NP (NNS alginates) )
+                (PRN 
+                  (-LRB- -LRB-)
+                  (NP (JJ gelatin-like) (NN material) )
+                  (-RRB- -RRB-) ))
+              (SBAR 
+                (WHNP-2 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (VBP work) 
+                    (UCP 
+                      (ADVP-MNR (RB quickly) 
+                        (CC and)
+                        (RB accurately) )
+                      (CC and) 
+                      (PP (IN with) 
+                        (NP 
+                          (NP (JJS least) (NN discomfort) )
+                          (PP (TO to) 
+                            (NP (DT a) (NN child) )))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NN Prevention) )
+      (VP (VBZ is) 
+        (ADJP-PRD (JJS best) )
+        (PP (IN as) 
+          (NP (DT a) (NN rule) ))))
+    (, ,) 
+    (ADVP 
+      (ADVP (DT the) (JJR earlier) )
+      (SBAR 
+        (WHADVP-2 (-NONE- 0) )
+        (S 
+          (NP-SBJ-1 (JJ general) (NN dental) (NN treatment) )
+          (VP (VBZ is) 
+            (VP (VBN started) 
+              (NP (-NONE- *-1) )
+              (ADVP-TMP (-NONE- *T*-2) ))))))
+    (, ,) 
+    (ADJP-PRD-TPC-3 (DT the) 
+      (ADJP 
+        (ADJP (RBR less) (JJ expensive) )
+        (CC and) 
+        (ADJP (RBR more) (JJ satisfactory) )))
+    (NP-SBJ-4 (PRP it) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ likely) 
+        (S 
+          (NP-SBJ (-NONE- *-4) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (ADJP-PRD (-NONE- *T*-3) ))))))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-1 
+      (SBAR-TMP (IN After) 
+        (S 
+          (NP-SBJ 
+            (NP (PRP$ your) (NN child) (POS 's) )
+            (NN baby) (NNS teeth) )
+          (VP (VBP are) (DT all) 
+            (ADVP-PRD (IN in) ))))
+      (PRN (: --) 
+        (ADVP-TMP (RB usually) )
+        (PP-TMP (IN at) 
+          (NP 
+            (NP (DT the) (NN age) )
+            (PP (IN of) 
+              (NP 
+                (QP (CD two) 
+                  (CC and)
+                  (CD one) (NN half) (TO to) (CD three) )))))
+        (: --) )
+      (NP-SBJ (PRP it) )
+      (VP (POS 's) 
+        (NP-PRD 
+          (NP (NN time) )
+          (PP (IN for) 
+            (NP (DT that) (JJ first) (JJ dental) (NN appointment) )))))
+    ('' '') 
+    (, ,)
+    (NP-SBJ (NNP Dr.) (NNP Brodie) )
+    (VP (VBZ advises) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))
+( (S-IMP (`` ``) 
+    (ADVP (RB Then) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB see) 
+      (SBAR (DT that) 
+        (S 
+          (NP-SBJ (PRP$ your) (NN youngster) )
+          (VP (VBZ has) 
+            (NP (DT a) (JJ routine) (NN checkup) )
+            (ADVP-TMP (IN once) 
+              (NP (DT a) (NN year) ))))))
+    ('' '') (. .) ))
+( (S 
+    (S-PRP 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (TO To) 
+        (VP (VB help) 
+          (VP (VB prevent) 
+            (NP-2 (JJ orthodontic) (NNS problems) )
+            (PP (IN from) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (VBG arising) )))))))
+    (, ,) 
+    (NP-SBJ-1 (PRP$ your) (NN dentist) )
+    (VP (MD can) 
+      (VP (VB do) 
+        (NP 
+          (NP (DT these) (NNS things) )
+          (: :) 
+          (S 
+            (NP-SBJ-3 (PRP He) )
+            (VP (MD can) 
+              (VP (VB correct) 
+                (NP (NN decay) )
+                (, ,) 
+                (S-ADV 
+                  (ADVP (RB thus) )
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (VBG preventing) 
+                    (NP 
+                      (NP (JJ early) (NN loss) )
+                      (PP (IN of) 
+                        (NP (NNS teeth) )))))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV 
+      (SBAR (IN If) 
+        (S 
+          (NP-SBJ (DT a) (NN child) )
+          (VP (VBZ does) 
+            (VP (VB lose) 
+              (NP (PRP$ his) (JJ first) (NNS teeth) )
+              (ADVP (RB prematurely) )
+              (PP-PRP (IN because) (IN of) 
+                (NP (NN decay) ))))))
+      (: --) 
+      (CC and)
+      (SBAR (IN if) 
+        (S 
+          (NP-SBJ-1 (DT no) (NN preventive) (NNS steps) )
+          (VP (VBP are) 
+            (VP (VBN taken) 
+              (NP (-NONE- *-1) )))))
+      (: --) )
+    (NP-SBJ (DT the) (JJ other) (NNS teeth) )
+    (VP (MD may) 
+      (VP 
+        (VP (VB shift) 
+          (PP (IN out) 
+            (PP (IN of) 
+              (NP (NN position) ))))
+        (, ,) 
+        (VP (VB become) 
+          (ADJP-PRD (JJ overcrowded) 
+            (CC and)
+            (JJ malformed) ))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN turn) ))
+    (NP-SBJ-1 (DT the) (JJ other) (NNS teeth) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ likely) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB decay) ))))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ-2 (NN food) (NNS particles) )
+          (VP (MD may) 
+            (VP (VB become) 
+              (VP (VBN impacted) 
+                (NP (-NONE- *-2) )
+                (PP-LOC (IN in) 
+                  (NP (PRP them) ))))))))
+    (. .) ))

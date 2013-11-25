@@ -1,0 +1,104 @@
+
+
+( (S (NP-SBJ (NP Computer Sciences Corp.)
+             ,
+             (NP-LOC (NP El Segundo)
+		     ,
+		     (NP Calif.)
+		     ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the National Aeronautics and Space Administration)
+                  (VP will
+                      (VP negotiate
+                          (NP (NP details)
+                              (PP of
+                                  (NP (NP a contract
+					  (S *ICH*-1))
+                                      (VP valued
+                                          (NP *)
+                                          (PP-CLR at
+						  (NP (QP about $ 170 million) *U*)))
+                                      (S-1 (NP-SBJ *)
+					   (VP to
+					       (VP provide
+						   (NP (NP software)
+						       (PP for
+							   (NP the Ames Research Center))))))))))))))
+     .))
+( (SINV (VP-TPC-2 Included
+		  (NP *-1)
+		  (PP-LOC-CLR in
+			      (NP the three-year contract)))
+        (VP are
+	    (VP *T*-2))
+        (NP-SBJ-1 (NP options)
+		  (PP for
+		      (NP two one-year renewals)))
+	.))
+( (S (S (NP-SBJ NASA)
+        (VP awarded
+            (NP the contract)
+            (PP-DTV to
+		    (NP CSC))
+	    (PP-TMP in
+		    (NP November))))
+     but
+     (S (NP-SBJ (NP an appeal)
+		(PP by
+		    (NP (NP Sterling Software Inc.)
+			(PP of
+			    (NP Dallas)))))
+	(VP sent
+	    (NP the contract)
+	    (PP-DTV to
+		    (NP (NP the General Services Administration Board)
+			(PP of
+			    (NP Contract Appeals))))))
+     and
+     (S (NP-SBJ the board)
+	(VP required
+	    (S (NP-SBJ NASA)
+	       (VP to
+		   (VP re-evaluate
+		       (NP (NP bidders ')
+			   proposals))))))
+     .))
+( (S (NP-SBJ Sterling)
+     (VP (VP had
+	     (VP completed
+		 (NP (NP a five-year contract)
+		     (PP for
+			 (NP NASA)))))
+	 but
+	 (VP lost
+	     (NP (NP its bid)
+		 (PP for
+		     (NP renewal)))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-1 *-2)
+		  (VP directed
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS the board)))))
+     ,
+     (NP-SBJ-2 NASA)
+     (VP (VP completed
+             (NP the evaluation))
+         and
+	 (VP (ADVP-TMP again)
+	     chose
+             (NP CSC)))
+     .))
+( (S (PP For
+         (NP (NP its fiscal year)
+             (VP ended
+                 (NP-TMP March 31))))
+     ,
+     (NP-SBJ CSC)
+     (VP had
+         (NP (NP revenue)
+             (PP of
+                 (NP (QP $ 1.3 billion) *U*))))
+     .))

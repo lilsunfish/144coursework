@@ -1,0 +1,87 @@
+
+
+( (S (NP-SBJ-1 (NP Terry L. Haines)
+               , 
+	       formerly
+               (NP (NP general manager)
+                   (PP of
+                       (NP Canadian operations)))
+               ,)
+     (VP was
+         (VP elected
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the new position)
+			 (PP of
+			     (NP (NP vice president)
+				 ,
+				 (NP North American sales)
+				 ,
+				 (PP of
+				     (NP this plastics concern))))))))
+     .))
+( (S (ADVP Also)
+     ,
+     (NP-SBJ-1 (NP Larry A. Kushkin)
+               ,
+               (NP (NP executive vice president)
+                   ,
+                   (NP North American operations))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP (NP head)
+			    (PP of
+				(NP (NP the company 's)
+				    international automotive operations)))
+			,
+			(NP another new position)))))
+     .))
+( (S-1 (S (NP-SBJ He)
+	  (VP remains
+	      (NP-PRD an executive vice president)))
+       (PRN ,
+	    (S (NP-SBJ the company)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,) 
+       and
+       (S (NP-SBJ his new position)
+	  (VP reflects 
+	      ``
+	      (NP (NP the growing importance)
+		  (PP of
+		      (NP the world automotive market))
+		  (PP as
+		      (NP (NP a market)
+			  (PP for
+			      (NP (NP A. Schulman 's)
+				  high performance plastic materials)))))))
+       .
+       ''))
+( (S (S-TPC-2 (S (NP-SBJ Gordon Trimmer)
+		 (VP will
+		     (VP succeed
+			 (NP Mr. Haines)
+			 (PP-CLR as
+				 (NP (NP manager)
+				     (PP of
+					 (NP Canadian operations)))))))
+	      , 
+	      and
+	      (S (NP-SBJ-1 (NP Mr. Kushkin 's)
+			   former position)
+		 (VP is n't
+		     (VP being
+			 (VP filled
+			     (NP *-1)
+			     (PP-TMP at
+				     (NP this time)))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))

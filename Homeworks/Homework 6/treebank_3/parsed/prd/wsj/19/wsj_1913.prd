@@ -1,0 +1,139 @@
+
+
+( (S (NP-SBJ New York Times Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net income)
+                  (VP rose
+		      (PP-TMP in
+			      (NP the third quarter))
+		      (PP-PRP because of
+			      (NP (NP a one-time gain)
+				  (PP-LOC on
+					  (NP (NP the sale)
+					      (PP of
+						  (NP (NP the company 's)
+						      cable-TV system))))))))))
+     .))
+( (S (NP-SBJ Net)
+     (VP surged
+         (PP-DIR to
+		 (NP (NP (QP $ 210.8 million) *U*)
+		     ,
+		     or
+		     (NP (NP $ 2.68 *U*)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 26.7 million) *U*)
+		     ,
+		     or
+		     (NP (NP 33 cents)
+			 (NP-ADV a share))
+		     ,)
+		 (ADVP-TMP (NP a year)
+			   earlier)))
+     .))
+( (S (NP-SBJ The latest quarter)
+     (VP included
+         (NP (NP a gain)
+             (PP of
+                 (NP (NP (QP $ 193.3 million) *U*)
+                     ,
+		     or
+                     (NP (NP $ 2.46 *U*)
+                         (NP-ADV a share))
+                     ,))
+             (PP from
+                 (NP (NP the sale)
+		     (PP of
+			 (NP New York Times Cable))
+                     ,
+                     (VP completed
+                         (NP *)
+                         (PP-TMP in
+				 (NP August)))))))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (ADJP-PRD Exclusive
+		      (PP of
+			  (NP the gain))))
+     ,
+     (NP-SBJ operating profit)
+     (VP declined
+	 (NP-EXT 35 %)
+	 (PP-DIR to
+		 (NP (NP (QP $ 16.4 million) *U*)
+		     , 
+		     or
+		     (NP (NP 21 cents)
+			 (NP-ADV a share))
+		     ,))
+	 (PP-DIR from
+		 (NP (NP (QP $ 25.2 million) *U*)
+		     ,
+		     or
+		     (NP (NP 31 cents)
+			 (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ The decline)
+     (VP (ADVP primarily)
+         reflected
+         (NP (NP (NP the dilution)
+                 (PP from
+                     (S-NOM (NP-SBJ *)
+			    (VP acquiring
+				(NP (NP McCall 's)
+				    ,
+				    (NP (NP Golf World)
+					(PRN -LRB-
+					     (NP-LOC U.S.)
+					     -RRB-))
+				    and
+				    (NP Sailing World magazines))))))
+             ;
+             (NP (NP lower equity earnings)
+                 (PP from
+                     (NP the forest-products group))
+                 (PP-PRP because of
+                         (NP (NP price discounting)
+                             and
+                             (NP an unfavorable exchange rate))))
+             , 
+	     and
+             (NP (NP an (ADJP 8.7 %) decline)
+                 (PP-LOC in
+			 (NP advertising linage))
+                 (PP-LOC at
+			 (NP (NP the New York Times)
+			     ,
+			     (NP (NP the company 's)
+				 flagship newspaper))))))
+     .))
+( (S (NP-SBJ (NP Advertising volume)
+             (PP-LOC at
+		     (NP (NP the company 's)
+			 35 regional newspapers)))
+     (VP decreased
+         (NP-EXT 1.1 %))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the negative factors)
+                  (VP are
+                      (VP expected
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP continue
+                                     (PP-DIR into
+					     (NP next year))))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 6.4 %)
+         (PP-DIR to
+		 (NP (QP $ 415.3 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 390.5 million) *U*)))
+     .))

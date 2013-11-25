@@ -1,0 +1,1746 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (S (NP-SBJ-1 A tsunami)
+     (VP may
+         (VP be
+             (VP started
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP a sea bottom slide)
+			     ,
+			     (NP an earthquake)
+			     or
+			     (NP a volcanic eruption))))))
+     .))
+( (S (S (NP-SBJ-1 (NP The
+		      (ADJP most infamous))
+		  (PP of
+                      (NP all)))
+        (VP was
+            (VP launched
+                (NP *-1)
+                (PP by
+                    (NP-LGS (NP the explosion)
+			    (PP of
+				(NP (NP the island)
+				    (PP of
+					(NP Krakatoa))))
+			    (PP-TMP in
+				    (NP 1883)))))))
+     ; ;
+     (S (NP-SBJ it)
+        (VP (VP raced
+                (PP-DIR across
+			(NP the Pacific))
+                (PP at
+                    (NP (NP 300 miles)
+                        (NP-ADV an hour))))
+            ,
+            (VP (VP devastated
+                    (NP (NP the coasts)
+                        (PP of
+                            (NP Java and Sumatra)))
+                    (PP with
+                        (NP (NP waves)
+                            (ADJP (NP-ADV (QP 100 to 130)
+					  feet)
+                                  high))))
+                , 
+		and
+                (VP pounded
+                    (NP the shore)
+		    (ADVP-LOC (ADVP (ADVP as far) away)
+			      (PP as
+				  (NP San Francisco)))))))
+     .))
+( (S (NP-SBJ The ancient Greeks)
+     (VP recorded
+         (NP (NP several catastrophic inundations)
+             (PP by
+                 (NP huge waves))))
+     .))
+( (S (SBAR-ADV Whether or not
+	       (S (NP-SBJ (NP (NP Plato 's)
+			      tale)
+			  (PP of
+			      (NP (NP the lost continent)
+				  (PP of
+				      (NP Atlantis)))))
+		  (VP is
+		      (ADJP-PRD true))))
+     ,
+     (NP-SBJ skeptics)
+     (VP concede
+         (SBAR that
+               (S (NP-SBJ the myth)
+                  (VP may
+                      (VP have
+                          (NP (NP some foundation)
+                              (PP in
+                                  (NP (NP a great tsunami)
+                                      (PP of
+                                          (NP ancient times))))))))))
+     .))
+( (S (ADVP Indeed)
+     ,
+     (NP-SBJ (NP a
+                 (ADJP tremendously destructive)
+                 tsunami)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP arose
+                          (PP-LOC in
+				  (NP the Arabian Sea))
+			  (PP-TMP in
+				  (NP 1945))))))
+     (VP has
+         (ADVP even)
+         (VP revived
+             (NP (NP the interest)
+                 (PP of
+                     (NP geologists and archaeologists))
+                 (PP in
+                     (NP (NP the Biblical story)
+                         (PP of
+                             (NP the Flood)))))))
+     .))
+( (S (S (NP-SBJ (NP One)
+                (PP of
+                    (NP (NP the
+			    (ADJP most damaging)
+			    tsunami)
+                        (PP on
+                            (NP record)))))
+        (VP followed
+            (NP (NP the famous Lisbon earthquake)
+                (PP of
+                    (NP November 1 , 1755)))))
+     ; ;
+     (S (NP-SBJ-1 its waves)
+        (VP (VP persisted
+		(PP-TMP for
+			(NP a week)))
+	    and
+	    (VP were
+		(VP felt
+		    (NP *-1)
+		    (ADVP-LOC (ADVP (ADVP as far)
+				    away)
+			      (PP as
+				  (NP the English coast)))))))
+     .))
+( (S (S (NP-SBJ Tsunami)
+        (VP are
+            (ADJP-PRD rare)
+	    ,
+	    (ADVP however)
+	    ,
+	    (PP-LOC in
+		    (NP the Atlantic Ocean))))
+     ; ;
+     (S (NP-SBJ they)
+        (VP are
+            (ADJP-PRD (ADVP far more)
+                      common)
+	    (PP-LOC in
+		    (NP the Pacific))))
+     .))
+( (S (NP-SBJ Japan)
+     (VP has
+         (VP had
+             (NP (NP 15 destructive ones)
+                 (PRN -LRB-
+		      (NP (NP eight)
+			  (PP of
+			      (NP them))
+			  (ADJP disastrous))
+		      -RRB-))
+	     (PP-TMP since
+		     (NP 1596))))
+     .))
+( (S (NP-SBJ-1 The Hawaiian Islands)
+     (VP are
+         (VP struck
+             (NP *-1)
+             (ADVP-MNR severely)
+             (NP-TMP (NP an average)
+		     (PP of
+			 (ADVP once
+			       (NP every 25 years))))))
+     .))
+( (S (S (PP-TMP In
+		(NP 1707))
+	(NP-SBJ (NP an earthquake)
+                (PP-LOC in
+			(NP Japan)))
+        (VP generated
+            (NP (NP waves)
+                (ADJP (ADJP so huge)
+                      (SBAR that
+                            (S (NP-SBJ they)
+                               (VP piled
+                                   (PP-DIR into
+					   (NP the Inland Sea)))))))))
+     ; ;
+     (S (NP-SBJ one wave)
+        (VP swamped
+            (NP (NP (QP more than 1,000)
+		    ships and boats)
+		(PP-LOC in
+			(NP Osaka Bay)))))
+     .))
+( (S (NP-SBJ-1 (NP A tsunami)
+	       (PP-LOC in
+		       (NP the Hawaiian Islands))
+	       (PP-TMP in
+		       (NP 1869)))
+     (VP washed
+         (ADVP away)
+         (NP (NP an entire town)
+             (PRN -LRB-
+		  (NP Ponoluu)
+		  -RRB-))
+         ,
+         (S-ADV (NP-SBJ *-1)
+		(VP leaving
+		    (NP (NP (QP only two) 
+			    forlorn trees)
+			(VP standing
+			    (SBAR-LOC (WHADVP-2 where)
+				      (S (NP-SBJ the community)
+					 (VP had
+					     (VP been
+						 (ADVP-LOC-PRD *T*-2))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP 1896))
+     (NP-SBJ a Japanese tsunami)
+     (VP (VP killed
+             (NP 27,000 people))
+         and
+         (VP swept
+             (ADVP away)
+             (NP 10,000 homes)))
+     .))
+( (S (NP-SBJ (NP The dimensions)
+             (PP of
+                 (NP these waves)))
+     (VP dwarf
+         (NP (NP all our usual standards)
+             (PP of
+                 (NP measurement))))
+     .))
+( (S (NP-SBJ-3 An ordinary sea wave)
+     (VP is
+	 (ADVP-TMP rarely)
+	 (ADJP-PRD (NP-ADV (QP more than a few hundred)
+			   feet)
+		   long)
+	 (PP (PP from
+		 (NP crest))
+	     (PP to
+		 (NP crest)))
+	 --
+	 (S-ADV (NP-SBJ *-3)
+		(ADJP-PRD (ADJP (ADJP no longer)
+				(PP than
+				    (NP-1 320 feet))
+				(PP-LOC-2 in
+					  (NP the Atlantic)))
+			  or
+			  (ADJP (NP=1 1,000 feet)
+				(PP-LOC=2 in
+					  (NP the Pacific))))))
+     .))
+( (S But
+     (NP-SBJ a tsunami)
+     (ADVP-TMP often)
+     (VP extends
+         (NP-EXT (NP (QP more than 100)
+		     miles)
+		 and
+		 (ADVP-TMP sometimes)
+		 (NP (QP as much as 600)
+		     miles))
+         (PP (PP from
+		 (NP crest))
+	     (PP to
+		 (NP crest))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ a wind wave)
+		  (ADVP-TMP never)
+		  (VP travels
+		      (PP at
+			  (NP (NP (QP more than 60)
+				  miles)
+			      (PP per
+				  (NP hour)))))))
+     ,
+     (NP-SBJ-1 (NP the velocity)
+               (PP of
+                   (NP (NP a tsunami)
+                       (PP-LOC in
+			       (NP the open sea)))))
+     (VP must
+         (VP be
+             (VP reckoned
+                 (NP *-1)
+                 (PP in
+                     (NP (NP hundreds)
+                         (PP of
+                             (NP (NP miles)
+                                 (PP per
+                                     (NP hour)))))))))
+     .))
+( (S (SINV (S-ADV (NP-SBJ *)
+		  (ADJP-PRD (ADJP The greater)
+			    (SBAR (WHADJP-1 0) 
+				  (S (NP-SBJ (NP the depth)
+					     (PP of
+						 (NP the water)))
+				     (ADJP-PRD *T*-1)))))
+	   ,
+	   (ADJP-PRD-TPC-2 the greater)
+	   (VP is
+	       (ADJP-PRD *T*-2))
+	   (NP-SBJ (NP the speed)
+		   (PP of
+		       (NP the wave))))
+     ; ;
+     (S (NP-SBJ (NP Lagrange 's)
+                law)
+        (VP says
+            (SBAR that
+                  (S (NP-SBJ its velocity)
+                     (VP is
+                         (ADJP-PRD equal
+                                   (PP to
+                                       (NP (NP the square root)
+                                           (PP of
+                                               (NP (NP the product)
+                                                   (PP of
+                                                       (NP (NP the depth)
+                                                           times
+							   (NP (NP the acceleration)
+							       (PP due
+								   (PP to
+								       (NP gravity))))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP the deep waters)
+		 (PP of
+		     (NP the Pacific))))
+     (NP-SBJ these waves)
+     (VP reach
+         (NP (NP a speed)
+             (PP of
+                 (NP (NP 500 miles)
+                     (PP per
+                         (NP hour))))))
+     .))
+( (S (NP-SBJ Tsunami)
+     (VP are
+         (ADJP-PRD (ADJP so shallow)
+                   (PP in
+                       (NP (NP comparison)
+                           (PP with
+                               (NP their length))))
+                   (SBAR that
+                         (S (PP-LOC in
+				    (NP the open ocean))
+                            (NP-SBJ they)
+                            (VP are
+                                (ADJP-PRD hardly detectable))))))
+     .))
+( (S (NP-SBJ Their amplitude)
+     (ADVP-TMP sometimes)
+     (VP is
+	 (NP-PRD (NP (QP as little as two)
+		     feet)
+		 (PP (PP from
+			 (NP trough))
+		     (PP to
+			 (NP crest)))))
+     .))
+( (S-CLF (ADVP-TMP Usually)
+	 (NP-SBJ it)
+	 (VP is
+	     (SBAR-TMP-PRD (ADVP only)
+			   (WHADVP-1 when)
+			   (S (NP-SBJ they)
+			      (VP approach
+				  (NP (NP shallow water)
+				      (PP-LOC on
+					      (NP the shore)))
+				  (ADVP-TMP *T*-1))))
+	     (SBAR that
+		   (S (NP-SBJ they)
+		      (VP build
+			  (PRT up)
+			  (PP to
+			      (NP their terrifying heights))))))
+	 .))
+( (S (PP-TMP On
+	     (NP (NP the fateful day)
+		 (PP-TMP in
+			 (NP 1896))
+		 (SBAR (WHADVP-1 when)
+		       (S (NP-SBJ the great waves)
+			  (VP approached
+			      (NP Japan)
+			      (ADVP-TMP *T*-1))))))
+     ,
+     (NP-SBJ (NP fishermen)
+             (PP-LOC at
+		     (NP sea)))
+     (VP noticed
+         (NP no unusual swells))
+     .))
+( (SINV Not
+        (SBAR-TMP until
+		  (S (NP-SBJ they)
+		     (VP sailed
+			 (ADVP-DIR home)
+			 (PP-TMP at
+				 (NP (NP the end)
+				     (PP of
+					 (NP the day))))
+			 ,
+			 (PP through
+			     (NP (NP a sea)
+				 (VP strewn
+				     (NP *)
+				     (PP with
+					 (NP (NP bodies)
+					     and
+					     (NP (NP the wreckage)
+						 (PP of
+						     (NP houses)))))))))))
+	,
+        were
+        (NP-SBJ they)
+        (ADJP-PRD aware
+		  (PP of
+		      (SBAR-NOM (WHNP-1 what)
+				(S (NP-SBJ *T*-1)
+				   (VP had
+				       (VP happened))))))
+        .))
+( (S (NP-SBJ-1 The
+	       (ADJP seemingly quiet)
+	       ocean)
+     (VP had
+         (VP crashed
+             (NP (NP a wall)
+		 (PP of
+		     (NP water))
+                 (ADJP (NP-ADV (QP from 10 to 100)
+			       feet)
+                       high))
+             (PP-LOC upon
+		     (NP (NP beaches)
+			 (VP crowded
+			     (NP *)
+			     (PP with
+				 (NP bathers)))))
+             ,
+             (S-ADV (NP-SBJ *-1)
+		    (VP (VP drowning
+			    (NP (NP thousands)
+				(PP of
+				    (NP them))))
+			and
+			(VP flattening
+			    (NP (NP villages)
+				(PP-LOC along
+					(NP the shore))))))))
+     .))
+( (S (NP-SBJ The giant waves)
+     (VP are
+         (ADJP-PRD (ADJP more dangerous)
+		   (PP *ICH*-1))
+	 (PP-LOC on
+		 (NP flat shores))
+	 (PP-1 than
+	       (PP on
+		   (NP steep ones))))
+     .))
+( (S (S (NP-SBJ They)
+        (ADVP-TMP usually)
+        (VP range
+            (PP (PP from
+                    (NP 20))
+                (PP to
+                    (NP 60 feet)))
+            (PP in
+                (NP height))))
+     , 
+     but
+     (S (SBAR-TMP (WHADVP-1 when)
+		  (S (NP-SBJ they)
+		     (VP pour
+			 (PP-DIR into
+				 (NP a V-shaped inlet or harbor))
+			 (ADVP-TMP *T*-1))))
+        (NP-SBJ they)
+        (VP may
+            (VP rise
+                (PP to
+                    (NP mountainous proportions)))))
+     .))
+( (S (ADVP Generally)
+     (NP-SBJ (NP the first salvo)
+             (PP of
+                 (NP a tsunami)))
+     (VP is
+         (NP-PRD (NP a
+                     (ADJP rather sharp)
+                     swell)
+                 , 
+		 (ADJP not different enough
+                       (PP from
+                           (NP an ordinary wave))
+                       (S (NP-SBJ *)
+                          (VP to
+                              (VP alarm
+                                  (NP casual observers)))))))
+     .))
+( (S (NP-SBJ-1 This)
+     (VP is
+         (VP followed
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a tremendous suck)
+			 (PP of
+			     (NP water))
+			 (PP away
+			     (PP from
+				 (NP the shore)))))
+	     (SBAR-TMP as
+		       (S (NP-SBJ the first great trough)
+			  (VP arrives)))))
+     .))
+( (S (S (NP-SBJ-1 Reefs)
+        (VP are
+            (VP left
+                (S (NP-SBJ *-1)
+		   (ADJP-PRD high and dry)))))
+     , 
+     and
+     (S (NP-SBJ-2 the beaches)
+        (VP are
+            (VP covered
+                (NP *-2)
+                (PP with
+                    (NP stranded fish)))))
+     .))
+( (S (PP-LOC At
+	     (NP Hilo))
+     (NP-SBJ-1 (NP large numbers)
+	       (PP of
+		   (NP people)))
+     (VP ran
+         (ADVP-DIR out)
+         (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP inspect
+			(NP (NP the amazing spectacle)
+			    (PP of
+				(NP the denuded beach)))))))
+     .))
+( (S (NP-SBJ (NP Many)
+	     (PP of
+		 (NP them)))
+     (VP paid
+	 (PP for
+	     (NP their curiosity))
+	 (PP with
+	     (NP their lives))
+	 ,
+	 (SBAR-PRP for
+		   (S (ADVP-TMP (NP some minutes)
+				later)
+		      (NP-SBJ the first giant wave)
+		      (VP roared
+			  (PP-DIR over
+				  (NP the shore))))))
+     .))
+( (S (PP-TMP After
+	     (NP (NP an earthquake)
+		 (PP-LOC in
+			 (NP Japan))
+		 (PP-TMP in
+			 (NP 1793))))
+     (NP-SBJ (NP people)
+             (PP-LOC on
+		     (NP the coast))
+	     (PP-LOC at
+		     (NP Tugaru)))
+     (VP were
+         (ADJP-PRD (ADJP so terrified
+			 (PP by
+			     (NP (NP the extraordinary ebbing)
+				 (PP of
+				     (NP the sea)))))
+		   (SBAR that
+                         (S (NP-SBJ they)
+                            (VP scurried
+                                (PP-DIR to
+					(NP higher ground)))))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (NP-SBJ a second quake)
+		  (VP came
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-3 they)
+     (VP dashed
+	 (ADVP-DIR back)
+	 (PP-DIR to
+		 (NP the beach))
+	 ,
+	 (S-ADV (NP-SBJ *-3)
+		(VP fearing
+		    (SBAR that
+			  (S (NP-SBJ-1 they)
+			     (VP might
+				 (VP be
+				     (VP buried
+					 (NP *-1)
+					 (PP-LOC under
+						 (NP landslides))))))))))
+     .))
+( (S (SBAR-TMP (ADVP Just)
+	       as
+	       (S (NP-SBJ they)
+		  (VP reached
+		      (NP the shore))))
+     ,
+     (NP-SBJ the first huge wave)
+     (VP crashed
+         (PP-LOC upon
+		 (NP them)))
+     .))
+( (S (NP-SBJ A tsunami)
+     (VP is
+         (NP-PRD not
+                 (NP a single wave)
+                 but
+                 (NP a series)))
+     .))
+( (S (S (NP-SBJ-1 The waves)
+        (VP are
+            (VP separated
+                (NP *-1)
+                (PP by
+                    (NP-LGS (NP intervals)
+			    (PP of
+				(NP (NP 15 minutes)
+				    to
+				    (NP an hour
+					(QP or more))))))
+		(PRN -LRB-
+		     (PP-PRP because of
+			     (NP their great length))
+		     -RRB-))))
+     , 
+     and
+     (S (NP-SBJ this)
+        (VP has
+            (ADVP-TMP often)
+            (VP lulled
+                (NP-2 people)
+                (PP into
+                    (S-NOM (NP-SBJ *-2)
+			   (VP thinking
+			       (SBAR-TMP after
+					 (S (NP-SBJ the first great wave)
+					    (VP has
+						(VP crashed))))
+			       (SBAR that
+				     (S (NP-SBJ it)
+					(VP is
+					    (ADVP-PRD all over))))))))))
+     .))
+( (S (NP-SBJ-1 The waves)
+     (VP may
+         (VP keep
+             (S (NP-SBJ *-1)
+		(VP coming))
+	     (PP-TMP for
+		     (NP many hours))))
+     .))
+( (S (ADVP-TMP Usually)
+     (NP-SBJ (NP (NP the third)
+		 to
+		 (NP the eighth waves))
+	     (PP in
+                 (NP the series)))
+     (VP are
+         (NP-PRD the biggest))
+     .))
+( (SINV (PP-LOC-PRD-TPC-1 Among
+			  (NP (NP the observers)
+			      (PP of
+				  (NP (NP the 1946 tsunami)
+				      (PP-LOC at
+					      (NP Hilo))))))
+        (VP was
+	    (PP-LOC-PRD *T*-1))
+        (NP-SBJ (NP (NP Francis P. Shepard)
+                    (PP of
+                        (NP (NP the Scripps Institution)
+                            (PP of
+                                (NP Oceanography)))))
+                ,
+                (NP (NP one)
+                    (PP of
+                        (NP (NP the world 's)
+                            foremost marine geologists))))
+        .))
+( (S (NP-SBJ-1 He)
+     (VP was
+         (ADJP-PRD able
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP make
+                              (NP (NP a detailed inspection)
+                                  (PP of
+                                      (NP the waves))))))))
+     .))
+( (S-2 (NP-SBJ-1 Their onrush and retreat)
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP reported
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,)
+       (VP was
+	   (VP accompanied
+	       (NP *-1)
+	       (PP by
+		   (NP-LGS a great hissing , roaring and rattling))))
+       .))
+( (S (NP-SBJ-1 The (ADJP third and fourth) waves)
+     (VP seemed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP be
+                    (NP-PRD the highest)))))
+     .))
+( (S (S (PP-LOC On
+		(NP (NP some)
+		    (PP of
+			(NP (NP the islands ')
+			    beaches))))
+        (NP-SBJ the waves)
+        (VP came
+            (ADVP-DIR in)
+            (ADVP-MNR gently)))
+     ; ;
+     (S (NP-SBJ they)
+        (VP were
+            (ADJP-PRD steepest)
+	    (PP-LOC on
+		    (NP (NP the shores)
+			(VP facing
+			    (NP (NP the direction)
+				(PP of
+				    (NP (NP the seaquake)
+					(SBAR (WHPP-1 from
+						      (WHNP which))
+					      (S (NP-SBJ the waves)
+						 (VP had
+						     (VP come
+							 (PP-DIR *T*-1)))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Hilo Bay))
+     (NP-SBJ they)
+     (VP were
+         (ADJP-PRD (NP-ADV (QP from 21 to 26)
+			   feet)
+                   high))
+     .))
+( (S (NP-SBJ (NP The highest waves)
+             ,
+             (NP 55 feet))
+     ,
+     (VP occurred
+         (PP-LOC at
+		 (NP Pololu Valley)))
+     .))
+( (S (NP-SBJ Scientists and fishermen)
+     (VP have
+         (ADVP-TMP occasionally)
+         (VP seen
+             (NP (NP strange by-products)
+                 (PP of
+                     (NP the phenomenon)))))
+     .))
+( (S (PP-TMP During
+	     (NP (NP a 1933 tsunami)
+		 (PP-LOC in
+			 (NP Japan))))
+     (NP-SBJ the sea)
+     (VP glowed
+         (ADVP-MNR brilliantly)
+	 (PP-TMP at
+		 (NP night)))
+     .))
+( (S (NP-SBJ-1 (NP The luminosity)
+	       (PP of
+		   (NP the water)))
+     (VP is
+         (ADVP-TMP now)
+         (VP believed
+             (S (NP-SBJ-2 *-1)
+                (VP to
+                    (VP have
+                        (VP been
+                            (VP caused
+				(NP *-2)
+                                (PP by
+                                    (NP-LGS (NP the stimulation)
+					    (PP of
+						(NP (NP vast numbers)
+						    (PP of
+							(NP (NP the luminescent organism)
+							    (NP Noctiluca miliaris)))))
+					    (PP by
+						(NP (NP the turbulence)
+						    (PP of
+							(NP the sea)))))))))))))
+     .))
+( (S (S (NP-SBJ Japanese fishermen)
+        (VP have
+            (ADVP-TMP sometimes)
+            (VP observed
+                (SBAR that
+                      (S (NP-SBJ (NP sardines)
+                                 (VP hauled
+				     (NP *)
+                                     (ADVP up)
+                                     (PP-LOC in
+					     (NP their nets))
+                                     (PP-TMP during
+					     (NP a tsunami))))
+                         (VP have
+                             (NP (ADJP enormously swollen)
+                                 stomachs)))))))
+     ; ;
+     (S (NP-SBJ the fish)
+        (VP have
+            (VP swallowed
+                (NP (NP vast numbers)
+                    (PP of
+                        (NP (NP bottom-living diatoms)
+                            ,
+                            (VP raised
+                                (NP *)
+                                (PP-DIR to
+					(NP the surface))
+                                (PP by
+                                    (NP-LGS the disturbance)))))))))
+     .))
+( (S (NP-SBJ (NP The waves)
+             (PP of
+                 (NP (NP a 1923 tsunami)
+                     (PP-LOC in
+			     (NP Sagami Bay)))))
+     (VP (VP brought
+             (PP-DIR to
+		     (NP the surface))
+             (NP *RNR*-1))
+         and
+         (VP battered
+             (PP to
+                 (NP death))
+             (NP *RNR*-1))
+         (NP-1 (NP huge numbers)
+               (PP of
+                   (NP (NP fishes)
+                       (SBAR (WHNP-2 that)
+                             (S (NP-SBJ *T*-2)
+                                (ADVP normally)
+                                (VP live
+                                    (PP-LOC at
+					    (NP (NP a depth)
+						(PP of
+						    (NP 3,000 feet)))))))))))
+     .))
+( (S (NP-SBJ Gratified fishermen)
+     (VP hauled
+         (NP them)
+         (ADVP in)
+         (PP by
+             (NP the thousands)))
+     .))
+( (S (NP-SBJ (NP The tsunami-warning system)
+             (VP developed
+                 (NP *)
+                 (PP-TMP since
+			 (NP (NP the 1946 disaster)
+			     (PP-LOC in
+				     (NP Hawaii))))))
+     (VP relies
+         (PP (ADVP mainly)
+             on
+             (NP (NP a
+                     (ADJP simple and ingenious)
+                     instrument)
+                 (VP devised
+                     (NP *)
+                     (PP by
+                         (NP-LGS (NP Commander C.K. Green)
+                                 (PP of
+                                     (NP the (UCP Coast and Geodetic) Survey staff))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP consists
+         (PP of
+             (NP (NP (NP (NP a series)
+                         (PP of
+                             (NP pipes)))
+                     and
+                     (NP a pressure-measuring chamber))
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP record
+                              (NP (NP the rise and fall)
+                                  (PP of
+                                      (NP the water surface)))))))))
+     .))
+( (S (NP-SBJ-1 Ordinary water tides)
+     (VP are
+         (VP disregarded
+             (NP *-1)))
+     .))
+( (S But
+     (SBAR-TMP (WHADVP-3 when)
+	       (S (NP-SBJ-2 (NP waves)
+			    (PP with
+				(NP (NP a period)
+				    (PP of
+					(NP (QP between 10 and 40)
+					    minutes)))))
+		  (VP begin
+		      (S (NP-SBJ *-2)
+			 (VP to
+			     (VP roll
+				 (PP-DIR over
+					 (NP the ocean)))))
+		      (ADVP-TMP *T*-3))))
+     ,
+     (NP-SBJ they)
+     (VP set
+         (PP in
+             (NP motion))
+         (NP (NP a corresponding oscillation)
+	     (PP-LOC in
+		     (NP (NP a column)
+			 (PP of
+			     (NP mercury))))
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP closes
+                          (NP an electric circuit))))))
+     .))
+( (S (NP-SBJ-1 This)
+     (PP in
+         (NP turn))
+     (VP sets
+         (PRT off)
+         (NP an alarm)
+         ,
+         (S-ADV (NP-SBJ *-1)
+		(VP notifying
+		    (NP (NP the observers)
+			(PP-LOC at
+				(NP the station)))
+		    (SBAR that
+			  (S (NP-SBJ a tsunami)
+			     (VP is
+				 (PP-PRD in
+					 (NP progress))))))))
+     .))
+( (S (NP-SBJ-1 Such equipment)
+     (VP has
+         (VP been
+             (VP installed
+                 (NP *-1)
+		 (PP-LOC at
+			 (NP (NP Hilo)
+			     ,
+			     (NP Midway)
+			     ,
+			     (NP Attu)
+			     and
+			     (NP Dutch Harbor))))))
+     .))
+( (S (NP-TMP (NP The moment)
+	     (SBAR (WHADVP-3 0)
+		   (S (NP-SBJ the alarm)
+		      (VP goes
+			  (PRT off)
+			  (ADVP-TMP *T*-3)))))
+     ,
+     (NP-SBJ-1 information)
+     (VP is
+         (ADVP immediately)
+         (VP forwarded
+             (NP *-1)
+             (PP-DIR to
+		     (NP (NP Honolulu)
+			 ,
+			 (SBAR (WHNP-2 which)
+			       (S (NP-SBJ *T*-2)
+				  (VP is
+				      (NP-PRD (NP the center)
+					      (PP of
+						  (NP the warning system))))))))))
+     .))
+( (S (NP-SBJ This center)
+     (ADVP also)
+     (VP receives
+         (NP (NP prompt reports)
+             (PP on
+                 (NP earthquakes))
+	     (PP from
+		 (NP (NP four Coast Survey stations)
+		     (PP-LOC in
+			     (NP the Pacific))
+		     (SBAR (WHNP-2 which)
+			   (S (NP-SBJ-1 *T*-2)
+			      (VP are
+				  (VP equipped
+				      (NP *-1)
+				      (PP with
+					  (NP seismographs))))))))))
+     .))
+( (S (NP-SBJ Its staff)
+     (VP (VP makes
+             (NP (NP a preliminary determination)
+                 (PP of
+                     (NP (NP the epicenter)
+                         (PP of
+                             (NP the quake))))))
+         and
+         (VP alerts
+             (NP (NP tide stations)
+                 (ADVP-LOC near
+			   (NP (NP the epicenter)
+			       (PP for
+				   (NP a tsunami)))))))
+     .))
+( (S (PP By
+         (NP (NP means)
+             (PP of
+                 (NP (NP charts)
+                     (VP showing
+                         (NP (NP wave-travel times)
+			     and
+			     (NP (NP depths)
+				 (PP-LOC in
+					 (NP the ocean))
+				 (PP-LOC at
+					 (NP various locations)))))))))
+     ,
+     (NP-SBJ (NP it)
+             (S *EXP*-2))
+     (VP is
+         (ADJP-PRD possible)
+	 (S-2 (NP-SBJ *)
+	      (VP to
+		  (VP estimate
+		      (NP (NP (NP the rate)
+			      (PP of
+				  (NP approach))
+			      (PP *RNR*-3))
+			  and
+			  (NP (NP probable time)
+			      (PP of
+				  (NP (NP arrival)
+				      (PP-LOC at
+					      (NP Hawaii))))
+			      (PP *RNR*-3))
+			  (PP-3 of
+				(NP (NP a tsunami)
+				    (VP getting
+					(PP under
+					    (NP way))
+					(PP-LOC at
+						(NP (NP any spot)
+						    (PP-LOC in
+							    (NP the Pacific))))))))))))
+     .))
+( (S (S (NP-SBJ-1 The
+                  (ADJP civil and military)
+                  authorities)
+        (VP are
+            (ADVP then)
+            (VP advised
+                (NP *-1)
+                (PP of
+                    (NP the danger)))))
+     , 
+     and
+     (S (NP-SBJ they)
+        (VP (VP issue
+                (NP warnings))
+            and
+            (VP take
+                (NP all necessary protective steps))))
+     .))
+( (S (S (NP-SBJ-1 (NP All)
+                  (PP of
+                      (NP these activities)))
+        (VP are
+            (VP geared
+                (NP *-1)
+                (PP to
+                    (NP a top-priority communication system)))))
+     ,
+     and
+     (S (NP-SBJ-2 practice tests)
+        (VP have
+            (VP been
+                (VP held
+                    (NP *-2)
+		    (S-PRP (NP-SBJ *)
+			   (VP to
+			       (VP assure
+				   (SBAR that
+					 (S (NP-SBJ everything)
+					    (VP will
+						(VP work
+						    (ADVP-MNR smoothly))))))))))))
+     .))
+( (S (S (PP-TMP Since
+		(NP the 1946 disaster))
+	(NP-SBJ there)
+        (VP have
+            (VP been
+                (NP-PRD 15 tsunami)
+		(PP-LOC in
+			(NP the Pacific)))))
+     , 
+     but
+     (S (NP-SBJ (QP only one))
+        (VP was
+            (PP-PRD of
+                    (NP any consequence))))
+     .))
+( (S (PP-TMP On
+	     (NP November 4 , 1952))
+     ,
+     (NP-SBJ an earthquake)
+     (VP occurred
+         (PP-LOC under
+		 (NP the sea))
+         (PP-LOC off
+		 (NP the Kamchatka Peninsula)))
+     .))
+( (S (PP-TMP At
+	     (NP (NP (NP 17:07)
+		     (NP that afternoon))
+		 (PRN -LRB-
+		      (NP Greenwich time)
+		      -RRB-)))
+     (NP-SBJ-1 the shock)
+     (VP was
+         (VP recorded
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP the seismograph alarm)
+			 (PP-LOC in
+				 (NP Honolulu))))))
+     .))
+( (S (NP-SBJ The warning system)
+     (ADVP immediately)
+     (VP went
+         (PP into
+             (NP action)))
+     .))
+( (S (PP-TMP Within
+	     (NP (QP about an) hour))
+     (PP with
+         (NP (NP the help)
+             (PP of
+                 (NP (NP reports)
+                     (PP from
+                         (NP (NP seismic stations)
+                             (PP-LOC in
+				     (NP Alaska
+					 ,
+					 Arizona
+					 and
+					 California))))))))
+     ,
+     (NP-SBJ-1 (NP the quake 's)
+               epicenter)
+     (VP was
+         (VP placed
+             (NP *-1)
+             (PP-LOC at
+		     (NP (NP (NP 51 degrees)
+			     (NP North latitude))
+			 and
+			 (NP (NP 158 degrees)
+			     (NP East longitude))))))
+     .))
+( (S (SBAR-TMP While
+	       (S (S (NP-SBJ (NP accounts)
+			     (PP of
+				 (NP (NP the progress)
+				     (PP of
+					 (NP the tsunami)))))
+		     (VP came
+			 (ADVP in)
+			 (PP from
+			     (NP (NP various points)
+				 (PP-LOC in
+					 (NP the Pacific))))))
+		  (PRN -LRB-
+		       (S (NP-SBJ Midway)
+			  (VP reported
+			      (SBAR 0
+				    (S (NP-SBJ-1 it)
+				       (VP was
+					   (VP covered
+					       (NP *-1)
+					       (PP with
+						   (NP (NP nine feet)
+						       (PP of
+							   (NP water))))))))))
+		       -RRB-)))
+     ,
+     (NP-SBJ the Hawaiian station)
+     (VP (VP made
+             (NP its calculations))
+         and
+         (VP notified
+             (NP (NP the military services)
+                 and
+                 (NP the police))
+             (SBAR that
+                   (S (NP-SBJ the first big wave)
+                      (VP would
+                          (VP arrive
+                              (PP-LOC at
+				      (NP Honolulu))
+			      (PP-TMP at
+				      (NP (NP 23:30)
+					  (NP Greenwich time)))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP turned
+         (PRT out)
+         (SBAR that
+               (S (NP-SBJ the waves)
+                  (VP were not
+                      (ADJP-PRD (ADJP so high)
+                                (PP as
+                                    (PP in
+                                        (NP 1946))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP (VP hurled
+             (NP a cement barge)
+             (PP-DIR against
+		     (NP a freighter))
+             (PP-LOC in
+		     (NP Honolulu Harbor)))
+         ,
+         (VP knocked
+             (PRT down)
+             (NP telephone lines))
+         ,
+         (VP marooned
+             (NP automobiles))
+         ,
+         (VP flooded
+             (NP lawns))
+         ,
+         (VP killed
+             (NP six cows)))
+     .))
+( (S But
+     (S (NP-SBJ-1 not a single human life)
+        (VP was
+            (VP lost
+                (NP *-1))))
+     , 
+     and
+     (S (NP-SBJ (NP property damage)
+                (PP-LOC in
+			(NP the Hawaiian Islands)))
+        (VP did not
+            (VP exceed
+                (NP $ 800,000 *U*))))
+     .))
+( (S (NP-SBJ There)
+     (VP is
+         (NP-PRD little doubt
+                 (SBAR that
+                       (S (NP-SBJ the warning system)
+                          (VP (VP saved
+                                  (NP lives))
+                              and
+                              (VP reduced
+                                  (NP the damage)))))))
+     .))
+( (S But
+     (NP-SBJ (NP it)
+             (SBAR *EXP*-4))
+     (VP is
+         (ADJP-PRD plain)
+	 (SBAR-4 that
+		 (S (NP-SBJ (NP a warning system)
+			    ,
+			    (ADJP however efficient))
+		    ,
+		    (VP is not
+			(ADJP-PRD enough)))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP the vulnerable areas)
+		 (PP of
+		     (NP the Pacific))))
+     (NP-SBJ there)
+     (VP should
+         (VP be
+             (NP-PRD (NP (NP restrictions)
+                         (PP against
+                             (S-NOM (NP-SBJ *)
+				    (VP building
+					(NP homes)
+					(PP-LOC on
+						(NP exposed coasts))))))
+                     , 
+		     or
+                     (ADVP at least)
+		     (NP a requirement
+                         (SBAR that
+                               (S (NP-SBJ-1 they)
+                                  (VP be
+                                      (VP either
+                                          (VP raised
+					      (NP *-1)
+                                              (PP-LOC off
+						      (NP the ground)))
+                                          or
+                                          (VP anchored
+					      (NP *-1)
+                                              (ADVP-MNR strongly)
+                                              (PP against
+                                                  (NP waves)))))))))))
+     .))
+( (S (S (NP-SBJ (NP The key)
+                (PP to
+                    (NP (NP the world)
+                        (PP of
+                            (NP geology)))))
+        (VP is
+            (NP-PRD change)))
+     ; ;
+     (S (NP-SBJ nothing)
+        (VP remains
+            (NP-PRD the same)))
+     .))
+( (S (NP-SBJ Life)
+     (VP has
+         (VP evolved
+             (PP from
+                 (NP (NP simple combinations)
+                     (PP of
+                         (NP molecules))
+                     (PP-LOC in
+			     (NP the sea))))
+             (PP to
+                 (NP (NP complex combinations)
+                     (PP-LOC in
+			     (NP man))))))
+     .))
+( (S (S (NP-SBJ (NP The land
+		    ,)
+		(ADVP too))
+	,
+        (VP is
+            (VP changing)))
+     , 
+     and
+     (S (NP-SBJ earthquakes)
+        (VP are
+            (NP-PRD (NP daily reminders)
+                    (PP of
+                        (NP this)))))
+     .))
+( (S (NP-SBJ Earthquakes)
+     (VP result
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ (NP movements)
+			      (PP-LOC in
+				      (NP the earth)))
+		      (VP twist
+			  (NP rocks)
+			  (SBAR-TMP until
+				    (S (NP-SBJ they)
+				       (VP break)))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (S (ADVP-TMP Sometimes)
+        (NP-SBJ-1 this)
+        (VP is
+            (VP accompanied
+                (NP *-1)
+                (PP by
+                    (NP-LGS (NP visible shifts)
+			    (PP of
+				(NP the ground surface)))))))
+     ; ;
+     (S (S (ADVP-TMP often)
+	   (NP-SBJ-2 the shifts)
+           (VP can not
+               (VP be
+                   (VP seen
+                       (NP *-2)))))
+        , 
+	but
+        (S (NP-SBJ they)
+           (VP are
+               (ADVP-LOC-PRD there))))
+     ; ; 
+     and
+     (SINV (ADVP-LOC everywhere)
+           can
+           (VP be
+               (VP found
+		   (NP *-3)))
+           (NP-SBJ-3 (NP scars)
+		     (PP of
+			 (NP (NP earlier breaks)
+			     (VP (ADVP-TMP once)
+				 (ADVP-MNR deeply)
+				 buried
+				 (NP *))))))
+     .))
+( (S (S (NP-SBJ (NP Today 's)
+                earthquakes)
+        (VP are
+            (ADJP-PRD most numerous)
+	    (PP-LOC in
+		    (NP (NP belts)
+			(SBAR (WHADVP-3 where)
+			      (S (NP-SBJ-1 (NP the earth 's)
+					   restlessness)
+				 (VP is
+				     (ADVP presently)
+				     (VP concentrated
+					 (NP *-1)
+					 (ADVP-LOC *T*-3)))))))))
+     , 
+     but
+     (S (NP-SBJ (NP scars)
+                (PP of
+                    (NP the past)))
+        (VP show
+            (SBAR that
+                  (S (NP-SBJ there)
+                     (VP is
+                         (NP-PRD (NP no part)
+				 (PP of
+				     (NP the earth))
+                                 (SBAR (WHNP-2 that)
+                                       (S (NP-SBJ *T*-2)
+                                          (VP has not
+                                              (VP had
+                                                  (NP them)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The effects)
+	       (PP of
+		   (NP earthquakes))
+	       (PP on
+		   (NP civilization)))
+     (VP have
+         (VP been
+             (VP (VP (ADVP widely)
+                     publicized
+		     (NP *-1))
+                 ,
+                 (ADVP even)
+		 (VP overemphasized
+		     (NP *-1)))))
+     .))
+( (S (S (NP-SBJ (NP The role)
+                (PP of
+                    (NP an earthquake))
+                (PP in
+                    (S-NOM (NP-SBJ *)
+			   (VP starting
+			       (NP (NP the destruction)
+				   (PP of
+				       (NP whole cities)))))))
+        (VP is
+            (ADJP-PRD tremendously frightening)))
+     ,
+     but
+     (S (NP-SBJ fire)
+        (VP may
+            (ADVP actually)
+            (VP be
+                (NP-PRD (NP the principal agent)
+                        (PP in
+                            (NP a particular disaster))))))
+     .))
+( (S (NP-SBJ-1 Superstition)
+     (VP has
+         (ADVP-TMP often)
+         (VP blended
+             (PP with
+                 (NP fact))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP color
+			    (NP reports))))))
+     .))
+( (S (S (NP-SBJ We)
+        (VP have
+            (VP learned
+                (PP from
+                    (NP earthquakes))
+                (NP (NP much)
+                    (PP of
+                        (SBAR-NOM (WHNP-2 what)
+				  (S (NP-SBJ we)
+				     (ADVP-TMP now)
+				     (VP know
+					 (NP *T*-2)
+					 (PP about
+					     (NP (NP the earth 's)
+						 interior)))))))
+		,
+		(SBAR-PRP for
+			  (S (NP-SBJ they)
+			     (VP send
+				 (NP (NP waves)
+				     (SBAR *ICH*-3))
+				 (PP-DIR through
+					 (NP the earth))
+				 (SBAR-3 (WHNP-1 which)
+					 (S (NP-SBJ *T*-1)
+					    (VP emerge
+						(PP with
+						    (NP (NP information)
+							(PP about
+							    (NP (NP the materials)
+								(SBAR (WHPP-4 through
+									      (WHNP which))
+								      (S (NP-SBJ they)
+									 (VP have
+									     (VP traveled
+										 (PP-DIR *T*-4))))))))))))))))))
+     .))
+( (S (NP-SBJ These waves)
+     (VP have
+         (VP shown
+             (SBAR (SBAR that
+                         (S (PP-LOC (NP-ADV 1,800 miles)
+				    below
+				    (NP the surface))
+                            (NP-SBJ a liquid core)
+                            (VP begins)))
+                   ,
+		   and
+                   (SBAR that
+                         (S (NP-SBJ it)
+                            ,
+                            (PP in
+                                (NP turn))
+                            ,
+                            (VP has
+                                (NP a solid inner core)))))))
+     .))
+( (S (S (NP-SBJ Earthquakes)
+        (VP originate
+            (ADVP-LOC (ADVP as far)
+		      (PP as
+			  (NP (NP 400 miles)
+			      (PP-LOC below
+				      (NP the surface)))))))
+     , 
+     but
+     (S (NP-SBJ they)
+        (VP do not
+            (VP occur
+                (PP-LOC at
+			(NP greater depths)))))
+     .))
+( (S (NP-SBJ-1 Two unsolved mysteries)
+     (VP are
+         (VP based
+             (NP *-1)
+             (PP on
+                 (NP these facts))))
+     .))
+( (S (LST -LRB- 
+	  1 
+	  -RRB-)
+     (ADVP-LOC (ADVP As far down)
+	       (PP as
+		   (NP (NP 400 miles)
+		       (PP-LOC below
+			       (NP the surface)))))
+     (NP-SBJ the material)
+     (VP should
+         (VP be
+             (ADJP-PRD hot enough
+                       (S (NP-SBJ *)
+                          (VP to
+                              (VP (VP be
+                                      (ADJP-PRD plastic))
+                                  and
+                                  (VP adjust
+                                      (NP itself)
+                                      (PP to
+                                          (NP twisting forces))
+                                      (PP (PP by
+                                              (NP sluggish flow))
+                                          (CONJP rather than)
+					  (PP by
+					      (S-NOM (NP-SBJ *)
+						     (VP breaking
+							 ,
+							 (SBAR-ADV as
+								   (S (NP-SBJ rigid surface rocks)
+								      (VP do))))))))))))))
+     .))
+( (FRAG (LST -LRB-
+	     2 
+	     -RRB-)
+	(SBAR-ADV If
+		  (S (NP-SBJ earthquakes)
+		     (VP do
+			 (VP occur
+			     (PP-LOC at
+				     (NP such depths))))))
+	,
+	(WHADVP why)
+	not
+	(ADVP deeper)
+	? ?))
+( (S (NP-SBJ-1 (NP Knowledge)
+               (VP gained
+                   (NP *)
+                   (PP from
+                       (S-NOM (NP-SBJ *)
+			      (VP studying
+				  (NP earthquake waves))))))
+     (VP has
+         (VP been
+             (VP applied
+                 (NP *-1)
+		 (PP in
+		     (NP various fields)))))
+     .))
+( (S (PP In
+         (NP (NP the search)
+             (PP for
+                 (NP oil and gas))))
+     ,
+     (NP-SBJ we)
+     (VP (VP make
+             (NP similar waves)
+             (PP under
+                 (NP controlled conditions))
+             (PP with
+                 (NP dynamite)))
+         and
+         (VP learn
+             (PP from
+                 (NP them))
+             (SBAR (WHADVP-1 where)
+                   (S (NP-SBJ there)
+                      (VP are
+			  (NP (NP buried rock structures)
+			      (ADJP favorable
+				    (PP to
+					(NP (NP the accumulation)
+					    (PP of
+						(NP these resources))))))
+			  (ADVP-LOC *T*-1))))))
+     .))
+( (S (NP-SBJ We)
+     (VP have
+         (ADVP also)
+         (VP developed
+             (NP (NP techniques)
+                 (PP for
+                     (S-NOM (NP-SBJ *)
+			    (VP recognizing and locating
+				(NP underground nuclear tests)
+				(PP through
+				    (NP (NP the waves)
+					(PP-LOC in
+						(NP the ground))
+					(SBAR (WHNP-1 which)
+					      (S (NP-SBJ they)
+						 (VP generate
+						     (NP *T*-1))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The following discussion)
+               (PP of
+                   (NP this subject)))
+     (VP has
+         (VP been
+             (VP adapted
+                 (NP *-1)
+                 (PP from
+                     (NP (NP (NP the book)
+			     (NP-TTL (NP Causes)
+				     (PP Of
+					 (NP Catastrophe))))
+			 (PP by
+			     (NP L. Don Leet)))))))
+     .))
+( (NP (NP The restless earth)
+      and
+      (NP its interior)))
+( (S (PP-TMP At
+	     (NP (NP twelve minutes)
+		 (PP after
+		     (NP five))))
+     (PP-TMP on
+	     (NP (NP the morning)
+		 (PP of
+		     (NP (NP Wednesday)
+			 ,
+			 (NP April 18 , 1906)))))
+     ,
+     (NP-SBJ-1 San Francisco)
+     (VP was
+         (VP shaken
+             (NP *-1)
+             (PP by
+                 (NP-LGS a severe earthquake))))
+     .))
+( (S (NP-SBJ-1 A sharp tremor)
+     (VP was
+         (VP followed
+             (NP *-1)
+             (PP by
+                 (NP-LGS a jerky roll))))
+     .))

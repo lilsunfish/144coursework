@@ -1,0 +1,226 @@
+
+
+((S (NP-VOC Dick Darman)
+    ,
+    (NP-SBJ *) 
+    (VP call
+	(NP your office))
+    .))
+((SINV (VP-TPC-1 Embedded
+		 (NP *-2)
+		 (PP-CLR in
+			 (NP (NP the
+				 ``
+				 budget
+				 '')
+			     (VP being
+				 (VP concocted
+				     (NP *)
+				     (PP by
+					 (NP-LGS the House-Senate conference committee)))))))
+       (VP is
+	   (VP *T*-1))
+       (NP-SBJ-2 (NP something)
+		 (SBAR (WHNP-3 that)
+		       (S (NP-SBJ *T*-3)
+			  (VP looks
+			      ,
+			      smells
+			      and
+			      waddles
+			      (PP-MNR like
+				      (NP a duck))))))
+       .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (NP-PRD (NP a nuisance tax)
+		 (PP on
+		     (NP mergers))))
+     .))
+( (S (NP-SBJ-1 Congress)
+     (VP has
+	 (VP decided
+	     (S (NP-SBJ-2 *-1)
+		(VP to
+		    (VP raise
+			(NP (QP $ 40 million) *U*)
+			(PP-MNR by
+				(S-NOM (NP-SBJ *-2)
+				       (VP charging
+					   (NP companies)
+					   (NP $ 20,000 *U*)
+					   (PP-CLR for
+						   (NP (NP the honor)
+						       (PP of
+							   (S-NOM (NP-SBJ *)
+								  (VP filing
+								      (NP (NP the required papers)
+									  (PP-LOC under
+										  (NP the Hart-Scott-Rodino law))))))))))))))))
+     .))
+( (S (PP-TMP Ever
+	     since
+	     (NP (NP the bad days)
+		 (PP of
+		     (NP (S-TTL (NP-SBJ Big) 
+				(VP is
+				    (ADJP-PRD Bad)))
+			 antitrust enforcement))))
+     ,
+     (NP-SBJ this law)
+     (VP has
+	 (VP required
+	     (SBAR that
+		   (S (NP-SBJ (NP anyone)
+			      (VP proposing
+				  (NP a merger)))
+		      (VP must
+			  (VP make
+			      (NP (NP a filing)
+				  (VP describing
+				      (NP (NP the effects)
+					  (PP on
+					      (NP all relevant markets)))))))))))
+     .))
+( (S (S (NP-SBJ-1 The Hart-Scott filing)
+	(VP is
+	    (ADVP-TMP-2 then)
+	    (VP-3 reviewed
+		  (NP *-1))))
+     and
+     (S (NP-SBJ=1-4 any antitrust concerns)
+	(ADVP-TMP=2 usually)
+	(VP=3 met
+	      (NP *-4)))
+     .))
+((S (ADVP Typically)
+    ,
+    (NP-SBJ-1 Hart-Scott)
+    (VP is
+	(VP used
+	    (NP *-1)
+	    (ADVP-TMP now)
+	    (S-CLR (NP-SBJ *)
+		   (VP to
+		       (VP give
+			   (NP (NP managers)
+			       (PP of
+				   (NP target firms)))
+			   (NP (NP (NP early news)
+				   (PP of
+				       (NP a bid)))
+			       and
+			       (NP a chance
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP use
+					      (NP regulatory review)
+					      (PP-CLR as
+						      (NP a delaying tactic))))))))))))
+    .))
+((S (NP-SBJ The
+	    (ADJP $ 20,000 *U*)
+	    tax)
+    (VP would
+	(VP be
+	    (NP-PRD (NP (NP a small cost)
+			(PP-LOC in
+				(NP a multibillion-dollar deal)))
+		    ,
+		    but
+		    (NP (NP a serious drag)
+			(PP on
+			    (NP (NP thousands)
+				(PP of
+				    (NP small
+					,
+					friendly deals))))))))
+    .))
+( (S (NP-SBJ (NP One
+		 (ADJP especially dangerous)
+		 aspect)
+	     (PP to
+		 (NP the new tax)))
+     (VP would
+	 (VP be
+	     (SBAR-PRD that
+		       (S (NP-SBJ-1 the proceeds)
+			  (VP will
+			      (VP be
+				  (VP used
+				      (NP *-1)
+				      (S-CLR (NP-SBJ *)
+					     (VP to
+						 (VP increase
+						     (NP (NP the budgets)
+							 (PP of
+							     (NP (NP (NP the antitrust division)
+								     (PP-LOC at
+									     (NP Justice)))
+								 and
+								 (NP the Federal Trade Commission))))))))))))))
+     .))
+( (S (S (NP-SBJ This)
+	(VP amounts
+	    (PP-CLR to
+		    (NP (NP a bounty)
+			(PP for
+			    (NP regulators))))))
+     --
+     (S (X-ADV the more regulating)
+	(X-ADV the more)
+	(NP-SBJ-1 they)
+	(VP get
+	    (S (NP-SBJ *-1)
+	       (VP to
+		   (VP keep
+		       (NP *?*))))))
+     .))
+((S (ADVP Also)
+    ,
+    (SBAR-ADV as
+	      (S (NP-SBJ former Reagan antitrust chief
+			 Charles Rule)
+		 (VP has
+		     (VP noted
+			 (SBAR 0
+			       (S *?*)))))) 
+    ,
+    (NP-SBJ this)
+    (VP would
+	``
+	(VP establish
+	    (NP the precedent
+		(SBAR that
+		      (S (NP-SBJ the government)
+			 (VP may
+			     (VP charge
+				 (NP parties)
+				 (PP-CLR for
+					 (NP (NP the privilege)
+					     (PP of
+						 (S-NOM (NP-SBJ-1 *)
+							(VP being
+							    (VP sued
+								(NP *-1)))))))
+				 (ADVP regardless
+				       (PP of
+					   (SBAR whether 
+						 (S (NP-SBJ the government)
+						    (VP prevails))))))))))))
+    .
+    ''))
+( (NP Yet another opportunity
+      (SBAR for
+	    (S (NP-SBJ President Bush)
+	       (VP to
+		   (VP respond
+		       ,
+		       ``
+		       (S (NP-SBJ *)
+			  (VP Read
+			      (NP my lips)))))))
+      .))
+( 
+ (NP Line-item veto 
+     .))

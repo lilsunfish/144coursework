@@ -1,0 +1,94 @@
+
+
+( (S (NP-SBJ-1 Automatic Data Processing Inc.)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP redeem
+                    (PP-TMP on
+			    (NP Nov. 16))
+                    (NP (NP its 
+			    (QP $ 150 million)
+			    *U*)
+                        (PP of
+			    (NP (NP (ADJP 6.5 %)
+				    convertible subordinated debentures)
+				(ADJP due
+				      (NP-TMP March 1 , 2011)))))))))
+     .))
+( (S (NP-SBJ The computing-services concern)
+     (VP will
+         (VP pay
+             (NP $ 1,059.04 *U*)
+             (PP for
+		 (NP (NP each 
+			 (ADJP $ 1,000 *U*) 
+			 face amount)
+		     (PP of
+			 (NP debt))))))
+     .))
+( (S (NP-SBJ (NP The conversion price)
+             (PP for
+                 (NP the debentures)))
+     (VP is
+         (NP-PRD (NP $ 41.725 *U*)
+		 (NP-ADV a share)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Automatic Data)
+     (VP closed
+         (PP-LOC-CLR at
+		     (NP (NP $ 46.50 *U*)
+			 (NP-ADV a share)))
+         ,
+         (ADVP down 
+               (NP $ 2.25 *U*)))
+     .))
+( (S (S (SBAR-ADV If
+		  (S (NP-SBJ-1 all
+			       the debt)
+		     (VP is
+			 (VP converted
+			     (NP *-1)
+			     (PP-CLR to
+				     (NP common))))))
+	,
+	(NP-SBJ Automatic Data)
+	(VP will
+	    (VP issue
+		(NP (QP about 3.6 million)
+		    shares))))
+     ;
+     (S (NP-TMP last Monday)
+	,
+	(NP-SBJ the company)
+        (VP had
+            (NP (NP (QP nearly 73 million)
+		    shares)
+                (ADJP outstanding))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Automatic Data)
+	      (VP is
+		  (VP redeeming
+		      (NP the bonds)
+		      (SBAR-PRP because
+				(S (NP-SBJ (NP the after-tax cost)
+					   (PP of
+					       (NP (NP the interest)
+						   (PP on
+						       (NP the bonds)))))
+				   (VP is
+				       (ADJP-PRD (ADJP higher)
+						 (PP than
+						     (NP (NP the dividend yield)
+							 (PP on
+							     (NP the common)))))))))))
+     ,
+     (NP-SBJ a spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

@@ -1,0 +1,54 @@
+
+
+( (SBAR-HLN (WHNP-1 WHO)
+	    (S (NP-SBJ *T*-1)
+	       (VP 'S
+		   (NP-PRD NEWS)))
+	    :))
+((S (NP-SBJ Arthur Price)
+    (VP resigned
+	(PP-CLR as
+		(NP (NP (NP president)
+			and
+			(NP chief executive officer))
+		    (PP of
+			(NP (NP MTM Enterprises Inc.)
+			    ,
+			    (NP a
+				(NAC-LOC Studio-City
+					 ,
+					 Calif.
+					 ,)
+				entertainment concern))))))
+    .))
+(  (S (NP-SBJ He)
+      (VP co-founded
+	  (NP the company)
+	  (PP with
+	      (NP (NP Grant Tinker)
+		  and
+		  (NP Mary Tyler Moore)))
+	  (PP-TMP in
+		  (NP 1969)))
+      .))
+( (S (NP-SBJ MTM)
+     (VP is
+	 (NP-PRD (NP a unit)
+		 (PP of
+		     (NP (NP British-based
+			     TVS Entertainment PLC)
+			 ,
+			 (SBAR (WHNP-1 (WHNP whose chief executive officer)
+				       ,
+				       (NP James Gatward)
+				       ,)
+			       (S (NP-SBJ *T*-1)
+				  (VP will
+				      (VP oversee
+					  (NP the company)
+					  (SBAR-TMP until
+						    (S (NP-SBJ-2 a successor)
+						       (VP is
+							   (VP named
+							       (NP *-2)))))))))))))
+     .))

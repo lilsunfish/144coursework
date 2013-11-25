@@ -1,0 +1,66 @@
+
+
+( (S (NP-SBJ This
+             (NAC-LOC Brooklyn
+		      ,
+		      N.Y.
+		      ,)
+             generic-drug maker)
+     (VP announced
+         (NP (NP a (ADJP 5 %) stock dividend)
+             (ADJP payable
+                   (NP-TMP Dec. 15)
+                   ,
+                   (PP to
+                       (NP (NP holders)
+                           (PP of
+                               (NP record))
+                           (NP-TMP Nov. 15))))))
+     .))
+( (S (PP-TMP As
+	     (PP of
+		 (NP Sept. 30)))
+     ,
+     (NP-SBJ Halsey)
+     (VP had
+         (NP (NP (QP 5.3 million) common shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ (NP Jay Marcus)
+             ,
+             (NP president)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the move)
+                  ``
+                  (VP reflects
+                      (NP (NP (NP the confidence)
+                              (PP of
+                                  (NP our board and management))
+                              (PP in
+                                  (NP (NP Halsey 's)
+                                      long-term prospects)))
+                          and
+                          (NP our desire
+                              (S (NP-SBJ *)
+                                 (VP to
+                                     (VP provide
+                                         (NP our shareholders)
+                                         (PP-CLR with
+						 (NP (NP an attractive return)
+						     (PP on
+							 (NP their investment)))))))))))))
+     . ''))
+( (S (PP-LOC In
+	     (NP American Stock Exchange composite trading))
+     ,
+     (NP-SBJ Halsey)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 5.8125 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP up
+               (NP 6.25 cents)))
+     .))

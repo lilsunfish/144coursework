@@ -1,0 +1,57 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Mexico)
+	      (VP exported
+		  (NP (NP an average)
+		      (PP of
+			  (NP (NP 1,296,800 barrels)
+			      (PP of
+				  (NP crude oil))
+			      (NP-ADV a day))))
+		  (PP at
+		      (NP (NP an average)
+			  (PP of
+			      (NP (NP $ 15.31 *U*)
+				  (NP-ADV a barrel)))))
+		  (PP-TMP during
+			  (NP (NP 1989 's)
+			      first eight months))
+		  (PP for
+		      (NP (NP a total)
+			  (PP of
+			      (NP (QP $ 4.82 billion) *U*))))))
+     ,
+     (NP-SBJ Petroleos Mexicanos S.A.)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The state petroleum monopoly)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP sales)
+                          (PP-TMP in
+				  (NP the period)))
+                  (VP gained
+                      (NP (NP-ADV 15 %)
+                          , 
+			  and
+			  (ADJP (ADJP (NP (QP $ 262.4 million) *U*)
+				      more)
+				(PP than
+				    (SBAR-NOM (WHNP-1 0)
+					      (S (NP-SBJ-2 *T*-1)
+						 (ADVP-TMP originally)
+						 (VP projected
+						     (NP *-2)))))))
+		      (PP at
+			  (NP (NP an average)
+			      (PP of
+				  (NP (NP $ 10 *U*)
+				      (NP-ADV a barrel)))))
+		      (PP on
+			  (NP (NP an export platform)
+			      (PP of
+				  (NP (NP 1,250,000 barrels)
+				      (NP-ADV a day)))))))))
+     .))

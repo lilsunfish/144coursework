@@ -1,0 +1,103 @@
+
+
+( (S (NP-SBJ-1 Republic New York Corp.)
+     (VP joined
+         (NP (NP the list)
+             (PP of
+                 (NP (NP banks)
+                     (VP boosting
+                         (NP (NP reserves)
+			     (PP for
+				 (NP (NP losses)
+				     (PP on
+					 (NP (NP loans)
+					     (PP to
+						 (NP less-developed countries)))))))))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP (VP setting 
+			(PRT out)
+			(NP a 
+			    (ADJP (QP $ 200 million) *U*)
+			    provision))
+		    and
+		    (VP posting
+			(NP a 
+			    (ADJP (QP $ 155.4 million) *U*)
+			    third-quarter net loss)
+			(PP as
+			    (NP a result))))))
+     .))
+( (S (NP-SBJ The per-share loss)
+     (VP was
+         (NP-PRD $ 5.32 *U*))
+     .))
+( (S (PP-TMP In
+	     (NP the
+		 (ADJP year earlier)
+		 period))
+     ,
+     (NP-SBJ (NP the New York parent)
+             (PP of
+                 (NP Republic National Bank)))
+     (VP had
+         (NP (NP net income)
+             (PP of
+                 (NP (NP (QP $ 38.7 million) *U*)
+                     ,
+		     or
+                     (NP (NP $ 1.12 *U*)
+                         (NP-ADV a share))))))
+     .))
+( (S (PP Excluding
+	 (NP the provision))
+     ,
+     (NP-SBJ Republic)
+     (VP earned
+	 (NP (NP (QP $ 44.6 million) *U*)
+	     ,
+	     (ADVP up
+		   (NP 15 %)
+		   (PP from
+		       (ADVP-TMP (NP a year)
+				 ago)))))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP (NP The bank 's)
+			  (ADJP medium-term and long-term)
+			  loans)
+		      (PP to
+			  (NP less-developed countries)))
+	      (VP total
+		  (NP (NP (QP $ 293 million) *U*)
+		      ,
+		      (SBAR (WHPP-1 of
+				    (WHNP which))
+			    (S (NP-SBJ (NP (QP $ 146 million) *U*)
+				       (PP *T*-1))
+			       (VP are n't
+				   (VP accruing
+				       (NP interest))))))))
+     ,
+     (NP-SBJ the bank)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP (NP Republic 's)
+		 total)
+             (PP of
+                 (NP nonperforming assets)))
+     (VP was
+         (NP-PRD (QP $ 167 million) *U*)
+         (PP-TMP at
+		 (NP Sept. 30))
+	 ,
+	 (PP with
+	     (S-NOM (NP-SBJ (NP its reserve)
+			    (PP for
+				(NP loan losses)))
+		    (ADVP-TMP now)
+		    (VP standing
+			(PP-CLR-LOC at
+				    (NP (QP $ 357 million) *U*))))))
+     .))

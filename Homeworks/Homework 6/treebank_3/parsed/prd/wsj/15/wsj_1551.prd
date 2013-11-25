@@ -1,0 +1,200 @@
+
+
+( (S (NP-SBJ Dow Jones & Co.)
+     (VP announced
+         (NP (NP Wall Street Journal advertising rates)
+             (PP for
+                 (NP 1990))))
+     .))
+( (S (NP-SBJ (NP The rates)
+             ,
+             (SBAR (WHNP-1 which)
+		   (S (NP-SBJ *T*-1)
+		      (VP take
+			  (NP effect)
+			  (NP-TMP Jan. 2))))
+	     ,)
+     (VP include
+         (NP (NP a (ADJP 4 %) increase)
+             (PP for
+                 (NP national edition advertising))))
+     .))
+( (S (NP-SBJ The Journal)
+     (ADVP also)
+     (VP will
+         (VP offer
+             (NP expanded volume and frequency discounts)))
+     .))
+( (S (NP-SBJ (NP The increase)
+             (PP for
+                 (NP national edition advertising)))
+     (VP (VP is
+             (ADJP-PRD (ADJP less)
+                       (PP than
+                           (NP the inflation rate))))
+         and
+         (VP compares
+             (PP-CLR with
+		     (NP (NP a (ADJP 6.5 %) increase)
+			 (PP-TMP in
+				 (NP 1989))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ (NP Newsprint and postage prices)
+			 (NP-TMP this year))
+		 (VP have not
+		     (VP gone
+			 (ADVP-DIR up))))
+	, 
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Peter R. Kann)
+		,
+		(NP (NP president)
+		    (PP of
+			(NP Dow Jones))))
+	.))
+( (S ``
+     (NP-SBJ-1 We)
+     (VP have
+         (VP (VP invested
+                 (PP-CLR in
+			 (NP improved editorial quality)))
+             and
+             (VP expanded
+                 (NP our quality audience))
+	     (PP without
+		 (S-NOM (NP-SBJ *-1)
+			(VP (ADVP-MNR substantially)
+			    increasing
+			    (NP our costs))))))
+     .))
+( (S (NP-SBJ (NP Fundamental fairness)
+             and
+             (NP (NP a sense)
+                 (PP of
+                     (NP responsibility))))
+     (VP lead
+         (NP-1 us)
+         (S-CLR (NP-SBJ *-1) 
+		(VP to
+		    (VP share
+			(NP operating efficiencies)
+			(PP-CLR with
+				(NP our customers))))))
+     . 
+     ''))
+( (S (S (NP-SBJ (NP Advertising rates)
+                (PP for
+                    (NP the
+                        (ADJP Eastern , Midwest , Western and Southwest)
+                        editions)))
+        (VP will
+            (VP increase
+                (NP-EXT an average 5.5 %))))
+     ,
+     and
+     (S (NP-SBJ (NP rates)
+                (PP for
+                    (NP localized advertising editions)))
+        (VP will
+            (VP increase
+                (NP-EXT 7.5 %))))
+     .))
+( (S (NP-SBJ (NP Rates)
+             (PP for
+                 (NP the Wall Street Journal Reports)))
+     (VP will
+         (VP remain
+             (ADJP-PRD unchanged)))
+     .))
+( (S (NP-SBJ (NP A one-time noncontract full-page advertisement)
+             (PP-LOC in
+		     (NP The Wall Street Journal national edition)))
+     (VP will
+         (VP cost
+             (NP $ 99,385 *U*)))
+     .))
+( (S (NP-SBJ (NP Advertising rates)
+             (PP for
+                 (NP (NP The Wall Street Journal/Europe)
+                     ,
+                     (VP (VP published
+			     (NP *) 
+                             (PP-LOC in
+				     (NP Brussels)))
+                         and
+                         (VP printed
+			     (NP *) 
+                             (PP-LOC in
+				     (NP (NP the Netherlands)
+					 and
+					 (NP Switzerland)))))
+                     ,)))
+     (VP will
+         (VP increase
+             (NP-EXT 9 %)))
+     .))
+( (S (NP-SBJ (NP Rates)
+             (PP for
+                 (NP (NP The Asian Wall Street Journal)
+                     ,
+                     (VP (VP published and printed
+			     (NP *) 
+                             (PP-LOC in
+				     (NP Hong Kong)))
+                         and
+                         (ADVP also)
+                         (VP printed
+			     (NP *) 
+                             (PP-LOC in
+				     (NP Singapore
+					 and
+					 Tokyo))))
+                     ,)))
+     (VP will
+         (VP rise
+             (NP-EXT 8 %)))
+     .))
+( (S (NP-SBJ (NP Rates)
+             (PP for
+                 (NP (NP The Asian Wall Street Journal Weekly)
+                     ,
+                     (VP published
+                         (NP *)
+                         (PP-LOC in
+				 (NP New York))
+                         (PP-PRP for
+				 (NP (ADJP North American)
+				     readers)))
+                     ,)))
+     (VP will
+         (VP rise
+             (NP-EXT 6 %)))
+     .))
+( (S (NP-SBJ Dow Jones)
+     (ADVP also)
+     (VP (VP publishes
+             (NP (NP (NP Barron 's)
+                     magazine)
+                 ,
+                 (NP other periodicals)
+                 and
+                 (NP community newspapers)))
+         and
+         (VP operates
+             (NP electronic business information services)))
+     .))
+( (S (NP-SBJ It)
+     (VP owns
+         (NP (NP 67 %)
+             (PP of
+                 (NP (NP Telerate Inc.)
+                     ,
+                     (NP (NP a leading supplier)
+                         (PP of
+                             (NP (NP computerized financial information)
+                                 (PP on
+                                     (NP global markets)))))))))
+     .))

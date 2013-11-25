@@ -1,0 +1,70 @@
+
+
+( (S (NP-SBJ Quest Medical Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP adopted
+                      (NP (NP (NP a shareholders ')
+			      rights plan)
+                          (SBAR (WHPP-2 in
+					(WHNP which))
+                                (S (NP-SBJ-1 rights
+                                             (S (NP-SBJ *)
+                                                (VP to
+                                                    (VP purchase
+                                                        (NP (NP shares)
+                                                            (PP of
+                                                                (NP common stock)))))))
+                                   (VP will
+                                       (VP be
+                                           (VP distributed
+                                               (NP *-1)
+                                               (PP as
+                                                   (NP a dividend))
+                                               (PP-DIR to
+						       (NP (NP shareholders)
+							   (PP of
+							       (NP record))
+							   (PP-TMP as 
+								   (PP of
+								       (NP Oct. 23)))))
+					       (PP-LOC *T*-2)))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the plan)
+                  (VP was n't
+                      (VP adopted
+                          (NP *-1)
+                          (PP in
+                              (NP (NP response)
+                                  (PP to
+                                      (NP (NP any known offers)
+                                          (PP for
+                                              (NP (NP Quest)
+                                                  ,
+                                                  (NP (NP a maker and marketer)
+                                                      (PP of
+                                                          (NP hospital products))))))))))))))
+     .))
+( (S (NP-SBJ The rights)
+     (VP allow
+	 (S (NP-SBJ shareholders)
+            (VP to
+                (VP purchase
+                    (NP Quest stock)
+                    (PP at
+                        (NP a discount))
+                    (SBAR-ADV if
+			      (S (NP-SBJ any person or group)
+				 (VP (VP acquires
+					 (NP (NP (NP (QP more than 15) %)
+						 (PP of
+						     (NP (NP the company 's)
+							 common stock)))))
+				     or
+				     (VP announces
+					 (NP a tender offer)))))))))
+     .))

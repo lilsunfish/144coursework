@@ -1,0 +1,192 @@
+
+
+( (S (NP-SBJ Food and Drug Administration
+	     spokesman
+             Jeff Nesbit)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the agency)
+                  (VP has
+                      (VP turned
+                          (PRT over)
+                          (NP evidence)
+			  (PP-LOC in
+				  (NP (NP a criminal investigation)
+				      (VP concerning
+					  (NP Vitarine Pharmaceuticals Inc.))))
+                          (PP-CLR to
+				  (NP (NP (NP the U.S. Attorney 's)
+					  office)
+				      (PP-LOC in
+					      (NP Baltimore)))))))))
+     .))
+( (S (NP-SBJ-1 Neither
+               (NP Vitarine)
+               nor
+               (NP (NP any)
+                   (PP of
+                       (NP (NP the
+                               (NAC-LOC Springfield Gardens
+					,
+					N.Y.
+					,)
+                               company 's)
+                           officials or employees))))
+     (VP have
+         (VP been
+             (VP charged
+                 (NP *-1)
+                 (PP-CLR with
+			 (NP any crimes)))))
+     .))
+( (S (NP-SBJ Vitarine)
+     (VP (VP won
+             (NP approval
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP market
+			    (NP (NP a version)
+				(PP of
+				    (NP a blood pressure medicine))))))))
+         but
+         (VP acknowledged
+             (SBAR that
+                   (S (NP-SBJ it)
+                      (VP substituted
+                          (NP (NP a
+				  SmithKline Beecham PLC
+				  product))
+			  (PP-CLR as
+				  (NP its own))
+                          (PP-LOC in
+				  (NP tests)))))))
+     .))
+( (S (NP-SBJ Mr. Nesbit)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the FDA)
+                  (VP has
+                      (VP asked
+                          (NP-1 Bolar Pharmaceutical Co.)
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP recall
+                                     (PP-LOC at
+					     (NP the retail level))
+                                     (NP its urinary tract antibiotic)))))))))
+     .))
+( (S (S-TPC-1 But
+	      (ADVP-TMP so far)
+	      (NP-SBJ the company)
+	      (VP has n't
+		  (VP complied
+		      (PP-CLR with
+			      (NP that request)))))
+     ,
+     (NP-SBJ the spokesman)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP Bolar)
+			,
+			(NP (NP the subject)
+			    (PP of
+				(NP (NP a criminal investigation)
+				    (PP by
+					(NP (NP the FDA)
+					    and
+					    (NP (NP (NP the Inspector General 's)
+						    office)
+						(PP of
+						    (NP the 
+							Health and Human Services Department))))))))
+			,)
+	      (VP (ADVP only)
+		  agreed
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP recall
+			     (NP (NP two strengths)
+				 (PP of
+				     (NP (NP its version)
+					 (PP of
+					     (NP Macrodantin)))))
+			     ``
+			     (ADVP (ADVP as far down)
+				   (PP as
+				       (NP (NP direct customers)
+					   ,
+					   mostly
+					   (NP wholesalers)))))))))
+     ,
+     ''
+     (NP-SBJ Mr. Nesbit)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP Bolar)
+	     ,
+             (PP of
+                 (NP (NP Copiague)
+                     ,
+                     (NP N.Y.)
+                     ,)))
+     (ADVP-TMP earlier)
+     (VP began
+         (NP (NP a voluntary recall)
+             (PP of
+                 (NP (NP both its 
+			 (ADJP (ADJP 100 milligram) 
+			       and 
+			       (ADJP 50 milligram))
+			 versions)
+                     (PP of
+                         (NP the drug))))))
+     .))
+( (S (NP-SBJ The FDA)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP presented
+                          (NP (NP evidence)
+			      (SBAR (WHNP-1 0)
+				    (S (NP-SBJ it)
+				       (VP uncovered
+					   (NP *T*-1))))
+			      (VP *ICH*-2))
+			  (PP to
+			      (NP the company))
+			  (VP-2 indicating
+				(SBAR that
+				      (S (NP-SBJ-3 Bolar)
+					 (VP substituted
+					     (NP the brand-name product)
+					     (PP-CLR for
+						     (NP its own))
+					     (S-PRP (NP-SBJ *-3)
+						    (VP to
+							(VP gain
+							    (NP government approval
+								(S (NP-SBJ *)
+								   (VP to
+								       (VP sell
+									   (NP (NP generic versions)
+									       (PP of
+										   (NP Macrodantin)))))))))))))))))))
+     .))
+( (S (NP-SBJ Bolar)
+     (VP has
+         (VP denied
+             (SBAR that
+                   (S (NP-SBJ it)
+                      (VP switched
+                          (NP the brand-name product)
+                          (PP-CLR for
+				  (NP its own))
+                          (PP-LOC in
+				  (NP such testing)))))))
+     .))

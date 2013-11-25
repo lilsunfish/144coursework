@@ -1,0 +1,79 @@
+
+
+( (S (NP-SBJ Service Corp. International)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP expects
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP report
+                                 (NP (NP (NP net income)
+					 (PP of
+					     (NP (NP 15 cents)
+						 (NP-ADV a share))
+					     (PP for
+						 (NP the third quarter))))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP expects
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP release
+                                 (NP third-quarter results)
+				 (PP-TMP in
+					 (NP mid-November)))))))))
+     .))
+( (S (NP-SBJ The funeral home and cemetery operator)
+     (VP changed
+         (PP-CLR from  
+		 (NP a fiscal year))
+	 (PP-CLR to
+		 (NP a calendar year))
+	 (PP-TMP in
+		 (NP December)))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the comparable year-ago quarter)
+		 ,
+		 (NP (NP the second quarter)
+		     (SBAR (WHNP-1 0)  
+			   (S (NP-SBJ *-1)
+			      (VP ended
+				  (NP-TMP-CLR Oct. 31)))))
+		 ,))
+     (NP-SBJ Service Corp.)
+     (VP had
+         (NP (NP (NP a loss)
+		 (PP of
+		     (NP (NP (QP about $ 12.5 million) *U*)
+			 , or
+			 (NP (NP 26 cents)
+			     (NP-ADV a share))
+			 ,)))
+	     (PP-LOC on
+		     (NP (NP revenue)
+			 (PP of
+			     (NP (QP $ 175.4 million) *U*))))))
+     .))
+( (S (NP-SBJ (NP Results)
+             (PP for
+                 (NP that quarter)))
+     (VP included
+         (NP (NP a (ADJP (ADJP (QP $ 30 million) *U*)
+			 ,
+			 or
+			 (ADJP (NP 40 cents)
+			       (NP-ADV a share)))
+		 ,
+		 write-down)
+	     (VP associated
+		 (NP *)
+		 (PP-CLR with
+			 (NP (NP the consolidation)
+			     (PP of
+				 (NP a facility)))))))
+     .))

@@ -1,0 +1,146 @@
+
+
+( (S (NP-SBJ (NP Varian Associates Inc.)
+             ,
+             (NP-LOC (NP Palo Alto)
+		     ,
+		     (NP Calif.)
+		     ,))
+     (VP reported
+         (SBAR 0
+               (S (NP-SBJ (ADJP fiscal fourth-quarter)
+			  profit)
+                  (VP plunged
+                      (NP-EXT (QP more than 95)
+			      %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 1 million) *U*)
+				  , or
+				  (NP (NP five cents)
+				      (NP-ADV a share))))
+		      ,
+		      (PP-DIR from
+			      (NP (NP (QP $ 24.2 million) *U*)
+				  , or
+				  (NP (NP $ 1.10 *U*)
+				      (NP-ADV a share)))
+			      ,
+			      (PP-TMP in
+				      (NP the year-earlier quarter)))))))
+     .))
+( (S (NP-SBJ The diversified electronics company)
+     (VP blamed
+         (NP (NP the decline)
+             (PP-TMP in
+		     (NP (NP the quarter)
+			 (VP ended
+			     (NP *)
+			     (NP-TMP-CLR Sept. 29)))))
+	 ,
+	 (PP-CLR on
+		 (NP (NP previously reported operating problems)
+		     (PP-LOC in
+			     (NP its Electron Devices & Systems Group)))))
+     .))
+( (S (PP For 
+         (NP the full fiscal year))
+     ,
+     (NP-SBJ Varian)
+     (VP posted
+         (NP (NP a (ADJP 13 %) profit rise)
+             (PP to
+                 (NP (NP (QP $ 31.5 million) *U*)
+                     , or
+                     (NP (NP $ 1.53 *U*)
+                         (NP-ADV a share))
+                     ,))
+             (ADVP up
+                   (PP from
+                       (NP (NP (QP $ 27.8 million) *U*)
+                           , or
+                           (NP (NP $ 1.27 *U*)
+                               (NP-ADV a share)))
+		       ,
+		       (NP-TMP last year)))))
+     .))
+( (S (NP-SBJ (NP Sales)
+             (PP for
+                 (NP the year)))
+     (VP rose
+         (NP-EXT (QP almost 15) %)
+         (PP-DIR to
+		 (NP (QP $ 1.34 billion) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 1.17 billion) *U*)
+		 (NP-TMP last year)))
+     .))
+( (S (NP-SBJ A profit) 
+     (NP-TMP last year)
+     (PP-TMP in
+	     (NP both the quarter and year))
+     (VP included
+         (NP (NP a net gain)
+             (PP of
+                 (NP (NP (QP $ 9.6 million) *U*)
+                     , or
+                     (NP (NP 44 cents)
+                         (NP-ADV a share))
+                     ,))
+             (PP from
+                 (NP (NP the sale)
+                     (PP of
+                         (NP a division))))))
+     .))
+( (S (ADVP Additionally)
+     ,
+     (NP-SBJ the full-year profit)
+     (NP-TMP last year)
+     (VP reflected
+         (NP (NP an after-tax restructuring charge)
+             (PP of
+                 (NP (NP (QP $ 22.8 million) *U*)
+                     , or
+                     (NP (NP $ 1.04 *U*)
+                         (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ (NP Shares)
+             (PP of
+                 (NP (NP Varian)
+                     ,
+                     (SBAR (WHNP-1 which)
+                           (S (NP-SBJ *T*-1)
+			      (NP-TMP last month)
+                              (VP warned
+                                  (SBAR 0
+                                        (S (NP-SBJ there)
+                                           (VP would
+                                               (VP be
+                                                   (NP-PRD a fourth-quarter plunge))))))))
+                     ,)))
+     (VP closed
+         (PP-LOC at
+		 (NP $ 22.75 *U*))
+         ,
+         (ADVP down
+               (NP 62.5 cents))
+	 (PP-LOC in
+		 (NP (NP composite trading)
+		     (PP-LOC on
+			     (NP the New York Stock Exchange)))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 18 %)
+         (PP-TMP in
+		 (NP the fiscal fourth quarter))
+         (PP-DIR to
+		 (NP (QP $ 364.1 million) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 307.9 million) *U*))
+         (PP on
+             (NP (NP the strength)
+                 (PP-LOC in
+			 (NP (NP semiconductors)
+			     and
+			     (NP other products))))))
+     .))

@@ -1,0 +1,178 @@
+
+
+( (S (NP-SBJ BSN Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP begin
+                          (NP an offer
+                              (S *ICH*-1))
+			  (NP-TMP tomorrow)
+			  (S-1 (NP-SBJ *)
+			       (VP to
+				   (VP exchange
+				       (NP (NP (NP (QP up to one million))
+					       (PP of
+						   (NP its common shares)))
+					   and
+					   (NP (NP all)
+					       (PP of
+						   (NP (NP (NP its (QP $ 16.6 million) *U*)
+							   (PP in
+							       (NP (ADJP (QP 7 3) %)
+								   convertible debentures)))
+						       (ADJP due
+							     (NP-TMP 2001))))))
+				       (PP for
+					   (NP (NP a package)
+					       (PP of
+						   (NP new debt and common stock warrants))))))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP (NP terms)
+		 (PP of
+		     (NP the offer))))
+     ,
+     (NP-SBJ the sporting goods maker)
+     (VP will
+         (VP swap
+             (NP (NP (NP (ADJP $ 9 *U*) face amount)
+		     (PP of
+			 (NP (NP (ADJP (QP 9 1) %) subordinated notes)
+			     (ADJP due
+				   (NP-TMP 1996)))))
+                 and
+                 (NP one warrant))
+             (PP-CLR for
+		     (NP each common share))))
+     .))
+( (S (NP-SBJ Each warrant)
+     (VP allows
+	 (S (NP-SBJ the holder)
+            (VP to
+                (VP buy
+                    (NP one BSN share)
+                    (PP-CLR for
+			    (NP (NP $ 10.75 *U*)
+				(NP-ADV a share)))
+		    (PP-TMP at
+			    (NP (NP any time)
+				(PP over
+				    (NP the next seven years))))))))
+     .))
+( (S (NP-SBJ BSN)
+     (ADVP-TMP currently)
+     (VP has
+         (NP (NP (QP 4.6 million) common shares)
+             (ADJP outstanding)))
+     .))
+( (S (NP-SBJ BSN)
+     (ADVP also)
+     (VP is
+         (VP offering
+             (NP (NP (NP (ADJP $ 850 *U*) face amount)
+		     (PP of
+			 (NP new notes)))
+                 and
+                 (NP 64 common-stock warrants))
+             (PP for
+                 (NP (NP each (ADJP $ 1,000 *U*) face amount)
+		     (PP of
+			 (NP (NP its convertible debt)
+			     (ADJP outstanding)))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP can
+                      (VP redeem
+                          (NP the warrants)
+                          (PP at
+                              (NP its option))
+                          (PP-CLR for
+				  (NP (NP $ 1 *U*)
+				      (NP-ADV each))))))))
+     .))
+( (S (NP-SBJ The offer)
+     (VP is n't
+         (ADJP-PRD contingent
+                   (PP on
+                       (NP (NP a certain amount)
+                           (PP of
+                               (NP debt or stock))
+			   (VP being
+			       (VP exchanged 
+				   (NP *)))))))
+     .))
+( (S (NP-SBJ BSN)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP is
+                      (VP making
+                          (NP the offer)
+			  (S-PRP (NP-SBJ *-1)
+				 (VP to
+				     (VP (VP shrink
+					     (NP its capital))
+					 and
+					 (VP increase
+					     (NP shareholder value))))))))))
+     .))
+((SINV (S-TPC-1 (SBAR-ADV If
+			  (S (NP-SBJ (NP all the bondholders and holders)
+				     (PP of
+					 (NP (QP one million) common shares)))
+			     (VP accept
+				 (NP the offer))))
+		,
+		(S (NP-SBJ BSN)
+		   (VP will
+		       (VP increase
+			   (NP its debt)
+			   (PP-EXT by
+				   (NP (QP $ 9 million) *U*)))))
+		, but
+		(S (NP-SBJ it)
+		   (ADVP also)
+		   (VP will
+		       (VP recognize
+			   (NP (NP a (ADJP (QP $ 2 million) *U*) gain)
+			       (PP from
+				   (S-NOM (NP-SBJ *)
+					  (VP retiring
+					      (NP the old debt)))))))))
+       ,
+       (VP said
+	   (SBAR 0
+		 (S *T*-1)))
+       (NP-SBJ (NP Michael J. Blumenfeld)
+	       ,
+	       (NP president))
+       .))
+( (S ``
+     (S-TPC-2 (NP-SBJ We)
+	      (VP have
+		  (NP (NP sufficient cash flow)
+		      (SBAR (WHNP-1 0)
+			    (S (NP-SBJ *T*-1)
+			       (VP to
+				   (VP handle
+				       (NP that))))))))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-2))
+     .))
+( (S (NP-SBJ-1 The offers)
+     (VP are
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP expire
+			(PP-TMP-CLR in
+				    (NP (ADJP mid to late)
+					November)))))))
+     .))

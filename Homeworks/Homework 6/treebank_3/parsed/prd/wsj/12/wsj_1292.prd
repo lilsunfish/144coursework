@@ -1,0 +1,43 @@
+
+
+( (S (NP-SBJ (NP Standard & Poor 's)
+             Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP would
+                      (VP (VP add
+			      (NP (NP John H. Harland Co.)
+				  ,
+				  (NP an Atlanta check printer)
+				  ,)
+			      (PP to
+				  (NP its 500-stock index)))
+			  ,
+			  (ADJP effective 
+				(PP-TMP at
+					(NP (NP the close)
+					    (PP of
+						(NP trading))
+					    (PP-TMP on
+						    (NP Wednesday))))))))))
+     .))
+( (S (NP-SBJ-1 (NP American Medical International Inc.)
+               ,
+               (NP a New York hospital operator)
+               ,)
+     (VP will
+         (VP be
+             (VP deleted
+                 (NP *-1)
+                 (PP-CLR from
+			 (NP the index))
+		 (PP-TMP at
+			 (NP that time)))))
+     .))
+( (S (NP-SBJ-1 American Medical)
+     (VP is
+         (VP being
+             (VP acquired
+                 (NP *-1))))
+     .))

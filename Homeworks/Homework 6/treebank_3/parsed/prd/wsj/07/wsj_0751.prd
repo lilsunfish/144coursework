@@ -1,0 +1,63 @@
+
+
+( (S (S-TPC-2 (NP-SBJ-1 (NP Dime Savings Bank)
+			(PP of
+			    (NP New York)))
+	      (VP was
+		  (VP cleared
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS the Federal Deposit Insurance Corp.))
+		      (S-CLR (NP-SBJ *-1)
+			     (VP to
+				 (VP acquire
+				     (NP (NP Starpointe Savings Bank)
+					 (PP of
+					     (NP (NP Somerset)
+						 ,
+						 (NP N.J.)
+						 ,)))))))))
+     (NP-SBJ the banks)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ (NP Starpointe holders)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP approved
+                          (NP the plan)
+			  (NP-TMP last April))))
+             ,)
+     (VP will
+         (VP receive
+             (NP (NP (NP $ 21 *U*)
+		     (PP in
+			 (NP cash))
+                     (NP-ADV a share))
+                 , or
+                 (NP a (QP total $ 63 million) *U*))))
+     .))
+( (S (S (NP-SBJ The FDIC)
+        (VP cleared
+            (NP the move)
+	    (NP-TMP yesterday)))
+     , and
+     (S (NP-SBJ-1 the banks)
+        (VP must
+            (VP wait
+                (NP-TMP (QP at
+			    least
+			    30) days)
+		(PP-TMP before
+			(S-NOM (NP-SBJ *-1)
+			       (VP closing
+				   (NP the purchase)))))))
+     .))
+( (S (NP-SBJ-1 A closing date)
+     (VP has n't
+         (VP been
+             (VP set
+                 (NP *-1))))
+     .))

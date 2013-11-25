@@ -1,0 +1,70 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Raw-steel production)
+		      (PP by
+			  (NP (NP the nation 's)
+			      mills)))
+	      (VP decreased
+		  (NP-EXT 0.7 %)
+		  (NP-TMP last week)
+		  (PP-DIR to
+			  (NP 1,816,000 tons))
+		  (PP-DIR from
+			  (NP 1,828,000 tons)
+			  (NP-TMP the previous week))))
+     ,
+     (NP-SBJ the American Iron and Steel Institute)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP Last week 's)
+             output)
+     (VP fell
+         (NP-EXT 1.7 %)
+         (PP-DIR from
+		 (NP (NP the 1,848,000 tons)
+		     (VP produced
+			 (NP *)
+			 (ADVP-TMP (NP a year)
+				   earlier)))))
+     .))
+( (S (NP-SBJ The industry)
+     (VP used
+         (NP (NP 81.6 %)
+             (PP of
+                 (NP its capability)))
+	 (NP-TMP last week)
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP (NP 82.2 %)
+			 (NP-TMP the previous week))
+		     and
+		     (NP (NP 86.2 %)
+			 (ADVP-TMP (NP a year)
+				   ago))))))
+     .))
+( (S (NP-SBJ The American Iron and Steel Institute)
+     (VP reported
+	 :
+	 (SBAR 0
+	       (S (NP-SBJ The capability utilization rate)
+		  (VP is
+		      (NP-PRD (NP a calculation)
+			      (VP designed
+				  (NP *)
+				  (S-PRP (NP-SBJ *)
+					 (VP to
+					     (VP indicate
+						 (SBAR (WHPP-1 at
+							       (WHNP (WHNP what percent)
+								     (PP of
+									 (NP its production capability))))
+						       (S (NP-SBJ the industry)
+							  (VP is
+							      (VP operating
+								  (PP-TMP in
+									  (NP a given week))
+								  (PP-LOC *T*-1)))))))))))
+		  .)))))

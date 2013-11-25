@@ -1,0 +1,90 @@
+
+This is a revised trimmed-down version of the main README file that
+accompanied the Penn Treebank Release 2 CDROM, which featured a
+million words of 1989 Wall Street Journal material annotated in
+Treebank II style.  Portions of that README file are being included
+here with Penn Treebank Release 3 in order to provide additional
+information about material that was present in the earlier release.
+
+The Treebank II bracketing style, which is designed to allow the
+extraction of simple predicate-argument structure, is described in
+doc/arpa94 and the new bracketing style manual (in doc/manual/).  In
+addition, there is a small sample of ATIS-3 material, also annotated
+in Treebank II style.
+
+		      INVENTORY and DESCRIPTIONS
+
+The directory structure of this release is similar to the previous release.
+
+doc/                    --Documentation.
+			This directory contains information about who
+			the annotators of the Penn Treebank are and
+			what they did as well as LaTeX files of the
+			Penn Treebank's Guide to Parsing and Guide to
+			Tagging. 
+
+parsed/			--Parsed Corpora.
+			These are skeletal parses, without part-of-speech
+			tagging information.  To reflect the change in
+			style from our last release, these files now have
+			the extension of .prd.
+
+  atis/  		--Air Travel Information System transcripts.
+  April 1994		Approximately 5000 words of ATIS3 material.
+			The material has a limited number of sentence
+			types.  It was created by Don Hindle's Fidditch and
+			corrected once by a human annotator (Grace Kim).
+
+  wsj/			--1989 Wall Street Journal articles.
+  November 1993		Most of this material was processed from our      
+   -October 1994	previous release using tgrep "T" programs.
+			However, the 21 files in the 08 directory and the
+			file wsj_0010 were initially created using the
+			FIDDITCH parser (partially as an experiment, and
+			partly because the previous release of these files
+			had significant technical problems).
+			                                                  
+			All of the material was hand-corrected at least
+			once, and about half of it was revised and updated
+			by a different annotator.  The revised files are
+			likely to be more accurate, and there is some
+			individual variation in accuracy.  The file
+			doc/wsj.wha lists who did the correction and
+			revision for each directory.
+
+
+tagged/			--Tagged Corpora.
+
+  atis/			--Air Travel Information System transcripts.
+  April 1994		The part-of-speech tags were inserted by Ken
+			Church's PARTS program and corrected once by a
+			human annotator (Robert MacIntyre).
+  
+  wsj			--'88-'89 Wall Street Journal articles.
+  Winter		These files have not been reannotated since the
+   -Spring 1990		previous release.  However, a number of technical
+			bugs have been fixed and a few tags have been
+			corrected.  See tagged/README.pos for details.
+
+
+The new work in Release 2 was funded by the Linguistic Data Consortium.
+Previous versions of this data were primarily funded by DARPA and AFOSR
+jointly under grant No. AFOSR-90-006, with additional support by DARPA
+grant No. N0014-85-K0018 and by ARO grant No. DAAL 03-89-C0031 PRI.  Seed
+money was provided by the General Electric Corporation under grant
+No. J01746000.  We gratefully acknowledge this support.
+
+Richard Pito deserves special thanks for providing the tgrep tool, which
+proved invaluable both for preprocessing the parsed material and for
+checking the final results.
+
+We are also grateful to AT&T Bell Labs for permission to use Kenneth
+Church's PARTS part-of-speech labeller and Donald Hindle's Fidditch parser.
+
+Finally, we are very grateful to the exceptionally competent technical
+support staff of the Computer and Information Science Department at the
+University of Pennsylvania, including Mark-Jason Dominus, Mark Foster, and
+Ira Winston.
+
+Portions Copyright (c) Wall Street Journal, University of Pennsylvania
+

@@ -1,0 +1,58 @@
+
+
+( (S (NP-SBJ Cray Research Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP sold
+                      (NP (NP one)
+                          (PP of
+                              (NP (NP its
+                                      (ADJP newest and largest)
+                                      computer systems)
+                                  ,
+                                  (NP the Cray Y-MP/832)
+                                  ,)))
+                      (PP-DTV to 
+			      (NP the United Kingdom Meteorological Office))))))
+     .))
+( (S (NP-SBJ The system)
+     (VP is
+         (NP-PRD (NP the first)
+		 (SBAR (WHNP-2 0)
+		       (S (NP-SBJ-1 *T*-2)
+			  (VP to
+			      (VP be
+				  (VP sold
+				      (NP *-1)
+				      (PP-MNR through
+					      (NP (NP the joint marketing agreement)
+						  (PP between
+						      (NP (NP Cray)
+							  and
+							  (NP Control Data Corp))))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The supercomputer)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ *T*-2)
+                        (VP lists
+                            (PP-CLR for
+				    (NP (QP $ 18.5 million) *U*)))))
+               ,)
+     (VP will
+         (VP be
+             (VP installed
+                 (NP *-1)
+                 (PP-TMP in
+			 (NP (NP the first quarter)
+			     (PP of
+				 (NP 1990))))
+                 (PP-LOC in
+			 (NP (NP (NP the meteorological office 's)
+				 headquarters)
+			     (PP-LOC in
+				     (NP (NP Bracknell)
+					 ,
+					 (NP England))))))))
+     .))

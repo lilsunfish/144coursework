@@ -1,0 +1,126 @@
+
+
+( (S (NP-SBJ (NP The recent bids)
+             (PP for
+                 (NP United
+                     and
+                     American Airlines)))
+     (VP have
+         (VP led
+             (S (NP-SBJ-1 Congress)
+                (VP to
+                    (VP move
+                        (PP-MNR with
+				(NP supersonic speed))
+			(S-PRP-CLR (NP-SBJ *-1)
+				   (VP to
+				       (VP protect
+					   (NP incumbent airline managements)))))))))
+     .))
+( (S (NP-SBJ-2 The House)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP vote
+                        (NP-TMP today)
+                        (PP-CLR on
+				(NP (NP an anti-airline-takeover bill)
+				    (SBAR (WHNP-1 that)
+					  (S (NP-SBJ *T*-1)
+					     (VP would
+						 (VP block
+						     ,
+						     (PP-TMP for
+							     (NP (QP up to 50)
+								 days))
+						     ,
+						     (NP (NP (NP any bid)
+							     (PP for
+								 (NP (NP (QP 15 % or more)
+									 *U*)
+								     (PP of
+									 (NP a U.S. airline)))))
+							 ,
+							 (NP even a straight cash purchase))))))))))))) 
+     .))
+( (S (NP-SBJ (NP Transportation Secretary Sam Skinner)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (ADVP-TMP earlier)
+                      (NP-SBJ *T*-1)
+		      (VP fueled
+			  (NP the anti-takeover fires)
+			  (PP-MNR with
+				  (NP (NP his quasi-xenophobic attacks)
+				      (PP on
+					  (NP (NP foreign investment)
+					      (PP in
+						  (NP U.S. carriers)))))))))
+             ,)
+     (ADVP-TMP now)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ the bill)
+                  (VP would
+                      (VP (ADVP further)
+                          disturb
+                          (NP the jittery capital markets))))))
+     .))
+( (S (NP-SBJ (NP Texas Rep. Steve Bartlett)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+                          (NP 40,000 American Airlines workers)
+                          (PP-LOC in
+				  (NP his district)))))
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ the bill)
+                  (VP is
+		      ``
+		      (NP-PRD (NP good politics)
+			      , but
+			      (NP bad law))))))
+     . ''))
+( (S (NP-SBJ (NP It)
+             (SBAR *EXP*-1))
+     (VP is
+         (ADJP-PRD ironic)
+	 (SBAR-1 that
+		 (S (PP-TMP at
+			    (NP (NP a time)
+				(SBAR (WHADVP-4 when)
+				      (S (NP-SBJ-2 (NP America 's)
+						   partial airline deregulation)
+					 (VP is
+					     (VP being
+						 (VP emulated
+						     (NP *-2)
+						     (PP by
+							 (NP-LGS (NP governments)
+								 (PP-LOC (PP from
+									     (NP New Zealand))
+									 (PP to
+									     (NP Ethiopia)))))
+						     (ADVP-TMP *T*-4))))))))
+		    ,
+		    (NP-SBJ (NP so many)
+			    (PP-LOC in
+				    (NP Congress)))
+		    (VP favor
+			(NP (NP an incumbent-protection program)
+			    (PP for
+				(NP airlines))
+			    (SBAR (WHNP-3 that)
+				  (S (NP-SBJ *T*-3)
+				     (VP would
+					 (VP be
+					     (ADJP-PRD more appropriate)
+					     (PP for
+						 (NP (NP the Soviet airline)
+						     ,
+						     (NP Aeroflot))))))))))))
+     .))

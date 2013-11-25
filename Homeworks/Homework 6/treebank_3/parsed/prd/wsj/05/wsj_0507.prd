@@ -1,0 +1,55 @@
+
+
+( (S (NP-SBJ Analog Devices Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP may
+                      (VP purchase
+                          (NP (NP (QP as many as one million))
+                              (PP of 
+				  (NP its common shares)))
+                          (PP-TMP over
+				  (NP the next several months)))))))
+     .))
+( (S (NP-SBJ Analog)
+     (ADVP also)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP a 
+			      (ADJP (QP one million) share) 
+			      buy-back program)
+                          (VP announced
+			      (NP *) 
+                              (PP-TMP in
+				      (NP March))))
+                  (VP is
+                      (ADJP-PRD substantially complete)))))
+     .))
+( (S (NP-SBJ (NP The company)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP makes
+                          (NP (NP integrated circuits)
+                              and
+                              (NP other electronic parts)))))
+             ,)
+     (ADVP-TMP now)
+     (VP has
+         (NP (NP (QP about 47 million)
+		 common shares)
+             (ADJP outstanding)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ Analog Devices)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 8.875 *U*))
+         ,
+         (ADVP up
+	       (NP 25 cents)))
+     .))

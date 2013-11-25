@@ -1,0 +1,58 @@
+
+
+( (S (NP-SBJ (NP Silicon Graphics Inc. 's)
+             first-quarter profit)
+     (VP rose
+         (ADVP-MNR sharply)
+         (PP-DIR to
+		 (NP (NP (QP $ 5.2 million) *U*)
+		     , 
+		     or
+		     (NP (NP 28 cents)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 1 million) *U*)
+		     , 
+		     or
+		     (NP (NP six cents)
+			 (NP-ADV a share)))
+		 ,
+		 (ADVP-TMP (NP a year)
+			   ago)))
+     .))
+( (S (NP-SBJ (NP The maker)
+             (PP of
+                 (NP computer workstations)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP a surge)
+                          (PP of
+                              (NP government orders)))
+                  (VP contributed
+                      (PP-CLR to
+			      (NP the increase))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 95 %)
+         (PP-DIR to
+		 (NP (QP $ 86.4 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 44.3 million) *U*)
+		 (NP-TMP (NP the year) 
+			 (ADJP earlier))))
+     .))
+( (S (PP-LOC In
+	     (NP national over-the-counter trading))
+     ,
+     (NP-SBJ the company)
+     (VP closed
+	 (NP-TMP yesterday)
+	 (PP-CLR at
+		 (NP (NP $ 23.25 *U*)
+		     (NP-ADV a share)))
+	 ,
+	 (ADVP down
+	       (NP 25 cents)))
+     .))

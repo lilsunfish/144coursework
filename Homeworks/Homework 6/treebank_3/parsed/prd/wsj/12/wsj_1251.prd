@@ -1,0 +1,180 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Fatalities)
+		      (PP-LOC on
+			      (NP rural interstates)))
+	      (VP rose
+		  (NP-EXT 33 %)
+		  (PP-TMP between
+			  (NP (NP 1986)
+			      and
+			      (NP last year)))))
+     ,
+     (NP-SBJ the National Highway Traffic Safety Administration)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1))
+	 (PP-LOC in
+		 (NP (NP a report)
+		     (PP on
+			 (NP (NP the impact)
+			     (PP of
+				 (NP the (ADJP 65 miles-per-hour) speed limit))
+			     (PP on
+				 (NP those roads)))))))
+     .))
+( (S (NP-SBJ (NP The report)
+             (PP to
+                 (NP Congress)))
+     (VP said
+         (SBAR that
+               (S (NP-SBJ fatalities)
+                  (VP (VP rose
+                          (NP-EXT-1 18 %)
+                          (PP-TMP-2 in
+				    (NP 1987)))
+                      and
+                      (VP (NP-EXT=1 13 %)
+			  (PP-TMP=2 in
+				    (NP 1988)))
+		      (PP-LOC on
+			      (NP rural interstates))))))
+     .))
+( (S (NP-SBJ The 1987 highway bill)
+     (VP permitted
+	 (S (NP-SBJ states)
+            (VP to
+                (VP raise
+                    (NP the speed limit)
+                    (PP-DIR to 
+			    (NP 65 mph))
+                    (PP-DIR from
+			    (NP 55 mph))
+                    (PP-LOC on
+			    (NP (NP interstate roads)
+				,
+				(SBAR (WHNP-2 which)
+				      (S (NP-SBJ-1 *T*-2)
+					 (VP are
+					     (VP defined
+						 (NP *-1)
+						 (PP-CLR as
+							 (NP (NP highways)
+							     (SBAR (WHNP-3 that)
+								   (S (NP-SBJ *T*-3)
+								      (VP pass
+									  (PP-CLR through
+										  (NP (NP areas)
+										      (PP with
+											  (NP (QP fewer
+												  than
+												  50,000)
+											      people)))))))))))))))))))
+     .))
+( (S (PP-TMP Since
+	     (NP 1987))
+     ,
+     (NP-SBJ 40 states)
+     (VP have
+         (VP increased
+             (NP (NP the speed limit)
+                 (PP-LOC on
+			 (NP rural interstates)))))
+     .))
+( (S ``
+     (S (NP-SBJ-1 (QP About
+		      one-third)
+                  of
+		  (NP the fatality increase))
+        (VP is
+            (VP attributed
+                (NP *-1)
+                (PP-CLR to
+			(NP greater travel)))))
+     , and
+     (S (NP-SBJ-2 (QP about
+		      two-thirds))
+        (VP is
+            (VP attributed
+                (NP *-2)
+                (PP-CLR (PP to
+			    (NP other factors))
+			-LCB- 
+			(PP (ADVP primarily) to
+			    (NP greater speed))
+			-RCB-))))
+     , ''
+     (PP according
+         (PP to
+             (NP NHTSA)))
+     .))
+( (S (NP-SBJ The report)
+     (VP showed
+         (SBAR that
+               (S (NP-SBJ (NP deaths)
+                          (PP-LOC on
+				  (NP urban interstate highways)))
+                  (VP rose
+                      (NP-EXT 7 %)
+		      (PP-TMP between
+			      (NP (NP 1986)
+				  and
+				  (NP last year)))
+		      ,
+		      (SBAR-ADV while
+				(S (NP-SBJ (NP fatalities)
+					   (PP-LOC on
+						   (NP non-interstate roads)))
+				   (VP were
+				       (ADJP-PRD about the 
+						 same
+						 (PP-TMP in
+							 (NP 1988))
+						 (PP as
+						     (PP-TMP in
+							     (NP 1986)))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP states)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP raised
+			      (NP (NP the speed limit)
+				  (PP-LOC on
+					  (NP rural interstates))))))))
+     ,
+     (NP-SBJ the fatality rate)
+     (VP rose
+         (NP-EXT (QP about 18) %)
+         (PP-DIR to
+		 (NP (NP 1.7 deaths)
+		     (PP per
+			 (NP (NP (QP 100 million) miles)
+			     (VP traveled
+				 (NP *))))))
+	 (PP-TMP between
+		 (NP (NP 1986)
+		     and
+		     (NP 1988))))
+     .))
+( (S (PP In
+         (NP contrast))
+     ,
+     (NP-SBJ (NP the fatality rate)
+             (PP-LOC in
+		     (NP (NP the states)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP retained
+				      (NP the (ADJP 55 mph) limit)))))))
+     (VP was
+         (NP-PRD (NP 0.9)
+		 (ADJP *ICH*-2))
+         (NP-TMP last year)
+         ,
+         (ADJP-2 the 
+		 same
+		 (PP as
+		     (PP in
+			 (NP 1986)))))
+     .))

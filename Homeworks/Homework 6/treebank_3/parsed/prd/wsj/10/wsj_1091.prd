@@ -1,0 +1,186 @@
+
+
+( (S (NP-SBJ-1 Quickview Systems Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP filed
+                      (NP a lawsuit)
+                      (PP-CLR against
+			      (NP Apple Computer Inc.)))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP claiming
+		    (NP (NP patent infringement)
+			(PP-LOC in
+				(NP (NP an element)
+				    (PP of
+					(NP (NP Apple 's)
+					    popular HyperCard software program))))))))
+     .))
+( (S (NP-SBJ (NP The suit)
+             ,
+             (VP filed
+                 (NP *)
+                 (PP-LOC in
+			 (NP Minneapolis federal court)))
+             ,)
+     (VP claims
+         (SBAR that
+               (S (NP-SBJ Apple)
+                  (VP violated
+                      (NP (NP a Quickview patent)
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ *T*-1)
+                                   (VP allows
+				       (S (NP-SBJ computer users)
+					  (VP to
+                                              (VP display
+						  ``
+						  (NP (NP only portions)
+                                                      (PP of
+                                                          (NP multiple fields)))
+                                                  (PP-LOC on
+							  (NP a computer screen))
+                                                  (PP with
+                                                      (NP the ability
+                                                          (S (NP-SBJ *)
+                                                             (VP to
+                                                                 (VP see
+                                                                     (NP (NP the entire contents)
+                                                                         (PP of
+                                                                             (NP any given field)))))))))))))))))))
+     . ''))
+( (S (NP-SBJ-2 The HyperCard program)
+     (VP (VP allows
+	     (S (NP-SBJ users)
+		(VP to
+		    (VP design
+			(NP (NP applications)
+			    (PP for
+				(NP Macintosh computers)))
+			(PP without
+			    (S-NOM (NP-SBJ-1 *)
+				   (VP having
+				       (S (NP-SBJ *-1)
+					  (VP to
+					      (VP be
+						  (NP-PRD hardcore programmers)))))))))))
+	 and
+	 (VP is
+	     (VP distributed
+		 (NP *-2)
+		 (PP-CLR with
+			 (NP (NP every Macintosh)
+			     (VP sold
+				 (NP *)))))))
+     .))
+( (S (S (NP-SBJ It)
+        (VP 's
+            (NP-PRD (NP one)
+                    (PP of
+                        (NP (NP the
+				(ADJP most popular)
+				computer programs)
+                            (PP of
+                                (NP all time)))))))
+     , but
+     (S (NP-SBJ analysts)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ-1 the Quickview suit)
+                     (VP does n't
+                         (VP appear
+                             (S (NP-SBJ *-1)
+                                (VP to
+                                    (VP bode
+                                        (NP (NP major difficulties)
+                                            (PP for
+                                                (NP Apple))))))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The technology)
+			 (PP at 
+			     (NP issue)))
+		 ``
+		 (VP is not
+		     (NP-PRD (NP an underlying technology)
+			     (PP of
+				 (NP HyperCard)))
+		     (PP to
+			 (NP my knowledge))))
+	, ''
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Danny Goodman)
+		,
+		(NP a
+		    (ADJP San Francisco-area)
+		    HyperCard program developer))
+	.))
+( (S (ADVP Nonetheless)
+     ,
+     (NP-SBJ the suit)
+     (VP seeks
+         (NP (NP unspecified damages)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ (NP an attorney)
+                              (PP for
+                                  (NP Quickview)))
+                      (VP claimed
+                          (SBAR 0
+                                (S (NP-SBJ *T*-1)
+                                   (VP could
+                                       (VP run
+                                           (PP-CLR into
+						   (NP (NP the millions)
+						       (PP of
+							   (NP dollars)))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP Cupertino 
+		 ,
+		 Calif.))
+     ,
+     (NP-SBJ Apple)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ it)
+                  (VP believes
+                      (SBAR (SBAR 0
+                                  (S (NP-SBJ the case)
+                                     (VP has
+                                         (NP no merit))))
+                            , and
+                            (SBAR that
+                                  (S (NP-SBJ HyperCard)
+                                     (VP does not
+                                         (VP infringe
+                                             (NP `` (NP any valid claims) ''
+                                                 (PP of
+                                                     (NP the Quickview patents))))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP filed
+                      (NP (NP an action)
+                          (PP of
+                              (NP its own)))
+                      (PP-LOC in
+			      (NP (NP federal court)
+				  (PP-LOC in
+					  (NP (NP San Jose)
+					      ,
+					      (NP Calif.)
+					      ,))))
+		      (S-ADV (NP-SBJ *-1)
+			     (VP seeking
+				 (NP a declaration
+				     (SBAR that
+					   (S (NP-SBJ (NP Quickview 's)
+						      claims)
+					      (VP are
+						  (ADJP-PRD invalid)))))))))))
+     .))

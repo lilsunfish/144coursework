@@ -1,0 +1,53 @@
+
+
+( (S (NP-SBJ Diamond Shamrock Offshore Partners)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP had
+                      (VP discovered
+                          (NP gas)
+			  (ADVP-LOC offshore
+				    (NP Louisiana)))))))
+     .))
+( (S (NP-SBJ The well)
+     (VP flowed
+         (PP at
+             (NP (NP a rate)
+                 (PP of
+                     (NP (NP (NP (QP 2.016 million) cubic feet)
+                             (PP of
+                                 (NP gas)))
+                         (NP-ADV a day)))))
+         (PP-DIR through
+		 (NP a 16 64-inch opening))
+         (PP-LOC at
+		 (NP (NP depths)
+		     (PP between
+			 (NP (QP 5,782 and 5,824)
+			     feet)))))
+     .))
+( (S (NP-SBJ Diamond Shamrock)
+     (VP is
+         (NP-PRD the operator)
+	 ,
+	 (PP with
+	     (NP (NP a
+		     (ADJP 100 %)
+		     interest)
+		 (PP-LOC in
+			 (NP the well)))))
+     .))
+( (S (NP-SBJ-1 (NP Diamond Shamrock Offshore 's)
+	       stock)
+     (VP rose
+         (NP-EXT 12.5 cents)
+         (NP-TMP Friday)
+         (S-CLR (NP-SBJ *-1) 
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP $ 8.25 *U*))
+			(PP-LOC in
+				(NP New York Stock Exchange composite trading))))))
+     .))

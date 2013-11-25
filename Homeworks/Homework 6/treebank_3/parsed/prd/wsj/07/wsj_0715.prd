@@ -1,0 +1,55 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP West Germany 's)
+		      cost-of-living index)
+	      (VP (VP rose
+		      (NP-EXT a preliminary 0.3 %)
+		      (PP-TMP in
+			      (NP October))
+		      (PP-TMP from
+			      (NP September)))
+		  and
+		  (VP was
+		      (ADVP-PRD up
+				(NP-ADV 3.3 %))
+		      (PP-TMP from
+			      (ADVP-TMP (NP a year)
+					earlier)))))
+     ,
+     (NP-SBJ (NP the Federal Statistics Office)
+	     (PP-LOC in
+		     (NP Wiesbaden)))
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The increase)
+     (VP follows
+         (NP (NP a monthly rise)
+	     (PP of
+		 (NP 0.2 %))
+             (PP-TMP in
+		     (NP September))
+             (PP-TMP from
+		     (NP August))))
+     .))
+( (S (NP-SBJ-1 (NP Preliminary cost-of-living data)
+               (PP for
+                   (NP the current month)))
+     (VP are
+         (VP calculated
+             (NP *-1)
+             (PP-MNR based
+		     (PP on
+			 (NP (NP inflation data)
+			     (PP from
+				 (NP (NP the four largest West German states)
+				     --
+				     (NP (NP Baden-Wuerttemberg)
+					 ,
+					 (NP North Rhine-Westphalia)
+					 ,
+					 (NP Bavaria)
+					 and
+					 (NP Hesse)))))))))
+     .))

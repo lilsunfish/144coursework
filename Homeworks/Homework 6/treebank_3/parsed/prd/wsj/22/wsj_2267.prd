@@ -1,0 +1,122 @@
+
+
+( (S (NP-SBJ DD Acquisition Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP extended
+                      (NP (NP its (ADJP $ 45-a-share *U*) offer)
+                          (PP for
+                              (NP Dunkin ' Donuts Inc.)))
+                      (PP-DIR to 
+			      (NP-TMP Nov. 1))
+		      (PP-DIR from
+			      (NP-TMP yesterday))))))
+     .))
+( (S (NP-SBJ The offer)
+     (VP has
+         (NP (NP an indicated value)
+             (PP of
+                 (NP (QP $ 268 million) *U*))))
+     .))
+( (S (NP-SBJ DD Acquisition)
+     (VP is
+         (NP-PRD (NP a partnership)
+                 (PP of
+                     (NP (NP (NP Unicorp Canada Corp. 's)
+                             Kingsbridge Capital Group unit)
+                         and
+                         (NP Cara Operations Ltd)))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-2 *)
+		  (VP (ADVP-TMP previously)
+		      reported
+		      (NP *-2))))
+     ,
+     (PP-LOC under
+	     (NP (NP the terms)
+		 (PP of
+		     (NP (NP a confidentiality agreement)
+			 (PP with
+			     (NP Dunkin ' Donuts))))))
+     ,
+     (NP-SBJ-1 the partners)
+     (VP agreed
+	 (S (NP-SBJ *-1)
+	    (VP (VP to
+		    (VP keep
+			(S (NP-SBJ their offer)
+			   (ADJP-PRD open
+				     (PP-TMP until
+					     (NP Nov. 1))))))
+		, and
+		(VP not
+		    to
+		    (VP acquire
+			(NP any additional shares)
+			(PP except
+			    (PP through
+				(NP (NP a tender offer)
+				    (VP expiring
+					(PP-TMP-CLR on
+						    (NP that date)))))))))))
+     .))
+( (S (NP-SBJ DD Acquisition)
+     (VP said
+         (SBAR (SBAR that
+                     (S (NP-SBJ it)
+                        (ADVP already)
+                        (VP owns
+                            (NP (NP 15 %)
+                                (PP of
+                                    (NP (NP the common shares)
+                                        (PP of
+                                            (NP the doughnut shop chain))))))))
+               and
+               (SBAR that
+                     (S (PP as
+			    (PP of
+				(NP (NP the close)
+				    (PP of
+					(NP business))
+				    (NP-TMP Friday))))
+                        (NP-SBJ-1 an
+                                  (QP additional
+				      11) %)
+                        (VP had
+                            (VP been
+                                (VP tendered
+                                    (NP *-1)
+                                    (PP-CLR to
+					    (NP its offer)))))))))
+     .))
+( (S (NP-SBJ-1 Dunkin ' Donuts)
+     (VP is
+         (VP based
+             (NP *-1)
+             (PP-LOC-CLR in
+			 (NP (NP Randolph)
+			     ,
+			     (NP-LOC Mass)))))
+     .))
+( (S (NP-SBJ-1 (NP (NP Cara Operations)
+                   ,
+                   (NP a food services concern))
+               , and
+               (NP (NP Unicorp)
+                   ,
+                   (NP (NP a holding company)
+                       (PP with
+                           (NP (NP interests)
+                               (PP in
+                                   (NP (NP oil and natural gas)
+                                       and
+                                       (NP financial services))))))
+                   ,))
+     (VP are
+         (VP based
+             (NP *-1)
+             (PP-LOC-CLR in
+			 (NP Toronto))))
+     .))

@@ -1,0 +1,106 @@
+
+
+( (S (S-TPC-1 (PP With
+		  (NP (NP reduced exports)
+		      and
+		      (NP rising imports)))
+	      ,
+	      (NP-SBJ (NP (NP South Korea 's)
+			  trade surpluses)
+		      (PP with
+			  (NP (NP the U.S.)
+			      and
+			      (NP Europe)))
+		      (PP-TMP between
+			      (NP January and September)))
+	      (VP fell
+		  (ADVP-MNR sharply)
+		  (PP-DIR from
+			  (ADVP-TMP (NP a year)
+				    ago))))
+     ,
+     (NP-SBJ the Customs Administration)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Officials)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP (NP South Korea 's)
+			      trade surplus)
+                          (PP with
+                              (NP the U.S.))
+                          (PP-TMP for
+				  (NP (NP the first nine months)
+				      (PP of
+					  (NP the year)))))
+                  (VP totaled
+                      (NP (QP $ 3.49 billion) *U*)
+                      ,
+                      (ADVP down
+                            (NP 43 %)
+                            (PP-DIR from
+				    (NP (NP the same period) 
+					(NP-TMP last year)))
+                            (PP on
+                                (NP a customs-clearance basis)))))))
+     .))
+( (S (NP-SBJ (NP South Korean exports)
+             (PP to
+                 (NP the U.S.))
+             (PP-TMP during
+		     (NP the period)))
+     (VP fell
+         (NP-EXT 1.6 %)
+         (PP-DIR from
+		 (ADVP-TMP (NP a year)
+			   ago))
+         (PP-DIR to
+		 (NP (QP $ 15.06 billion) *U*))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP imports)
+			      (PP from
+				  (NP the U.S.)))
+		      (VP soared
+			  (NP-EXT 26 %)
+			  (PP-DIR to
+				  (NP (QP $ 11.56 billion) *U*))))))
+     .))
+( (S (NP-SBJ-1 (NP The trade surplus)
+               (PP with
+                   (NP Europe)))
+     (VP was
+         (VP pegged
+             (NP *-1)
+             (PP-CLR at
+		     (NP (QP $ 414 million) *U*))
+             ,
+             (ADVP down
+                   (NP 57 %)
+                   (PP-DIR from
+			   (NP-TMP (NP a year)
+				   ago)))))
+     .))
+( (S (NP-SBJ Officials)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP (ADJP South Korean)
+			      exports)
+                          (PP to
+                              (NP Europe)))
+                  (VP dropped
+                      (NP-EXT 5.3 %)
+                      (PP-DIR to
+			      (NP (QP $ 3.02 billion) *U*)))))
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP imports)
+			      (PP from
+				  (NP-LOC there)))
+		      (VP went
+			  (ADVP up
+				(NP 17 %)
+				(PP-DIR to
+					(NP (QP $ 2.61 billion) *U*)))))))
+     .))

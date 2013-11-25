@@ -1,0 +1,134 @@
+
+
+( (S (NP-SBJ The market upheaval)
+     (ADVP apparently)
+     (VP has n't
+         (VP triggered
+             (NP any cash crunch)
+	     --
+	     (ADVP-TMP yet)))
+     .))
+( (S (S (NP-SBJ (NP (NP Individual investors)
+                    ,
+                    (NP investment firms)
+                    and
+                    (NP arbitragers))
+                (SBAR (WHNP-1 who)
+                      (S (NP-SBJ *T*-1)
+                         (VP speculate
+                             (PP-CLR-LOC in
+					 (NP (NP the stocks)
+					     (PP of
+						 (NP takeover candidates))))))))
+        (VP can
+            (VP suffer
+                (NP liquidity and payment problems)
+		(SBAR-TMP (WHADVP-2 when)
+			  (S (NP-SBJ stocks)
+			     (VP dive
+				 (ADVP-TMP *T*-2)))))))
+     ;
+     (S (NP-SBJ-3 those investors)
+        (ADVP often)
+        (VP (VP borrow
+                (ADVP-MNR heavily)
+                (S-PRP (NP-SBJ *-3)
+		       (VP to
+			   (VP buy
+			       (NP their holdings)))))
+            and
+            (VP use
+                (NP the stocks)
+                (PP-CLR as
+			(NP (NP collateral)
+			    (PP for
+				(NP loans)))))))
+     .))
+( (S But
+     (NP-SBJ several large banks)
+     (VP said
+         (NP-TMP yesterday)
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP detected
+                      (NP (NP no signs)
+			  (PP of
+			      (NP (NP unusual demand)
+				  (PP for
+				      (NP credit))))
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ *T*-1)
+                                   (VP would
+                                       (VP signal
+                                           (NP such difficulties))))))))))
+     .))
+((SINV ``
+       (S-TPC-1 (NP-SBJ We)
+		(VP 're
+		    (VP seeing
+			(NP (NP nothing)
+			    (PP out
+				(PP of
+				    (NP the ordinary)))))))
+       , ''
+       (VP said
+	   (S *T*-1))
+       (NP-SBJ (NP one official)
+	       (PP-LOC at
+		       (NP a Top 10 bank)))
+       .))
+( (S ``
+     (NP-SBJ That)
+     (VP 's
+         (NP-PRD good news)
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ (NP we)
+			      (NP all))
+		      (VP swim
+			  (PP-LOC in
+				  (NP this water))))))
+     . ''))
+( (SINV (VP Added
+	    (S *ICH*-2))
+	(NP-SBJ (NP another executive)
+		(PP-LOC at
+			(NP a big bank)))
+	: ``
+	(S-2 (S (NP-SBJ-3 We)
+		(VP were 
+		    all
+		    (ADJP-PRD (NP-ADV a little)
+			      goosey)
+		    (PP-TMP over
+			    (NP the weekend))
+		    (S-ADV (NP-SBJ-4 *-3)
+			   (VP trying
+			       (S (NP-SBJ *-4)
+				  (VP to
+				      (VP forecast
+					  (SBAR (WHNP-1 what)
+						(S (NP-SBJ *T*-1)
+						   (VP would
+						       (VP happen
+							   -LCB-
+							   (NP-TMP Monday)
+							   -RCB-)))))))))))
+	     , but
+	     (S (NP-SBJ it)
+		(VP 's
+		    (VP been
+			(ADJP-PRD very quiet)))))
+	.))
+( (FRAG (ADVP-TMP Now)
+	,
+	(PP as
+	    (PP for
+		(NP tomorrow)))
+	,
+	(INTJ hell)
+	,
+	(SBARQ (WHNP-1 who)
+	       (SQ (NP-SBJ *T*-1)
+		   (VP knows)))
+	?))

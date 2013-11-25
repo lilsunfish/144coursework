@@ -1,0 +1,117 @@
+
+
+( (S (S (NP-SBJ-2 Three new issues)
+        (VP begin
+            (S (NP-SBJ *-2)
+               (VP trading
+                   (PP-LOC on
+			   (NP the New York Stock Exchange))))
+	    (NP-TMP today)))
+     , 
+     and
+     (S (NP-SBJ-1 one)
+        (VP began
+            (S (NP-SBJ *-1)
+               (VP trading
+                   (PP-LOC on
+			   (NP the Nasdaq/National Market System))))
+	    (NP-TMP last week)))
+     .))
+( (S (PP-LOC On
+	     (NP the Big Board))
+     ,
+     (NP-SBJ-1 (NP Crawford & Co.)
+	       ,
+	       (NP-LOC Atlanta)
+	       ,
+	       (PRN -LRB- 
+		    (NP CFD) 
+		    -RRB-))
+     (VP begins
+         (S (NP-SBJ *-1)
+            (VP trading))
+	 (NP-TMP today))
+     .))
+( (S (NP-SBJ-1 Crawford)
+     (VP (VP evaluates
+             (NP health care plans))
+         ,
+         (VP manages
+             (NP (NP (UCP medical and disability) aspects)
+                 (PP of
+                     (NP (NP worker 's)
+                         compensation injuries))))
+         and
+         (VP is 
+	     (VP involved
+		 (NP *-1)
+		 (PP-CLR in
+			 (NP (NP claims adjustments)
+			     (PP for
+				 (NP insurance companies)))))))
+     .))
+( (SINV (ADVP Also)
+	(VP-TPC-2 beginning
+		  (S (NP-SBJ *-3)
+		     (VP trading
+			 (PP-LOC *ICH*-1)))
+		  (NP-TMP today)
+		  (PP-LOC-1 on
+			    (NP the Big Board)))
+	(VP are
+	    (VP *T*-2))
+	(NP-SBJ-3 (NP (NP El Paso Refinery Limited Partnership)
+		      ,
+		      (NP-LOC (NP El Paso)
+			      ,
+			      (NP Texas))
+		      ,
+		      (PRN -LRB-
+			   (NP ELP)
+			   -RRB-))
+		  and
+		  (NP (NP Franklin Multi-Income Trust)
+		      ,
+		      (NP-LOC (NP San Mateo)
+			      ,
+			      (NP Calif.))
+		      , 
+		      (PRN -LRB-
+			   (NP FMI)
+			   -RRB-)))
+	.))
+( (S (NP-SBJ El Paso)
+     (VP owns and operates
+         (NP a petroleum refinery))
+     .))
+( (S (NP-SBJ Franklin)
+     (VP is
+         (NP-PRD a closed-end management investment company))
+     .))
+( (S (PP-LOC On
+	     (NP the Nasdaq over-the-counter system))
+     ,
+     (NP-SBJ-1 (NP Allied Capital Corp.)
+	       ,
+	       (NP-LOC (NP Washington)
+		       ,
+		       (NP D.C.))
+	       , 
+	       (PRN -LRB-
+		    (NP ALII)
+		    -RRB-))
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP trading))
+         (NP-TMP last Thursday))
+     .))
+( (S (NP-SBJ Allied Capital)
+     (VP is
+         (NP-PRD (NP a closed-end management investment company)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP will
+			      (VP operate
+				  (PP-CLR as
+					  (NP a business development concern))))))))
+     .))

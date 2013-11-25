@@ -1,0 +1,1193 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerB1 .))
+(  (X MUMBLEx
+      .))
+( (CODE SpeakerA2 .))
+( (S (INTJ Well)
+     ,
+     (ADVP-LOC here
+	       (PP in
+		   (NP (NP Logan)
+		       ,
+		       (NP Utah))))
+     ,
+     (NP-SBJ we)
+     (VP 've
+	 (VP got
+	     (NP a nice little valley)
+	     (ADVP-LOC here)))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP 's
+	 (INTJ like)
+	 (ADJP-PRD crystal clear)
+	 (NP-TMP all the time)
+	 (PP except 
+	     (PP for
+		 (PP-TMP during
+			 (NP the winter))
+		 (SBAR-TMP (WHADVP-1 when)
+			   (S (NP-SBJ the inversion)
+			      (VP sets
+				  (PRT in)
+				  (ADVP-TMP *T*-1)))))))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ we)
+     (VP get
+	 (NP (NP a little bit)
+	     (PP of
+		 (NP pollution)))
+	 (PP-LOC in
+		 (NP the valley)))
+     .
+     E_S))
+( (CODE SpeakerB3 .))
+( (INTJ Huh
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (ADVP-LOC here
+	       (PP in
+		   (NP Seattle)))
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP 's
+		    (VP-UNF g-)))
+	     ,
+	     (IP +))
+     (NP-SBJ the air)
+     (VP 's
+	 (VP getting
+	     (RS ])
+	     (ADJP-PRD more and more polluted)))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ We)
+		(VP-UNF 're))
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ we)
+     (VP 're
+	 (RS ])
+	 (PP-LOC-PRD in
+		     (ADVP kind of)
+		     (NP a basin)))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ Seattle)
+     (VP is
+	 (PP-LOC-PRD on
+		     (NP (NP Puget Sound)
+			 (SBAR (WHNP-1 which)
+			       (S (NP-SBJ *T*-1)
+				  (VP is
+				      (NP-PRD (NP a inland waterway)
+					      (PP-LOC between
+						      (NP two mountains)))))))))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ there)
+     (VP 's
+	 (VP been
+	     (EDITED (RM [)
+		     (NP-PRD a lot)
+		     ,
+		     (IP +))
+	     (NP-PRD (NP a lot)
+		     (RS ])
+		     (PP of
+			 (EDITED (RM [)
+				 (NP growth)
+				 ,
+				 (IP +))
+			 (NP population growth)))
+	     (RS ])
+	     (PP-LOC around
+		     (ADVP here))))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (VP getting
+	     (ADJP-PRD worse)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ (NP most)
+			  (PP of
+			      (NP it)))
+		  (VP is
+		      (PP-PRD from
+			      (NP cars))))))
+     .
+     E_S))
+( (CODE SpeakerA4 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB5 .))
+( (CODE SpeakerA6 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (INTJ Definitely
+	.
+	E_S))
+( (S (ADVP-LOC Here
+	       (PP in
+		   (NP Utah))
+	       (PP up
+		   (PP along
+		       (NP the Wasatch)))
+	       (X MUMBLEx)
+	       (PP along
+		   (NP (NP the western side)
+		       (EDITED (RM [)
+			       (PP of
+				   (NP-UNF the))
+			       ,
+			       (IP +))
+		       (PP of
+			   (NP (NP these
+				   (RS ])
+				   Rocky Mountains)
+			       (ADVP-LOC here))))))
+     ,
+     (SBAR-LOC (WHADVP-1 where)
+	       (S (S (NP-SBJ (NP a lot)
+			     (PP of
+				 (NP the big cities)))
+		     (VP are
+			 (NP-PRD (NP Salt Lake)
+				 and
+				 (NP Ogden)
+				 and
+				 (NP Provo))
+			 (ADVP-LOC *T*-1)))
+		  E_S
+		  and
+		  (S (NP-SBJ Logan)
+		     (VP 's
+			 (PP-PRD-LOC up
+				     (PP in
+					 (NP the valley)))
+			 (ADVP-LOC (NP a little bit)
+				   further north)))))
+     ,
+     E_S
+     (NP-SBJ we)
+     (VP get
+	 (NP (NP a lot)
+	     (PP of
+		 (NP pollution))))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP 's
+	 (SBAR-PRD like
+		   (S (NP-SBJ (NP seventy percent)
+			      (PP of
+				  (NP it)))
+		      (VP is
+			  (PP-PRD from
+				  (NP cars))))))
+     .
+     E_S))
+( (CODE SpeakerB7 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA8 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (ADVP-TMP always)
+     (ADVP really)
+     (VP hits
+	 (ADVP-MNR hard)
+	 (PP-TMP during
+		 (NP the winter))
+	 (SBAR-TMP (SBAR (WHADVP-1 when)
+			 (S (NP-SBJ we)
+			    (VP get
+				(NP the inversion)
+				(ADVP-TMP *T*-1))))
+		   .
+		   E_S
+		   And
+		   (SBAR (WHADVP-2 when)
+			 (S (NP-SBJ we)
+			    (EDITED (RM [)
+				    (VP-UNF get)
+				    ,
+				    (IP +))
+			    (VP get
+				(RS ])
+				(NP (NP (NP cold air)
+					(PP-LOC down
+						(PP in
+						    (NP the valleys))))
+				    and
+				    (NP (NP warm air)
+					(PP-LOC up
+						(ADVP above))))
+				(ADVP-TMP *T*-2))))))
+     E_S))
+( (CODE SpeakerB9 .))
+( (CODE SpeakerA10 .))
+( (S and
+     (NP-SBJ it)
+     (ADVP just)
+     (VP (VP sits)
+	 and
+	 (VP sits)
+	 and
+	 (VP sits))
+     E_S))
+( (S and
+     (NP-SBJ-2 we)
+     (VP 're
+	 (VP starting
+	     (S (NP-SBJ *-2)
+		(VP to
+		    (VP hit
+			(NP (NP pollution levels)
+			    (SBAR *ICH*-3))
+			(ADVP-TMP now)
+			(PP-LOC on
+				(NP the Wasatch front))
+			(SBAR-3 (WHNP-1 which)
+				(S (NP-SBJ *T*-1)
+				   (VP match
+				       (NP (NP that)
+					   (PP of
+					       (NP (NP L A)
+						   (ADVP-TMP (NP a few years)
+							     ago))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB11 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA12 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ It)
+		(VP-UNF 's
+			not))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADVP almost)
+	 (ADJP-PRD sad))
+     .
+     E_S))
+( (SBAR-PRP Because
+	    (S (SBAR-TMP (WHADVP-1 when)
+			 (S (NP-SBJ I)
+			    (VP grew
+				(PRT up)
+				(ADVP-LOC here)
+				(ADVP-TMP *T*-1))))
+	       ,
+	       (NP-SBJ it)
+	       (VP was
+		   (ADVP just)
+		   (ADVP-TMP always)
+		   (NP-PRD the crisp air)
+		   (PP-LOC up
+			   (PP in
+			       (NP the mountain valleys)))))
+	    E_S))
+( (S and
+     (ADVP-TMP now)
+     (NP-SBJ it)
+     (VP 's
+	 not
+	 (PP-LOC-PRD in
+		     (NP the mountain valleys)))
+     .
+     E_S))
+( (CODE SpeakerB13 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP live
+	 (PP-LOC in
+		 (NP the
+		     ,
+		     university district)))
+     E_S))
+( (CODE SpeakerA14 .))
+( (CODE SpeakerB15 .))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ-1 it)
+     (VP 's
+	 (VP supposed
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP have
+			(ADVP about)
+			(NP the worst air pollution))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (FRAG (ADVP probably)
+	       (PP-PRP due 
+		       (PP to
+			   ,
+			   (INTJ uh)
+			   ,
+			   (S-NOM (NP-SBJ (NP a lot)
+					  (PP of
+					      (NP students)))
+				  (VP going
+				      (ADVP-DIR back and forth)
+				      (PP to
+					  (NP school))))))))
+     .
+     E_S))
+( (CODE SpeakerA16 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerB17 .))
+( (S (CONJP And then)
+     (NP-SBJ we)
+     (VP 're
+	 (ADVP-LOC-PRD right next
+		       (PP to
+			   (NP Interstate Five)))
+	 (ADVP also))
+     .
+     E_S))
+( (CODE SpeakerA18 .))
+( (S (NP-SBJ They)
+     (VP 're
+	 (VP getting
+	     (ADJP-PRD serious)
+	     (PP about
+		 (NP (NP things)
+		     (PP like
+			 ,
+			 (INTJ uh)
+			 ,
+			 (NP-UNF mandatory))))))
+     ,
+     N_S))
+( (S (INTJ well)
+     (NP-SBJ they)
+     (VP 've
+	 (ADVP-TMP already)
+	 (VP passed
+	     (NP (NP laws)
+		 (SBAR (WHADVP-2 where)
+		       (S (NP-SBJ-1 you)
+			  (VP have
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP get
+					 (S (NP-SBJ-3 your cars)
+					    (VP checked
+						(NP *-3)
+						(PP for
+						    (NP pollution))
+						(SBAR-ADV if
+							  (S (NP-SBJ you)
+							     (VP 're
+								 (PP-LOC-PRD in
+									     (NP certain counties))))))))))
+			      (ADVP-LOC *T*-2)))))))
+     ,
+     E_S))
+( (NP emissions
+      .
+      N_S))
+( (CODE SpeakerB19 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (SQ (X MUMBLEx)
+      have
+      (NP-SBJ-1 they)
+      (VP started
+	  (S (NP-SBJ *-1)
+	     (VP doing
+		 (NP that)
+		 (ADVP-TMP yet))))
+      ?
+      E_S))
+( (CODE SpeakerA20 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ-1 They)
+     (VP 've
+	 (ADVP actually)
+	 (VP started
+	     (S (NP-SBJ *-1)
+		(VP doing
+		    (NP it)
+		    (PP-LOC down
+			    (PP along
+				(NP-UNF the)))))))
+     ,
+     N_S))
+( (FRAG not
+	(PP-LOC in
+		(NP Logan))
+	(PP-LOC up
+		(ADVP here))
+	(SBAR-PRP cause
+		  (S (NP-SBJ we)
+		     (VP 're
+			 (VP doing
+			     (ADVP (NP a lot)
+				   better)))))
+	.
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ We)
+		(VP have
+		    (NP-UNF a lot)))
+	     ,
+	     (IP +))
+     (NP-SBJ population)
+     (VP is
+	 (ADJP-PRD (NP a lot)
+		   (RS ]) lighter)
+	 (PP-LOC up
+		 (ADVP here)))
+     .
+     E_S))
+( (CODE SpeakerB21 .))
+( (S (NP-SBJ We)
+     (VP have
+	 (NP that)
+	 (ADVP-LOC here))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ they)
+		(VP-UNF 're))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP 're
+	 (RS ])
+	 (VP expanding
+	     (NP it)
+	     (PP to
+		 ,
+		 (INTJ uh)
+		 ,
+		 (NP more counties)
+		 (ADVP-LOC here)
+		 .
+		 (INTJ Uh)
+		 ,
+		 (SBAR-ADV as
+			   (S (NP-SBJ the population)
+			      (VP spreads
+				  (PRT out)))))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 they)
+		  (VP 're
+		      (ADVP also)
+		      (VP going
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP be
+				     (VP making
+					 (S (NP-SBJ it)
+					    ,
+					    (INTJ uh)
+					    ,
+					    (ADJP-PRD mandatory))
+					 (PP for
+					     (NP more cars)))))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-UNF Th-)
+		     ,
+		     (IP +))
+	     (NP-UNF th-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ there)
+     (RS ])
+     (VP was
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP-PRD (NP something)
+		 (PP *ICH*-2))
+	 (PP in
+	     (NP the law))
+	 (PP-2 about
+	       (SBAR 0 
+		     (S (SBAR-ADV if
+				  (S (NP-SBJ your 
+					     car)
+				     (VP was
+					 (PP-PRD (PP over
+						     (NP a certain age))
+						 ,
+						 (PP like
+						     (ADJP (NP (QP over twenty) years)
+							   old))))))
+			,
+			(NP-SBJ-1 you)
+			(VP did
+			    n't
+			    (VP have
+				(S (NP-SBJ *-1)
+				   (VP to
+				       (VP get
+					   (S (NP-SBJ-3 it)
+					      (VP done
+						  (NP *-3)))
+					   (ADVP-TMP anymore))))))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP 're
+		      (VP eliminating
+			  (EDITED (RM [)
+				  (NP that)
+				  ,
+				  (IP +))
+			  (INTJ uh)
+			  (NP that
+			      (RS ])
+			      loophole))))))
+     .
+     E_S))
+( (CODE SpeakerA22 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB23 .))
+( (CODE SpeakerA24 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ They)
+     (VP 're
+	 (EDITED (RM [)
+		 (X ge-)
+		 ,
+		 (IP +))
+	 (VP eliminating
+	     (RS ])
+	     (NP that)
+	     (PP-LOC out
+		     (ADVP here))))
+     .
+     E_S))
+( (CODE SpeakerB25 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA26 .))
+( (S (NP-SBJ They)
+     (VP 're
+	 (ADVP also)
+	 (VP talking
+	     (ADVP-MNR very seriously)
+	     (PP about
+		 (NP (NP the thing)
+		     (VP called
+			 (S (NP-SBJ *)
+			    (NP-PRD a dirt gun)))
+		     .
+		     (SBAR (WHADVP-3 Where)
+			   (S (NP-SBJ-2 they)
+			      (VP 're
+				  ,
+				  (INTJ uh)
+				  ,
+				  (VP (VP looking
+					  (PP at
+					      (NP (NP the emissions)
+						  (PP from
+						      (NP the car))))
+					  (S-ADV (NP-SBJ *-2)
+						 (VP using
+						     (ADVP basically)
+						     (NP a spectrometer))))
+				      and
+				      (VP looking
+					  (PP at
+					      (EDITED (RM [)
+						      (NP-UNF the)
+						      ,
+						      (IP +)
+						      (RS ]))
+					      (ADVP basically)
+					      (SBAR-NOM (WHNP-1 (WHNP how much)
+								(PP of
+								    (NP what)))
+							(S (NP-SBJ *T*-1)
+							   (VP is
+							       (VP coming
+								   (PP-DIR out
+									   (PP of
+									       (NP the exhaust)))))))))
+				      (ADVP *T*-3)))))))))
+     .
+     E_S))
+( (PP (ADVP Kind of)
+      like
+      (NP a radar gun)
+      .
+      E_S))
+( (S-UNF And
+	 ...
+	 N_S))
+( (CODE SpeakerB27 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	,
+	E_S))
+( (S (NP-SBJ You)
+     (VP mean
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP could
+		      (VP do
+			  (NP that)
+			  (ADVP-MNR remotely))))))
+     ?
+     E_S))
+( (CODE SpeakerA28 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerB29 .))
+( (CODE SpeakerA30 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ-2 *)
+     (VP Do
+	 (NP it)
+	 (ADVP-MNR remotely)
+	 (S-ADV (NP-SBJ *-2)
+		(ADVP just)
+		(VP looking
+		    (PP at
+			(RM [)
+			(NP-UNF the)))))
+     ,
+     (IP +)
+     (RS ])))
+( (S (SBAR-ADV (WHNP-1 what)
+	       (S (NP-SBJ they)
+		  (VP do
+		      (NP *T*-1))))
+     ,
+     E_S
+     (NP-SBJ they)
+     (VP do
+	 (NP (NP several different types)
+	     (PP of
+		 (NP things))))
+     .
+     E_S))
+( (S (ADVP-TMP Sometimes)
+     (NP-SBJ they)
+     (VP put
+	 (NP a source light))
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP look
+	 (PP at
+	     (NP the source light)))
+     E_S))
+( (S (CONJP and then)
+     (SBAR-TMP as
+	       (S (NP-SBJ the car)
+		  (VP goes
+		      (ADVP-DIR by))))
+     ,
+     (NP-SBJ you)
+     (VP can
+	 (VP see
+	     (NP (NP the exhaust pipe)
+		 and
+		 (NP (NP the source light)
+		     (PP-LOC behind
+			     (NP it))))))
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP can
+	 (VP look
+	     (PP at
+		 (NP the emissions))
+	     (ADVP actually)))
+     .
+     E_S))
+( (CODE SpeakerB31 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerA32 .))
+( (S-UNF And
+	 ...
+	 N_S))
+( (CODE SpeakerB33 .))
+( (SBARQ (INTJ Now)
+	 (WHADVP-1 where)
+	 (SQ does
+	     (NP-SBJ the source light)
+	     (VP go
+		 (ADVP-LOC *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA34 .))
+( (FRAG (INTJ Like)
+	(PP-LOC across
+		(NP the street))
+	.
+	E_S))
+( (S (NP-SBJ They)
+     (VP 'll
+	 (VP set
+	     (PRT up)
+	     (INTJ like)
+	     (NP (NP a trap) 
+		 or 
+		 (NP (NP something)
+		     (PP like
+			 (NP that))
+		     (PP in
+			 (NP some sense))))))
+     .
+     E_S))
+( (CODE SpeakerB35 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP see)
+     .
+     E_S))
+( (CODE SpeakerA36 .))
+( (S And
+     (NP-SBJ they)
+     (VP 're
+	 (ADVP also)
+	 (VP looking
+	     (PP at
+		 ,
+		 (INTJ uh)
+		 ,
+		 (NP (NP other
+			 (PRN ,
+			      (S (NP-SBJ you)
+				 (VP know))
+			      ,)
+			 ways)
+		     (PP of
+			 (S-NOM (NP-SBJ *)
+				(VP monitoring
+				    (NP this))))))
+	     (EDITED (RM [)
+		     and
+		     ,
+		     (IP +))
+	     (RS ])
+	     (SBAR-PRP cause
+		       (S (NP-SBJ they)
+			  (VP 've
+			      (VP found
+				  (PRT out)
+				  (NP (NP something)
+				      (SBAR-UNF *ICH*-1))
+				  (ADVP basically)
+				  (SBAR-UNF-1 (WHNP that)
+					      ,
+					      (INTJ uh))))))))
+     ,
+     N_S))
+( (S and
+     (NP-SBJ a
+	     (ADJP poorly tuned)
+	     car)
+     (VP can
+	 (VP emit
+	     (NP something)))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (NP-PRD an incredible amount))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP was
+	 (INTJ like)
+	 (NP-PRD (NP (NP (QP four hundred times)
+			 as much)
+		     (INTJ uh)
+		     ,
+		     (PP of
+			 (NP certain pollutants)))
+		 (PRN ,
+		      (S and
+			 (NP-SBJ it)
+			 (VP was
+			     (INTJ like)
+			     (NP-PRD unburned hydrocarbons)))
+		      ,)
+		 (PP (TYPO then)
+		     (NP a
+			 (ADJP properly tuned)
+			 car))))
+     .
+     E_S))
+( (CODE SpeakerB37 .))
+( (INTJ Jeez
+	.
+	E_S))
+( (CODE SpeakerA38 .))
+( (FRAG (EDITED (RM [)
+		And
+		,
+		(IP +))
+	and
+	(RS ])
+	(NP (NP the idea)
+	    (VP being
+		(SBAR-PRD that
+			  (S (EDITED (RM [)
+				     (SBAR-ADV if
+					       (S (NP-SBJ you)
+						  (ADVP just)
+						  (VP tuned
+						      (PRT up)
+						      (NP all the cars))))
+				     ,
+				     (IP +))
+			     (INTJ well)
+			     (SBAR-ADV if
+				       (S (NP-SBJ you)
+					  (VP tuned
+					      (PRT up)
+					      (NP (NP (NP this ten percent)
+						      (PP of
+							  (NP the cars)))
+						  (RS ])
+						  (SBAR (WHNP-1 that)
+							(S (NP-SBJ *T*-1)
+							   (VP were
+							       (VP producing
+								   (INTJ like)
+								   (NP (NP fifty percent)
+								       (PP of
+									   (EDITED (RM [)
+										   (NP-UNF the)
+										   ,
+										   (IP +))
+									   (NP the
+									       (RS ])
+									       pollution)))))))))))
+			     (ADVP then)
+			     (PRN ,
+				  (S (NP-SBJ you)
+				     (VP know))
+				  ,)
+			     (EDITED (RM [)
+				     (NP-SBJ you)
+				     ,
+				     (IP +))
+			     (NP-SBJ it)
+			     (VP 'd
+				 (RS ])
+				 (VP be
+				     (NP-PRD (NP one way)
+					     (SBAR (WHADVP-2 0)
+						   (S (NP-SBJ *)
+						      (VP to
+							  (VP cut
+							      (NP the pollution)
+							      (PP in
+								  (NP half))
+							      (ADVP-MNR *T*-2))))))))))))
+	.
+	E_S))
+( (CODE SpeakerB39 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD neat))
+     .
+     E_S))
+( (CODE SpeakerA40 .))
+( (CODE SpeakerB41 .))
+( (S But
+     (NP-SBJ it)
+     (VP 's
+	 (ADVP also)
+	 (VP-UNF been
+		 ,
+		 (INTJ uh)
+		 ,
+		 (INTJ oh)
+		 (PRN ,
+		      (S (NP-SBJ you)
+			 (VP know)))))
+     ,
+     N_S))
+( (S (NP-SBJ everybody)
+     (VP is
+	 (VP talking
+	     (PP about
+		 (S-NOM (NP-SBJ *)
+			(VP using
+			    (NP more mass (TYPO transient)) 
+			    (ADVP-LOC here))))))
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADJP-PRD tough)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     .
+     E_S))
+( (S (INTJ Like)
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 've))
+	     ,
+	     (IP +))
+     (NP-SBJ-1 I)
+     (VP 've
+	 (RS ])
+	 (VP looked
+	     (PP into
+		 (S-NOM (NP-SBJ *-1)
+			(VP riding
+			    (NP the bus)
+			    (PP-DIR to
+				    (NP work)))))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP can
+	 (VP (VP drive
+		 (PP-DIR to
+			 (NP work))
+		 (EDITED (RM [)
+			 (PP-TMP-UNF in)
+			 ,
+			 (IP +)
+			 (RS ]))
+		 (INTJ uh)
+		 (PP *ICH*-2))
+	     ,
+	     and
+	     (VP get
+		 (ADVP-LOC there)
+		 (PP-TMP in
+			 (NP (QP twenty to twenty-five) 
+			     minutes))
+		 (PP-DIR-2 over
+			   (NP (NP a
+				   (ADJP very congested)
+				   corridor)
+			       .
+			       (SBAR (WHNP-1 Which)
+				     (S (NP-SBJ *T*-1)
+					(VP goes
+					    (PP-DIR over
+						    (NP Lake Washington))
+					    (PP-LOC on
+						    (NP (NP one)
+							(PP of
+							    (NP the floating bridges))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA42 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB43 .))
+( (S But
+     (EDITED (RM [)
+	     (SBAR-ADV if
+		       (S-UNF (NP-SBJ I)))
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ I)
+		  (RS ])
+		  (VP take
+		      (NP the bus))))
+     ,
+     (NP-SBJ it)
+     (VP requires
+	 (NP several transfers))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP takes
+	 (NP (QP over an) 
+	     hour))
+     .
+     E_S))
+( (CODE SpeakerA44 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerB45 .))
+( (S (EDITED (RM [)
+	     So
+	     (IP +))
+     so
+     (RS ])
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ it)
+		     (IP +))
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ (NP it)
+	     (S *EXP*-3))
+     (VP 's
+	 (RS ])
+	 not
+	 (ADJP-PRD hard)
+	 (S-3 (NP-SBJ *)
+	      (VP to
+		  (VP see
+		      (SBAR (EDITED (RM [)
+				    (WHADVP why)
+				    ,
+				    (IP +))
+			    (WHADVP-2 why)
+			    (RS ])
+			    (S (NP-SBJ-1 I)
+			       (VP keep
+				   (S (NP-SBJ *-1)
+				      (VP driving))
+				   (ADVP-PRP *T*-2))))))))
+     .
+     E_S))
+( (CODE SpeakerA46 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S And
+     (NP-SBJ they)
+     (VP-UNF 're)
+     ...
+     N_S))
+( (CODE SpeakerB47 .))
+( (S And
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ I)
+     (VP feel
+	 (ADJP-PRD guilty)
+	 (SBAR-PRP cause
+		   (S (NP-SBJ I)
+		      (VP 'm
+			  (VP driving
+			      (NP-UNF a))))))
+     ,
+     N_S))

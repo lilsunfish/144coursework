@@ -1,0 +1,77 @@
+
+
+( (S (S-TPC-2 (NP-SBJ (NP Switzerland 's)
+		      wholesale price index)
+	      (VP (VP increased
+		      (NP-EXT 0.3 %)
+		      (PP-TMP in
+			      (NP September))
+		      (PP-DIR from
+			      (NP-TMP August))) 
+		  , and
+		  (VP was
+		      (PP-PRD up
+			      (NP 3.9 %)
+			      (PP from
+				  (ADVP-TMP (NP a year)
+					    ago))))
+		  ,
+		  (S-ADV (NP-SBJ *)
+			 (VP marking
+			     (NP (NP the first time)
+				 (NP this year)
+				 (SBAR (WHADVP-1 that)
+				       (S (NP-SBJ the index)
+					  (VP has
+					      (VP fallen
+						  (PP-DIR below
+							  (NP 4 %))
+						  (PP on
+						      (NP a year-to-year basis))
+						  (ADVP-TMP *T*-1))))))))))
+     ,
+     (NP-SBJ the government)
+     (VP reported
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The government)
+     (VP attributed
+         (NP (NP the (ADJP 0.3 %) month-to-month rise)
+             (PP in
+                 (NP the index)))
+	 (PP-CLR (ADVP largely)
+		 to
+		 (NP higher energy prices)))
+     .))
+( (S (PP-TMP In
+	     (NP August))
+     ,
+     (NP-SBJ the index)
+     (VP (VP was
+             (ADVP-PRD up
+		       (NP 0.2 %)
+		       (PP from
+			   (NP-TMP the previous month)))) 
+         , and
+         (VP was
+             (ADVP-PRD up
+		       (NP 4.5 %)
+		       (PP on
+			   (NP a year-to-year basis)))))
+     .))
+( (S (NP-SBJ The wholesale price index)
+     ,
+     (S-ADV (NP-SBJ *) 
+	    (VP based
+		(NP *)
+		(PP-CLR on
+			(NP (NP 1963)
+			    (PP as
+				(NP 100))))))
+     ,
+     (VP was
+         (NP-PRD 180.9)
+         (PP-TMP in
+		 (NP September)))
+     .))

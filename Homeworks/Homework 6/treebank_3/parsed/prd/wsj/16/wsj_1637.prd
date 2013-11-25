@@ -1,0 +1,55 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Canadian steel ingot production)
+	      (VP totaled
+		  (NP 276,334 metric tons)
+		  (PP-TMP in
+			  (NP (NP the week)
+			      (VP ended
+				  (NP-TMP Oct. 14))))
+		  ,
+		  (ADVP down
+			(NP 5.3 %)
+			(PP from
+			    (NP (NP (NP the preceding week 's)
+				    total)
+				(PP of
+				    (NP 291,890 tons)))))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP The week 's)
+             total)
+     (VP was
+         (ADVP-PRD down
+		   (NP 7.1 %)
+		   (PP from
+		       (NP 297,446 tons)
+		       (ADVP-TMP (NP a year)
+				 earlier))))
+     .))
+( (S (NP-SBJ A metric ton)
+     (VP is
+         (ADJP-PRD equal
+                   (PP to
+                       (NP 2,204.62 pounds))))
+     .))
+( (S (NP-SBJ (NP The cumulative total)
+             (PP-TMP in
+		     (NP 1989)))
+     (VP was
+         (NP-PRD 12,283,217 tons)
+         ,
+         (ADVP up
+               (NP 7.5 %)
+	       (PP from
+		   (NP 11,429,243 tons)
+		   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))

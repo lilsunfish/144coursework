@@ -1,0 +1,1481 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (SQ (NP-VOC Steve)
+      ,
+      (INTJ uh)
+      ,
+      (PP with
+	  (S-NOM (NP-SBJ (NP the election year)
+			 and
+			 (NP whatnot))
+		 (VP coming
+		     (PRT up))))
+      ,
+      do
+      (NP-SBJ you)
+      (VP think
+	  (SBAR 0
+		(S (NP-SBJ-1 we)
+		   (VP ought
+		       (S (NP-SBJ *-1)
+			  (VP to
+			      (VP (VP cut
+				      (NP taxes))
+				  ,
+				  (VP raise
+				      (NP them)))))))))
+      ,
+      E_S))
+( (SBARQ (EDITED (RM [)
+		 (EDITED (RM [)
+			 or
+			 ,
+			 (IP +))
+		 or
+		 ,
+		 (RS ])
+		 (IP +))
+	 or
+	 (RS ])
+	 (WHNP-1 what)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP think
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerB2 .))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (NP-PRD a (ADJP really hard) question))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 (VP know
+	     (SBAR that
+		   ,
+		   (INTJ uh)
+		   ,
+		   (S (NP-SBJ politicians)
+		      (ADVP-TMP always)
+		      (VP talking
+			  (PP out
+			      (PP of
+				  (NP (NP both sides)
+				      (PP of
+					  (NP their mouths))))))))))
+     .
+     E_S))
+( (S-UNF (INTJ Uh)
+	 ,
+	 (NP-SBJ I)
+	 N_S))
+( (S-IMP (NP-SBJ *)
+	 (VP let
+	     (S-UNF (NP-SBJ 's)
+		    (X example)
+		    ,
+		    (INTJ uh)))
+	 ,
+	 N_S))
+( (S (NP-SBJ (NP our friend)
+	     ,
+	     (NP the President))
+     ,
+     (ADVP-TMP right now)
+     ,
+     (VP says
+	 (FRAG (NP no new taxes)))
+     ,
+     E_S))
+( (S (NP-SBJ we)
+     (VP should
+	 (PRN and
+	      (ADVP especially)
+	      ,
+	      (SBAR-ADV if
+			(FRAG (NP anything)))
+	      ,)
+	 (VP be
+	     (VP cutting
+		 (NP taxes)
+		 (ADVP-TMP now)
+		 (PP-PRP because of
+			 (NP the recession)))))
+     E_S))
+( (S and
+     (PP-TMP at
+	     (NP the same time))
+     ,
+     (NP-SBJ (NP the budget)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ he)
+		      (VP sent
+			  (NP *T*-1)
+			  (PP-DIR to
+				  (NP Congress))))))
+     (VP has
+	 (NP tax and fee increases))
+     ,
+     E_S))
+( (S so
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP know
+	 (SBAR 0
+	       (S (NP-SBJ the politicians)
+		  ,
+		  (INTJ uh)
+		  ,
+		  (EDITED (RM [)
+			  (VP-UNF are
+				  n't)
+			  ,
+			  (IP +))
+		  (VP are
+		      n't
+		      (RS ])
+		      (ADJP-PRD straightforward)))))
+     .
+     E_S))
+( (S (INTJ Now)
+     ,
+     (EDITED (RM [)
+	     (PP-UNF i-)
+	     ,
+	     (IP +))
+     (PP in
+	 (RS ])
+	 (NP (NP terms)
+	     (PP of
+		 (NP economics))))
+     (NP-SBJ I)
+     (VP-UNF 'm
+	     not)
+     ,
+     N_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (EDITED (RM [)
+		 (ADJP-PRD-UNF hard)
+		 ,
+		 (IP +))
+	 (ADJP-PRD hard
+		   (RS ])
+		   (SBAR (WHNP-1 0)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP call
+				    (NP *T*-1)))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (ADVP really)
+     (VP is
+	 (ADJP-PRD *?*))
+     .
+     E_S))
+( (CODE SpeakerA3 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (S (INTJ See)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(ADVP-TMP never)
+		(VP thought
+		    (ADVP really)
+		    ,
+		    (EDITED (RM [)
+			    (SBAR 0
+				  (S (NP-SBJ it)
+				     (VP-UNF 's)))
+			    ,
+			    (IP +))))
+	     (RS ])
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (ADVP-TMP never)
+     (ADVP really)
+     (VP thought
+	 (RS ])
+	 (SBAR (EDITED (RM [)
+		       (SBAR-UNF that)
+		       ,
+		       (IP +))
+	       that
+	       (S (EDITED (RM [)
+			  (NP-SBJ-UNF the)
+			  ,
+			  (IP +))
+		  (NP-SBJ-1 the
+			    (RS ])
+			    (RS ])
+			    question)
+		  (ADVP really)
+		  (VP had
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP do
+				 (X (SBAR whether or not
+					  (S (NP-SBJ we)
+					     (VP 're
+						 (VP paying
+						     (NP (NP too much)
+							 or
+							 (NP too little))))))))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (ADVP-TMP always)
+     (X (SBAR that
+	      (S (EDITED (RM [)
+			 (NP-SBJ-UNF the)
+			 ,
+			 (IP +))
+		 (NP-SBJ the
+			 (RS ])
+			 real question)
+		 (EDITED (RM [)
+			 (VP-UNF was)
+			 (IP +))
+		 (VP is
+		     ,
+		     (RS ])
+		     (SQ-PRD are
+			     (NP-SBJ we)
+			     (VP getting
+				 (NP a reasonable return)
+				 (EDITED (RM [)
+					 (PP-UNF on)
+					 ,
+					 (IP +))
+				 (PP on
+				     (RS ])
+				     (NP investment))))))))
+     .
+     E_S))
+( (FRAG (PP For
+	    (NP instance))
+	,
+	(PP like
+	    (NP (NP Social Security tax)
+		or
+		(NP-UNF Soc-
+			,
+			(INTJ uh))))
+	,
+	N_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,
+	  (EDITED (RM [)
+		  (S (NP-SBJ that)
+		     (VP-UNF 's))
+		  ,
+		  (IP +)))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (NP-PRD tax))
+     E_S))
+( (S (NP-SBJ we)
+     (VP 're
+	 (VP paying
+	     (NP money)))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (ADVP supposedly)
+     (NP-SBJ this money)
+     (VP is
+	 (VP going
+	     (PP into
+		 (NP (NP some kind)
+		     (PP of
+			 (NP fund))))
+	     (SBAR-PRP so that
+		       (S (SBAR-TMP (WHADVP-2 when)
+				    (S (NP-SBJ it)
+				       (VP comes
+					   (NP (NP our turn)
+					       (SBAR (WHADVP-1 0)
+						     (S (NP-SBJ *)
+							(VP to
+							    (VP retire
+								(ADVP-TMP *T*-1))))))
+					   (ADVP-TMP *T*-2))))
+			  ,
+			  (NP-SBJ the money)
+			  (VP will
+			      (VP be
+				  (ADVP-LOC-PRD there)
+				  (PP for
+				      (NP us))))))))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA5 .))
+( (S So
+     (NP-SBJ that)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (FRAG (INTJ yeah)
+	(PRN ,
+	     (S (NP-SBJ you)
+		(VP know)))
+	,
+	E_S))
+( (S (SBAR-TMP (EDITED (RM [)
+		       (SBAR-TMP (WHADVP when)
+				 (S-UNF (NP-SBJ I)))
+		       ,
+		       (IP +))
+	       (WHADVP-3 when)
+	       (S (NP-SBJ I)
+		  (RS ])
+		  (VP see
+		      (NP (NP that money)
+			  (VP taken
+			      (NP *)
+			      (PP out
+				  (PP of
+				      (NP my paycheck)))
+			      (EDITED (RM [)
+				      (EDITED (RM [)
+					      (NP-TMP-UNF each)
+					      ,
+					      (IP +))
+				      (NP-TMP each
+					      (RS ])
+					      week)
+				      ,
+				      (NP-SBJ I)
+				      ,
+				      (IP +))
+			      or
+			      (EDITED (RM [)
+				      (NP-UNF each)
+				      ,
+				      (IP +))
+			      (NP-TMP every
+				      (RS ])
+				      other week)))
+		      (ADVP-TMP *T*-3))))
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (RS ])
+     (ADVP really)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ that money)
+		  (VP 's
+		      (NP-PRD history)))))
+     E_S))
+( (S and
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (EDITED (RM [)
+	     so
+	     (IP +))
+     (ADVP (ADVP as
+		 (RS ])
+		 far)
+	   (PP as
+	       (NP return investment)))
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP-UNF 's
+			not))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD nothing))
+     (RS ])
+     E_S))
+( (CODE SpeakerB6 .))
+( (INTJ (INTJ Yes)
+	,
+	(INTJ uh)
+	,
+	E_S))
+( (CODE SpeakerA7 .))
+( (S and
+     (NP-SBJ-1 we)
+     (VP 're
+	 not
+	 (ADVP even)
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(NP (NP the (ADJP exact same) number)
+			    (PP of
+				(NP dollars)))
+			(ADVP back))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ someone)
+     (VP was
+	 (VP telling
+	     (NP me)
+	     (SBAR that
+		   (S (EDITED (RM [)
+			      (S (NP-SBJ there)
+				 (VP is
+				     (NP-PRD-UNF a)))
+			      ,
+			      (IP +))
+		      (INTJ uh)
+		      ,
+		      (INTJ uh)
+		      ,
+		      (NP-SBJ there)
+		      (VP 's
+			  (ADVP-TMP still)
+			  (NP-PRD (NP an
+				      (RS ])
+				      office)
+				  (EDITED (RM [)
+					  (PP-UNF in)
+					  ,
+					  (IP +)
+					  (RS ]))
+				  (INTJ uh)
+				  (PRN ,
+				       (S (NP-SBJ you)
+					  (VP know))
+				       ,)
+				  (VP staffed
+				      (NP *)
+				      (EDITED (RM [)
+					      (PP-UNF with)
+					      ,
+					      (IP +))
+				      (PP with
+					  (RS ])
+					  (NP (NP people)
+					      (SBAR *ICH*-3))))
+				  (UCP-LOC (ADVP there)
+					   and
+					   ,
+					   (PP in
+					       (NP D C)))
+				  (SBAR-3 (WHNP-1 that)
+					  (S (NP-SBJ-2 *T*-1)
+					     (VP are
+						 (VP researching
+						     (S-PRP (NP-SBJ *-2)
+							    (VP to
+								(VP find
+								    (NP (NP a cure)
+									(PP for
+									    (NP polio))
+									,
+									(RM [)
+									(SBAR-UNF (WHNP which)
+										  ,
+										  (IP +))))))))))))))))
+     (RS ])
+     N_S))
+( (S (NP-SBJ I)
+     (VP may
+	 (VP be
+	     (ADJP-PRD wrong)))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP believe
+	 (SBAR that
+	       (S (NP-SBJ-1 (NP the cure)
+			    (PP for
+				(NP polio)))
+		  (VP is
+		      (ADVP-TMP already)
+		      (VP founded
+			  (NP *-1))))))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     but
+	     ,
+	     (IP +))
+     but
+     (RS ])
+     (ADVP supposedly)
+     (SBAR-TMP once
+	       (S (NP-SBJ you)
+		  (VP (VP have
+			  (NP an office)
+			  (PP-LOC in
+				  (NP D C)))
+		      ,
+		      (EDITED (RM [)
+			      or
+			      ,
+			      (IP +)
+			      (RS ]))
+		      (PRN (S (NP-SBJ you)
+			      (VP know))
+			   ,)
+		      (EDITED (RM [)
+			      and
+			      ,
+			      (IP +))
+		      and
+		      (RS ])
+		      (VP staff
+			  (NP it)
+			  (PP with
+			      (NP people))))))
+     ,
+     (NP-SBJ (NP it)
+	     (S *EXP*-1))
+     (VP 's
+	 (ADJP-PRD really tough)
+	 (S-1 (NP-SBJ *)
+	      (VP to
+		  (VP close
+		      (NP it)
+		      (PRT down)))))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ they)
+     (ADVP just)
+     (VP have
+	 n't
+	 (VP *?*
+	     (ADVP-TMP yet)))
+     .
+     E_S))
+( (CODE SpeakerB8 .))
+( (INTJ (INTJ Well)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 not
+	 (ADJP-PRD exactly sure
+		   ,
+		   (INTJ uh)
+		   ,
+		   (PP about
+		       (NP (NP polio)
+			   (PP in
+			       (NP particular))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP know
+	 (SBAR 0
+	       (S (NP-SBJ we)
+		  (VP have
+		      (NP (NP a polio vaccine)
+			  (X (VP come))
+			  (SBAR (WHNP-2 0)
+				(S (NP-SBJ *T*-2)
+				   (VP will
+				       (VP prevent
+					   (NP-1 somebody)
+					   (PP from
+					       (S-NOM (NP-SBJ *-1)
+						      (VP getting
+							  (NP polio)))))))))))))
+     E_S))
+( (CODE SpeakerA9 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB10 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 not
+	 (ADJP-PRD sure
+		   (SBAR if
+			 (S (NP-SBJ we)
+			    (VP know
+				(SBAR (WHNP-2 what)
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP do
+						 (NP *T*-2)))))
+				(PP in
+				    (NP (NP terms)
+					(PP of
+					    (S-NOM (NP-SBJ *)
+						   (VP curing
+						       (NP (NP some)
+							   (SBAR (WHNP-1 who)
+								 (S (NP-SBJ *T*-1)
+								    (VP has
+									(ADVP-TMP already)
+									(VP gotten
+									    (NP polio))))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ that)
+     (VP might
+	 (VP be
+	     (NP-PRD the difference)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ-2 (NP the other thing)
+	       (SBAR (WHNP-1 that)
+		     ,
+		     (INTJ uh)
+		     ,
+		     (S (NP-SBJ-3 I)
+			(VP remember
+			    (S (NP-SBJ *-3)
+			       (VP seeing
+				   (NP *T*-1)
+				   (PP on
+				       (NP T V))
+				   (ADVP-TMP lately)))))))
+     (EDITED (RM [)
+	     (VP-UNF is)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (VP had
+	 (RS ])
+	 (S (NP-SBJ *-2)
+	    (VP to
+		(VP do
+		    (PP-UNF with)))))
+     ,
+     N_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (SBAR-PRD like
+		   (S (NP-SBJ (NP seventy-five percent)
+			      (PP of
+				  (NP (NP the historical sites)
+				      (PP-LOC in
+					      (NP America)))))
+		      (VP are
+			  (PP-LOC-PRD in
+				      (NP (NP the home districts)
+					  (PP of
+					      (NP (ADJP very powerful)
+						  people
+						  (ADVP politically))))))))) 
+     E_S))
+( (CODE SpeakerB12 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA13 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ that)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF that histor-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (PP for
+	 (NP some reason))
+     ,
+     (NP-SBJ-1 (NP historical sites)
+	       (RS ])
+	       (PP with
+		   (PRN ,
+			(S (NP-SBJ you)
+			   (VP know))
+			,)
+		   (EDITED (RM [)
+			   (NP-UNF the)
+			   ,
+			   (IP +))
+		   (NP (NP the
+			   (RS ])
+			   full federal money)
+		       and
+		       (NP everything))))
+     (VP seem
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP appear
+		    (EDITED (RM [)
+			    (EDITED (RM [)
+				    (PP-UNF as)
+				    ,
+				    (IP +))
+			    (PP-UNF as)
+			    (RS ])
+			    (IP +))
+		    (PP (ADVP almost)
+			as
+			(RS ])
+			(INTJ like)
+			(NP (NP political favors)
+			    (EDITED (RM [)
+				    (PP-UNF to)
+				    ,
+				    (IP +))
+			    (PP to
+				(RS ])
+				(NP (ADJP very strong)
+				    politicians))))))))
+     .
+     E_S))
+( (CODE SpeakerB14 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S (NP-SBJ it)
+			(VP-UNF 's))
+		     ,
+		     (IP +))
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADJP-PRD funny)
+	 (SBAR-PRP because
+		   ,
+		   (INTJ uh)
+		   ,
+		   (S (S-SBJ (NP-SBJ it)
+			     (VP was
+				 (NP-PRD (NP one)
+					 (PP of
+					     (NP the things))
+					 (SBAR (WHNP-2 that)
+					       (S (NP-SBJ-1 Bush)
+						  (VP is
+						      (VP trying
+							  (ADVP-MNR really hard)
+							  (S (NP-SBJ *-1)
+							     (VP to
+								 (VP get
+								     (NP (NP ahold) 
+									 (PP of
+									     (NP *T*-2)))))))))))))
+		      (VP is
+			  (NP-PRD (NP the line item veto)
+				  (SBAR (WHADVP-4 where)
+					,
+					(INTJ uh)
+					(PRN ,
+					     (S (NP-SBJ you)
+						(VP know))
+					     ,)
+					(S (NP-SBJ-3 Congress)
+					   (VP is
+					       (ADJP-PRD able
+							 (S (NP-SBJ *-3)
+							    (VP to
+								(VP attach
+								    (NP (NP all kinds)
+									(PP of
+									    ,
+									    (INTJ uh)
+									    ,
+									    (NP (NP funny amendments)
+										(PP for
+										    (NP individual
+											,
+											(INTJ uh)
+											,
+											(EDITED (RM [)
+												c-
+												,
+												(IP +))
+											congressional
+											(RS ])
+											districts))))
+									(EDITED (RM [)
+										(PP to
+										    (NP-UNF the))
+										,
+										(IP +))
+									(PP to
+									    (NP the
+										(RS ])
+										main budget proposals)))))))
+					       (ADVP-LOC *T*-4)))))))))
+     E_S))
+( (CODE SpeakerA15 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB16 .))
+( (S and
+     (NP-SBJ-1 the poor President)
+     (EDITED (RM [)
+	     (VP-UNF has)
+	     ,
+	     (IP +))
+     (VP has
+	 (RS ])
+	 (S (NP-SBJ *-1)
+	    (VP to
+		,
+		(INTJ uh)
+		,
+		(VP either accept or reject
+		    (NP the whole thing)))))
+     .
+     E_S))
+( (CODE SpeakerA17 .))
+( (S (INTJ So)
+     ,
+     (NP-SBJ it)
+     (VP sounds
+	 (SBAR like
+	       (S (EDITED (RM [)
+			  (NP-SBJ you)
+			  ,
+			  (IP +))
+		  (INTJ uh)
+		  ,
+		  (NP-SBJ you)
+		  (RS ])
+		  (VP think
+		      (SBAR (EDITED (RM [)
+				    (SBAR-UNF that)
+				    ,
+				    (IP +))
+			    that
+			    (RS ])
+			    (S (NP-SBJ-1 we)
+			       (VP 'd
+				   (VP be
+				       (ADJP-PRD able
+						 (S (NP-SBJ-2 *-1)
+						    (VP to
+							(VP save
+							    (NP some money)
+							    (PP by
+								,
+								(INTJ uh)
+								(S-NOM (NP-SBJ *-2)
+								       (VP passing
+									   (NP the line item veto))))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB18 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA19 .))
+( (CODE SpeakerB20 .))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ the line item veto)
+		  (EDITED (RM [)
+			  (VP-UNF is
+				  (EDITED (RM [)
+					  not
+					  ,
+					  (IP +)))
+			  not
+			  ,
+			  (RS ])
+			  (IP +))
+		  (VP is
+		      not
+		      (RS ])
+		      (ADVP necessarily)
+		      (NP-PRD a bad thing)
+		      ,
+		      (S-ADV (NP-SBJ *)
+			     (VP assuming
+				 (SBAR that
+				       (S (EDITED (RM [)
+						  (EDITED (RM [)
+							  (NP-SBJ-UNF the)
+							  ,
+							  (IP +))
+						  (INTJ uh)
+						  ,
+						  (NP-SBJ-UNF the)
+						  ,
+						  (RS ])
+						  (IP +))
+					  (NP-SBJ-2 the
+						    (RS ])
+						    President)
+					  ,
+					  (INTJ uh)
+					  ,
+					  (VP uses
+					      (NP it)
+					      (S-PRP (NP-SBJ-1 *-2)
+						     (VP to
+							 (VP get
+							     (VP rid
+								 (NP *-1)
+								 (PP of
+								     ,
+								     (INTJ uh)
+								     ,
+								     (NP (NP this kind)
+									 (PP of
+									     (NP waste)))))))))))))))))
+     .
+     E_S))
+( (S (PP On
+	 (NP the other hand))
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP assumes
+	 (SBAR that
+	       (S (NP-SBJ you)
+		  (VP have
+		      (NP (NP lots)
+			  (PP of
+			      (NP confidence)))
+		      (PP in
+			  (NP your President))
+		      (S (NP-SBJ-2 *)
+			 (VP (VP not
+				 to
+				 (VP veto
+				     (NP important things)))
+			     .
+			     (INTJ Uh)
+			     ,
+			     and
+			     (VP (ADVP just)
+				 to
+				 (VP get
+				     (VP rid
+					 (NP *-2)
+					 (PP of
+					     (NP the unimportant things)))))))))))
+     .
+     E_S))
+( (CODE SpeakerA21 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB22 .))
+( (S And
+     (SBAR-TMP (WHADVP-2 whenever)
+	       (S (NP-SBJ there)
+		  (VP 's
+		      (NP-PRD (NP that kind)
+			      (PP of
+				  (NP subjective judgment)))
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-3 there)
+     (VP 's
+	 (ADVP-TMP always)
+	 (VP going
+	     (S (NP-SBJ *-3)
+		(VP to
+		    (VP be
+			(NP-PRD (NP a dispute)
+				(PP as
+				    (PP to
+					,
+					(INTJ uh)
+					,
+					(SBAR (EDITED (RM [)
+						      (SBAR (WHADVP where)
+							    (S (NP-SBJ-UNF the exa-)))
+						      ,
+						      (IP +))
+					      (WHADVP-1 where)
+					      (S (NP-SBJ (NP the boundary)
+							 (RS ])
+							 (PP between
+							     (NP waste
+								 (EDITED (RM [)
+									 and
+									 ,
+									 (IP +))
+								 and
+								 (RS ])
+								 necessity)))
+						 (VP is
+						     (ADVP-PRD *T*-1))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA23 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB24 .))
+( (S So
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 'm
+			not))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 not
+	 (RS ])
+	 (ADJP-PRD sure
+		   (SBAR (EDITED (RM [)
+				 (SBAR-UNF that)
+				 ,
+				 (IP +))
+			 that
+			 (RS ])
+			 (S (NP-SBJ-1 that)
+			    (VP will
+				(VP help
+				    (S (NP-SBJ *-1)
+				       (VP solve
+					   (NP our problems)))))))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ there)
+     (ADVP definitely)
+     (EDITED (RM [)
+	     (VP-UNF is)
+	     ,
+	     (IP +))
+     (VP is
+	 (RS ])
+	 (NP-PRD (NP a problem)
+		 (PP-UNF with)))
+     ,
+     N_S))
+( (S (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP forgot)
+     ,
+     E_S))
+( (S (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP a political term)
+		 (PP for
+		     (NP this stuff))
+		 ,
+		 (NP (NP pork barrel)
+		     or
+		     (NP something))))
+     .
+     E_S))
+( (CODE SpeakerA25 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB26 .))
+( (INTJ Uh
+	,
+	E_S))
+( (CODE SpeakerA27 .))
+( (NP Pork barrel politics
+      .
+      E_S))
+( (CODE SpeakerB28 .))
+( (NP Pork barrel politics
+      .
+      E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF The-)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF the-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ-1 there)
+     (RS ])
+     (VP has
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP be
+		    (NP-PRD (NP some way)
+			    (SBAR (WHADVP-2 0)
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP do
+					     (NP it)
+					     (ADVP-MNR *T*-2))))))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP know
+	 (SBAR 0
+	       (S (NP-SBJ state governors)
+		  (ADVP-TMP usually)
+		  (VP have
+		      (NP line item vetos)))))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP lived
+	 (PP-LOC in
+		 (NP Massachusetts))
+	 (PP-TMP for
+		 (NP a while)))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ Dukakis)
+		  (VP vetoed
+		      (NP certain things)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ there)
+     (VP (VP was
+	     (NP-PRD a big uproar))
+	 and
+	 (VP was
+	     n't
+	     (ADVP necessarily)
+	     (ADJP-PRD so popular)))
+     .
+     E_S))
+( (CODE SpeakerA29 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S but
+     (NP-SBJ Massachusetts)
+     (EDITED (RM [)
+	     (VP-UNF was
+		     n't)
+	     ,
+	     (IP +))
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ Dukakis)
+		  (VP was
+		      (ADVP-LOC-PRD there)
+		      ,
+		      (ADVP anyway)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (VP was
+	 n't
+	 (RS ])
+	 (PP-PRD in
+		 (NP (ADJP that great) shape))
+	 (ADVP financially))
+     .
+     E_S))
+( (CODE SpeakerB30 .))
+((X D-
+    ,
+    N_S))
+( (FRAG (ADVP at least)
+	(PP-TMP at
+		(NP the end))
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     ,
+     E_S))
+( (S-UNF (NP-SBJ I)
+	 ,
+	 N_S))
+( (CODE SpeakerB32 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF i-)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF i-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP were
+	 (ADJP-PRD very good)
+	 (PP-TMP at
+		 (ADVP first)))
+     ,
+     E_S))
+( (S (NP-SBJ they)
+     (VP were
+	 (PP-PRD in
+		 (NP very good financials))
+	 (PP-TMP at
+		 (ADVP first)))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (S-SBJ (NP-SBJ that)
+	    (VP 's
+		(NP-PRD (NP part)
+			(PP of
+			    (NP (NP the reason)
+				(SBAR (WHADVP-1 0)
+				      (S (NP-SBJ he)
+					 (VP became
+					     (NP-PRD a nominee)
+					     (ADVP-PRP *T*-1)))))))))
+     (VP is
+	 (SBAR-PRP-PRD because
+		       (S (NP-SBJ things)
+			  (VP went
+			      (ADVP-MNR so well)))))
+     .
+     E_S))
+( (S (CONJP And then)
+     ,
+     (PP of
+	 (NP course))
+     ,
+     (NP-SBJ the bottom)
+     (VP fell
+	 (PRT out))
+     .
+     E_S))
+( (CODE SpeakerA33 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S (NP-SBJ It)
+			(VP-UNF 's))
+		     ,
+		     (IP +))
+	     (INTJ uh)
+	     (PRN ,
+		  (S (NP-SBJ I)
+		     (VP mean))
+		  ,)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADJP-PRD tough))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP two ways)
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ-2 you)
+			  (VP can
+			      (ADVP kind of)
+			      (VP go
+				  (ADVP-DIR *T*-1)
+				  (S-PRP (NP-SBJ *-2)
+					 (VP to
+					     (VP get
+						 (PP out
+						     (PP of
+							 (NP tough financial situations))))))))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ you)
+		  (VP can
+		      (INTJ like)
+		      (VP (VP raise
+			      (NP taxes))
+			  (CONJP and then)
+			  (VP create
+			      (INTJ like)
+			      (NP (NP job programs)
+				  and
+				  (NP whatnot))))))))
+     E_S))
+( (S or
+     (NP-SBJ you)
+     (VP can
+	 (VP hope
+	     (SBAR that
+		   (SBAR-ADV if
+			     (S (NP-SBJ people)
+				(VP keep
+				    (NP their money))))
+		   (SBAR that
+			 (S (NP-SBJ they)
+			    (VP 'll
+				(VP (VP spend
+					(NP more))
+				    and
+				    (VP create
+					(NP jobs
+					    (EDITED (RM [)
+						    and
+						    ,
+						    (IP +))
+					    and
+					    (RS ])
+					    whatnot)))))))))
+     .
+     E_S))
+( (CODE SpeakerB34 .))
+( (FRAG And
+	(VP spare
+	    (NP the economy))
+	.
+	E_S))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's
+			(ADVP really)))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (NP-PRD a hard balance))
+     .))
+( (S (EDITED (RM [)
+	     (NP-SBJ It)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (ADVP definitely)
+     (VP is
+	 (NP-PRD *?*))
+     .
+     E_S))
+( (FRAG (ADVP Even)
+	not
+	(PP for
+	    (NP government))
+	,))
+( (FRAG (ADVP even)
+	(ADVP just)
+	,
+	(INTJ say)
+	,
+	(PP for
+	    (NP a small business))
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ I)
+     (VP know
+	 (NP-UNF some))
+     ,
+     N_S))

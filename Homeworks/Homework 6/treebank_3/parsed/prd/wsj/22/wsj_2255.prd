@@ -1,0 +1,155 @@
+
+
+( (S (NP-SBJ-1 (NP Moody 's)
+	       Investors Service Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP reduced
+                      (NP (NP its rating)
+                          (PP on
+                              (NP (NP (QP $ 281 million) *U*)
+                                  (PP of
+                                      (NP (NP senior and subordinated debt)
+                                          (PP of
+                                              (NP this thrift holding company)))))))
+                      ,
+                      (PP-DIR to
+			      (NP C))
+		      (PP-DIR from
+			      (NP Ca))
+                      ,)))
+	 (S-ADV (NP-SBJ *-1)
+		(VP saying
+		    (SBAR 0
+			  (S (NP-SBJ it)
+			     (VP believes
+				 (SBAR 0
+				       (S (NP-SBJ bondholders)
+					  (VP will
+					      (VP recover
+						  (NP only `` negligible principal)))))))))))
+     .
+     ''))
+( (S (NP-SBJ The agency)
+     (VP said 
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP confirmed
+                      (NP (NP American Continental 's)
+                          preferred stock rating)
+                      (PP at
+                          (NP C))))))
+     .))
+((S (S (NP-SBJ (NP (NP American Continental 's)
+		  thrift unit)
+	      ,
+	      (NP (ADJP Los Angeles-based) Lincoln Savings & Loan Association)
+	      ,)
+      (VP is
+	  (PP-PRD in
+		  (NP receivership))))
+   and
+   (S (NP-SBJ the parent company)
+      (VP has
+	  (VP filed
+	      (PP-CLR for
+		      (NP (NP protection)
+			  (PP from
+			      (NP creditor lawsuits))))
+	      (PP-MNR under
+		      (NP (NP Chapter 11)
+			  (PP of
+			      (NP the federal Bankruptcy Code)))))))
+   .))
+( (NP-HLN (NP CENTRUST SAVINGS BANK)
+	  (PRN -LRB-
+	       (NP-LOC Miami)
+	       -RRB-)
+	  --))
+( (S (NP-SBJ (NP Moody 's)
+	     Investors Service Inc.)
+     (VP downgraded
+	 (NP (NP its ratings)
+	     (PP on
+		 (NP (NP the subordinated debt)
+		     (PP of
+			 (NP CenTrust)))))
+	 (PP-DIR to
+		 (NP Caa))
+	 (PP-DIR from
+		 (NP B-3)))
+     .))
+( (S (NP-SBJ The rating agency)
+     (VP (VP (ADVP also)
+             reduced
+             (NP (NP the ratings)
+                 (PP-1 for
+		       (NP long-term deposits)))
+             (PP-DIR-2 to
+		       (NP B-3))
+	     (PP-DIR-3 from
+		       (NP Ba-3)))
+         and
+         (VP (PP=1 for
+		   (NP preferred stock))
+	     (PP-DIR=2 to
+		       (NP Ca))
+	     (PP-DIR=3 from
+		       (NP Caa))))
+     .))
+( (S (NP-SBJ The rating agency)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP (QP about $ 85 million) *U*)
+                            (PP in
+                                (NP securities)))
+                  (VP was
+                      (VP affected
+                          (NP *-1))))))
+     .))
+( (S-2 (NP-SBJ-1 The downgrades)
+       (VP were
+	   (VP prompted
+	       (NP *-1)
+	       ,
+	       (PRN (S (NP-SBJ Moody 's)
+		       (VP said
+			   (SBAR 0
+				 (S *T*-2)))))
+	       ,
+	       (PP by
+		   (NP-LGS (NP (NP the continuing turmoil)
+			       (PP-LOC in
+				       (NP the junk bond market)))
+			   and
+			   (NP (NP the suspension)
+			       (PP of
+				   (NP (NP dividends)
+				       (PP on
+					   (NP (NP CenTrust 's)
+					       preferred stock)))))))))
+       .))
+( (S (NP-SBJ Moody 's)
+     (VP (ADVP also)
+         said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP believed
+                      (SBAR 0
+                            (S (NP-SBJ (NP the proposed sale)
+                                       (PP of
+                                           (NP 63 CenTrust branches))
+                                       (PP to
+                                           (NP Great Western Bank)))
+                               (VP could 
+				   (PRN ,
+					(SBAR-ADV if
+						  (S (NP-SBJ-1 *)
+						     (VP completed
+							 (NP *-1))))
+					,)
+				   (VP endanger
+                                       (NP (NP the thrift 's)
+                                           funding and market position)))))))))
+     .))

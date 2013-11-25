@@ -1,0 +1,431 @@
+
+
+( (S (NP-SBJ-1 U.S. OFFICIALS)
+     (VP MOVED
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP head
+                    (PRT off)
+                    (NP (NP any repeat)
+                        (PP of
+                            (NP Black Monday))))))
+	 (NP-TMP today)
+	 (PP following
+	     (NP (NP (NP Friday 's)
+		     plunge)
+		 (PP-LOC in
+			 (NP stock prices)))))
+     .))
+( (S (NP-SBJ Fed Chairman
+             Greenspan)
+     (VP signaled
+         (SBAR that
+               (S (NP-SBJ the central bank)
+                  (VP was
+                      (ADJP-PRD prepared
+                                (S (NP-SBJ *)
+                                   (VP to
+                                       (VP inject
+                                           (NP (NP massive amounts)
+                                               (PP of
+                                                   (NP money)))
+                                           (PP-DIR into
+						   (NP the banking system))
+					   (S-PRP (NP-SBJ *)
+						  (VP to
+						      (VP prevent
+							  (NP a financial crisis))))))))))))
+     .))
+( (S (NP-SBJ Other
+             (UCP U.S. and foreign)
+             officials)
+     (ADVP also)
+     (VP mapped
+         (PRT out)
+         (NP plans)
+	 ,
+	 (SBAR-ADV though
+		   (S (NP-SBJ-2 they)
+		      (VP kept
+			  (S (NP-SBJ their moves)
+			     (ADJP-PRD quiet))
+			  (S-PRP (NP-SBJ-1 *-2)
+				 (VP to
+				     (VP avoid
+					 (S (NP-SBJ *-1)
+					    (VP making
+						(S (NP-SBJ the financial markets)
+						   (ADJP-PRD more jittery)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP Friday 's)
+               sell-off)
+     (VP was
+         (VP triggered
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP the collapse)
+			     (PP of
+				 (NP (NP UAL 's)
+				     buy-out plan)))
+			 and
+			 (NP (NP a big rise)
+			     (PP-LOC in
+				     (NP producer prices)))))))
+     .))
+( (S (NP-SBJ The Dow Jones industrials)
+     (VP skidded
+         (NP-EXT 190.58)
+         ,
+         (PP-DIR to
+		 (NP 2569.26)))
+     .))
+( (S (NP-SBJ The junk bond market)
+     (VP came
+         (PP-CLR to
+		 (NP a standstill))
+	 ,
+	 (SBAR-TMP while
+		   (S (S (NP-SBJ Treasury bonds)
+			 (VP soared))
+		      and
+		      (S (NP-SBJ the dollar)
+			 (VP fell)))))
+     .))
+( (S (NP-SBJ Japanese stocks)
+     (VP (VP dropped
+	     (NP-TMP early Monday)
+	     ,)
+	 but
+	 (VP (PP-TMP by
+		     (NP late morning))
+	     were
+	     (VP turning
+		 (ADVP-DIR around))))
+     .))
+( (S (NP-SBJ The dollar)
+     (VP was
+         (VP trading
+             (ADVP-MNR (ADVP sharply)
+		       lower)
+	     (PP-LOC in
+		     (NP Tokyo))))
+     .))
+( (S (NP-SBJ (NP Prospects)
+             (PP for
+                 (NP a new UAL buy-out proposal)))
+     (VP appear
+         (ADJP-PRD bleak))
+     .))
+( (S (S (NP-SBJ-1 Many banks)
+        (VP refused
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP back
+                       (NP the (ADJP (QP $ 6.79 billion) *U*) transaction))))))
+     , 
+     but
+     (S (NP-SBJ bankers)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP was not
+                         (PP-PRD from
+                                 (NP any unwillingness
+                                     (S (NP-SBJ *)
+                                        (VP to
+                                            (VP finance
+                                                (NP takeovers)))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The decision)
+	      (VP was
+		  (VP based
+		      (NP *-1)
+		      (ADVP solely)
+		      (PP-LOC-CLR on
+				  (NP (NP problems)
+				      (PP with
+					  (NP the UAL management-pilot plan))))))
+	      ,)
+     (NP-SBJ they)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S (NP-SBJ (NP The surge)
+                (PP-LOC in
+			(NP producer prices))
+                (PP-TMP in
+			(NP September)))
+        (VP followed
+            (NP (NP three months)
+                (PP of
+                    (NP declines)))))
+     , but
+     (S (NP-SBJ analysts)
+        (VP were
+            (ADJP-PRD divided)
+	    (PP-CLR on
+		    (SBAR whether
+			  (S (NP-SBJ the 0.9 % jump)
+			     (VP signaled
+				 (NP (NP a severe worsening)
+				     (PP of
+					 (NP inflation)))))))))
+     .))
+( (S (ADVP Also)
+     ,
+     (NP-SBJ retail sales)
+     (VP grew
+         (NP-EXT 0.5 %)
+	 (NP-TMP last month))
+     .))
+( (S (S (NP-SBJ-1 A capital-gains tax cut)
+        (VP was
+            (VP removed
+                (NP *-1)
+                (PP-CLR from
+			(NP (NP the Senate 's)
+			    deficit reduction bill)))))
+     , but
+     (S (NP-SBJ-2 proponents)
+        (ADVP-TMP still)
+        (VP hope
+            (S (NP-SBJ *-2)
+               (VP to
+                   (VP enact
+                       (NP the cut)
+		       (NP-TMP this year))))))
+     .))
+( (S (NP-SBJ Bush)
+     (VP wo n't
+         (VP press
+             (PP-CLR for
+		     (NP (NP a capital-gains provision)
+			 (PP-LOC in
+				 (NP the final deficit bill))))
+	     (SBAR-TMP (WHADVP when)
+		       (S (NP-SBJ House-Senate conferees)
+			  (VP meet
+			      (NP-TMP (ADVP later) this week))))))
+     .))
+( (S (NP-SBJ General Motors)
+     (VP signaled
+         (SBAR that
+               (S (NP-SBJ (QP up
+			      to
+			      five)
+                          North American assembly plants)
+                  (VP may
+                      (VP close
+                          (PP-TMP by
+				  (NP the mid-1990s))
+                          (SBAR-TMP as
+				    (S (NP-SBJ-1 it)
+				       (VP tries
+					   (S (NP-SBJ *-1)
+					      (VP to
+						  (VP cut
+						      (NP excess capacity))))))))))))
+     .))
+( (S (NP-SBJ U.S. car and truck sales)
+     (VP fell
+         (NP-EXT 12.6 %)
+	 (PP-TMP in
+		 (NP (NP early October)
+		     ,
+		     (NP (NP the first sales period)
+			 (PP of
+			     (NP the 1990-model year)))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP dragged
+		    (ADVP-DIR down)
+		    (PP by
+			(NP-LGS (NP a sharp decline)
+				(PP-LOC in
+					(NP GM sales)))))))
+     .))
+( (S (NP-SBJ Warner
+             and
+             Sony)
+     (VP are
+         (ADJP-PRD entangled
+                   (PP in
+                       (NP (NP a legal battle)
+                           (PP over
+                               (NP movie producers Peter Gruber and Jon Peters))))))
+     .))
+( (S (NP-SBJ The fight)
+     (VP could
+         (VP set
+             (PRT back)
+             (NP (NP Sony 's)
+                 plans
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP enter
+                            (NP the U.S. movie business)))))))
+     .))
+( (S (NP-SBJ (NP Hooker 's)
+             U.S. unit)
+     (VP received
+         (NP a
+             (NP (NP (ADJP (QP $ 409 million) *U*) bid)
+                 (PP for
+                     (NP (NP most)
+                         (PP of
+                             (NP its real-estate and shopping-center assets))))))
+         (PP-CLR from
+		 (NP an investor group)))
+     .))
+( (S (NP-SBJ The offer)
+     (VP does n't
+         (VP include
+             (NP (NP Bonwit Teller)
+                 or
+                 (NP B. Altman))))
+     .))
+( (S (NP-SBJ-1 The Boeing strike)
+     (VP is
+         (VP starting
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP affect
+                        (NP airlines))))))
+     .))
+( (S (NP-SBJ America West)
+     (VP said
+         (NP-TMP Friday)
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP postpone
+                          (NP (NP its new service)
+                              (PP out
+                                  (PP of
+                                      (NP Houston))))
+			  (PP-PRP because of
+				  (NP (NP delays)
+				      (PP-LOC in
+					      (S-NOM (NP-SBJ *)
+						     (VP receiving
+							 (NP aircraft)
+							 (PP-CLR from
+								 (NP Boeing))))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Saatchi
+		      &
+		      Saatchi)
+	      (VP would
+		  (VP launch
+		      (NP a management buy-out)
+		      (SBAR-ADV if
+				(S (NP-SBJ a hostile suitor)
+				   (VP emerged))))))
+     ,
+     (NP-SBJ an official)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP British Aerospace)
+             and
+             (NP (NP France 's)
+                 Thomson-CSF))
+     (VP are
+         (VP nearing
+             (NP a pact
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP merge
+                            (NP guided-missile divisions)))))))
+     .))
+( (S (NP-SBJ New U.S. steel-import quotas)
+     (VP will
+         (VP give
+             (NP a bigger share)
+             (PP-DTV to
+		     (NP (NP developing nations)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP have
+				      (NP (ADJP relatively unsubsidized)
+					  steel industries))))))))
+     .))
+( (S (NP-SBJ-1 (NP Japan 's)
+               steel quota)
+     (VP will
+         (VP be
+             (VP cut
+                 (NP *-1)
+                 (ADVP significantly))))
+     .))
+( (S (S (NP-SBJ Four ailing S&Ls)
+        (VP were
+            (VP sold
+                (PRT off)
+                (PP by
+                    (NP-LGS government regulators)))))
+     , but
+     (S (NP-SBJ low bids)
+        (VP prevented
+            (NP (NP the sale)
+                (PP of
+                    (NP a fifth)))))
+     .))
+( (NP-HLN Markets --))
+( (NP (NP Stocks)
+      :
+      (NP (NP Volume)
+	  (NP 251,170,000 shares))
+      .))
+( (FRAG (NP (NP Dow Jones industrials)
+	    (NP 2569.26)
+	    ,
+	    (ADVP off
+		  (NP 190.58)))
+	;
+	(NP (NP transportation)
+	    (NP 1406.29)
+	    ,
+	    (ADVP off
+		  (NP 78.06)))
+	;
+	(NP (NP utilities)
+	    (NP 211.96)
+	    ,
+	    (ADVP off
+		  (NP 7.29)))
+	.))
+( (NP (NP Bonds)
+      :
+      (NP (NP Shearson Lehman Hutton Treasury index)
+          (NP 3421.29)
+          ,
+          (ADVP up))))
+( (NP (NP Commodities)
+      :
+      (NP (NP Dow Jones futures index)
+          (NP 129.87)
+          ,
+          (ADVP up
+                (NP 0.01)))
+      ;
+      (NP (NP spot index)
+          (NP 129.25)
+          ,
+          (ADVP up
+                (NP 0.28)))
+      .))
+( (NP (NP Dollar)
+      :
+      (NP (NP 142.10 yen)
+          ,
+          (ADVP off
+                (NP 2.07)))
+      ;
+      (NP (NP 1.8740 marks) 
+	  ,
+          (ADVP off
+                (NP 0.0343)))
+      .))

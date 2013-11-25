@@ -1,0 +1,153 @@
+
+
+( (S (NP-SBJ The Chicago Mercantile Exchange)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP (VP fined
+                          (NP Capcom Futures Inc.)
+                          (NP $ 500,000 *U*))
+                      and
+                      (VP accepted
+                          (NP (NP its withdrawal)
+                              (PP from
+                                  (NP membership))))
+		      (PP as
+			  (NP (NP part)
+			      (PP of
+				  (NP (NP a settlement)
+				      (PP of
+					  (NP (NP disciplinary actions)
+					      (PP against
+						  (NP the firm))))))))))))
+     .))
+( (S (NP-SBJ Capcom Futures)
+     (VP is
+         (NP-PRD (NP a Chicago subsidiary)
+                 (PP of
+                     (NP (NP Capcom Financial Services Ltd.)
+                         ,
+                         (NP (NP a London financial firm)
+                             (SBAR (WHNP-2 that)
+                                   (S (NP-SBJ-1 *T*-2)
+                                      (VP was
+                                          (VP implicated
+                                              (NP *-1)
+                                              (NP-TMP last year)
+                                              (PP-LOC in
+						      (NP a scheme
+							  (S (NP-SBJ *)
+							     (VP to
+								 (VP launder
+								     (NP drug money)))))))))))))))
+     .))
+( (S (NP-SBJ The case)
+     (VP is
+         (ADJP-PRD pending))
+     .))
+( (S (NP-SBJ-1 The firm)
+     (VP was
+         (VP indicted
+             (NP *-1)
+             (PP-LOC in
+		     (NP (NP Tampa)
+			 ,
+			 (NP Fla.)
+			 ,))
+             (PP on
+		 (NP money-laundering charges))))
+     .))
+( (S (PP-TMP In
+	     (NP June))
+     ,
+     (NP-SBJ (NP the Chicago Board)
+             (PP of
+                 (NP Trade)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP suspended
+                      (NP Capcom Financial)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The Capcom Futures unit)
+	      (VP withdrew
+		  (PP-DIR from
+			  (NP (NAC Board
+				   (PP of
+				       (NP Trade)))
+			      membership))
+		  (ADVP-MNR voluntarily)
+		  (PP-TMP in
+			  (NP August))))
+     ,
+     (NP-SBJ a 
+	     (NAC Board
+		  (PP of
+		      (NP Trade)))
+	     spokesman)
+     (VP said 
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-2 Capcom Futures)
+     ,
+     (SBAR-ADV while
+	       (S (NP-SBJ *-2)
+		  (VP neither admitting nor denying
+		      (NP the Merc charges))))
+     ,
+     (VP said
+         (PP-LOC in
+		 (NP a statement))
+         (SBAR (SBAR that
+                     (S (NP-SBJ the Merc charges)
+                        (VP were
+			    ``
+                            (ADJP-PRD technical
+                                      (PP in
+                                          (NP nature)))
+                            '')))
+               and
+               (SBAR that
+		     ``
+                     (S (NP-SBJ-1 no customers)
+                        (VP were
+                            (VP hurt
+                                (NP *-1)
+                                ''
+                                (PP-PRP as
+					(NP (NP a result)
+					    (PP of
+						(NP (NP the violations)
+						    (VP cited
+							(NP *)
+							(PP by
+							    (NP-LGS the Merc)))))))))))))
+     .))
+( (S (NP-SBJ The Merc)
+     (VP alleged
+         (SBAR that 
+	       ,
+               (S (PP-LOC among
+			  (NP other things))
+                  ,
+                  (PP-TMP (PP from
+			      (NP April 1987))
+			  (PP through
+			      (NP October 1988)))
+                  (NP-SBJ-1 Capcom Futures)
+		  (VP failed
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP document
+				 (NP (NP trades)
+				     (PP between
+					 (NP (NP Capcom Futures)
+					     and
+					     (NP (NP people or entities)
+						 (VP (ADVP-MNR directly or indirectly)
+						     controlled
+						     (NP *)
+						     (PP-LGS by
+							     (NP Capcom Futures shareholders))))))))))))))
+     .))

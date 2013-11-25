@@ -1,0 +1,84 @@
+
+
+( (S (S-TPC-2 (NP-SBJ (NP Dresdner Bank AG)
+		      (PP of
+			  (NP West Germany)))
+	      (VP has
+		  (VP announced
+		      (NP (NP a friendly tender offer)
+			  (PP for
+			      (NP (NP control)
+				  (PP of
+				      (NP (NP (NP Banque Internationale)
+					      (PP de
+						  (NP Placements)))
+					  ,
+					  (NP (NP a French bank)
+					      (SBAR (WHNP-1 whose main shareholder)
+						    (S (NP-SBJ *T*-1)
+						       (VP is
+							   (NP-PRD (NP France 's)
+								   Societe Generale)))))
+					  ,))))))))
+     (NP-SBJ the Societe de Bourses Francaises)
+     (VP said
+	 (S *T*-2))
+     .))
+( (S (NP-SBJ (NP The tender offer)
+             (PP by
+                 (NP (NP West Germany 's)
+                     second-biggest commercial bank)))
+     (VP is
+         (PP-PRD in
+                 (NP two stages)))
+     .))
+( (S (NP-SBJ-1 Dresdner)
+     (VP is
+         (VP offering
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP acquire
+                        (NP (NP 32.99 %)
+                            (PP of
+                                (NP (NP BIP 's)
+                                    capital)))
+                        (PP-CLR for
+				(NP (NP (NP 1,015 francs)
+					(PRN -LRB-
+					     (NP $ 156.82 *U*)
+					     -RRB-))
+				    (NP-ADV a share))))))))
+     .))
+( (S (NP-SBJ (NP The terms)
+             (PP of
+                 (NP the offer)))
+     (VP put
+         (NP (NP a value)
+             (PP of
+                 (NP (NP 528 million francs)
+                     (PRN -LRB-
+			  (NP (QP $ 81.6 million) *U*)
+			  -RRB-))))
+         (PP-PUT on
+		 (NP the (ADJP 32.99 %) shareholding)))
+     .))
+( (S (NP-SBJ The Societe Generale banking group)
+     (VP controls
+         (NP (NP 18.2 %)
+             (PP of
+                 (NP the shareholding)))
+	 ,
+	 (SBAR-ADV while
+		   (S (S (NP-SBJ (NP Societe Generale)
+				 (PP de
+				     (NP Belgique S.A.)))
+			 (VP owns
+			     (NP 9.69 %)))
+		      and
+		      (S (NP-SBJ (NP Financiere Tradition)
+				 ,
+				 (NP a holding company)
+				 ,)
+			 (VP owns
+			     (NP 5.1 %))))))
+     .))

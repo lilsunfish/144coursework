@@ -1,0 +1,689 @@
+
+
+( (S (NP-SBJ (NP Traders)
+             (VP trying
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP profit
+                            (PP-CLR from
+				    (NP (NP the recent volatility)
+					(PP-LOC in
+						(NP financial markets)))))))))
+     (VP invaded
+         (NP the Nasdaq over-the-counter market)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP prompting
+		    (NP (NP even more swings)
+			(PP-LOC in
+				(NP stock prices))))))
+     .))
+( (S (PP After
+         (S-NOM (NP-SBJ *-2)
+		(VP gaining
+		    (NP strength)
+		    (PP-TMP during
+			    (NP (NP a brief run-up)
+				(SBAR (WHADVP-1 when)
+				      (S (NP-SBJ trading)
+					 (VP began
+					     (ADVP-TMP *T*-1)))))))))
+     ,
+     (NP-SBJ-2 the Nasdaq Composite Index)
+     (VP weakened
+         (PP-LOC under
+		 (NP selling pressure)))
+     .))
+( (S (NP-SBJ (NP The forces)
+             (PP at
+                 (NP work)))
+     (VP included
+         (NP (NP computer-guided trading)
+             , 
+	     (CONJP as well as)
+             (NP (NP profit-driven market makers)
+                 and
+                 (NP (NP institutional investors)
+                     (SBAR (WHNP-1 who)
+                           (S (NP-SBJ *T*-1)
+                              (VP had
+                                  (VP bought
+                                      (NP stock)
+                                      (PP-MNR on
+					      (NP the cheap))
+				      (PP-TMP during
+					      (NP the recent correction))))))))))
+     .))
+( (S (PP-TMP During
+	     (NP (NP the last two hours)
+		 (PP of
+		     (NP trading))))
+     ,
+     (NP-SBJ the composite)
+     (VP (ADVP almost)
+         drew
+         (ADVP even)
+	 (PP-TMP on
+		 (NP the day))
+	 (PP-TMP before
+		 (S-NOM (NP-SBJ *)
+			(VP slipping
+			    (ADVP-TMP again)))))
+     .))
+( (S (NP-SBJ The Nasdaq Composite)
+     (VP closed
+         (ADVP-CLR down
+		   (NP (NP 1.05)
+		       , 
+		       or
+		       (NP 0.2 %)
+		       ,))
+	 (PP to
+	     (NP 459.93)))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The action)
+	      (VP was
+		  (VP confined
+		      (NP *-1)
+		      (PP-CLR to
+			      (NP (NP Nasdaq 's)
+				  (ADJP (ADJP biggest)
+					and
+					(ADJP most liquid)) 
+				  stocks)))))
+     ,
+     (NP-SBJ traders)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The Nasdaq 100 Index)
+     (VP (VP began
+             (NP the day)
+             (PP-CLR at
+		     (NP 449.89)))
+         ,
+         (VP lost
+             (NP-EXT 2 %)
+             (PP-TMP at
+		     (NP one point)))
+         , and
+         (VP was
+             (ADVP-PRD up
+		       (NP 0.4 %))
+             (PP-TMP at
+                     (NP another))))
+     .))
+( (S (NP-SBJ (NP The barometer)
+             (PP of
+                 (NP the biggest nonfinancial stocks)))
+     (VP settled
+         (PP-CLR at
+		 (NP 448.49))
+         ,
+         (ADVP off
+               (NP 1.40)))
+     .))
+( (S (NP-SBJ (NP Its counterpart)
+             ,
+             (NP the Nasdaq Financial Index)
+             ,)
+     (VP was
+         (ADJP-PRD weak)
+	 (PP-TMP for
+		 (NP (NP most)
+		     (PP of
+			 (NP the day))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP sliding
+		    (NP-EXT 2.51)
+		    (PP-DIR to
+			    (NP 453.57))
+		    (PP-TMP by
+			    (NP (NP the end)
+				(PP of
+				    (NP trading)))))))
+     .))
+( (S (NP-SBJ The volatility)
+     (VP was
+         (ADJP-PRD dizzying)
+	 (PP for
+	     (NP traders)))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ The market)
+		 (VP must
+		     (VP have
+			 (VP turned
+			     (ADVP-CLR up and down)
+			     (NP-TMP 15 different times)))))
+	, ''
+	(VP commented
+	    (S *T*-1))
+	(NP-SBJ (NP Lance Zipper)
+		,
+		(NP (NP head)
+		    (PP of
+			(NP OTC trading))
+		    (PP-LOC at
+			    (NP Kidder Peabody))))
+	.))
+( (S ``
+     (S (NP (NP Every time)
+            (SBAR (WHADVP-1 0)
+                  (S (NP-SBJ you)
+                     (VP thought
+                         (SBAR 0
+                               (S (NP-SBJ it)
+                                  (VP was
+                                      (VP going
+                                          (PP-DIR into
+						  (NP a rally))))))
+			 (ADVP-TMP *T*-1)))))
+        (NP-SBJ it)
+        (VP gave 
+	    (PRT up)))
+     ,
+     and
+     (S (NP (NP every time)
+            (SBAR (WHADVP-2 0)
+                  (S (NP-SBJ you)
+                     (VP thought
+                         (SBAR 0
+                               (S (NP-SBJ it)
+                                  (VP would
+                                      (VP rally))))
+			 (ADVP-TMP *T*-2)))))
+        (NP-SBJ it)
+        (VP came 
+	    (ADVP-CLR down)))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (NP-PRD a tough market))
+     . ''))
+( (S (NP-SBJ Mr. Zipper)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the market)
+                  (VP is
+                      (ADVP-TMP still)
+                      (VP settling 
+			  (PRT down)
+			  (PP-TMP after
+				  (NP the recent correction)))))))
+     .))
+( (S (S-TPC-3 (NP-SBJ (NP (NP Most)
+			  (PP of
+			      (NP trading action)))
+		      (ADVP-TMP now))
+	      (VP is
+		  (PP-PRD from
+			  (NP (NP professional traders)
+			      (SBAR (WHNP-1 who)
+				    (S (NP-SBJ-2 *T*-1)
+				       (VP are
+					   (VP trying
+					       (S (NP-SBJ *-2)
+						  (VP to
+						      (VP take
+							  (NP advantage) 
+							  (PP-CLR of
+								  (NP the price swings))
+							  (S-PRP (NP-SBJ *)
+								 (VP to
+								     (VP turn
+									 (NP a quick profit)))))))))))))))
+     ,
+     (NP-SBJ (NP he)
+	     and
+	     (NP other traders))
+     (VP said
+	 (SBAR 0
+	       (S *T*-3)))
+     .))
+( (SINV ``
+	(S-TPC-2 (S (NP-SBJ Everybody)
+		    (VP 's
+			(ADJP-PRD confused)))
+		 and
+		 (S (NP-SBJ no one)
+		    (VP has
+			(NP (NP an opinion)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP lasts
+					 (ADVP-TMP (ADVP longer)
+						   (PP than
+						       (NP 30 seconds))))))))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ Mr. Zipper)
+	.))
+( (S ``
+     (NP-SBJ (NP A lot)
+             (PP of
+                 (NP the professional traders)))
+     (VP are
+         (ADVP just)
+         (VP going
+             (ADVP-DIR back
+		       and
+		       forth)))
+     .))
+( (S (NP-SBJ They)
+     (VP 're
+         (ADJP-PRD just as confused))
+     . ''))
+( (S (NP-SBJ (NP William Rothe)
+             ,
+             (NP (NP head)
+                 (PP of
+                     (NP OTC trading))
+                 (PP-LOC at
+			 (NP (NP Alex . Brown & Sons)
+			     ,
+			     (PP-LOC in
+				     (NP Baltimore)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ program trading)
+                  (VP is
+                      (VP keeping
+                          (S (NP-SBJ the markets)
+			     (ADJP-PRD unsettled)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP believes
+         (SBAR that
+               (S (NP-SBJ (NP the volatile conditions)
+                          (VP created
+                              (NP *)
+                              (PP by
+                                  (NP-LGS program trading))))
+                  (VP has ``
+                      (VP (ADVP thoroughly)
+                          confused ''
+                          (NP investors)
+                          (PP about
+                              (SBAR (WHADVP-2 where)
+                                    (S (NP-SBJ-1 the market)
+                                       (VP is
+                                           (VP headed
+                                               (NP *-1)
+					       (ADVP-DIR *T*-2)))))))))))
+     .))
+( (S (S-TPC-1 (S (NP-SBJ Program trading)
+		 (VP is ``
+		     (VP benefiting
+			 (NP a few)
+			 (PP to
+			     (NP (NP the detriment)
+				 (PP of
+				     (NP many)))))))
+	      and
+	      (S (NP-SBJ I)
+		 (VP wish
+		     (SBAR 0
+			   (S (NP-SBJ someone)
+			      (VP would
+				  (VP do
+				      (NP something)
+				      (PP about
+					  (NP it)))))))))
+     , ''
+     (NP-SBJ he)
+     (VP complained
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Trading activity)
+     (VP cooled 
+	 (PRT off)
+         (PP from
+             (NP (NP Monday 's)
+                 sizzling pace)))
+     .))
+( (S (NP-SBJ Share turnover)
+     (VP subsided
+         (PP-DIR to
+		 (NP (QP 161.5 million))))
+     .))
+( (S (NP-SBJ-1 Advancing and declining issues)
+     (VP finished
+         (S-CLR (NP-SBJ *-1)
+		(ADJP-PRD about even)))
+     .))
+( (S (PP-TPC-2 Of
+	       (NP (NP the 4,345 stocks)
+		   (SBAR (WHNP-1 that)
+			 (S (NP-SBJ *T*-1)
+			    (VP changed
+				(NP hands))))))
+     ,
+     (S (NP-SBJ (NP-SBJ 1,174)
+		(PP *T*-2))
+	(VP declined))
+     and
+     (S (NP-SBJ (NP-SBJ 1,040)
+		(PP *T*-2))
+	(VP advanced))
+     .))
+( (S (NP-SBJ (NP One big technology issue)
+             ,
+             (NP Novell)
+             ,)
+     (VP rode
+         (NP the roller coaster))
+     .))
+( (S (NP-SBJ-2 (NP The stock)
+	       ,
+	       (SBAR (WHNP-1 which)
+		     (S (NP-SBJ *T*-1)
+			(VP finished
+			    (NP-TMP Monday)
+			    (PP-CLR at
+				    (NP 29 1)))))
+	       ,)
+     (VP traded
+         (ADVP (ADVP as high
+                     (PP as
+                         (NP 29 3)))
+               and
+               (ADVP as low
+                     (PP as
+                         (NP 28 3))))
+	 (PP-TMP before
+		 (S-NOM (NP-SBJ *-2)
+			(VP closing
+			    (PP-CLR at
+				    (NP 29 1))
+			    ,
+			    (ADVP down
+				  (NP 1))))))
+     .))
+( (S (NP-SBJ It)
+     (VP was
+         (NP-PRD a jarring day)
+	 (PP for
+	     (NP (NP investors)
+		 (PP-LOC in
+			 (NP Genetics Institute)))))
+     .))
+( (S (NP-SBJ The stock)
+     (VP tumbled
+         (NP-EXT 2 3)
+	 (PP on
+	     (NP news
+		 (SBAR that
+		       (S (NP-SBJ-1 it)
+			  (VP might
+			      (VP have
+				  (S (NP-SBJ *-1)
+				     (VP to
+					 (VP take
+					     (NP (NP a charge)
+						 (PP against
+						     (NP earnings))))))
+				  (SBAR-ADV if
+					    (S (NP-SBJ it)
+					       (VP ca n't
+						   (VP (ADVP-MNR successfully)
+						       resolve
+						       (NP (NP a dispute)
+							   (PP with
+							       (NP (NP its European licensee)
+								   ,
+								   (NP Boehringer Mannheim)))
+							   ,
+							   (PP over
+							       (NP (NP its anti-anemia drug)
+								   ,
+								   (NP EPO)))))))))))))))
+     .))
+( (S (NP-SBJ-1 The stock)
+     (VP recovered
+         (ADVP somewhat)
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP finish
+                    (ADVP-CLR (NP 1 1)
+			      lower)
+                    (PP at
+                        (NP 26 1))))))
+     .))
+( (S (PP-LOC In
+	     (NP a statement))
+     ,
+     (NP-SBJ Genetics Institute)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the dispute)
+                          (PP with
+                              (NP Boehringer)))
+                  (VP centers
+                      (PP-LOC-CLR on
+				  (NP (NP questions)
+				      (PP of
+					  (NP (NP the usability)
+					      (PP of
+						  (NP (NP (NP certain batches)
+							  (PP of
+							      (NP EPO material)))
+						      (VP valued
+							  (NP *)
+							  (PP-CLR at
+								  (NP (QP $ 13.6 million) *U*)))))))))))))
+     .))
+( (S (ADVP-TMP Earlier
+	       (NP this week))
+     ,
+     (NP-SBJ Genetics Institute)
+     (VP reported
+         (NP (NP wider losses)
+             (PP-LOC in
+		     (NP (NP its fiscal third quarter)
+			 (VP ended
+			     (NP-TMP-CLR Aug. 31))))))
+     .))
+( (S (NP-SBJ Price Co.)
+     (VP jumped
+         (NP-EXT 2 1)
+         (PP-DIR to
+		 (NP 44))
+         (PP on
+             (NP 1.7 million shares)))
+     .))
+( (S (NP-SBJ (NP The wholesaler)
+             (PP of
+                 (NP cash and carry merchandise)))
+     (VP reported
+         (NP (NP fiscal fourthquarter earnings)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP were
+                          (ADJP-PRD (ADJP better)
+                                    (SBAR than
+					  (S (NP-SBJ analysts)
+					     (VP had
+						 (VP expected
+						     (S *?*))))))))))) 
+     .))
+( (S (NP-SBJ-1 The company)
+     (ADVP also)
+     (VP pleased
+         (NP analysts)
+         (PP-MNR by
+		 (S-NOM (NP-SBJ *-1)
+			(VP announcing
+			    (NP (NP four new store openings)
+				(VP planned
+				    (NP *)
+				    (PP-CLR for
+					    (NP (NP fiscal 1990)
+						,
+						(VP ending
+						    (NP-TMP-CLR next August))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP will
+         (VP bring
+             (NP (NP the total)
+                 (PP for
+                     (NP the year)))
+             (PP-DIR to
+		     (NP 10))
+             ,
+             (PP-DIR from
+		     (NP five)
+		     (PP-TMP during
+			     (NP fiscal 1989)))))
+     .))
+( (S ``
+     (NP-TMP Every year)
+     (NP-SBJ we)
+     (VP 've
+	 (VP been
+	     (VP waiting
+		 (PP-CLR for
+			 (NP (NP stepped-up expansion)
+			     (PP from
+				 (NP the company)))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ The news)
+		 (VP could n't
+		     (VP have
+			 (VP been
+			     (ADJP-PRD better)))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Linda Kristiansen)
+		,
+		(NP a Dean Witter Reynolds analyst)
+		,)
+	(PP-LOC in
+		(NP an interview))
+	.))
+( (S (NP-SBJ (NP Intermec)
+             ,
+             (NP (NP a maker)
+                 (PP of
+                     (NP optical character-recognition devices)))
+             ,)
+     (ADVP also)
+     (VP reported
+         (NP higher third-quarter earnings))
+     .))
+( (S (NP-SBJ Its shares)
+     (VP added
+         (NP 3)
+         (PP-CLR to
+		 (NP 30 3)))
+     .))
+( (S But
+     (NP-SBJ favorable earnings)
+     (VP was n't
+         (NP-PRD a guarantee
+                 (SBAR that
+                       (S (NP-SBJ (NP a stock 's)
+                                  price)
+                          (VP would
+                              (VP improve
+				  (NP-TMP yesterday)))))))
+     .))
+( (S (NP-SBJ MCI Communications)
+     (VP tumbled
+         (NP-EXT 2 5)
+         (PP-DIR to
+		 (NP 42 3))
+         (PP on
+             (NP 4.7 million shares))
+	 (SBAR-ADV (ADVP even)
+		   though
+		   (S (NP-SBJ the telecommunications giant)
+		      (VP reported
+			  (NP (NP a
+				  (ADJP 63 %)
+				  increase) 
+			      (PP-LOC in
+				      (NP third-quarter profit)))))))
+     .))
+( (S (NP-SBJ-1 CoreStates Financial)
+     (VP slipped
+         (NP-EXT 3)
+         (PP-DIR to
+		 (NP 43 1))
+	 (PP-LOC in
+		 (NP active trading)))
+     (PP-TMP after
+	     (S-NOM (NP-SBJ *-1)
+		    (VP reporting
+			(SBAR that
+			      (S (NP-SBJ third-quarter earnings)
+				 (VP improved
+				     (PP-DIR to
+					     (NP (NP $ 1.27 *U*)
+						 (NP-ADV a share)))
+				     (PP-DIR from
+					     (NP (NP $ 1.15 *U*)
+						 (NP-ADV a share))
+					     (ADVP-TMP (NP a year)
+						       earlier))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ (NP the bank holding company 's)
+             loan-loss reserves)
+     (VP rose
+         (PP-DIR to
+		 (NP (QP $ 177.3 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 154 million) *U*)
+		 (ADVP-TMP (NP a year)
+			   earlier)))
+     .))
+( (S (NP-SBJ A&W Brands)
+     (VP lost
+         (NP-EXT 1)
+	 (PP-DIR to
+		 (NP 27)))
+     .))
+( (S But
+     (NP-SBJ its thirdquarter earnings)
+     (VP rose
+         (PP-DIR to
+		 (NP (NP 26 cents)
+		     (NP-ADV a share)))
+         (PP-DIR from
+		 (NP (NP 18 cents)
+		     (NP-ADV a share))
+		 (NP-TMP last year)))
+     .))
+( (S (NP-SBJ Capital Associates)
+     (VP dropped
+         (NP-EXT 1)
+         (PP-DIR to
+		 (NP 5 3)))
+     .))
+( (S (NP-SBJ (NP The company)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP leases
+                          (NP technology equipment))))
+             ,)
+     (VP reported
+         (NP (NP (ADJP substantially lower)
+		 net income)
+	     (PP for
+                 (NP (NP its fiscal first quarter)
+                     ,
+                     (SBAR (WHNP-2 which)
+                           (S (NP-SBJ *T*-2)
+                              (VP ended
+				  (NP-TMP-CLR Aug. 31))))))))
+     .))

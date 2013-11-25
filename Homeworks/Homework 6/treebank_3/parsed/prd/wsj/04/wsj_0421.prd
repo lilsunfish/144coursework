@@ -1,0 +1,63 @@
+
+
+( (S (NP-SBJ-1 USG Corp.)
+     (VP (VP agreed
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP sell
+			(NP (NP its headquarters building)
+			    (ADVP-LOC here))
+			(PP-DTV to
+				(NP (NP Manufacturers Life Insurance Co.)
+				    (PP of
+					(NP Toronto))))))))
+	 , and
+	 (VP will
+	     (VP lease
+		 (NP the 19-story facility)
+		 (SBAR-TMP until
+			   (S (NP-SBJ it)
+			      (VP moves
+				  (PP-DIR to
+					  (NP a new quarters))
+				  (PP-TMP in
+					  (NP 1992))))))))
+     .))
+( (S (NP-SBJ The building-materials concern)
+     (VP did n't
+         (VP disclose
+             (NP (NP terms)
+                 (PP of
+                     (NP (NP the sale)
+                         ,
+                         (SBAR (WHNP-1 which)
+                               (S (NP-SBJ *T*-1)
+                                  (VP will
+                                      (VP close
+					  (PP-TMP in
+						  (NP (NP the first quarter)
+						      (PP of
+							  (NP next year)))))))))))))
+     .))
+((SINV (S-TPC-1 (NP-SBJ-2 (NP Proceeds)
+			  (PP from
+			      (NP (NP the planned sale)
+				  (PP of
+				      (NP the 250,000-square-foot building)))))
+		``
+		(VP will
+		    (VP help
+			(S (NP-SBJ *-2)
+			   (VP reduce
+			       (NP (NP the debt)
+				   (VP incurred
+				       (NP *)
+				       (PP as
+					   (NP (NP a result)
+					       (PP of
+						   (NP our July 1988 recapitalization)))))))))))
+       , ''
+       (VP said
+	   (S *T*-1))
+       (NP-SBJ a USG official)
+       .))

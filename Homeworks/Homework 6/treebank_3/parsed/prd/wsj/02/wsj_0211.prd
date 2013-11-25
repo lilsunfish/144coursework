@@ -1,0 +1,43 @@
+
+
+( (S (NP-SBJ ITEL CORP.)
+     (VP reported
+         (NP (NP third-quarter earnings)
+             ,
+             (SBAR (WHNP-48 which)
+                   (S (NP-SBJ-2 *T*-48)
+                      (VP were
+                          (VP (ADVP-MNR mistakenly)
+                              shown
+			      (PP-LOC in
+				      (NP (NP the Quarterly Earnings Surprises table)
+					  (PP-LOC in
+						  (NP (NP-TMP yesterday 's)
+						      edition))))
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP be
+					 (ADJP-PRD (ADJP lower)
+						   (PP than
+						       (NP (NP the average)
+							   (PP of
+							       (NP (NP analysts ')
+								   estimates))))))))))))))
+     .))
+( (S (PP On
+         (NP a pretax basis))
+     ,
+     (NP-SBJ (NP (NP Itel 's)
+		 third-quarter earnings)
+             (PP of
+                 (NP (NP 30 cents)
+                     (NP-ADV a share))))
+     (VP were
+         (ADVP actually)
+         (ADJP-PRD (ADJP (NP 7.14 %)
+			 higher)
+		   (PP than
+		       (NP (NP the average)
+			   (PP of
+			       (NP estimates))))))
+     .))

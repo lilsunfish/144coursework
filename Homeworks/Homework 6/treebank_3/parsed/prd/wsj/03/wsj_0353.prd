@@ -1,0 +1,169 @@
+
+
+( (S (NP-SBJ-1 (NP A governing body)
+	       (PP of
+		   (NP both
+		       (NP the Financial Accounting Standards Board)
+		       and
+		       (NP the Governmental Accounting Standards Board))))
+     (VP voted
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP give
+                    (NP the FASB)
+		    (NP (NP jurisdiction)
+			(PP over
+			    (NP (NP accounting standards)
+				(PP for
+				    (NP certain government-owned entities)))))))))
+     .))
+( (S (NP-SBJ The Financial Accounting Foundation)
+     (VP voted
+         (ADVP-CLR 12-2)
+         (SBAR that
+               (S (NP-SBJ FASB accounting rules)
+                  (VP supercede
+                      (NP GASB rules)
+                      (PP in
+                          (NP (NP regard)
+                              (PP to
+                                  (NP (NP (NP utilities)
+                                          ,
+                                          (NP hospitals)
+                                          , 
+					  and
+                                          (NP colleges and universities))
+                                      (VP owned
+                                          (NP *)
+                                          (PP by
+                                              (NP-LGS the government)))))))))))
+     .))
+( (S (NP-SBJ GASB rules)
+     (ADVP-TMP still)
+     (VP apply
+         (PP-CLR for
+		 (NP other government units)))
+     .))
+( (S (SBAR-TMP After
+	       (S (NP-SBJ-1 the GASB)
+		  (VP was
+		      (VP founded
+			  (NP *-1)
+			  (PP-TMP (PP in
+				      (NP 1984))
+				  ,
+				  (PP (NP 11 years)
+				      after
+				      (NP the FASB))
+				  ,)))))
+     (NP-SBJ-2 the government-owned entities)
+     (VP were
+         (VP supposed
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP follow
+                        (NP FASB rules)
+                        (SBAR-ADV unless
+				  (S (NP-SBJ the GASB)
+				     (VP superceded
+					 (NP them)))))))))
+     .))
+( (S (NP-SBJ The GASB)
+     (VP had
+	 (VP told
+	     (NP governments)
+	     (SBAR 0
+		   (S (NP-SBJ-1 they)
+		      (VP did n't
+			  (VP have
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP follow
+					 (NP (NP FASB rules)
+					     (PP on
+						 (NP depreciation))))))))))
+	     ,
+	     (S-ADV (NP-SBJ *) 
+		    (VP making
+			(S (NP-SBJ (NP it)
+				   (SBAR *EXP*-2))
+			   (ADJP-PRD difficult)
+			   (SBAR-2 for
+				   (S (NP-SBJ bond-rating agencies)
+				      (VP to
+					  (VP compare
+					      (NP (NP (UCP private and state-owned) schools)
+						  ,
+						  (SBAR (WHNP-158 which)
+							(S (NP-SBJ *T*-158)
+							   (VP compete
+							       (PP-LOC in
+								       (NP the public bond market)))))))))))))))
+     .))
+( (S (NP-SBJ The foundation vote)
+     (VP (VP is
+             (ADJP-PRD effective
+		       (PP for
+			   (NP (NP the affected government entities)
+			       (PP with
+				   (NP (NP fiscal years)
+				       (SBAR (WHNP-159 that)
+					     (S (NP-SBJ *T*-159)
+						(VP begin
+						    (S (NP-SBJ *)
+						       (VP starting
+							   (NP-TMP next Jan. 1))))))))))))
+         and
+         (VP makes
+             (S (NP-SBJ (NP the financial results)
+			(PP of
+			    (NP the hospitals , colleges and schools)))
+		(ADJP-PRD easier
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP compare
+				     (PP-CLR with
+					     (NP for-profit businesses)))))))))
+     .))
+( (S But
+     (NP-SBJ it)
+     (VP may
+	 (VP lead
+	     (PP-CLR to
+		     (NP (NP separate financial reports)
+			 (VP based
+			     (NP *)
+			     (PP-CLR on
+				     (NP (NP different rules)
+					 (PP for
+					     (NP (NP (NP the government entities)
+						     (PP under
+							 (NP FASB rules)))
+						 and
+						 (NP those
+						     (RRC (ADVP-TMP still)
+							  (PP-LOC under
+								  (NP GASB rules)))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (S (NP-SBJ (NP Managers)
+			 (PP of
+			     (NP government entities)))
+		 (VP are
+		     (ADVP-TMP often)
+		     (ADJP-PRD more concerned
+			       (PP with
+				   (NP the (ADJP political and legal) structure)))))
+	      and
+	      (S (NP-SBJ (NP financial-report comparability)
+			 (PP with
+			     (NP profit-making businesses)))
+		 (VP is n't
+		     (ADVP always)
+		     (NP-PRD (ADJP as high) a priority))))
+     ,
+     ''
+     (NP-SBJ a foundation spokesman)
+     (VP said
+	 (S *T*-1))
+     .))

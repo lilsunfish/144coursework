@@ -1,0 +1,159 @@
+
+
+( (S (NP-SBJ The Sept. 25 `` Tracking Travel '' column)
+     (VP advises
+         (NP-2 readers)
+         (S (NP-SBJ-3 *-2)
+            (VP to
+		``
+		(VP Charge
+		    (PP-MNR With
+			    (NP Caution))
+		    (SBAR-TMP (WHADVP-1 When)
+			      (S (NP-SBJ *-3)
+				 (VP Traveling
+				     (ADVP-LOC Abroad)
+				     (ADVP-TMP *T*-1)))))
+		''))
+         (SBAR-PRP because
+		   (S (NP-SBJ-4 credit-card companies)
+		      (VP charge
+			  (NP 1 %)
+			  (S-PRP-CLR (NP-SBJ *-4)
+				     (VP to
+					 (VP convert
+					     (NP foreign-currency expenditures)
+					     (PP-CLR into
+						     (NP dollars)))))))))
+     .))
+( (S (PP In
+         (NP fact))
+     ,
+     (NP-SBJ this)
+     (VP is
+         (NP-PRD (NP the best bargain)
+		 (ADJP available
+		       (PP to
+			   (NP (NP someone)
+			       (VP traveling
+				   (ADVP-LOC abroad)))))))
+     .))
+( (S (PP In
+         (NP (NP contrast)
+             (PP to
+                 (NP (NP the (ADJP 1 %) conversion fee)
+                     (VP charged
+                         (NP *)
+                         (PP by
+                             (NP-LGS Visa)))))))
+     ,
+     (NP-SBJ-1 foreign-currency dealers)
+     (ADVP-TMP routinely)
+     (VP charge
+         (NP (QP 7 % or more) *U*)
+         (S-PRP-CLR (NP-SBJ *-1)
+		    (VP to
+			(VP convert
+			    (NP U.S. dollars)
+			    (PP-CLR into
+				    (NP foreign currency))))))
+     .))
+( (S (PP On
+         (NP (NP top)
+             (PP of
+                 (NP this))))
+     ,
+     (NP-SBJ (NP the traveler)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP converts
+                          (NP his dollars)
+                          (PP-CLR into
+				  (NP foreign currency))
+                          (SBAR-TMP before
+				    (S (NP-SBJ the trip)
+				       (VP starts)))))))
+     (VP will
+         (VP lose
+             (NP interest)
+             (PP-TMP from
+		     (NP (NP the day)
+			 (PP of
+			     (NP conversion))))))
+     .))
+( (S (PP-TMP At
+	     (NP (NP the end)
+		 (PP of
+		     (NP the trip))))
+     ,
+     (NP-SBJ-2 any unspent foreign exchange)
+     (VP will
+	 (VP have
+	     (S (NP-SBJ-1 *-2)
+		(VP to
+		    (VP be
+			(VP converted
+			    (NP *-1)
+			    (ADVP-CLR back
+				      (PP into
+					  (NP dollars)))
+			    ,
+			    (PP with
+				(NP (NP another commission)
+				    (ADJP due)))))))))
+     .))
+( (S (NP-SBJ The card holder)
+     (VP will
+         (VP pay
+             (NP the modest (ADJP 1 %) fee)
+             (PP-CLR only on 
+		     (NP (NP the amounts)
+			 (VP (ADVP actually)
+			     needed
+			     (NP *))))))
+     .))
+( (S (ADVP Typically)
+     ,
+     (NP-SBJ he)
+     (VP (VP will
+	     (VP be
+		 (VP billed
+		     (PP (NP-ADV (QP only several) weeks)
+			 after
+			 (NP the expenditure)))))
+	 , and
+	 (VP (ADVP-TMP then)
+	     has
+	     (NP (NP another couple)
+		 (PP of
+		     (NP weeks)))
+	     (SBAR-TMP before
+		       (S (NP-SBJ-1 he)
+			  (VP has
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP pay
+					 (NP the bill)))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the meantime))
+     ,
+     (NP-SBJ-1 the money)
+     (VP can
+         (VP continue
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP earn
+                        (NP (NP interest)
+			    (NP *ICH*-2))
+			(PP-BNF for
+				(NP the card holder))
+			(PRN --
+			     (ADVP-TMP often)
+			     (NP-2 (NP (QP more than 1) %)
+				   (PP-TMP during
+					   (NP (NP that `` float '' period)
+					       (ADVP alone))))))))))
+     .))
+( (NP Daniel Brigham))
+( (NP Visa U.S.A. Inc .))

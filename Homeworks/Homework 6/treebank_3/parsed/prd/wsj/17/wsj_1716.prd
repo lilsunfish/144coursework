@@ -1,0 +1,39 @@
+
+
+( (S (NP-SBJ (NP Anglo American Corp.)
+             (PP of
+                 (NP South Africa Ltd.)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the third-quarter combined profit)
+                          (PP of
+                              (NP its six gold mines)))
+                  (VP dropped
+                      (NP-EXT 8.5 %)
+                      (PP from
+			  (NP the previous quarter))))))
+     .))
+( (S (NP-SBJ Total net income)
+     (VP fell
+         (PP-DIR to
+		 (NP (NP (QP 471.6 million) rand)
+		     (PRN -LRB-
+			  (NP (QP $ 178.0 million) *U*)
+			  -RRB-)))
+         (PP-DIR from
+		 (NP (QP 515.4 million) rand))
+	 (PP-TMP in
+		 (NP the June quarter)))
+     .))
+( (S (NP-SBJ (NP Total gold production)
+             (PP by
+                 (NP all six mines)))
+     (VP rose
+         (NP-EXT 4 %)
+         (PP-DIR to
+		 (NP 63,971 kilograms))
+         (PP-DIR from
+		 (NP (NP 61,493 kilograms)
+		     (PP-TMP in
+			     (NP the previous quarter)))))
+     .))

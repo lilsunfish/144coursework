@@ -1,0 +1,257 @@
+
+
+( (S (NP-SBJ-1 (NP Xerox Corp. 's)
+	       third-quarter net income)
+     (VP grew
+         (NP-EXT 6.2 %)
+	 (PP on
+	     (NP (ADJP (NP 7.3 %) higher)
+		 revenue))
+         ,
+         (S-ADV (NP-SBJ *-1)
+		(VP earning
+		    (NP mixed reviews)
+		    (PP from
+			(NP Wall Street analysts)))))
+     .))
+( (S (NP-SBJ (NP Quarter net)
+             (PP for
+                 (NP the business-machines and financial-services company)))
+     (VP rose
+         (PP-DIR to
+		 (NP (NP (QP $ 155 million) *U*)
+		     ,
+		     or
+		     (NP (NP $ 1.41 *U*)
+			 (NP-ADV a share))))
+         ,
+         (PP-DIR from
+		 (NP (NP (QP $ 146 million) *U*)
+		     , 
+		     or
+		     (NP (NP $ 1.37 *U*)
+			 (NP-ADV a share))))
+         ,
+         (PP-TMP in
+		 (NP the year-earlier period)))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (PP-DIR to
+		 (NP (QP $ 4.45 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 4.15 billion) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Xerox)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 62.75 *U*)
+		     (NP-ADV a share)))
+	 ,
+	 (ADVP up
+	       (NP $ 1 *U*)))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ (NP Sales growth and profit)
+			 (PP-LOC in
+				 (NP (NP business products and systems)
+				     (PRN --
+					  (NP (NP Xerox 's)
+					      main business)
+					  --))))
+		 (VP were 
+		     ``
+		     (ADJP-PRD disappointing)))
+	, 
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP B. Alex Henderson)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP follows
+			     (NP the company)
+			     (PP for
+				 (NP Prudential-Bache Securities Inc))))))
+	.))
+( (S (S-TPC-1 (S (NP-SBJ (NP Sales)
+			 (PP of
+			     (NP (NP Xerox copiers)
+				 and
+				 (NP other office products))))
+		 (VP grew
+		     (NP-EXT 1.6 %)))
+	      ; 
+	      ``
+	      (S (NP-SBJ we)
+		 (VP expected
+		     (NP (NP growth)
+			 (PP of
+			     (NP (QP 6 % to 7 %) *U*))))))
+     , 
+     ''
+     (NP-SBJ Mr. Henderson)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ Operating-profit margins)
+	      (VP slipped
+		  (NP-EXT (QP almost 18) %)
+		  ,
+		  (PP-DIR to
+			  (NP (NP 4.3 %)
+			      (PP of
+				  (NP sales))))))
+     ,
+     (NP-SBJ the analyst)
+     (VP noted
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (SINV (S-TPC-1 (ADVP Still)
+		 ,
+		 (PP with
+		     (S-NOM (NP-SBJ (NP competitors)
+				    (PP such as
+					(NP Eastman Kodak Co.)))
+			    (VP faltering
+				(PP-LOC in
+					(NP copier sales)))))
+		 ,
+		 (NP-SBJ (NP Xerox 's)
+			 sales increases)
+		 ``
+		 (VP were
+		     (ADJP-PRD encouraging)))
+	, 
+	''
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP Eugene Glazer)
+		(PP of
+		    (NP Dean Witter Reynolds Inc)))
+	.))
+( (S ``
+     (S-TPC-1 (S (NP-SBJ They)
+		 (VP are
+		     (VP holding
+			 (NP their own) 
+			 (PP-LOC in
+				 (NP a weak market)))))
+	      , 
+	      and
+	      (S (NP-SBJ the restructuring)
+		 (VP is
+		     (VP working))))
+     , 
+     ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ (NP David T. Kearns)
+             ,
+             (NP Xerox
+		 (NX (NX chairman)
+		     and
+		     (NX chief executive officer)))
+             ,)
+     (VP cited
+         (NP (NP the restructuring)
+             and
+             (NP `` strong '' cost controls))
+         (PP for
+             (NP (NP the (ADJP 13 %) growth)
+                 (PP-LOC in
+			 (NP (NP profit)
+			     (PP from
+				 (NP business products and systems operations)))))))
+     .))
+( (S (NP-SBJ Mr. Glazer)
+     (VP expects
+         (S (NP-SBJ Xerox)
+            (VP to
+                (VP experience
+                    (NP (NP tough sledding)
+			(PRN , 
+			     (ADVP though)
+			     ,)
+                        (PP-LOC in
+				(NP financial services)))
+		    (PP-PRP because of
+			    (NP (NP rate pressures)
+				and
+				(NP (NP uncertainty)
+				    (VP surrounding
+					(NP (NP tax treatment)
+					    (PP of
+						(NP capital gains)))))))))))
+     .))
+( (S (PP-TMP In
+	     (NP the quarter))
+     ,
+     (NP-SBJ the Crum & Forster insurance unit)
+     (VP reported
+         (NP (NP (NP (QP $ 200 million) *U*)
+		 (PP *ICH*-1))
+             (PP-TMP before
+		     (NP tax))
+             (PP-1 of
+		   (NP (NP capital gains)
+		       (PP from
+			   (NP property and casualty operations))))))
+     .))
+( (S (NP-SBJ The subsidiary)
+     (ADVP also)
+     (VP (VP increased
+             (NP reserves)
+             (PP-MNR by 
+		     (NP (QP $ 140 million) *U*)))
+         ,
+         (ADVP however)
+         ,
+	 and
+         (VP set
+             (ADVP-CLR aside)
+             (NP an additional (QP $ 25 million) *U*)
+             (PP-PRP for
+		     (NP (NP claims)
+			 (VP connected
+			     (NP *)
+			     (PP-CLR with
+				     (NP Hurricane Hugo)))))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ Xerox)
+     (VP earned
+         (NP (NP (NP (QP $ 492 million) *U*)
+                 , 
+		 or
+                 (NP (NP $ 4.55 *U*)
+                     (NP-ADV a share)))
+             ,
+             (ADVP up
+                   (NP 5.8 %)
+		   (PP from
+		       (NP (NP (QP $ 465 million) *U*)
+			   ,
+			   or
+			   (NP (NP $ 4.32 *U*)
+			       (NP-ADV a share)))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 7.6 %)
+         (PP-DIR to
+		 (NP (QP $ 12.97 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 12.05 billion) *U*)))
+     .))

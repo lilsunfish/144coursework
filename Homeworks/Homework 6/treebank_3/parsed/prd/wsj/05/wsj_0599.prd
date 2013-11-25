@@ -1,0 +1,107 @@
+
+
+( (S (NP-SBJ-1 The following issues)
+     (VP were
+         (ADVP-TMP recently)
+         (VP filed
+	     (NP *-1)
+             (PP-CLR with
+		     (NP the Securities and Exchange Commission))))
+     :))
+( (NP (NP ECI Environmental Inc.)
+      ,
+      (NP (NP initial offering)
+          (PP of
+              (NP (NP (QP 1.1 million) shares)
+                  ,
+                  (SBAR (WHPP-1 of
+				(WHNP which))
+                        (S (S (NP-SBJ ECI)
+                              (VP will
+                                  (VP sell
+                                      (NP (NP 990,000)
+					  (PP *T*-1)))))
+                           and
+                           (S (NP-SBJ co-founders)
+                              (VP will
+                                  (VP sell
+                                      (NP (NP 110,000 shares)
+					  (PP *T*-1))))))))))
+      ,
+      (PP via
+          (NP Oppenheimer & Co))
+      .))
+( (NP (NP Fastenal Co.)
+      ,
+      (NP (NP proposed offering)
+          (PP of
+              (NP 400,000 common shares))
+          (PP by
+              (NP holders)))
+      ,
+      (PP via
+          (NP (NP Robert W. Baird & Co.)
+              and
+              (NP William Blair & Co)))
+      .))
+( (NP (NP First Capital Holdings Corp.)
+      ,
+      (NP (NP proposed offering)
+          (PP of
+              (NP (NP (QP $ 275 million)
+		      *U*)
+                  (PP of
+                      (NP floating rate senior notes)))))
+      ,
+      (PP via
+          (NP Shearson Lehman Hutton Inc))
+      .))
+( (NP (NP Industrial Funding Corp.)
+      ,
+      (NP (NP initial offering)
+          (PP of
+              (NP common stock)))
+      ,
+      (PP via
+          (NP (NP Alex . Brown & Sons Inc.)
+              and
+              (NP Piper Jaffray & Hopwood)))
+      .))
+( (NP (NP Parametric Technology Corp.)
+      ,
+      (NP (NP initial offering)
+          (PP of
+              (NP (NP (QP 1.7 million) common shares)
+                  ,
+                  (SBAR (WHPP-2 of
+				(WHNP which))
+                        (S (S (NP-SBJ-1 (NP 1,365,226 shares)
+					(PP *T*-2))
+                              (VP will
+				  (VP be
+				      (VP sold
+					  (NP *-1)
+					  (PP-3 by
+						(NP-LGS the company))))))
+                           and
+                           (S (NP-SBJ=1 (NP 334,774 shares)
+					(PP *T*-2))
+                              (PP=3 by
+				    (NP-LGS holders))))))))
+      ,
+      (PP via
+          (NP (NP Alex Brown & Sons)
+              ,
+              (NP Hambrecht & Quist)
+              and
+              (NP Wessels , Arnold & Henderson)))
+      .))
+( (NP (NP Union Camp Corp.)
+      ,
+      (NP (NP shelf offering)
+          (PP of
+              (NP (NP (QP up to $ 250 million)
+		      *U*)
+                  (PP of
+                      (NP debt securities)))))
+      .))

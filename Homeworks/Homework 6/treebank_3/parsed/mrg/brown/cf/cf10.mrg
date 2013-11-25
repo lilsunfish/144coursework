@@ -1,0 +1,2430 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( (S 
+    (NP-SBJ (NNP Franklin) (NNP D.) (NNP Lee) )
+    (VP (VBD proved) 
+      (NP-PRD 
+        (NP (DT a) (NN man) )
+        (PP (IN of) 
+          (NP (JJ prompt) (NN action) )))
+      (SBAR-TMP 
+        (WHADVP (WRB when) )
+        (S 
+          (NP-SBJ-1 (NNP Mrs.) (NNP Claire) (NNP Shaefer) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ-2 (-NONE- *-1) )
+            (VP (VBN accompanied) 
+              (NP (-NONE- *-2) )
+              (PP (IN by) 
+                (NP-LGS (DT a) (NN friend) ))))
+          (, ,) 
+          (VP (VBD visited) 
+            (NP (PRP him) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (NNP Bakersfield) )
+                (, ,) 
+                (NP (NNP California) )))
+            (, ,) 
+            (ADVP-TMP 
+              (NP (JJ several) (NNS months) )
+              (RB ago) )
+            (PP (IN as) 
+              (NP (DT a) (JJ prospective) (NN patient) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (`` ``) (NNP Doctor) ('' '') (NNP Lee) )
+    (VP (VBD asked) 
+      (S 
+        (NP-SBJ (PRP her) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB lie) 
+              (ADVP (RP down) )
+              (PP-LOC (IN on) 
+                (NP (DT a) (NN bed) )))
+            (CC and) 
+            (VP (VB remove) 
+              (NP (PRP$ her) (NNS shoes) ))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Then) )
+    (, ,) 
+    (PP (IN by) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG squeezing) 
+          (NP (PRP$ her) (NN foot) )
+          (NP-TMP (CD three) (NNS times) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP he) )
+    (VP (VBD came) 
+      (PRT (RP up) )
+      (PRN (: --) 
+        (INTJ (RB presto) )
+        (: --) )
+      (PP (IN with) 
+        (NP (DT a) (JJ different) (NN diagnosis) ))
+      (PP (IN with) 
+        (NP (DT each) (NN squeeze) )))
+    (. .) ))
+( (S-1 
+    (NP-SBJ (PRP She) )
+    (VP (VBD had) 
+      (PRN (: --) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD informed) 
+            (NP (PRP her) )
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-1) ))))
+        (: --) )
+      (NP 
+        (NP (NN kidney) (NN trouble) )
+        (, ,) 
+        (NP (NN liver) (NN trouble) )
+        (, ,) 
+        (CC and)
+        (NP (DT a) (JJ severe) (NN female) (NN disorder) )))
+    (. .) ))
+( (PRN 
+    (-LRB- -LRB-)
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBD explained) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (MD could) 
+              (VP (VB diagnose) 
+                (NP (DT these) (NNS ailments) )
+                (PP (IN from) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG squeezing) 
+                      (NP (PRP$ her) (NN foot) ))))
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ-1 
+                      (NP (DT all) )
+                      (PP (IN of) 
+                        (NP (DT the) (JJ nervous) (NN system) )))
+                    (VP (VBD was) 
+                      (VP (VBN connected) 
+                        (NP (-NONE- *-1) )
+                        (PP (TO to) 
+                          (NP (PRP it) )))))))))))
+      (. .) )
+    (-RRB- -RRB-) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD knew) 
+      (NP 
+        (NP 
+          (NP (RB just) (DT the) (NN thing) )
+          (PP (IN for) 
+            (NP (PRP her) )))
+        (: --) 
+        (NP 
+          (NP (DT a) (NN treatment) )
+          (PP (IN from) 
+            (NP (PRP$ his) (`` ``) (JJ cosmic) (NN light) (NN ozone) (NN generator) ('' '') (NN machine) )))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN As) 
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD applied) 
+          (NP 
+            (NP (DT the) (NN applicator) )
+            (VP (VBG extending) 
+              (PP 
+                (PP (IN from) 
+                  (NP 
+                    (NP (DT the) (NN machine) )
+                    (: --) 
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (VBD consisted) 
+                          (PP (IN of) 
+                            (NP 
+                              (NP (CD seven) 
+                                (ADJP (RB differently) (VBN colored) )
+                                (NN neon) (NNS tubes) )
+                              (VP (VBN superimposed) 
+                                (NP (-NONE- *) )
+                                (PP-LOC (IN on) 
+                                  (NP (DT a) (JJ rectangular) (NN base) ))))))))
+                    (: --) ))
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) 
+                      (ADJP (RB supposedly) (JJ diseased) )
+                      (NNS portions) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Mrs.) (NNP Shaefer) (POS 's) )
+                        (NN body) ))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Lee) )
+    (VP (VBD kept) 
+      (PRT (RP up) )
+      (NP 
+        (NP (DT a) (JJ steady) (NN stream) )
+        (PP (IN of) 
+          (NP (JJ pseudo-scientific) (NN mumbo-jumbo) ))))
+    (. .) ))
+( (S 
+    (S-TPC-1 
+      (INTJ (RB Yes) )
+      (, ,) 
+      (NP-SBJ 
+        (NP (DT the) (NN ozone) )
+        (PP (IN from) 
+          (NP (PRP$ his) (NN machine) )))
+      (VP (MD would) 
+        (VP (VB cure) 
+          (NP (RB practically) (NN everything) ))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD assured) 
+      (NP (PRP her) )
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))
+( (SQ-1 (VBD Did) 
+    (NP-SBJ (PRP she) )
+    (VP (VB know) 
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD asked) 
+            (SQ (-NONE- *T*-1) )))
+        (, ,) )
+      (SBAR 
+        (WHADVP-2 (WRB why) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NNS colors) )
+            (PP (IN of) 
+              (NP (DT the) (NNS tubes) )))
+          (VP (VBD were) 
+            (ADJP-PRD (JJ important) 
+              (PP (TO to) 
+                (NP 
+                  (NP (NNS people) (POS 's) )
+                  (NN health) )))
+            (ADVP-PRP (-NONE- *T*-2) )))))
+    (. ?) (. ?) ))
+( (S-1 
+    (NP-SBJ (DT The) (JJ human) (NN body) )
+    (PRN (: --) 
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD pointed) 
+          (PRT (RP out) )
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))
+          (, ,) 
+          (PP (IN for) 
+            (NP (NN example) ))))
+      (: --) )
+    (VP (VBD required) 
+      (NP 
+        (NP (CD 33) (NNS units) )
+        (PP (IN of) 
+          (NP (JJ blue) (NN light) ))))
+    (. .) ))
+( (S-1 
+    (PP-PRP (IN For) 
+      (NP (DT that) (NN reason) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD informed) 
+          (NP (PRP her) )
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (DT the) (NNP Lord) )
+    (VP (VBD made) 
+      (S 
+        (NP-SBJ (DT the) (NN sky) )
+        (ADJP-PRD (JJ blue) )))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG Continuing) 
+        (ADVP-MNR (RB glibly) )
+        (PP (IN in) 
+          (NP (DT this) (NN vein) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP he) )
+    (VP (VBD paused) 
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comfort) 
+            (NP (PRP her) )
+            (: :) (`` ``) 
+            (S-IMP 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBP Do) (RB n't) 
+                (S 
+                  (NP-SBJ (PRP you) )
+                  (VP (VB worry) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN machine) )
+    (VP (MD will) 
+      (VP (VB cure) 
+        (NP (PRP$ your) (JJ cancer-ridden) (NN body) )))
+    ('' '') (. .) ))
+( (S 
+    (NP-TPC-1 (`` ``) (NN Cancer) ('' '') (. !) (. !) )
+    (NP-SBJ (NNP Mrs.) (NNP Shaefer) )
+    (ADVP (RB practically) )
+    (VP (VBD shrieked) 
+      (NP (-NONE- *T*-1) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP You) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB tell) 
+        (NP (PRP me) )
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP I) )
+            (VP (VBD had) 
+              (NP (NN cancer) ))))))
+    ('' '') (. .) ))
+( (S (`` ``) 
+    (NP-SBJ (PRP You) )
+    (VP (VBP have) 
+      (NP (PRP it) )
+      (, ,) 
+      (ADVP (DT all) (NN right) ))
+    (. .) ))
+( (S (CC But) 
+    (ADVP 
+      (ADVP (RB as) (RB long) )
+      (SBAR (IN as) 
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (MD can) 
+            (VP (VB have) 
+              (NP 
+                (NP (NN treatment) )
+                (PP (IN from) 
+                  (NP (PRP$ my) (NN machine) ))))))))
+    (NP-SBJ (PRP you) )
+    (VP (VBP have) 
+      (NP 
+        (NP (NN nothing) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB worry) 
+                (PP (IN about) 
+                  (NP (-NONE- *T*-1) ))))))))
+    (. .) ))
+( (S 
+    (INTJ (WRB Why) )
+    (, ,) 
+    (NP-SBJ-1 (PRP I) )
+    (ADVP-TMP (RB once) )
+    (VP (VBD used) 
+      (NP (DT this) (NN machine) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB cure) 
+            (NP 
+              (NP (DT a) (NN woman) )
+              (PP (IN with) 
+                (NP 
+                  (NP (CD 97) (NNS pounds) )
+                  (PP (IN of) 
+                    (NP (NN cancer) ))
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ her) (NN body) )))))))))
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD urged) 
+      (NP-1 (PRP her) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB buy) 
+            (NP 
+              (NP (CD one) )
+              (PP (IN of) 
+                (NP (PRP$ his) (NNS machines) )))
+            (: --) 
+            (PP (IN for) 
+              (NP ($ $) (CD 300) (-NONE- *U*) ))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (PRP she) )
+        (VP (VBD said) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP she) )
+              (VP (VBD did) (RB n't) 
+                (VP (VB have) 
+                  (NP (DT the) (NN money) )))))
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP she) )
+          (VP (MD could) 
+            (VP (VB come) 
+              (ADVP (RP in) )
+              (PP (IN for) 
+                (NP 
+                  (NP (NN treatment) )
+                  (PP (IN with) 
+                    (NP (PRP$ his) (NN office) (NN model) ))))
+              (SBAR-TMP (IN until) 
+                (S 
+                  (NP-SBJ-2 (PRP she) )
+                  (VP (VBD was) 
+                    (ADJP-PRD (JJ ready) 
+                      (S 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB buy) 
+                            (NP (CD one) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP-TMP (RB then) )
+    (VP (VBD sold) 
+      (NP (PRP$ her) )
+      (NP 
+        (NP 
+          (NP (NNS minerals) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (TO to) 
+                (VP (VB cure) 
+                  (NP (PRP$ her) (NN kidney) (NN ailment) ))))))
+        (, ,) 
+        (NP 
+          (NP (DT a) (NN can) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN sage) )
+              (`` ``) 
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-2) )
+                  (VP (TO to) 
+                    (VP (VB make) 
+                      (S 
+                        (NP-SBJ (PRP her) )
+                        (VP (VB look) 
+                          (PP (IN like) 
+                            (NP (DT a) (NN girl) ))
+                          (ADVP (RB again) )))))))
+              ('' '') )))
+        (, ,) 
+        (CC and)
+        (NP 
+          (NP (DT an) (NN application) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJ plain) (NN mud) )
+              (SBAR 
+                (WHNP-3 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-3) )
+                  (VP (TO to) 
+                    (VP (VB take) 
+                      (NP (PRP$ her) (NNS wrinkles) )
+                      (ADVP (RB away) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Lee) )
+    (VP (VBD renewed) 
+      (NP 
+        (NP (PRP$ his) (NN pressure) 
+          (S (-NONE- *ICH*-1) ))
+        (PP (IN on) 
+          (NP (NNP Mrs.) (NNP Shaefer) ))
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB buy) 
+              (NP (PRP$ his) (NN machine) )))))
+      (SBAR-TMP 
+        (WHADVP-2 (WRB when) )
+        (S 
+          (NP-SBJ (PRP she) )
+          (VP (VBD visited) 
+            (NP (PRP him) )
+            (NP-TMP (DT the) (JJ next) (NN day) )
+            (ADVP-TMP (-NONE- *T*-2) )))))
+    (. .) ))
+( (S 
+    (PP (IN After) 
+      (NP 
+        (NP (DT another) (NN treatment) )
+        (PP (IN with) 
+          (NP (DT the) (NN machine) ))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD told) 
+      (NP (PRP her) )
+      (SBAR (IN that) (`` ``) 
+        (S 
+          (NP-SBJ-1 (PRP$ her) (JJ entire) (NN body) )
+          (VP (VBD was) 
+            (VP (VBN shot) 
+              (NP (-NONE- *-1) )
+              (ADVP (IN through) )
+              (PP (IN with) 
+                (NP (NNS tumors) 
+                  (CC and)
+                  (NNS cysts) )))))
+        ('' '') ))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP-TMP (RB then) )
+    (VP (VBD sold) 
+      (NP (PRP her) )
+      (NP 
+        (NP (DT some) (NNS capsules) )
+        (SBAR 
+          (WHNP-1 (IN that) )
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD asserted) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD would) 
+                    (VP (VB take) 
+                      (NP (NN care) )
+                      (PP (IN of) 
+                        (NP (DT the) (NNS tumors) 
+                          (CC and)
+                          (NNS cysts) ))
+                      (SBAR-TMP (IN until) 
+                        (S 
+                          (NP-SBJ (PRP she) )
+                          (VP (MD could) 
+                            (VP (VB collect) 
+                              (NP 
+                                (NP (DT the) (NN money) )
+                                (PP (IN for) 
+                                  (S-NOM 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (VBG buying) 
+                                      (NP (PRP$ his) (NN machine) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (PRP she) )
+        (VP (VBD submitted) 
+          (PP (TO to) 
+            (NP 
+              (NP (PRP$ his) (NN treatment) )
+              (PP (IN with) 
+                (NP (DT the) (NNS capsules) ))))
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mrs.) (NNP Shaefer) )
+    (VP (VBD felt) 
+      (NP-PRD (JJ intense) (NN pain) ))
+    (. .) ))
+( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG Leaving) 
+        (NP 
+          (NP (NNP Lee) (POS 's) )
+          (NN office) )))
+    (, ,) 
+    (NP-SBJ-2 (NNP Mrs.) (NNP Shaefer) )
+    (VP (VBD hurried) 
+      (PP-DIR (RP over) 
+        (PP (TO to) 
+          (NP 
+            (NP (PRP$ her) (NN family) (NN physician) )
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBD treated) 
+                  (NP (PRP her) )
+                  (PP (IN for) 
+                    (NP (VBN burned) (NN tissue) )))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN For) 
+      (NP (JJ several) (NNS days) ))
+    (, ,) 
+    (NP-SBJ (PRP she) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ ill) )
+      (PP-PRP (IN as) 
+        (NP 
+          (NP (DT a) (NN result) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Lee) (POS 's) )
+              (NN treatment) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (NNP Mrs.) (NNP Shaefer) )
+    (ADVP-TMP (RB never) )
+    (VP (VBD got) 
+      (PP (RP around) 
+        (PP (TO to) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (VBG joining) 
+              (NP 
+                (NP (DT the) 
+                  (QP (CD thousand) (CC or) (RB so) )
+                  (NNS people) )
+                (SBAR 
+                  (WHNP-1 (WP who) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBD paid) 
+                      (NP (NNP Lee) )
+                      (NP (DT some) ($ $) (CD 30,000) (-NONE- *U*) )
+                      (PP (IN for) 
+                        (NP (PRP$ his) (NN ozone) (NNS machines) )))))))))))
+    (. .) ))
+( (S (IN For) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Mrs.) (NNP Shaefer) )
+        (: --) 
+        (SBAR 
+          (WHNP-2 (WP who) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-2) )
+            (VP (VBD had) 
+              (VP (VBN been) 
+                (VP (VBN given) 
+                  (NP (-NONE- *-1) )
+                  (NP 
+                    (NP (DT a) (JJ clean) (NN bill) )
+                    (PP (IN of) 
+                      (NP (NN health) )))
+                  (PP (IN by) 
+                    (NP-LGS (PRP$ her) (JJ own) (NN physician) ))
+                  (PP-TMP (IN at) 
+                    (NP 
+                      (NP (DT the) (NN time) )
+                      (SBAR 
+                        (WHADVP-3 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP she) )
+                          (VP (VBD visited) 
+                            (NP (NNP Lee) )
+                            (ADVP-TMP (-NONE- *T*-3) )))))))))))
+        (: --) )
+      (CC and) 
+      (NP (PRP$ her) (NN friend) ))
+    (VP (VBD were) 
+      (NP-PRD 
+        (NP (NNS agents) )
+        (PP (IN for) 
+          (NP (DT the) (NNP California) (NNP Pure) (NNP Food) 
+            (CC and)
+            (NNP Drug) (NNP Inspection) (NNP Bureau) ))))
+    (. .) ))
+( (S (CC And) 
+    (NP-SBJ (PRP she) )
+    (VP (VBD felt) 
+      (ADJP-PRD (RB amply) (VBN rewarded) 
+        (PP (IN for) 
+          (NP (PRP$ her) (NN suffering) )))
+      (SBAR-TMP 
+        (WHADVP-2 (WRB when) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN evidence) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Lee) (POS 's) )
+                (NN quack) (NNS shenanigans) ))
+            (, ,) 
+            (VP (VBN gathered) 
+              (NP (-NONE- *) )
+              (PP (IN by) 
+                (NP-LGS 
+                  (NP (DT the) (NN tape) (NN recorder) )
+                  (PP-LOC (IN under) 
+                    (NP 
+                      (NP (PRP$ her) (NN friend) (POS 's) )
+                      (NN clothing) ))))))
+          (, ,) 
+          (VP (VBD proved) 
+            (ADJP-PRD (JJ adequate) 
+              (PP (-NONE- *ICH*-1) ))
+            (PP-LOC (IN in) 
+              (NP (NN court) ))
+            (PP-1 (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG convicting) 
+                  (NP (NNP Franklin) (NNP D.) (NNP Lee) ))))
+            (ADVP-TMP (-NONE- *T*-2) )))))
+    (. .) ))
+( (NP 
+    (NP (DT The) (NN charge) )
+    (: :) 
+    (NP 
+      (NP (NN violation) )
+      (PP (IN of) 
+        (NP (DT the) (NNP California) (NNP Medical) (NNP Practices) (NNP Act) ))
+      (PP (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP 
+            (VP (VBG practicing) 
+              (NP (NN medicine) )
+              (PP (IN without) 
+                (NP (DT a) (NN license) )))
+            (CC and) 
+            (VP (VBG selling) 
+              (NP (JJ misbranded) (NNS drugs) ))))))
+    (. .) ))
+( (NP 
+    (NP (DT The) (NN sentence) )
+    (: :) 
+    (NP 
+      (NP 
+        (NP (CD 360) (NNS days) (POS ') )
+        (NN confinement) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NN county) (NN jail) )))
+    (. .) ))
+( (NP 
+    (NP (DT An) (VBN isolated) (NN case) )
+    (PP (IN of) 
+      (NP (NN quackery) ))
+    (. ?) (. ?) ))
+( (PP (IN By) 
+    (NP (DT no) (NN means) )
+    (. .) ))
+( (S 
+    (ADVP (RB Rather) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ typical) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (CD thousands) )
+            (PP (IN of) 
+              (NP (NNS quacks) ))
+            (SBAR 
+              (WHNP-1 (WP who) )
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-1) )
+                (VP (VBP use) 
+                  (NP (JJ phony) (JJ therapeutic) (NNS devices) )
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB fatten) 
+                        (NP (PRP themselves) )
+                        (PP (IN on) 
+                          (NP 
+                            (NP (DT the) (NNS miseries) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP 
+                                  (QP (CD hundreds) (IN of) (CD thousands) ))
+                                (PP (IN of) 
+                                  (NP (NNS Americans) ))))))
+                        (PP (IN by) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *) )
+                            (VP 
+                              (VP (VBG robbing) 
+                                (NP (PRP them) )
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (CD millions) )
+                                    (PP (IN of) 
+                                      (NP (NNS dollars) )))))
+                              (CC and) 
+                              (VP (VBG luring) 
+                                (NP (PRP them) )
+                                (ADVP (RB away) )
+                                (PP (IN from) 
+                                  (NP 
+                                    (NP (JJ legitimate) 
+                                      (, ,)
+                                      (JJ ethical) (JJ medical) (NN treatment) )
+                                    (PP (IN of) 
+                                      (NP (JJ serious) (NNS diseases) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN machine) (NN quack) )
+    (VP (VBZ makes) 
+      (NP (PRP$ his) (NNP Rube) (NNP Goldberg) (NNS devices) )
+      (PP (IN out) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNS odds) 
+              (CC and)
+              (NNS ends) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNS metals) )
+                (, ,) 
+                (NP (NNS wires) )
+                (, ,) 
+                (CC and)
+                (NP (NN radio) (NNS parts) )))))))
+    (. .) ))
+( (S 
+    (PP (IN With) 
+      (NP 
+        (NP (DT these) (NNS gadgets) )
+        (: --) 
+        (ADJP (JJ impressive) 
+          (PP (TO to) 
+            (NP (DT the) (JJ gullible) ))
+          (PP-PRP (RB because) (IN of) 
+            (NP (PRP$ their) 
+              (NX 
+                (NX (VBG flashing) (NN light) (NNS bulbs) )
+                (, ,) 
+                (NX (NNS ticks) )
+                (, ,) 
+                (CC and)
+                (NX (NNS buzzes) )))))))
+    (: --) 
+    (NP-SBJ-1 (PRP he) )
+    (ADVP (RB then) )
+    (VP (VBZ carries) 
+      (PRT (RP out) )
+      (NP (DT a) (JJ vicious) (JJ medical) (NN con) (NN game) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG capitalizing) 
+          (PP (IN on) 
+            (NP 
+              (NP 
+                (NP (NNS people) (POS 's) )
+                (NN respect) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT the) 
+                    (ADJP (JJ electrical) 
+                      (CC and)
+                      (JJ atomic) )
+                    (NNS wonders) )
+                  (PP (IN of) 
+                    (NP (PRP$ our) (JJ scientific) (NN age) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBZ milks) 
+      (NP (DT the) (JJS latest) (JJ scientific) (NNS advances) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (VBG translating) 
+          (NP (PRP them) )
+          (PP (IN into) 
+            (NP (PRP$ his) (JJ own) (JJ special) (NNP Buck) (NNP Rogers) (NN vocabulary) ))
+          (S-PRP 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB huckster) 
+                (NP (PRP$ his) (JJ fake) (NNS machines) )
+                (PP (IN as) 
+                  (NP 
+                    (NP (DT a) (NN cure-all) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (NN everything) )
+                        (PP 
+                          (PP (IN from) 
+                            (NP (NN hay) (NN fever) ))
+                          (PP (TO to) 
+                            (NP 
+                              (NP (JJ sexual) (NN impotence) )
+                              (CC and) 
+                              (NP (NN cancer) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN gadget) (NN faker) )
+    (VP (VBZ operates) (CC or) (VBZ sells) 
+      (NP (PRP$ his) (JJ phony) (NNS machines) )
+      (PP (IN for) 
+        (NP 
+          (NP 
+            (NP ($ $) (CD 5) (-NONE- *U*) )
+            (TO to) 
+            (NP ($ $) (CD 10,000) (-NONE- *U*) ))
+          (: --) 
+          (NP 
+            (NP (NN anything) )
+            (SBAR 
+              (WHNP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (DT the) (NN traffic) )
+                (VP (MD will) 
+                  (VP (VB bear) 
+                    (NP (-NONE- *T*-1) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD may) 
+      (VP (VB call) 
+        (S 
+          (NP-SBJ (PRP himself) )
+          (NP-PRD 
+            (NP (DT a) (NN anaprapath) )
+            (, ,) 
+            (NP (DT a) (NN physiotherapist) )
+            (, ,) 
+            (NP (DT an) (NN electrotherapist) )
+            (, ,) 
+            (NP (DT a) (NN naturopath) )
+            (, ,) 
+            (NP (DT a) (NN sanipractor) )
+            (, ,) 
+            (NP (DT a) (JJ medical) (NN cultist) )
+            (, ,) 
+            (NP (DT a) (NN masseur) )
+            (, ,) 
+            (NP (DT a) (`` ``) (NN doctor) ('' '') )
+            (: --) (CC or) 
+            (SBAR-NOM 
+              (WHNP-1 (WP what) )
+              (SINV 
+                (VP (VBP have) 
+                  (NP (-NONE- *T*-1) ))
+                (NP-SBJ (PRP you) )))))))
+    (. .) ))
+( (SINV 
+    (CONJP (RB Not) (RB only) )
+    (VBP do) 
+    (NP-SBJ (DT these) (NNS quacks) )
+    (VP 
+      (VP (VB assume) 
+        (NP (JJ impressive) (NNS titles) ))
+      (, ,) (CC but) 
+      (VP (VBP represent) 
+        (NP-3 (PRP themselves) )
+        (PP (IN as) 
+          (S-NOM 
+            (NP-SBJ-1 (-NONE- *-3) )
+            (VP (VBG being) 
+              (VP (VBN associated) 
+                (NP (-NONE- *-1) )
+                (PP (IN with) 
+                  (NP 
+                    (NP (JJ various) 
+                      (ADJP (JJ scientific) (CC or) (JJ impressive) )
+                      (NNS foundations) )
+                    (: --) 
+                    (NP 
+                      (NP (NNS foundations) )
+                      (SBAR 
+                        (WHNP-2 (WDT which) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-2) )
+                          (ADVP-TMP (RB often) )
+                          (VP (VBP have) 
+                            (NP 
+                              (NP 
+                                (ADJP (RB little) (JJR more) ))
+                              (PP (IN than) 
+                                (NP (DT a) (NN letterhead) (NN existence) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ medical) (NN device) (NN pirate) )
+      (PP (IN of) 
+        (NP (RB today) )))
+    (, ,) 
+    (PP (IN of) 
+      (NP (NN course) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP 
+            (ADVP (RB far) (RBR more) )
+            (JJ sophisticated) )
+          (NN operator) )
+        (PP (IN than) 
+          (NP 
+            (NP 
+              (NP (PRP$ his) (NN predecessor) )
+              (PP (IN of) 
+                (NP (NN yesteryear) )))
+            (: --) 
+            (NP 
+              (NP (DT the) (JJ gallus-snapping) (NN hawker) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NN snake) (NN oil) )
+                  (CC and) 
+                  (NP (JJ other) (JJ patent) (NNS medicines) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP$ His) (NN plunder) )
+    (VP (VBZ is) 
+      (ADVP (RB therefore) )
+      (ADJP-PRD (RB far) (JJR higher) )
+      (: --) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG running) 
+          (PP (IN into) 
+            (NP 
+              (NP (CD hundreds) (IN of) (CD millions) ))))))
+    (. .) ))
+( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (DT the) (NNP Food) (CC And) (NNP Drug) (NNP Administration) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP (NNP FDA) )
+            (-RRB- -RRB-) ))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (`` ``) (NNP Doctor) ('' '') (NNP Ghadiali) )
+      (, ,) 
+      (NP 
+        (NP (NNP Dr.) (NNP Albert) (NNP Abrams) )
+        (CC and) 
+        (NP (PRP$ his) (NN clique) ))
+      (, ,) 
+      (CC and)
+      (NP (NNP Dr.) (NNP Wilhelm) (NNP Reich) ))
+    (: --) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO to) 
+        (VP (VB name) 
+          (NP (CD three) (JJ notorious) (NN device) (NNS quacks) ))))
+    (: --) 
+    (VP (VBD succeeded) 
+      (, ,)
+      (ADVP (RB respectively) )
+      (, ,) 
+      (PP (IN in) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG distributing) 
+            (NP 
+              (QP (CD 10,000) 
+                (, ,)
+                (CD 5000) 
+                (, ,)
+                
+                (CC and)
+                (CD 2000) )
+              (JJ fake) (NN health) (NNS machines) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Authorities) )
+    (VP (VBP believe) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ many) )
+            (PP (IN of) 
+              (NP (DT the) (NNP Doctor) (NNPS Frauds) ))
+            (VP (VBG using) 
+              (NP (DT these) (JJ false) (NN health) (NNS gadgets) )))
+          (VP (VBP are) 
+            (ADVP-TMP (RB still) )
+            (PP-PRD (IN in) 
+              (NP (NN business) ))))))
+    (. .) ))
+( (S-IMP 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Look) 
+      (PP (IN at) 
+        (NP 
+          (NP (DT the) (NNS sums) )
+          (VP (VBN paid) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (CD two) (NN device) (NN quack) (NNS victims) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Cleveland) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Sarah) (NNP Gross) )
+        (, ,) 
+        (NP (DT a) (NN dress) (NN shop) (NN proprietor) ))
+      (, ,) 
+      (VP (VBD paid) 
+        (NP ($ $) (CD 1020) (-NONE- *U*) )
+        (PP-DTV (TO to) 
+          (NP (DT a) (NN masseur) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NNP Mr.) (NNP A.) )
+        (, ,) 
+        (NP (DT a) (NN laborer) ))
+      (, ,) 
+      (VP (VBD paid) 
+        (NP ($ $) (CD 4200) (-NONE- *U*) )
+        (PP-DTV (TO to) 
+          (NP (DT a) (NN chiropractor) ))
+        (PP (IN for) 
+          (NP 
+            (NP (NN treatment) )
+            (PP (IN with) 
+              (NP 
+                (NP (CD two) (JJ fake) (NN health) (NNS machines) )
+                (: --) 
+                (NP 
+                  (NP (DT the) (`` ``) (NN radioclast) ('' '') )
+                  (CC and) 
+                  (NP (DT the) (`` ``) (NN diagnometer) ('' '') ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Multiply) 
+      (NP (DT these) (NNS figures) )
+      (PP (IN by) 
+        (NP 
+          (NP (DT the) (NNS millions) )
+          (PP (IN of) 
+            (NP (NNS people) ))
+          (VP (VBN known) 
+            (S 
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (VP (VBN conned) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS (JJ medical) (NNS pirates) ))
+                    (ADVP-TMP (RB annually) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP You) )
+    (VP (MD will) 
+      (VP (VB come) 
+        (PRT (RP up) )
+        (PP (IN with) 
+          (NP (DT a) (VBG frightening) (NN total) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ 's) 
+      (SBAR-PRP-PRD 
+        (WHADVP (WRB why) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NNP FDA) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NNP American) (NNP Medical) (NNP Association) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP (NNP AMA) )
+                (-RRB- -RRB-) ))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (DT the) (NNP National) (NNP Better) (NNP Business) (NNP Bureau) )
+              (PRN 
+                (-LRB- -LRB-)
+                (NP (NNP BBB) )
+                (-RRB- -RRB-) )))
+          (VP (VBP have) 
+            (VP (VBN estimated) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN toll) )
+                  (PP (IN of) 
+                    (NP (JJ mechanical) (NN quackery) )))
+                (VP (TO to) 
+                  (VP (VB be) 
+                    (NP-PRD 
+                      (NP (DT a) (JJ substantial) (NN portion) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) 
+                            (QP ($ $) (CD 610) (CD million) )
+                            (-NONE- *U*) 
+                            (QP (CC or) (RB so) ))
+                          (VP (VBN paid) 
+                            (NP (-NONE- *) )
+                            (PP-DTV (TO to) 
+                              (NP (JJ medical) (NNS charlatans) ))
+                            (ADVP-TMP (RB annually) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NNP Postmaster) (NNP General) )
+    (ADVP-TMP (RB recently) )
+    (VP (VBD reported) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NN mail) (NN order) (NNS frauds) )
+            (: --) 
+            (SBAR 
+              (WHPP-1 (IN among) 
+                (WHNP (WDT which) ))
+              (S 
+                (NP-SBJ (JJ fake) (NN therapeutic) (NNS devices) )
+                (VP (VBP figure) 
+                  (ADVP-MNR (RB prominently) )
+                  (PP (-NONE- *T*-1) ))))
+            (: --) )
+          (VP (VBP are) 
+            (PP-PRD (IN at) 
+              (NP 
+                (NP (DT the) (JJS highest) (NN level) )
+                (PP (IN in) 
+                  (NP (NN history) ))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Similarly) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (NNP American) (NNP Cancer) (NNP Society) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP ACS) )
+          (-RRB- -RRB-) ))
+      (, ,) 
+      (NP (DT the) (NNP Arthritis) 
+        (CC and)
+        (NNP Rheumatism) (NNP Foundation) )
+      (, ,) 
+      (CC and)
+      (NP (DT the) (NNP BBB) ))
+    (VP (VBP have) (DT each) 
+      (VP (VBN stated) 
+        (ADVP-TMP (RB lately) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (JJ medical) (NN quackery) )
+            (VP (VBZ is) 
+              (PP-PRD (IN at) 
+                (NP (DT a) (JJ new) (NN high) )))))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NN example) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP BBB) )
+    (VP (VBZ has) 
+      (VP (VBN reported) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (VBD was) 
+              (VP (VBG receiving) 
+                (NP 
+                  (NP 
+                    (NP 
+                      (QP (CD four) (NNS times) (IN as) (JJ many) )
+                      (NNS inquiries) )
+                    (PP (IN about) 
+                      (NP (NN quack) (NNS devices) )))
+                  (CC and) 
+                  (NP 
+                    (QP (CD 10) (NNS times) (IN as) (JJ many) )
+                    (NNS complaints) ))
+                (PP (VBN compared) 
+                  (PP (IN with) 
+                    (ADVP-TMP 
+                      (NP (CD two) (NNS years) )
+                      (RB ago) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNS Authorities) )
+    (VP (VBP hesitate) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB quote) 
+            (NP (JJ exact) (NNS figures) ))))
+      (, ,) 
+      (ADVP (RB however) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG believing) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (DT any) (NN sum) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (PRP they) )
+                    (VP (VBP come) 
+                      (PRT (RP up) )
+                      (PP (IN with) 
+                        (NP (-NONE- *T*-2) ))))))
+              (VP (VBZ is) 
+                (NP-PRD 
+                  (NP (RB only) (DT a) (NN surface) (NN manifestation) )
+                  (: --) 
+                  (VP (VBD turned) 
+                    (PRT (RP up) )
+                    (PP (IN by) 
+                      (NP-LGS (PRP$ their) 
+                        (ADJP (RB inevitably) (VBN limited) )
+                        (VBG policing) )))
+                  (: --) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (JJ real) (NN loot) )
+                      (PP (IN of) 
+                        (NP (DT the) (JJ medical) (NN racketeer) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (DT this) (NN sense) ))
+    (, ,) 
+    (NP-SBJ (NNS authorities) )
+    (VP (VBP believe) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT all) (NNS estimates) )
+            (PP (IN of) 
+              (NP (JJ phony) (NN device) (NN quackery) )))
+          (VP (VBP are) 
+            (ADJP-PRD (JJ conservative) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ economic) (NN toll) )
+      (SBAR 
+        (WHNP-1 (IN that) )
+        (S 
+          (NP-SBJ (DT the) (NN device) (NN quack) )
+          (VP (VBZ extracts) 
+            (NP (-NONE- *T*-1) )))))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ important) )
+      (, ,) 
+      (PP (IN of) 
+        (NP (NN course) )))
+    (. .) ))
+( (S-CLF (CC But) 
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (PRP$ our) (NN health) )
+        (: --) 
+        (ADJP 
+          (ADJP (RBR more) (JJ precious) )
+          (PP (IN than) 
+            (NP 
+              (NP (DT all) (DT the) (NN money) )
+              (PP (IN in) 
+                (NP (DT the) (NN world) )))))
+        (: --) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT these) (JJ modern) (NN witch) (NNS doctors) )
+            (PP (IN with) 
+              (NP (PRP$ their) (JJ fake) (NN therapeutic) (NNS gadgets) )))
+          (VP (VBP are) 
+            (VP (VBG gambling) 
+              (ADVP (RB away) ))))))
+    (. .) ))
+( (S 
+    (PP 
+      (PP (IN By) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG preying) 
+            (PP (IN on) 
+              (NP (DT the) (JJ sick) )))))
+      (, ,) 
+      (PP (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG playing) 
+            (ADVP-MNR (RB callously) )
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (NNS hopes) )
+                (PP (IN of) 
+                  (NP (DT the) (JJ desperate) )))))))
+      (, ,) 
+      (PP (IN by) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG causing) 
+            (S 
+              (NP-SBJ (DT the) (NN sufferer) )
+              (VP (TO to) 
+                (VP (VB delay) 
+                  (NP (JJ proper) (JJ medical) (NN care) ))))))))
+    (, ,) 
+    (NP-SBJ (DT these) (JJ medical) (NNS ghouls) )
+    (VP (VBP create) 
+      (NP (NN pain) 
+        (CC and)
+        (NN misery) )
+      (PP (IN by) 
+        (NP (PRP$ their) (JJ very) (NN activity) )))
+    (. .) ))
+( (S 
+    (ADVP (RB Typically) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Sarah) (NNP Gross) )
+        (CC and) 
+        (NP (NNP Mr.) (NNP A) ))
+      (NP (DT both) ))
+    (VP (VBD lost) 
+      (NP 
+        (NP (RBR more) )
+        (PP (IN than) 
+          (NP (PRP$ their) (NN money) )))
+      (PP-PRP (IN as) 
+        (NP 
+          (NP (DT the) (NN result) )
+          (PP (IN of) 
+            (NP 
+              (NP (PRP$ their) (NNS experiences) )
+              (PP (IN with) 
+                (NP (PRP$ their) (NNP Cleveland) (NNS quacks) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Sarah) (NNP Gross) )
+    (VP (VBD found) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NNS treatments) )
+            (VP (VBN given) 
+              (NP (PRP her) )
+              (NP (-NONE- *) )
+              (PP (IN for) 
+                (NP (DT a) (JJ nervous) (NN ailment) ))
+              (PP (IN by) 
+                (NP-LGS (DT the) (NN masseur) ))))
+          (VP (VBD were) (RB not) 
+            (VP (VBG helping) 
+              (NP (PRP her) ))))))
+    (. .) ))
+( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ (PRP she) )
+    (VP 
+      (VP (VBD consulted) 
+        (NP (JJ medical) (NNS authorities) ))
+      (CC and) 
+      (VP (VBD learned) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NNS devices) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP$ her) (NN quack) (`` ``) (NN doctor) ('' '') )
+                  (VP (VBD was) 
+                    (VP (VBG using) 
+                      (NP (-NONE- *T*-1) ))))))
+            (VP (VBD were) 
+              (ADJP-PRD (JJ phony) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-2 (PRP She) )
+    (VP 
+      (VP (VBD suffered) 
+        (NP (DT a) (JJ nervous) (NN breakdown) ))
+      (CC and) 
+      (VP (VBD had) 
+        (S 
+          (NP-SBJ-1 (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN institutionalized) 
+                (NP (-NONE- *-1) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP A.) )
+      (, ,) 
+      (NP (PRP$ her) (JJ fellow) (NN townsman) ))
+    (, ,) 
+    (ADVP (RB also) )
+    (VP (VBD experienced) 
+      (NP (DT a) (JJ nervous) (NN breakdown) )
+      (ADVP-TMP 
+        (ADVP 
+          (ADVP (RB just) )
+          (RB as) (RB soon) )
+        (SBAR (IN as) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD discovered) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-1 (PRP he) )
+                  (VP (VBD had) 
+                    (VP (VBN been) 
+                      (VP (VBN bilked) 
+                        (NP (-NONE- *-1) )
+                        (PP (IN of) 
+                          (NP (PRP$ his) (NN life) (NNS savings) ))
+                        (PP (IN by) 
+                          (NP-LGS 
+                            (NP (DT the) (JJ limited) (NN practitioner) )
+                            (SBAR 
+                              (WHNP-2 (WP who) )
+                              (S 
+                                (NP-SBJ (-NONE- *T*-2) )
+                                (VP (VBD had) 
+                                  (VP (VBN been) 
+                                    (VP (VBG treating) 
+                                      (NP 
+                                        (NP 
+                                          (NP (PRP$ his) (NN wife) )
+                                          (: --) 
+                                          (NP 
+                                            (NP (DT a) (NN woman) )
+                                            (VP (VBG suffering) 
+                                              (PP (IN from) 
+                                                (NP 
+                                                  (NP (DT an) (JJ incurable) (NN disease) )
+                                                  (, ,) 
+                                                  (NP (JJ multiple) (NN sclerosis) )))))
+                                          (: --) )
+                                        (CC and) 
+                                        (NP (PRP himself) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP A) )
+      (VP (VBZ has) 
+        (VP (VBN recovered) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBZ is) 
+        (, ,)
+        (ADVP (RB justifiably) )
+        (, ,) 
+        (NP-PRD (DT a) (JJ bitter) (NN man) )))
+    (. .) ))
+( (S (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ (DT That) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (DT a) (NN lot) )
+          (PP (IN of) 
+            (NP (JJ hard-earned) (NN money) ))
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB lose) 
+                  (NP (-NONE- *T*-1) ))))))))
+    ('' '') 
+    (, ,)
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) )
+      (NP-TMP (RB today) ))
+    (. .) ))
+( (S (`` ``) 
+    (NP-SBJ-1 (CC Neither) 
+      (NP (PRP me) )
+      (CC nor) 
+      (NP (PRP$ my) (NN wife) ))
+    (VP (VBD were) 
+      (VP (VBN helped) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT that) (NN chiropractor) (POS 's) )
+            (NNS treatments) ))))
+    ('' '') (. .) ))
+( (S (CC And) 
+    (NP-SBJ (EX there) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT the) (NN case) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Tom) (NNP Hepker) )
+            (, ,) 
+            (NP (DT a) (NN machinist) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBD was) 
+                  (VP (VBN referred) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS (DT a) (NN friend) ))
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT a) (NN health) (NN machine) (NN quack) )
+                        (SBAR 
+                          (WHNP-3 (WP who) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-3) )
+                            (VP (VBD treated) 
+                              (NP (PRP him) )
+                              (PP (IN with) 
+                                (NP (DT a) (JJ so-called) (JJ diagnostic) (NN machine) ))
+                              (PP (IN for) 
+                                (SBAR-NOM 
+                                  (WHNP-4 (WP what) )
+                                  (S 
+                                    (NP-SBJ (NNP Doctor) (NNP Fraud) )
+                                    (VP (VBD said) 
+                                      (SBAR (-NONE- 0) 
+                                        (S 
+                                          (NP-SBJ (-NONE- *T*-4) )
+                                          (VP (VBD was) 
+                                            (NP-PRD 
+                                              (NP (DT a) (NN system) )
+                                              (ADJP (JJ full) 
+                                                (PP (IN of) 
+                                                  (NP (NN arsenic) 
+                                                    (CC and)
+                                                    (NN strychnine) ))))))))))))))))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ (PRP$ his) (NNS pains) )
+        (VP (VBD got) 
+          (ADJP-PRD (JJR worse) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Tom) )
+    (VP (VBD decided) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB see) 
+            (NP 
+              (NP (DT a) (JJ real) (NN doctor) )
+              (, ,) 
+              (SBAR 
+                (WHPP-2 (IN from) 
+                  (WHNP (WP whom) ))
+                (S 
+                  (NP-SBJ (PRP he) )
+                  (VP (VBD learned) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ (PRP he) )
+                        (VP (VBD was) 
+                          (VP (VBG suffering) 
+                            (PP (IN from) 
+                              (NP 
+                                (NP (NN cancer) )
+                                (PP (IN of) 
+                                  (NP (DT the) (NN lung) ))))))))
+                    (PP (-NONE- *T*-2) )))))))))
+    (. .) ))
+( (S 
+    (INTJ (RB Yes) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Tom) )
+    (VP (VBD caught) 
+      (NP (PRP it) )
+      (PP-TMP (IN in) 
+        (NP (NN time) ))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB stay) 
+            (ADJP-PRD (JJ alive) )))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT a) (NN welfare) (NN case) )
+        (NP (-NONE- *ICH*-1) ))
+      (ADVP-TMP (RB now) )
+      (: --) 
+      (NP-1 (DT a) (JJ human) (NN wreck) )
+      (: --) 
+      (NP-ADV 
+        (NP (NNS thanks) )
+        (PP (TO to) 
+          (NP (DT this) (JJ modern) (NN witch) (NN doctor) ))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT the) (NN machine) (NN quack) )
+    (VP (MD can) 
+      (VP (VB cause) 
+        (NP 
+          (NP 
+            (ADJP (RB far) (JJR more) ))
+          (PP (IN than) 
+            (NP (RB just) (NN suffering) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (JJ such) (NNS diseases) )
+        (PP (IN as) 
+          (NP 
+            (NP (NN cancer) )
+            (, ,) 
+            (NP (NN tuberculosis) )
+            (, ,) 
+            (CC and)
+            (NP (NN heart) (NN disease) )))))
+    (, ,) 
+    (NP-SBJ (JJ early) (NN diagnosis) 
+      (CC and)
+      (NN treatment) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (ADJP (RB so) (JJ vital) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN waste) )
+              (PP (IN of) 
+                (NP (NN time) ))
+              (PP (IN by) 
+                (NP (DT the) (NN patient) ))
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Doctor) (NNP Fraud) (POS 's) )
+                  (JJ cure-all) (NN gadget) )))
+            (VP (MD can) 
+              (VP (VB prove) 
+                (ADJP-PRD (JJ fatal) )))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Moreover) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (JJ diabetic) (NN patient) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP 
+            (VP (VBZ relies) 
+              (PP (IN on) 
+                (NP 
+                  (NP (NN cure) )
+                  (PP (IN by) 
+                    (NP (DT the) (NN quack) (NN device) )))))
+            (CC and) 
+            (ADVP (RB therefore) )
+            (VP (VBZ cuts) 
+              (PRT (RP off) )
+              (NP (PRP$ his) (NN insulin) (NN intake) ))))))
+    (VP (MD can) 
+      (VP (VB be) 
+        (VP (VBG committing) 
+          (NP (NN suicide) ))))
+    (. .) ))
+( (S 
+    (PP (IN For) 
+      (NP (NN instance) ))
+    (: :) 
+    (PP-LOC (IN In) 
+      (NP (NNP Chicago) ))
+    (, ,) 
+    (ADVP-TMP 
+      (NP (DT some) (NN time) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Mr.) (NNP H.) )
+      (, ,) 
+      (NP (NN age) (CD 27) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NN diabetic) )
+        (SBAR-TMP (IN since) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD was) 
+              (NP-PRD (CD six) ))))))
+    (, ,) 
+    (VP (VBD stopped) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG using) 
+          (NP (NN insulin) )))
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD had) 
+            (VP (VBN bought) 
+              (NP 
+                (NP 
+                  (NP (DT a) (`` ``) (JJ magic) (NN spike) ('' '') )
+                  (: --) 
+                  (NP 
+                    (NP (DT a) (NN glass) (NN tube) )
+                    (PP (IN about) 
+                      (NP 
+                        (NP (DT the) (NN size) )
+                        (PP (IN of) 
+                          (NP (DT a) (NN pencil) ))))
+                    (VP (VBN filled) 
+                      (NP (-NONE- *) )
+                      (PP (IN with) 
+                        (NP 
+                          (NP (NN barium) (NN chloride) )
+                          (ADJP (NN worth) 
+                            (NP 
+                              (NP (DT a) (JJ small) (NN fraction) )
+                              (PP (IN of) 
+                                (NP (DT a) (NN cent) ))))))))
+                  (: --) )
+                (VP (VBN sold) 
+                  (NP (-NONE- *) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (DT the) (NNP Vrilium) (NNP Company) )
+                      (PP (IN of) 
+                        (NP (NNP Chicago) ))))
+                  (PP (IN for) 
+                    (NP ($ $) (CD 306) (-NONE- *U*) ))
+                  (PP (IN as) 
+                    (NP (DT a) (NN cure-all) )))))))))
+    (. .) ))
+( (SINV (`` ``) 
+    (S-TPC-2 
+      (S-IMP 
+        (NP-SBJ (-NONE- *) )
+        (VP 
+          (VP (VB Hang) 
+            (NP (DT this) )
+            (PP-LOC (IN around) 
+              (NP (PRP$ your) (NN neck) )))
+          (CC or) 
+          (VP (VB attach) 
+            (NP (PRP it) )
+            (PP (TO to) 
+              (NP 
+                (NP (JJ other) (NNS parts) )
+                (PP (IN of) 
+                  (NP (PRP$ your) (NN anatomy) )))))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (PRP$ its) (NNS rays) )
+        (VP (MD will) 
+          (VP (VB cure) 
+            (NP 
+              (NP (DT any) (NN disease) )
+              (SBAR 
+                (WHNP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP you) )
+                  (VP (VBP have) 
+                    (NP (-NONE- *T*-1) )))))))))
+    ('' '') 
+    (, ,)
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ (DT the) (NN company) )
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Mr.) (NNP H.) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ dead) )
+      (NP-TMP (NN today) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD followed) 
+            (NP (DT this) (NN advice) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NNP Doris) (NNP Hull) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG suffering) 
+        (PP (IN from) 
+          (NP (NN tuberculosis) ))))
+    (, ,) 
+    (VP (VBD was) 
+      (VP (VBN taken) 
+        (PP (IN by) 
+          (NP-LGS (PRP$ her) (NN husband) ))
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB see) 
+              (NP 
+                (NP 
+                  (NP (NNP Otis) (NNP G.) (NNP Carroll) )
+                  (, ,) 
+                  (NP 
+                    (NP (DT a) (NN sanipractor) )
+                    (: --) 
+                    (NP (DT a) (VBN licensed) (JJ drugless) (NN healer) )
+                    (: --) ))
+                (PP-LOC (IN in) 
+                  (NP (NNP Spokane) ))))))))
+    (. .) ))
+( (UCP 
+    (S 
+      (NP-SBJ-1 (NNP Carroll) )
+      (VP (VBD diagnosed) 
+        (NP (NNP Mrs.) (NNP Hull) )
+        (PP (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP 
+              (VP (VBG taking) 
+                (NP 
+                  (NP (DT a) (NN drop) )
+                  (PP (IN of) 
+                    (NP (NN blood) )))
+                (PP (IN from) 
+                  (NP (PRP$ her) (NN ear) )))
+              (CC and) 
+              (VP (VBG putting) 
+                (NP (PRP it) )
+                (PP-PUT (IN on) 
+                  (NP (PRP$ his) (`` ``) (JJ radionic) ('' '') (NN machine) )))
+              (CC and) 
+              (VP (VBG twirling) 
+                (NP (DT some) (NNS knobs) )))))))
+    (-LRB- -LRB-) 
+    (NP 
+      (NP (NN fee) )
+      (NP ($ $) (CD 50) (-NONE- *U*) ))
+    (-RRB- -RRB-) (. .) ))
+( (NP 
+    (NP (PRP$ His) (NN prescription) )
+    (: :) 
+    (NP 
+      (NP 
+        (ADJP (JJ hot) 
+          (CC and)
+          (JJ cold) )
+        (NNS compresses) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB increase) 
+              (NP 
+                (NP (PRP$ her) (NN absorption) )
+                (PP (IN of) 
+                  (NP (NN water) ))))))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Although) 
+      (S 
+        (NP-SBJ (PRP she) )
+        (VP (VBD weighed) 
+          (NP 
+            (QP (RB only) (CD 108) )
+            (NNS pounds) )
+          (SBAR-TMP 
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ (PRP she) )
+              (VP (VBD visited) 
+                (NP (PRP him) )
+                (ADVP-TMP (-NONE- *T*-1) )))))))
+    (, ,) 
+    (NP-SBJ (NNP Carroll) )
+    (VP (VBD permitted) 
+      (S 
+        (NP-SBJ (PRP her) )
+        (VP (TO to) 
+          (VP (VB go) 
+            (PP (IN on) 
+              (NP 
+                (NP (DT a) (JJ 10-day) (NN fast) )
+                (SBAR 
+                  (WHPP-2 (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (PRP she) )
+                    (VP (VBD took) 
+                      (NP 
+                        (NP (NN nothing) )
+                        (PP (CC but) 
+                          (NP (NN water) )))
+                      (PP (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Inevitably) )
+    (, ,) 
+    (NP-SBJ-1 (NNP Mrs.) (NNP Hull) )
+    (VP (VBD died) 
+      (PP (IN of) 
+        (NP (NN starvation) 
+          (CC and)
+          (NN tuberculosis) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG weighing) 
+          (NP (CD 60) (NNS pounds) ))))
+    (. .) ))
+( (S 
+    (ADVP (RB Moreover) )
+    (, ,) 
+    (NP-SBJ (PRP$ her) (NN husband) 
+      (CC and)
+      (NN child) )
+    (VP (VBD contracted) 
+      (NP (NNP T.B.) )
+      (PP (IN from) 
+        (NP (PRP her) )))
+    (. .) ))
+( (PRN 
+    (-LRB- -LRB-)
+    (FRAG 
+      (NP (JJ Small) (NN wonder) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT a) (NNP Spokane) (NN jury) )
+          (VP (VBD awarded) 
+            (NP (DT the) (NN husband) )
+            (NP 
+              (NP ($ $) (CD 35,823) (-NONE- *U*) )
+              (PP (IN for) 
+                (NP 
+                  (NP (PRP$ his) (NN wife) (POS 's) )
+                  (NN death) )))))))
+    (. .) 
+    (-RRB- -RRB-)
+    ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP California) ))
+    (, ,) 
+    (ADVP-TMP 
+      (NP (DT a) (JJ few) (NNS years) )
+      (RB ago) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (NN ghoul) )
+      (PP (IN by) 
+        (NP 
+          (NP (DT the) (NN name) )
+          (PP (IN of) 
+            (NP (NNP H.F.) (NNP Bell) )))))
+    (VP (VBD sold) 
+      (NP (JJ electric) (NNS blankets) )
+      (PP (IN as) 
+        (NP 
+          (NP (DT a) (NN cure) )
+          (PP (IN for) 
+            (NP (NN cancer) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD did) 
+      (NP (DT this) )
+      (PP (IN by) 
+        (NP 
+          (NP (DT the) (JJ charming) (NN practice) )
+          (PP (IN of) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP 
+                (VP (VBG buying) 
+                  (PRT (RP up) )
+                  (NP (VBN used) (JJ electric) (NNS blankets) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP ($ $) (CD 5) (-NONE- *U*) )
+                      (TO to) 
+                      (NP ($ $) (CD 10) (-NONE- *U*) )))
+                  (PP (IN from) 
+                    (NP 
+                      (NP (NNS survivors) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNS patients) )
+                          (SBAR 
+                            (WHNP-1 (WP who) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-1) )
+                              (VP (VBD had) 
+                                (VP (VBN died) )))))))))
+                (, ,) 
+                (VP (VBG reconditioning) 
+                  (NP (PRP them) ))
+                (, ,) 
+                (CC and)
+                (VP (VBG selling) 
+                  (NP (PRP them) )
+                  (PP (IN at) 
+                    (NP 
+                      (NP ($ $) (CD 185) (-NONE- *U*) )
+                      (NP (DT each) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (SBAR-TMP 
+        (WHADVP-2 (WRB When) )
+        (S 
+          (NP-SBJ (NNS authorities) )
+          (VP (VBD convicted) 
+            (NP-1 (PRP him) )
+            (PP (IN of) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (VBG practicing) 
+                  (NP (NN medicine) )
+                  (PP (IN without) 
+                    (NP (DT a) (NN license) )))))
+            (ADVP-TMP (-NONE- *T*-2) ))))
+      (PRN 
+        (-LRB- -LRB-)
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD got) 
+            (PRT (RP off) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT a) (VBN suspended) (NN sentence) )
+                (PP (IN of) 
+                  (NP (CD three) (NNS years) ))))
+            (PP-PRP (RB because) (IN of) 
+              (NP 
+                (NP (PRP$ his) (JJ advanced) (NN age) )
+                (PP (IN of) 
+                  (NP (CD 77) ))))))
+        (-RRB- -RRB-) )
+      (, ,) 
+      (NP-SBJ-3 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP (PRP$ his) (NNS victims) )))
+      (VP (VBD was) (RB not) 
+        (ADVP-PRD (RB around) )
+        (S-PRP 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB testify) )))))
+    (: :) 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBD was) 
+        (ADJP-PRD (JJ dead) 
+          (PP (IN of) 
+            (NP (NN cancer) )))))
+    (. .) ))
+( (SINV 
+    (PP (IN By) 
+      (NP (DT no) (NNS means) ))
+    (VBP are) 
+    (NP-SBJ (DT these) )
+    (NP-PRD (VBN isolated) (NNS cases) )
+    (. .) ))
+( (S-5 (`` ``) 
+    (ADVP (RB Unfortunately) )
+    ('' '') 
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBZ says) 
+          (S (-NONE- *T*-5) ))
+        (NP-SBJ 
+          (NP (NNP Chief) (NNP Postal) (NNP Inspector) (NNP David) (NNP H.) (NNP Stephens) )
+          (, ,) 
+          (SBAR 
+            (WHNP-2 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (VBZ has) 
+                (VP (VBN prosecuted) 
+                  (NP (JJ many) (NN device) (NNS quacks) )))))))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ-1 
+      (NP (DT the) (NNS ghouls) )
+      (SBAR 
+        (WHNP-3 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-3) )
+          (VP (VBP trade) 
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (NNS hopes) )
+                (PP (IN of) 
+                  (NP (DT the) 
+                    (ADJP (RB desperately) (JJ ill) )))))))))
+    (ADVP-TMP (RB often) )
+    (VP (MD can) (RB not) 
+      (VP (VB be) 
+        (ADVP-MNR (RB successfully) )
+        (VP (VBN prosecuted) 
+          (NP (-NONE- *-1) )
+          (SBAR-PRP (IN because) 
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (NNS patients) )
+                (SBAR 
+                  (WHNP-4 (WP who) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-4) )
+                    (VP (VBP are) 
+                      (NP-PRD (DT the) (JJ chief) (NNS witnesses) )))))
+              (VP (VBP die) 
+                (SBAR-TMP (RB before) 
+                  (S 
+                    (NP-SBJ-6 (DT the) (NN case) )
+                    (VP (VBZ is) 
+                      (VP (VBN called) 
+                        (NP (-NONE- *-6) )
+                        (PRT (RP up) )
+                        (PP-LOC (IN in) 
+                          (NP (NN court) ))))))))))))
+    ('' '') (. .) ))
+( (NP (NN Death) (. !) (. !) ))
+( (S-IMP 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Have) 
+      (NP 
+        (NP (DT no) (NN doubt) )
+        (PP (IN about) 
+          (NP (PRP it) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ 's) 
+      (SBAR-PRD 
+        (WHADVP-1 (WRB where) )
+        (S 
+          (NP-SBJ (NN device) (NN quackery) )
+          (VP (MD can) 
+            (VP (VB lead) 
+              (ADVP (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN evidence) )
+    (VP (VBZ shows) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (JJ fake) (JJ therapeutic) (NNS machines) )
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ-2 (-NONE- *-1) )
+            (VP (VBN substituted) 
+              (NP (-NONE- *-2) )
+              (PP (IN for) 
+                (NP (JJ valid) (JJ medical) (NNS cures) ))))
+          (, ,) 
+          (VP (VBP have) 
+            (VP (VBN hastened) 
+              (NP 
+                (NP (DT the) (NNS deaths) )
+                (PP (IN of) 
+                  (NP (NNS thousands) ))))))))
+    (. .) ))
+( (SBARQ 
+    (WHNP-1 (WP Who) )
+    (SQ 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP (DT the) (NNS victims) )
+          (PP (IN of) 
+            (NP (DT the) (NN device) (NNS quacks) )))))
+    (. ?) (. ?) ))
+( (S 
+    (NP-SBJ (NNS Authorities) )
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS oldsters) )
+          (VP (VBP are) 
+            (NP-PRD (DT a) (JJ prime) (NN target) )))))
+    (. .) ))
+( (SINV 
+    (VP (VBZ Says) 
+      (S (-NONE- *ICH*-1) ))
+    (NP-SBJ 
+      (NP (NNP Wallace) (NNP F.) (NNP Jannsen) )
+      (, ,) 
+      (NP 
+        (NP (NN director) )
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (DT the) (NNP FDA) (POS 's) )
+              (NNP Division) )
+            (PP (IN of) 
+              (NP (NNP Public) (NNP Information) ))))))
+    (: :) (`` ``) 
+    (S-1 
+      (NP-SBJ-2 (NNS Quacks) )
+      (VP (VBP are) 
+        (ADJP-PRD (JJ apt) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB direct) 
+                (NP (PRP$ their) (NN appeal) )
+                (PP 
+                  (PP 
+                    (ADVP (RB directly) )
+                    (TO to) 
+                    (NP (JJR older) (NNS people) ))
+                  (, ,) (CC or) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (NNS sufferers) )
+                      (PP (IN from) 
+                        (NP 
+                          (NP (JJ chronic) (NNS ailments) )
+                          (PP (JJ such) (IN as) 
+                            (NP (NN arthritis) 
+                              (, ,)
+                              (NN rheumatism) 
+                              (, ,)
+                              (NN diabetes) 
+                              (, ,)
+                              
+                              (CC and)
+                              (NN cancer) )))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 
+      (NP (NNS People) )
+      (SBAR 
+        (WHNP-1 (WP who) )
+        (S 
+          (NP-SBJ-2 (-NONE- *T*-1) )
+          (VP (VBP have) (RB not) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ able) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB get) 
+                      (NP (NN relief) )
+                      (PP (IN from) 
+                        (NP (JJ regular) (JJ medical) (NNS doctors) )))))))))))
+    (VP (VBP are) 
+      (ADJP-PRD (RB especially) (JJ apt) 
+        (S 
+          (NP-SBJ-4 (-NONE- *-3) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN taken) 
+                (NP (-NONE- *-4) )
+                (PRT (RP in) )
+                (PP (IN by) 
+                  (NP-LGS (NNS quacks) ))))))))
+    ('' '') (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS victims) )
+      (PP (IN of) 
+        (NP (DT the) (NNS quacks) )))
+    (VP (VBP are) 
+      (ADVP-TMP (RB frequently) )
+      (NP-PRD 
+        (NP (JJ poor) (NNS people) )
+        (, ,) 
+        (PP (IN like) 
+          (NP (NNP Mr.) (NNP A.) ))
+        (, ,) 
+        (SBAR 
+          (WHNP-1 (WP who) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP scrape) 
+              (PRT (RP up) )
+              (NP 
+                (NP (PRP$ their) (NN life) (NNS savings) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB offer) 
+                        (NP (-NONE- *T*-2) )
+                        (PP (IN as) 
+                          (NP 
+                            (NP (DT a) (NN sacrifice) )
+                            (PP (TO to) 
+                              (NP 
+                                (NP (NNP Doctor) (NNP Fraud) (POS 's) )
+                                (NN avarice) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB often) )
+      (ADJP-PRD (JJ ignorant) 
+        (CONJP (RB as) (RB well) (IN as) )
+        (JJ underprivileged) ))
+    (. .) ))

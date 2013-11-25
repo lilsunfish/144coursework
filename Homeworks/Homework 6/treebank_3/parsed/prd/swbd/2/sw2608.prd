@@ -1,0 +1,3426 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB2 .))
+( (SQ Do
+      (NP-SBJ-1 you)
+      (VP want
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP go
+		     (ADVP-TMP first)))))
+      ?
+      E_S))
+( (CODE SpeakerA3 .))
+( (S (NP-SBJ You)
+     (VP can
+	 (VP go
+	     (ADVP-TMP first)))
+     ,
+     E_S))
+( (S or
+     (NP-SBJ I)
+     (VP will 
+	 (VP *?*))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ you)
+     (VP go
+	 (ADVP ahead))
+     .
+     E_S))
+( (CODE SpeakerA5 .))
+( (INTJ Okay
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ-1 I)
+     (VP 'm
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP tell
+			(NP you)
+			(SBAR-NOM (WHNP-2 what)
+				  (S (NP-SBJ I)
+				     (VP 'd
+					 (VP have
+					     (NP *T*-2))))))))))
+     .
+     E_S))
+( (CODE SpeakerB6 .))
+( (CODE SpeakerA7 .))
+( (S (PP-LOC Down
+	     (PP in
+		 (NP the south)))
+     ,
+     (NP-SBJ we)
+     (VP have
+	 (NP (NP a lot)
+	     (PP of
+		 (NP shrimp)))
+	 ,
+	 (INTJ okay))
+     ?
+     E_S))
+( (CODE SpeakerB8 .))
+( (INTJ Oh
+	,
+	E_S))
+( (CODE SpeakerA9 .))
+( (CODE SpeakerB10 .))
+( (INTJ yeah
+	.
+	E_S))
+( (CODE SpeakerA11 .))
+( (S And
+     (NP-SBJ I)
+     (VP have
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP (NP shrimp)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ-2 *T*-1)
+		      (VP is
+			  (VP steamed
+			      (NP *-2)
+			      (PP in
+				  (NP beer))))))
+	     ,
+	     (SBAR (WHNP-3 that)
+		   (S (NP-SBJ I)
+		      (VP cook
+			  (NP *T*-3))))))
+     .
+     E_S))
+( (CODE SpeakerB12 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA13 .))
+( (CODE SpeakerB14 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA15 .))
+( (S (CONJP And then)
+     (NP-SBJ I)
+     (VP have
+	 (NP (NP (NP a cauliflower)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ I)
+			  (VP would
+			      (VP cook
+				  (NP *T*-1))))))
+	     ,
+	     (NP garlic bread)
+	     ,
+	     (NP green salad)
+	     ,
+	     (NP tea)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP 'd
+	 (VP have
+	     (NP a lemon pie)
+	     (PP for
+		 (NP dessert))))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ it)
+     (VP sounds
+	 (ADJP-PRD fantastic))
+     .
+     E_S))
+( (CODE SpeakerA17 .))
+( (INTJ Yes
+	.
+	E_S))
+( (S And
+     (SBAR-NOM-SBJ (WHNP-1 (WHNP what)
+			   (PP *ICH*-2))
+		   (S (NP-SBJ *T*-1)
+		      (VP 's
+			  (ADJP-PRD really neat)
+			  (PP-2 about
+				(NP it)))))
+     (VP is
+	 ,
+	 (S-PRD (NP-SBJ-3 the shrimp)
+		(VP is
+		    (VP cooked
+			(NP *-3)
+			(PP-LOC in
+				(EDITED (RM [)
+					(EDITED (RM [)
+						(NP-UNF your)
+						,
+						(IP +))
+					(INTJ uh)
+					,
+					(INTJ like)
+					(NP your
+					    (RS ])
+					    rice steamer)
+					,
+					(IP +))
+				(NP your rice cooker))))))
+     .
+     (RS ])
+     E_S))
+( (CODE SpeakerB18 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA19 .))
+( (CODE SpeakerB20 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA21 .))
+( (S And
+     ,
+     (INTJ um)
+     ,
+     (NP-SBJ you)
+     (VP place
+	 (NP the shrimp)
+	 (EDITED (RM [)
+		 (PP in
+		     (NP-UNF the))
+		 ,
+		 (IP +))
+	 (PP in
+	     (NP the
+		 (RS ])
+		 rice steamer)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP (VP put
+	     (NP a bay leaf))
+	 and
+	 (VP put
+	     (NP some
+		 ,
+		 (INTJ uh)
+		 ,
+		 red pepper))
+	 (PP-PUT over
+		 (NP it)))
+     .
+     E_S))
+( (CODE SpeakerB22 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA23 .))
+( (S (INTJ Now)
+     ,
+     (NP-SBJ you)
+     (VP can
+	 (ADVP either)
+	 (VP use
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))
+		  ,)
+	     (NP (NP the kind)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP comes
+			      (PP-LOC in
+				      (NP the little can))))))))
+     E_S))
+( (S or
+     (NP-SBJ you)
+     (VP can
+	 (ADVP just)
+	 (VP get
+	     (NP some
+		 (PRN ,
+		      (S (NP-SBJ you)
+			 (VP know))
+		      ,)
+		 regular red peppers)))
+     .
+     E_S))
+( (CODE SpeakerB24 .))
+( (SQ-CLF Is
+	  (NP-SBJ it)
+	  (NP-PRD cayenne pepper)
+	  ,
+	  (SBAR (WHNP-1 0)
+		(S (NP-SBJ you)
+		   (VP mean
+		       (NP *T*-1))))
+	  ?
+	  E_S))
+( (CODE SpeakerA25 .))
+( (NP Cayenne
+      ?
+      E_S))
+( (CODE SpeakerB26 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerA27 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB28 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA29 .))
+( (S And
+     (NP-SBJ you)
+     (VP put
+	 (NP (NP a little bit)
+	     (PP of
+		 (NP that)))
+	 (PP-PUT over
+		 (NP it)))
+     .
+     E_S))
+( (S (INTJ Now)
+     (SBAR-ADV if
+	       (S (NP-SBJ you)
+		  (VP use
+		      (NP the dried kind))))
+     ?
+     (ADVP Then)
+     (NP-SBJ you)
+     (VP would
+	 (ADVP only)
+	 (VP use
+	     (NP (NP two)
+		 (PP of
+		     (NP them)))))
+     .
+     E_S))
+( (CODE SpeakerB30 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (S And
+     (NP-SBJ you)
+     (VP put
+	 (NP that)
+	 (PP-PUT in
+		 (ADVP there)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ you)
+     (VP pour
+	 (NP (NP two bottles)
+	     (PP of
+		 (NP beer)))
+	 (PP-LOC over
+		 (NP it)))
+     .
+     E_S))
+( (CODE SpeakerB32 .))
+( (SBARQ And
+	 (WHNP-1 (WHADJP how much) shrimp)
+	 (SQ would
+	     (NP-SBJ you)
+	     (VP use
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA33 .))
+( (NP Two pounds
+      .
+      E_S))
+( (CODE SpeakerB34 .))
+( (NP Two pounds
+      ,
+      E_S))
+( (INTJ okay
+	.
+	E_S))
+( (CODE SpeakerA35 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP the jumbo shrimp)
+		 (PP-LOC in
+			 (NP the shells))))
+     .
+     E_S))
+( (CODE SpeakerB36 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA37 .))
+( (S (NP-SBJ *)
+     (VP Leave
+	 (NP the shells)
+	 (PP-LOC on
+		 (NP them))
+	 (SBAR-ADV so
+		   (S (NP-SBJ they)
+		      (VP wo
+			  n't
+			  (ADVP just)
+			  (VP roll
+			      (PRT up))))))
+     .
+     E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA39 .))
+( (S And
+     (NP-SBJ you)
+     (VP pour
+	 (NP the beer)
+	 (PP over
+	     (NP (NP the top)
+		 (PP of
+		     (NP it)))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP cover
+	 (NP it))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA41 .))
+( (S And
+     (NP-SBJ you)
+     (ADVP only)
+     (VP cook
+	 (NP it)
+	 (SBAR-TMP until
+		   (S (S (NP-SBJ-1 the mixture)
+			 (VP begins
+			     (S (NP-SBJ *-1)
+				(VP to
+				    (VP boil)))))
+		      ,
+		      and
+		      (S (NP-SBJ the shrimp)
+			 (VP turn
+			     (ADJP-PRD pink))))))
+     .
+     E_S))
+( (CODE SpeakerB42 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA43 .))
+( (CODE SpeakerB44 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA45 .))
+( (S (ADVP-TMP Then)
+     (NP-SBJ you)
+     (VP remove
+	 (NP it))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP put
+	 (NP it)
+	 (PP-PUT on
+		 (NP a platter)))
+     .
+     E_S))
+( (S (CONJP And then)
+     (NP-SBJ you)
+     (VP serve
+	 (NP it)
+	 (PP with
+	     (NP melted butter)))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (ADVP-TMP usually)
+     (VP put
+	 (NP garlic powder)
+	 (PP-PUT in
+		 (NP mine)))
+     .
+     E_S))
+( (CODE SpeakerB46 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA47 .))
+( (S And
+     (NP-SBJ they)
+     (VP can
+	 (ADVP just)
+	 (VP dip
+	     (NP it)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP shell
+	 (NP it)
+	 (SBAR-ADV as
+		   (S (NP-SBJ they)
+		      (VP eat
+			  (NP it)))))
+     .
+     E_S))
+( (CODE SpeakerB48 .))
+( (INTJ Sure
+	.
+	E_S))
+( (CODE SpeakerA49 .))
+( (S But
+     ,
+     (INTJ uh)
+     ,
+     (ADVP then)
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the mi-)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-TPC the cauliflower)
+     ,
+     (RS ])
+     (NP-SBJ you)
+     ,
+     (VP cook
+	 (NP that)
+	 (PP-LOC in
+		 (NP the microwave)))
+     .
+     E_S))
+( (CODE SpeakerB50 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA51 .))
+( (S And
+     (SBAR-NOM-SBJ (WHNP-1 what)
+		   (S (NP-SBJ you)
+		      (VP do
+			  (NP *T*-1))))
+     (VP is
+	 ,
+	 (S-PRD (NP-SBJ you)
+		(ADVP just)
+		,
+		(INTJ uh)
+		,
+		(VP wash
+		    (NP it))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP core
+	 (NP it))
+     .))
+( (FRAG (RM [)
+	And
+	(IP +)
+	(RS ])
+	(PP-LOC in
+		(EDITED (RM [)
+			(NP-UNF a)
+			(IP +))
+		(INTJ like)
+		(NP (NP a
+			,
+			(RS ])
+			(INTJ oh)
+			(PRN , 
+			     (SBARQ (WHNP-1 what)
+				    (SQ do
+					(NP-SBJ you)
+					(VP call
+					    (S (NP-SBJ it)
+					       (NP-PRD *T*-1)))))
+			     ?
+			     (INTJ Like))
+			(NAC (NP Pyrex)
+			     or
+			     (NP (NP something)
+				 (PP like
+				     (NP that))))
+			,
+			kind)
+		    (PP of
+			(NP bowl))
+		    (SBAR (WHNP-2 that)
+			  (S (NP-SBJ *T*-2)
+			     (VP would
+				 (VP go
+				     (PP in
+					 (NP the microwave))))))))
+	.
+	E_S))
+( (CODE SpeakerB52 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA53 .))
+( (CODE SpeakerB54 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA55 .))
+( (CODE SpeakerB56 .))
+( (NP A glass dish
+      .
+      E_S))
+( (CODE SpeakerA57 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB58 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA59 .))
+( (S But
+     (NP-SBJ-1 it)
+     (VP 's
+	 (VP got
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP have
+			(NP (NP one)
+			    (SBAR (WHNP-2 that)
+				  (S (NP-SBJ *T*-2)
+				     (VP has
+					 (NP a cover)
+					 (PP-LOC on
+						 (NP it)))))))))))
+     .
+     E_S))
+( (CODE SpeakerB60 .))
+( (INTJ Okay
+	,
+	E_S))
+( (INTJ uh-huh
+	.
+	E_S))
+( (CODE SpeakerA61 .))
+( (S And
+     (NP-SBJ you)
+     ,
+     (INTJ uh)
+     ,
+     (VP put
+	 (NP (NP (NP (QP about two) tablespoons)
+		 (PP of
+		     ,
+		     (INTJ uh)
+		     ,
+		     (NP water)))
+	     (NAC *ICH*-1))
+	 (PP-PUT into
+		 (NP this bowl))
+	 ,
+	 (NAC-1 and
+		(NP (NP about an eighth)
+		    (X (NP (NP a teaspoon)
+			   (PP of
+			       (NP salt)))))))
+     .
+     E_S))
+( (CODE SpeakerB62 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA63 .))
+( (S (CONJP And then)
+     (NP-SBJ you)
+     (ADVP just)
+     (VP set
+	 (NP your cauliflower)
+	 (PP-LOC in
+		 (ADVP there)))
+     ,
+     E_S))
+( (CODE SpeakerB64 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA65 .))
+( (S (CONJP and then)
+     (NP-SBJ you)
+     (VP cook
+	 (NP it)
+	 (PP-TMP for
+		 (NP seven minutes))
+	 (PP on
+	     (ADJP high)))
+     .
+     E_S))
+( (S And
+     (NP-SBJ you)
+     (VP rotate
+	 (NP it)
+	 (NP-ADV one time))
+     .
+     E_S))
+( (CODE SpeakerB66 .))
+( (SQ And
+      (EDITED (RM [)
+	      (S (NP-SBJ it)
+		 (VP-UNF 's))
+	      ,
+	      (IP +))
+      are
+      (NP-SBJ you)
+      (RS ])
+      (VP cooking
+	  (NP the whole head)
+	  (PP at
+	      (NP one time)))
+      ?
+      E_S))
+( (CODE SpeakerA67 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB68 .))
+( (CODE SpeakerA69 .))
+( (S (SBAR-TMP (EDITED (RM [)
+		       (NP-SBJ-UNF Y-)
+		       ,
+		       (IP +))
+	       (INTJ Uh)
+	       ,
+	       (WHADVP-1 when)
+	       (S (NP-SBJ you)
+		  (RS ])
+		  (VP core
+		      (NP it)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ you)
+     (VP be
+	 (ADJP-PRD real careful)
+	 (SBAR-ADV so
+		   (S (NP-SBJ you)
+		      (VP wo
+			  n't
+			  (VP knock
+			      (NP your flowers)
+			      (PRT off))))))
+     .
+     E_S))
+( (CODE SpeakerB70 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA71 .))
+( (CODE SpeakerB72 .))
+( (S (NP-SBJ I)
+     (VP see)
+     .
+     E_S))
+( (CODE SpeakerA73 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ you)
+     (ADVP just)
+     (VP set
+	 (NP it)
+	 (PP-LOC in
+		 (ADVP there)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP microwave
+	 (NP it)
+	 (PP on
+	     (ADJP high))
+	 (PP-TMP for
+		 (NP seven minutes)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP turn
+	 (NP it)
+	 (NP-ADV one time))
+     .
+     E_S))
+( (CODE SpeakerB74 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA75 .))
+( (S And
+     (SBAR-TMP while
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (VP cooking))))
+     ,
+     (NP-SBJ I)
+     (VP take
+	 (EDITED (RM [)
+		 (NP mayonnaise)
+		 ,
+		 (IP +))
+	 (NP (NP (NP (QP about a) cup)
+		 (PP of
+		     (NP mayonnaise)))
+	     ,
+	     (RS ])
+	     and
+	     (NP (NP a teaspoon)
+		 (PP of
+		     (NP mustard)))
+	     ,
+	     and
+	     (NP some garlic powder)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP mix
+	 (NP (NP it)
+	     (NP all))
+	 (ADVP together))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP shred
+	 (PRT up)
+	 (NP some (ADJP just regular) white cheese))
+     .
+     E_S))
+( (CODE SpeakerB76 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA77 .))
+( (S And
+     (SBAR-TMP after
+	       (S (NP-SBJ-1 that)
+		  (VP 's
+		      (VP cooked
+			  (NP *-1)))))
+     ,
+     (NP-SBJ you)
+     (VP (VP take
+	     (NP it)
+	     (ADVP-DIR out))
+	 and
+	 (VP pour
+	     (NP this)
+	     (PP-LOC on
+		     (NP (NP top)
+			 (PP of
+			     (NP it))))))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ you)
+     (VP sprinkle
+	 (NP the cheese)
+	 (PP-LOC on
+		 (NP (NP top)
+		     (PP of
+			 (NP that)))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ-1 you)
+     (VP cook
+	 (NP it)
+	 (PP-TMP for
+		 (NP another three minutes))
+	 (PP on
+	     (ADJP high))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))
+	      ,)
+	 (S-PRP (ADVP just)
+		(ADVP mainly)
+		(NP-SBJ *-1)
+		(VP to
+		    (VP (VP melt
+			    (NP (NP the cheese)
+				and
+				(NP everything)))
+			,
+			and
+			(VP let
+			    (S (NP-SBJ all the seasoning)
+			       (VP melt
+				   (PP into
+				       (NP it)))))))))
+     .
+     E_S))
+( (CODE SpeakerB78 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA79 .))
+( (S And
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD done))
+     .
+     E_S))
+( (CODE SpeakerB80 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA81 .))
+( (CODE SpeakerB82 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ that)
+     (VP sounds
+	 (ADJP-PRD fantastic))
+     .
+     E_S))
+( (CODE SpeakerA83 .))
+( (S (NP-SBJ It)
+     (VP is
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (CODE SpeakerB84 .))
+( (CODE SpeakerA85 .))
+( (S But
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP-UNF looks)
+     ,
+     N_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (SBAR-NOM-SBJ (EDITED (RM [)
+			   (S (SBAR-NOM-SBJ (WHNP-1 what)
+					    (S (NP-SBJ you)
+					       (VP can
+						   (VP do
+						       (NP *T*-1)
+						       (ADVP-TMP then)))))
+			      ,
+			      (INTJ see)
+			      (VP-UNF is))
+			   ,
+			   (IP +))
+		   (INTJ like)
+		   (WHNP-2 what)
+		   (S (NP-SBJ I)
+		      (ADVP-TMP usually)
+		      (VP do
+			  (NP *T*-2))))
+     (VP is
+	 ,
+	 (RS ])
+	 (S-PRD (NP-SBJ I)
+		(VP 'll
+		    (INTJ like)
+		    (VP sit
+			(NP the cauliflower)
+			(PP-LOC in
+				(NP the middle))))))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (VP put
+	 (NP the
+	     ,
+	     (INTJ uh)
+	     ,
+	     shrimp)
+	 (PP-PUT (PP around
+		     (NP (NP the outside)
+			 (PP of
+			     (NP it))))
+		 (PRN ,
+		      (S (NP-SBJ you)
+			 (VP know))
+		      ,)
+		 (PP on
+		     (NP my platter))))
+     .
+     E_S))
+( (CODE SpeakerB86 .))
+( (INTJ (INTJ Um)
+	,
+	(INTJ um)
+	.
+	E_S))
+( (CODE SpeakerA87 .))
+( (CODE SpeakerB88 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA89 .))
+( (S (CONJP And then)
+     (NP-SBJ I)
+     (VP have
+	 (NP (NP a green salad)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ I)
+		      (VP put
+			  (NP *T*-1)
+			  (PP-PUT around
+				  (NP (NP the outside)
+				      (PP of
+					  (NP that)))))))))
+     .
+     E_S))
+( (S And
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ you)
+     (VP have
+	 (NP (NP all the different seasonings)
+	     and
+	     (NP stuff)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (ADVP just)
+     (VP fix
+	 (NP little individual cups)
+	 (PP-BNF for
+		 (NP them)))
+     .
+     E_S))
+( (S And
+     (NP-SBJ they)
+     (VP have
+	 (NP the
+	     ,
+	     garlic bread))
+     ,
+     E_S))
+( (CODE SpeakerB90 .))
+( (INTJ Sure
+	.
+	E_S))
+( (CODE SpeakerA91 .))
+( (S and
+     (NP-SBJ it)
+     (VP makes
+	 (S (NP-SBJ it)
+	    (NP-PRD-UNF a (ADJP real nice looking)
+			(PRN ,
+			     (S (NP-SBJ you)
+				(VP know))))))
+     .
+     E_S))
+( (CODE SpeakerB92 .))
+( (S And
+     (NP-SBJ it)
+     (VP 's
+	 (NP-PRD (ADJP not much) work))
+     .
+     E_S))
+( (CODE SpeakerA93 .))
+( (CODE SpeakerB94 .))
+( (CODE SpeakerA95 .))
+( (INTJ Huh-uh
+	,
+	E_S))
+( (INTJ huh-uh
+	.
+	E_S))
+( (S But
+     (NP-SBJ it)
+     (VP looks
+	 (PP like
+	     (NP it))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     .
+     E_S))
+( (CODE SpeakerB96 .))
+( (S (NP-SBJ That)
+     (VP-UNF sounds)
+     ,
+     N_S))
+( (CODE SpeakerA97 .))
+( (CODE SpeakerB98 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (X real-
+     ,
+     N_S))
+( (CODE SpeakerA99 .))
+( (S (NP-SBJ You)
+     (VP look
+	 (SBAR like
+	       (S (NP-SBJ you)
+		  (VP went
+		      (PP to
+			  (NP-UNF a whole bunch))))))
+     ,
+     N_S))
+( (CODE SpeakerB100 .))
+( (S (NP-SBJ I)
+     (VP bet
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP tastes
+		      (ADJP-PRD good)
+		      (ADVP too)))))
+     .
+     E_S))
+( (CODE SpeakerA101 .))
+( (INTJ Right
+	.
+	E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (ADVP-TMP usually)
+     (NP-SBJ I)
+     (VP (VP cut
+	     (NP those little cherry tomatoes)
+	     (PRT up))
+	 ,
+	 and
+	 (VP put
+	     (NP some color)
+	     (PP-PUT into
+		     (NP it))
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know)))))
+     ,
+     E_S))
+( (CODE SpeakerB102 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA103 .))
+( (S and
+     (NP-SBJ-1 I)
+     (VP 'll
+	 (VP lay
+	     (NP those)
+	     (PP-LOC on
+		     (NP (NP top)
+			 (PP of
+			     (NP my salad))))
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))
+		  ,)
+	     (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP make
+			    (S (NP-SBJ it)
+			       (VP (VP look
+				       (ADJP-PRD nice))
+				   and
+				   (NP-ETC (NP things)
+					   (PP like
+					       (NP that))))))))))
+     .
+     E_S))
+( (CODE SpeakerB104 .))
+( (SBARQ (INTJ Now)
+	 ,
+	 (WHNP-1 (WHADJP how many))
+	 (SQ could
+	     (NP-SBJ you)
+	     (VP serve
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA105 .))
+( (INTJ Okay
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (ADVP-TMP usually)
+     (VP serves
+	 (NP six))
+     .
+     E_S))
+( (CODE SpeakerB106 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (INTJ (EDITED (RM [)
+		(INTJ-UNF O-)
+		,
+		(IP +))
+	(INTJ okay)
+	.
+	(RS ])
+	E_S))
+( (S (NP-SBJ I)
+     (VP figured
+	 (FRAG (NP about that)))
+     .
+     E_S))
+( (CODE SpeakerA107 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB108 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (S (INTJ See)
+     (PP-LOC out
+	     (ADVP here))
+     ,
+     (NP-SBJ we)
+     (VP have
+	 (NP (ADJP so many)
+	     ,
+	     (INTJ uh)
+	     ,
+	     ethnic people))
+     .
+     E_S))
+( (S (NP-SBJ We)
+     (VP have
+	 (NP Italians))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP have
+	 (NP Portuguese))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP have
+	 (NP (NP Russians)
+	     and
+	     (NP Polish)))
+     .
+     E_S))
+( (S And
+     (NP-SBJ it)
+     (VP depends
+	 ,
+	 (PP-LOC out
+		 (ADVP here))
+	 ,
+	 (INTJ like)
+	 (X (NP (NP the type)
+		(PP of
+		    (NP people))
+		(SBAR (WHNP-2 0)
+		      (S (NP-SBJ-1 you)
+			 (VP 're
+			     (VP going
+				 (S (NP-SBJ *-1)
+				    (VP to
+					(VP entertain
+					    (NP *T*-2))))))))))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     ?
+     E_S))
+( (CODE SpeakerA109 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB110 .))
+( (S So
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD hard)
+	 ,
+	 (INTJ uh))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ you)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 you)
+     (RS ])
+     (ADVP just)
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP pick
+		    (NP something)
+		    ,
+		    (PP for
+			(EDITED (RM [)
+				(NP-UNF the)
+				,
+				(IP +))
+			(NP (NP the
+				(RS ])
+				group)
+			    (SBAR (WHNP-3 that)
+				  (S (NP-SBJ-2 you)
+				     (VP 're
+					 (VP going
+					     (S (NP-SBJ *-2)
+						(VP to
+						    (VP entertain
+							(PP for
+							    (NP *T*-3))
+							(NP-TMP that particular time))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA111 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB112 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ they)
+     (VP 're
+	 (ADJP-PRD big
+		   (PP on
+		       (NP (NP finger food)
+			   (NP *ICH*-2))))
+	 (ADVP-LOC here)
+	 ,
+	 (ADVP too)
+	 (PRN .
+	      (S (NP-SBJ You)
+		 (VP know))
+	      ,)
+	 (NP-2 (NP chicken wings)
+	       and
+	       ,
+	       (INTJ uh)
+	       ,
+	       (NP ribs)
+	       ,
+	       and
+	       (NP (NP that kind)
+		   (PP of
+		       (NP stuff)))
+	       .
+	       (INTJ Uh)
+	       ,
+	       (NP barbecue)
+	       and
+	       ,
+	       (INTJ uh)
+	       ,
+	       (S-NOM (NP-SBJ *)
+		      (VP cooking
+			  (PP-LOC out
+				  (PP in
+				      (NP the yard)))
+			  ,
+			  (EDITED (RM [)
+				  (NP it)
+				  ,
+				  (NP-UNF ya-)
+				  ,
+				  (IP +)
+				  (RS ]))
+			  (PRN (S (NP-SBJ you)
+				  (VP know))
+			       ,)
+			  (SBAR-TMP (WHADVP-1 when)
+				    (S (NP-SBJ it)
+				       (VP 's
+					   (ADJP-PRD nice)
+					   (ADVP-TMP *T*-1))))))
+	       .
+	       (NP (NP Barbecue)
+		   (ADVP-LOC outside))
+	       ,
+	       (NP chicken)
+	       and
+	       (NP (NP that kind)
+		   (PP of
+		       (NP stuff)))))
+     .
+     E_S))
+( (CODE SpeakerA113 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB114 .))
+( (CODE SpeakerA115 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (SQ Have
+      (NP-SBJ you)
+      (ADVP-TMP ever)
+      (VP had
+	  (NP crawfish))
+      ?
+      E_S))
+( (CODE SpeakerB116 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ no)
+	,
+	E_S))
+( (S but
+     (NP-SBJ I)
+     (VP have
+	 (VP had
+	     (NP shrimp)))
+     .
+     E_S))
+( (CODE SpeakerA117 .))
+( (S (INTJ Oh)
+     .
+     (NP-SBJ-1 You)
+     (VP ought 
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP try
+		    (NP some crawfish)))))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP are
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (S But
+     (INTJ see)
+     ,
+     (S-SBJ (NP-SBJ that)
+	    (VP 's
+		(NP-PRD (NP one good thing)
+			(PP about
+			    (S-NOM (NP-SBJ *)
+				   (VP living
+				       (PP-LOC down
+					       (ADVP here))))))))
+     (VP is
+	 ,
+	 (SBAR-PRD 0
+		   (S (ADVP-TMP usually)
+		      (NP-TPC (NP anybody)
+			      (SBAR (WHNP-1 that)
+				    (S (NP-SBJ *T*-1)
+				       (VP comes
+					   (ADVP-DIR over)))))
+		      (PRN ,
+			   (S (NP-SBJ you)
+			      (VP know))
+			   ,)
+		      (SBAR-ADV (ADVP even)
+				if
+				(S (NP-SBJ it)
+				   (VP 's
+				       (INTJ like)
+				       ,
+				       (NP-PRD (NP (PP out 
+						       (PP of 
+							   (NP town)))
+						   guests)
+					       and
+					       (NP stuff)))))
+		      ,
+		      (NP-SBJ they)
+		      (VP want
+			  (NP our cooking)))))
+     .
+     E_S))
+( (CODE SpeakerB118 .))
+( (FRAG (INTJ Oh)
+	,
+	(PP of
+	    (NP course))
+	.
+	E_S))
+( (CODE SpeakerA119 .))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ they)
+     (VP want
+	 (NP it)
+	 (PP from
+	     (PP-LOC down
+		     (ADVP here))))
+     .
+     E_S))
+( (CODE SpeakerB120 .))
+( (S (NP-SBJ That)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (CODE SpeakerA121 .))
+( (CODE SpeakerB122 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA123 .))
+( (SBAR-PRP Because
+	    ,
+	    (ADVP just)
+	    (INTJ like)
+	    (S (ADVP-TMP now)
+	       ,
+	       (NP-TPC (ADVP especially)
+		       crawfish)
+	       ,
+	       (NP-SBJ-1 it)
+	       (VP is
+		   (VP starting
+		       (S (NP-SBJ *-1)
+			  (VP to
+			      (VP move
+				  (PRT out))))
+		       (PRN ,
+			    (S (NP-SBJ you)
+			       (VP know))))))
+	    ,
+	    E_S))
+( (S and
+     (NP-SBJ-1 (ADJP more and more) people)
+     (VP are
+	 (VP beginning
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP find
+			(PRT out)
+			(SBAR (WHADJP-2 how good)
+			      (S (NP-SBJ it)
+				 (VP is
+				     (ADJP-PRD *T*-2)))))))))
+     .
+     E_S))
+( (CODE SpeakerB124 .))
+( (INTJ Really
+	?
+	E_S))
+( (CODE SpeakerA125 .))
+( (S-UNF But
+	 ,
+	 N_S))
+( (CODE SpeakerB126 .))
+( (SQ Is
+      (NP-SBJ it)
+      (PP-PRD like
+	      (NP shrimp))
+      ?
+      E_S))
+( (CODE SpeakerA127 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD similar))
+     .
+     E_S))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB128 .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADJP-PRD similar))
+     .
+     E_S))
+( (CODE SpeakerA129 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 not
+	 (ADJP-PRD-UNF exactly))
+     .
+     E_S))
+( (CODE SpeakerB130 .))
+( (X Ch-
+     ,
+     N_S))
+( (CODE SpeakerA131 .))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ it)
+     (VP 's
+	 (VP got
+	     (NP (NP a taste)
+		 (PP of
+		     (NP its own)))
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know)))))
+     ,
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF is))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP is
+	 (RS ])
+	 (ADJP-PRD similar)
+	 (ADVP (TYPO to)) 
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ you)
+		      (ADVP only)
+		      (VP eat
+			  (NP (NP the
+				  ,
+				  tails)
+			      (PP of
+				  (NP it)))))))
+     .
+     E_S))
+( (CODE SpeakerB132 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ it)
+     (VP does)
+     ?
+     E_S))
+( (CODE SpeakerA133 .))
+( (CODE SpeakerB134 .))
+( (SQ Does
+      ,
+      (NP-SBJ it)
+      (VP look
+	  (PP like
+	      (NP a lobster)))
+      ?
+      E_S))
+( (CODE SpeakerA135 .))
+( (CODE SpeakerB136 .))
+( (CODE SpeakerA137 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ it)
+     (VP looks
+	 (ADVP more)
+	 (PP like
+	     (NP a crab)))
+     .
+     E_S))
+( (CODE SpeakerB138 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ it)
+     (VP looks
+	 (ADVP more)
+	 (PP like
+	     (NP a crab)))
+     .
+     E_S))
+( (CODE SpeakerA139 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB140 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA141 .))
+( (S-UNF But
+	 ,
+	 N_S))
+( (CODE SpeakerB142 .))
+( (SQ Are
+      (NP-SBJ they)
+      (ADJP-PRD thin
+		,
+		long
+		or
+		wide)
+      ?
+      E_S))
+( (CODE SpeakerA143 .))
+( (INTJ No
+	.
+	E_S))
+( (CODE SpeakerB144 .))
+( (CODE SpeakerA145 .))
+( (S (INTJ Um)
+     ,
+     (EDITED (RM [)
+	     (S-IMP (NP-SBJ *)
+		    (VP let
+			(S (NP-SBJ me)
+			   (VP think
+			       (PP-UNF of)))))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP ca
+	 n't
+	 (ADVP even)
+	 (VP think
+	     (PP of
+		 (RS ])
+		 (SBAR (WHNP what)
+		       (S-UNF (NP-SBJ you))))))
+     ,
+     N_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (EDITED (RM [)
+			  (SBAR-ADV-UNF if)
+			  ,
+			  (IP +)
+			  (RS ]))
+		  (EDITED (RM [)
+			  (NP-SBJ it)
+			  ,
+			  (IP +))
+		  (INTJ uh)
+		  ,
+		  (NP-SBJ it)
+		  (RS ])
+		  (VP looks
+		      (EDITED (RM [)
+			      (PP-UNF like)
+			      ,
+			      (IP +))
+		      (ADVP more)
+		      (PP like
+			  (RS ])
+			  (NP (NP a cross)
+			      (PP between
+				  ,
+				  (INTJ uh)
+				  ,
+				  (NP (NP a crab)
+				      (EDITED (RM [)
+					      and
+					      ,
+					      (IP +))
+				      (INTJ uh)
+				      ,
+				      and
+				      (RS ])
+				      (NP a lobster)))))))))
+     .
+     E_S))
+( (CODE SpeakerB146 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA147 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ it)
+	       (VP 's
+		   (ADJP-PRD small
+			     (PP like
+				 (NP that)))))
+	    E_S))
+( (S and
+     (NP-SBJ it)
+     (VP 's
+	 (VP got
+	     (NP the pinchers)
+	     (PP like
+		 (NP a crab))))
+     .
+     E_S))
+( (S But
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADJP-PRD similar
+		   (PP to
+		       (NP a lobster)))
+	 (ADVP too)
+	 ,
+	 (SBAR-PRP because
+		   (S (NP-SBJ the tail)
+		      (VP has
+			  (VP got
+			      (NP the little pleats)
+			      (PP-LOC in
+				      (NP it))
+			      ,
+			      (SBAR-ADV like
+					(S (NP-SBJ a
+						   ,
+						   lobster)
+					   (VP would 
+					       (VP *?*)))))))))
+     .
+     E_S))
+( (CODE SpeakerB148 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA149 .))
+( (CODE SpeakerB150 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerA151 .))
+( (CODE SpeakerB152 .))
+( (INTJ Yep
+	.
+	E_S))
+( (CODE SpeakerA153 .))
+( (S And
+     (NP-SBJ we)
+     (VP call
+	 (S (NP-SBJ them)
+	    (NP-PRD mud bugs)))
+     .
+     E_S))
+( (CODE SpeakerB154 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA155 .))
+( (S But
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ they)
+     (VP 're
+	 (ADJP-PRD fantastic tasting))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP are
+	 (ADJP-PRD so good))
+     .
+     E_S))
+( (NP Everybody
+      ,
+      N_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP the season)
+		 (PP for
+		     (NP them)))
+	 (ADVP-TMP right now))
+     .
+     E_S))
+( (CODE SpeakerB156 .))
+( (SBARQ (EDITED (RM [)
+		 And
+		 ,
+		 (IP +))
+	 and
+	 (RS ])
+	 (WHADVP-1 where)
+	 (SQ did
+	     (NP-SBJ you)
+	     (VP say
+		 (SBAR 0
+		       (S (NP-SBJ you)
+			  (VP were
+			      (PP-PRD from
+				      (ADVP-LOC *T*-1)))))))
+	 ?
+	 E_S))
+( (CODE SpeakerA157 .))
+( (NP Louisiana
+      .
+      E_S))
+( (CODE SpeakerB158 .))
+( (NP Louisiana
+      .
+      E_S))
+( (SQ (INTJ Oh)
+      ,
+      (INTJ well)
+      ,
+      do
+      (NP-SBJ you)
+      (VP do
+	  (NP cajun cooking))
+      ?
+      E_S))
+( (CODE SpeakerA159 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (CODE SpeakerB160 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP love
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP (NP blackened) 
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))
+		  ,)
+	     (INTJ uh)
+	     ,
+	     (EDITED (RM [)
+		     (NP-UNF the)
+		     ,
+		     (IP +))
+	     (NP (NP the
+		     (RS ])
+		     fish)
+		 and
+		 (NP the chicken)
+		 and
+		 (NP (NP that kind)
+		     (PP of
+			 (NP stuff))))))
+     .
+     E_S))
+( (CODE SpeakerA161 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB162 .))
+( (S (INTJ Oh)
+     !
+     (NP-SBJ We)
+     (VP have
+	 (NP (NP a few places)
+	     (SBAR *ICH*-2))
+	 (PP-LOC up
+		 (ADVP here))
+	 (SBAR-2 (WHNP-1 that)
+		 (S (NP-SBJ *T*-1)
+		    (VP do
+			(NP that)))))
+     .
+     E_S))
+( (CODE SpeakerA163 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB164 .))
+( (S And
+     (SBAR-ADV if
+	       (S (ADVP-TMP ever)
+		  (NP-SBJ I)
+		  (VP see
+		      (NP it)
+		      (PP on
+			  (NP the menu)))))
+     ,
+     (NP-SBJ I)
+     (ADVP-TMP always)
+     (VP get
+	 (NP it))
+     .
+     E_S))
+( (CODE SpeakerA165 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerB166 .))
+( (S (NP-SBJ It)
+     (VP is
+	 (ADJP-PRD so good))
+     .
+     E_S))
+( (CODE SpeakerA167 .))
+( (S (NP-SBJ You)
+     (VP know)
+     ,
+     E_S))
+( (CODE SpeakerB168 .))
+( (SBARQ (INTJ Now)
+	 (WHADVP-1 how)
+	 (SQ do
+	     (NP-SBJ they)
+	     (VP do
+		 (NP the blackened)
+		 (ADVP-MNR *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA169 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ You)
+		(VP buy
+		    (NP it)))
+	     ,
+	     (IP +))
+     (NP-SBJ you)
+     (VP buy
+	 (NP it)
+	 (RS ])
+	 (PP as
+	     (NP a seasoning)))
+     .
+     E_S))
+( (CODE SpeakerB170 .))
+( (SQ But
+      ,
+      (INTJ uh)
+      ,
+      do
+      (NP-SBJ-1 you)
+      (VP have
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP have
+		     (NP (NP a certain skillet)
+			 ,
+			 or
+			 (NP something))))))
+      ?
+      E_S))
+( (CODE SpeakerA171 .))
+( (INTJ Huh-uh
+	.
+	E_S))
+( (CODE SpeakerB172 .))
+( (CODE SpeakerA173 .))
+( (INTJ Huh-uh
+	.
+	E_S))
+( (CODE SpeakerB174 .))
+( (INTJ No
+	?
+	E_S))
+( (CODE SpeakerA175 .))
+( (S (NP-SBJ I)
+     (VP-UNF cook
+	     (NP mine))
+     ,))
+( (SQ (INTJ well)
+      ,
+      do
+      (NP-SBJ you)
+      (VP have
+	  (EDITED (RM [)
+		  (NP-UNF a)
+		  ,
+		  (IP +))
+	  (INTJ uh)
+	  ,
+	  (INTJ like)
+	  (NP a
+	      (RS ])
+	      black iron skillet))
+      ?
+      E_S))
+( (CODE SpeakerB176 .))
+( (S (NP-SBJ I)
+     (VP did
+	 (VP have 
+	     (NP *?*)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP have
+	     (NP it)
+	     (ADVP-TMP now)))
+     .
+     E_S))
+( (S But
+     (NP-SBJ I)
+     (VP have
+	 (ADVP mostly)
+	 (NP Teflon))
+     .
+     E_S))
+( (CODE SpeakerA177 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ okay)
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ you)
+		  (VP could
+		      (VP cook
+			  (NP it)
+			  (EDITED (RM [)
+				  (PP-LOC-UNF in)
+				  ,
+				  (IP +))
+			  (PP-LOC in
+				  (RS ])
+				  (NP that))
+			  (ADVP too))))))
+     ,
+     E_S))
+( (CODE SpeakerB178 .))
+( (FRAG (NP You)
+	(ADVP-TMP now)
+	,
+	N_S))
+( (S-UNF but
+	 ,
+	 N_S))
+( (CODE SpeakerA179 .))
+( (S but
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ I)
+     (ADVP-TMP never)
+     (VP have 
+	 (VP *?*))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP use
+	 ,
+	 (INTJ uh)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP the black iron skillet)
+	 (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP cook
+			(NP mine)))))
+     .
+     E_S))
+( (CODE SpeakerB180 .))
+( (SQ (EDITED (RM [)
+	      (SQ-UNF Do-)
+	      ,
+	      (IP +))
+      does
+      (RS ])
+      (NP-SBJ-1 it)
+      (VP have
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP get
+		     (ADJP-PRD extremely hot)))))
+      ?
+      E_S))
+( (CODE SpeakerA181 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB182 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA183 .))
+( (S But
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S-UNF (NP-SBJ it)
+			    (ADVP really))
+		     ,
+		     (IP +))
+	     (S (NP-SBJ it)
+		(VP-UNF 's
+			(RS ])
+			not))
+	     ,
+	     (IP +))
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ it)
+		     ,
+		     (IP +))
+	     (NP-SBJ it)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP does
+	 n't
+	 (RS ])
+	 (VP (VP burn)
+	     or
+	     (NP-ETC (NP anything)
+		     (PP like
+			 (NP that)))))
+     .
+     E_S))
+( (S (NP-SBJ The blackening)
+     (VP is
+	 (ADVP really)
+	 (NP-PRD the seasoning))
+     .
+     E_S))
+( (CODE SpeakerB184 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA185 .))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP-UNF is))
+	     ,
+	     (IP +))
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 ,
+	 (RS ])
+	 (RS ])
+	 (NP-PRD a blackening seasoning))
+     .
+     E_S))
+( (CODE SpeakerB186 .))
+( (S (INTJ Oh)
+     ,
+     (INTJ oh)
+     ,
+     (NP-SBJ I)
+     (VP see)
+     .
+     E_S))
+( (CODE SpeakerA187 .))
+( (CODE SpeakerB188 .))
+( (CODE SpeakerA189 .))
+( (CODE SpeakerB190 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA191 .))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ that)
+     (VP is
+	 (NP-PRD a seasoning))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ That)
+		(VP-UNF 's
+			(ADVP really)))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 not
+	 (SBAR-PRD like
+		   (S (NP-SBJ-1 you)
+		      (VP would
+			  (VP have
+			      (S (NP-SBJ-2 *-1)
+				 (VP to
+				     (VP (VP cook
+					     (NP it)
+					     (PP-TMP for
+						     (NP (NP an extreme amount)
+							 (PP of
+							     (NP time)))))
+					 ,
+					 or
+					 (NP-ETC (NP something)
+						 (PP like
+						     (NP that)))
+					 ,
+					 (S-PRP (NP-SBJ *-2)
+						(VP to
+						    (VP-UNF get
+							    (NP it))))))))))))
+     ,
+     E_S))
+( (CODE SpeakerB192 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP see)
+     .
+     E_S))
+( (CODE SpeakerA193 .))
+( (SBAR-PRP Because
+	    ,
+	    (S (EDITED (RM [)
+		       (S (NP-SBJ it)
+			  (VP 's
+			      (VP-UNF called)))
+		       ,
+		       (IP +))
+	       (INTJ uh)
+	       ,
+	       (SBAR-NOM-SBJ (WHNP-3 what)
+			     (S (NP-SBJ-2 it)
+				(VP 's
+				    (VP called
+					(S (NP-SBJ *-2)
+					   (NP-PRD *T*-3))))))
+	       (RS ])
+	       (VP is
+		   ,
+		   (NP-PRD Blackening Magic)))
+	    .
+	    E_S))
+( (S And
+     (EDITED (NP-SBJ it))
+     ,
+     (NP-SBJ it)
+     (VP comes
+	 (PP-LOC in
+		 (NP a bottle)))
+     ,
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (INTJ Well)
+     ,
+     (NP-SBJ-1 I)
+     (VP 'm
+	 (VP trying
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP-UNF see)))))
+     .
+     E_S))
+( (CODE SpeakerB194 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA195 .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (VP got
+	     (EDITED (RM [)
+		     (NP-UNF a)
+		     ,
+		     (IP +))
+	     (NP (NP a
+		     (RS ])
+		     picture)
+		 (PP of
+		     (NP Dom De Luise)))
+	     (PP-LOC on
+		     (NP it))))
+     .
+     E_S))
+( (CODE SpeakerB196 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerA197 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB198 .))
+( (INTJ Oh
+	.
+	E_S))
+( (S (INTJ Now)
+     (EDITED (RM [)
+	     (SQ-UNF would)
+	     ,
+	     (IP +))
+     (NP-SBJ you)
+     (VP would
+	 (RS ])
+	 (VP cook
+	     (NP it)
+	     (PP-TMP for
+		     (NP (NP the same amount)
+			 (PP of
+			     (NP time))
+			 (SBAR as
+			       (S (NP-SBJ you)
+				  (VP would
+				      ,
+				      (VP prepare
+					  (NP it)
+					  (NP-TMP any other time)))))))))
+     ?
+     E_S))
+( (CODE SpeakerA199 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB200 .))
+( (SQ Is
+      (NP-SBJ that)
+      (SBAR-NOM-PRD (WHNP-1 what)
+		    (S (NP-SBJ you)
+		       (VP 're
+			   (VP saying
+			       (NP *T*-1)))))
+      ?
+      E_S))
+( (CODE SpeakerA201 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB202 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ uh-huh)
+	.
+	E_S))
+( (SBAR-PRP Because
+	    ,
+	    (S (NP-SBJ I)
+	       (VP could
+		   (VP have
+		       (NP (NP the
+			       ,
+			       (INTJ uh)
+			       ,
+			       chicken)
+			   (PP-LOC on
+				   (NP the skewers))
+			   ,
+			   (PP with
+			       ,
+			       (INTJ uh)
+			       ,
+			       (INTJ uh)
+			       ,
+			       (NP blackened seasoning))))))
+	    .
+	    E_S))
+( (CODE SpeakerA203 .))
+( (S-UNF But
+	 ,
+	 N_S))
+( (CODE SpeakerB204 .))
+( (CODE SpeakerA205 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB206 .))
+( (S And
+     ,
+     (INTJ oh)
+     ,
+     (NP-SBJ that)
+     (VP is
+	 (ADJP-PRD (ADJP so good)
+		   .
+		   (ADJP Delicious)))
+     .
+     E_S))
+( (CODE SpeakerA207 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S But
+     (EDITED (RM [)
+	     (S (NP-SBJ-1 you)
+		(VP do
+		    (VP have
+			(S (NP-SBJ *-1)
+			   (VP to
+			       (VP have
+				   (NP it)))))))
+	     ,
+	     (IP +))
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ-2 you)
+     (VP do
+	 (VP have
+	     (S (NP-SBJ *-2)
+		(VP to
+		    (VP have
+			(S (NP-SBJ (NP it)
+				   (NP *ICH*-4))
+			   (RS ])
+			   (ADJP-PRD hot))
+			(SBAR-TMP (WHADVP-3 when)
+				  (S (NP-SBJ you)
+				     (VP cook
+					 (NP it)
+					 (ADVP-TMP *T*-3))))
+			(PRN .
+			     (S (NP-SBJ I)
+				(VP mean))
+			     ,)
+			(NP-4 your pan))))))
+     .
+     E_S))
+( (CODE SpeakerB208 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA209 .))
+( (CODE SpeakerB210 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA211 .))
+( (S (NP-SBJ-1 It)
+     (VP does
+	 (VP have
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP be
+			(ADJP-PRD really hot)
+			(PRN ,
+			     (S (NP-SBJ you)
+				(VP know))
+			     ,)
+			(SBAR-TMP (WHADVP-2 when)
+				  (S (NP-SBJ you)
+				     (VP put
+					 (NP it)
+					 (ADVP-PUT in)
+					 (ADVP-TMP *T*-2)))))))))
+     .
+     E_S))
+( (S But
+     (NP-SBJ it)
+     (VP 's
+	 not
+	 (SBAR-PRD like
+		   (S (NP-SBJ it)
+		      (VP 's
+			  (ADJP-PRD burned)))))
+     ,
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +)
+	     (RS ]))
+     (SBAR-NOM-SBJ (EDITED (RM [)
+			   (SBAR-NOM-SBJ (WHNP what)
+					 (S-UNF (NP-SBJ it)))
+			   ,
+			   (IP +))
+		   (WHNP-1 what)
+		   (S (NP-SBJ *T*-1)
+		      (VP blackens
+			  (NP it))))
+     ,
+     (RS ])
+     (VP is
+	 (NP-PRD the seasoning))
+     .
+     E_S))
+( (CODE SpeakerB212 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA213 .))
+( (S And
+     (NP-SBJ it)
+     (VP is
+	 (ADJP-PRD so good))
+     .
+     E_S))
+( (INTJ Oh
+	!
+	.
+	E_S))
+( (CODE SpeakerB214 .))
+( (S (NP-SBJ It)
+     (VP is 
+	 (ADJP-PRD *?*))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP love
+	 (NP it))
+     .
+     E_S))
+( (CODE SpeakerA215 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB216 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (PP in
+	 (NP fact))
+     (NP-SBJ I)
+     (RS ])
+     (VP was
+	 (PP-LOC-PRD in
+		     (NP Texas))
+	 (PP-TMP for
+		 (NP a little while)))
+     .
+     E_S))
+( (CODE SpeakerA217 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB218 .))
+( (S And
+     (NP-SBJ I)
+     (VP liked
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP (NP the barbecues)
+	     and
+	     (NP the Mexican food)))
+     .
+     E_S))
+( (CODE SpeakerA219 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB220 .))
+( (S (NP-SBJ I)
+     (VP have
+	 (NP (NP a passion)
+	     (PP for
+		 (NP (NP all that type)
+		     (PP of
+			 (NP different tastes))))))
+     .
+     E_S))
+( (SBAR-PRP Because
+	    (S (NP-SBJ-1 I)
+	       (VP have 
+		   (VP been
+		       (VP brought
+			   (NP *-1)
+			   (PRT up)
+			   (NP-ADV mostly Italian American food)))))
+	    .
+	    E_S))
+( (SBAR-PRP Because
+	    (S (NP-SBJ my
+		       ,
+		       (INTJ uh)
+		       ,
+		       parents)
+	       (VP are
+		   (ADJP-PRD Italian and Portuguese)))
+	    .
+	    E_S))
+( (S So
+     (NP-SBJ we)
+     (VP cook
+	 (NP (NP (NP a lot)
+		 (PP of
+		     (NP pasta)))
+	     ,
+	     and
+	     ,
+	     (INTJ uh)
+	     ,
+	     (NP gravies)
+	     ,
+	     and
+	     (NP pizzas)
+	     ,
+	     and
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))
+		  ,)
+	     (NP roasts)
+	     ,
+	     and
+	     (NP (NP that kind)
+		 (PP of
+		     (NP thing)))))
+     .
+     E_S))
+( (CODE SpeakerA221 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB222 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (SBAR-PRP-PRD (WHADVP-2 why)
+		       (S (NP-SBJ-1 I)
+			  (VP enjoy
+			      (S (NP-SBJ *-1)
+				 (VP (VP going
+					 (PP-DIR to
+						 (NP restaurants)))
+				     and
+				     (EDITED (RM [)
+					     (VP-UNF have)
+					     ,
+					     (IP +))
+				     (PRN (S (NP-SBJ you)
+					     (VP know))
+					  ,)
+				     (VP trying
+					 (RS ])
+					 (NP different things))
+				     (ADVP-PRP *T*-2)))))))
+     .
+     E_S))
+( (CODE SpeakerA223 .))
+( (SQ (INTJ Well)
+      ,
+      have
+      (NP-SBJ-1 you)
+      (ADVP-TMP ever)
+      (VP thought
+	  (PP about
+	      (S-NOM (NP-SBJ-2 *-1)
+		     (VP coming
+			 (PP-DIR to
+				 (NP Louisiana))
+			 (PRN ,
+			      (S (NP-SBJ you)
+				 (VP know))
+			      ,)
+			 (S-PRP (NP-SBJ *-2)
+				(VP to
+				    (VP visit)))))))
+      ?
+      E_S))
+( (CODE SpeakerB224 .))
+( (S (NP-SBJ-1 I)
+     (VP would
+	 (VP love
+	     (S (NP-SBJ *-1)
+		(VP to 
+		    (VP *?*)))))
+     .
+     E_S))
+( (CODE SpeakerA225 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ-1 You)
+     (VP ought
+	 ,
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP come
+		    (ADVP-DIR down)))))
+     .
+     E_S))
+( (CODE SpeakerB226 .))
+( (S-UNF (NP-SBJ I)
+	 ,
+	 N_S))
+( (CODE SpeakerA227 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ-1 you)
+     (VP do
+	 n't
+	 (ADVP even)
+	 (VP have
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP go
+			(NP-ADV all the way)
+			(PP-DIR to
+				(NP New Orleans))
+			(PRN ,
+			     (S (NP-SBJ you)
+				(VP know))
+			     ,)
+			(SBAR-ADV if
+				  (S (NP-SBJ-2 you)
+				     (VP want
+					 (S (NP-SBJ *-2)
+					    (VP to
+						(ADVP really)
+						(VP get
+						    (NP some good food))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB228 .))
+( (INTJ Really
+	?
+	E_S))
+( (CODE SpeakerA229 .))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ-1 you)
+     (VP do
+	 n't
+	 (VP have
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP go
+			(ADVP-DIR that far south))))))
+     .
+     E_S))
+( (CODE SpeakerB230 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA231 .))
+( (S But
+     ,
+     (INTJ uh)
+     ,
+     (PP of
+	 (NP course))
+     ,
+     (ADVP (ADVP the further south)
+	   (SBAR (WHADVP-2 0)
+		 (S (NP-SBJ you)
+		    (VP go
+			(ADVP-DIR *T*-2)))))
+     ,
+     (ADJP-PRD-TPC-3 the better)
+     (NP-SBJ the food)
+     (VP is
+	 (ADJP-PRD *T*-3)
+	 ,
+	 (ADVP (ADVP as far)
+	       (SBAR as
+		     (S (NP-SBJ-1 I)
+			(VP 'm
+			    (VP concerned
+				(NP *-1)))))))
+     .
+     E_S))
+( (CODE SpeakerB232 .))
+( (SQ Is
+      (NP-SBJ that)
+      (ADJP-PRD right)
+      ?
+      E_S))
+( (CODE SpeakerA233 .))
+( (S And
+     (NP-SBJ fact)
+     (VP is
+	 ,
+	 (SBAR-PRD 0
+		   (S (NP-SBJ-1 we)
+		      (VP 're
+			  (VP going
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP take
+					 (NP a vacation)
+					 (NP-TMP this year)))))))))
+     .
+     E_S))
+( (S (NP-SBJ-1 We)
+     (VP 're
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP go
+			(PP-DIR to
+				(NP New Orleans))
+			,
+			(ADVP again))))))
+     .
+     E_S))
+( (CODE SpeakerB234 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA235 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ we)
+     (VP 're
+	 (ADVP only)
+	 (VP going
+	     (PP-DIR down
+		     (ADVP there))
+	     (PP-PRP for
+		     (NP the food))
+	     ,
+	     (ADVP though)))
+     .
+     E_S))
+( (CODE SpeakerB236 .))
+( (SBARQ (INTJ Now)
+	 ,
+	 (EDITED (RM [)
+		 (WHADVP-UNF wher-)
+		 ,
+		 (IP +))
+	 (WHADVP-1 where)
+	 (RS ])
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP go
+		 (SBAR-TMP (WHADVP-2 when)
+			   (S (NP-SBJ you)
+			      (VP go
+				  (ADVP-DIR there)
+				  (ADVP-TMP *T*-2))))
+		 (ADVP-LOC *T*-1)))
+	 ?))
+( (FRAG (INTJ Uh)
+	,
+	(PP-LOC (ADVP right)
+		on
+		(NP (NP Basin Street)
+		    and
+		    (NP those places)))
+	?
+	E_S))
+( (CODE SpeakerA237 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ yeah)
+	.
+	E_S))
+( (S (NP-SBJ We)
+     (VP (VP go
+	     (PP-DIR to
+		     (EDITED (RM [)
+			     (NP-UNF the)
+			     ,
+			     (IP +))
+		     (NP the
+			 (RS ])
+			 French Quarters)))
+	 and
+	 (NP-ETC (NP stuff)
+		 (PP like
+		     (NP that))))
+     .
+     E_S))
+( (CODE SpeakerB238 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA239 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP have
+	 (NP (NP some friends)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP live
+			  (PP-LOC down
+				  (ADVP there)))))))
+     .
+     E_S))
+( (S (CONJP And so)
+     ,
+     (ADVP-TMP usually)
+     (EDITED (RM [)
+	     (S (NP-SBJ we)
+		(VP go
+		    (PP-DIR-UNF to)))
+	     ,
+	     (IP +))
+     (NP-SBJ we)
+     (VP do
+	 n't
+	 (VP go
+	     (PP-DIR to
+		     (RS ])
+		     (NP the tourist ones))))
+     .
+     E_S))
+( (CODE SpeakerB240 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA241 .))
+( (S (NP-SBJ We)
+     (VP go
+	 (PP-DIR to
+		 (NP (NP the ones)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ they)
+			      (VP tell
+				  (S (NP-SBJ us)
+				     (VP to
+					 (VP go
+					     (PP-DIR to
+						     (NP *T*-1))))))))))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     .
+     E_S))
+( (CODE SpeakerB242 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP see)
+     .
+     E_S))
+( (CODE SpeakerA243 .))
+( (S And
+     (NP-SBJ we)
+     (VP went
+	 (PP-DIR to
+		 (NP this one)))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP was
+	 (VP called
+	     (S (NP-SBJ *)
+		(NP-PRD The Back Porch))))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ they)
+     (VP were
+	 (VP cooking
+	     (NP the stuff)
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))
+		  ,)
+	     (SBAR-TMP while
+		       (S (EDITED (RM [)
+				  (S (NP-SBJ we)
+				     (VP-UNF were))
+				  ,
+				  (IP +))
+			  (NP-SBJ we)
+			  (VP went
+			      (RS ])
+			      (PP on
+				  (NP this boat ride)))))))
+     .
+     E_S))
+( (S (CONJP And
+	    then)
+     (NP-SBJ we)
+     (VP (VP came
+	     (ADVP-DIR back))
+	 and
+	 (VP ate
+	     ,
+	     (PP-LOC out
+		     (PP on
+			 (NP this
+			     (PRN ,
+				  (S (NP-SBJ it)
+				     (VP was
+					 (PP-PRD like
+						 (NP a
+						     (NX *RNR*-1))))))
+			     (NX-1 back porch))))))
+     .
+     E_S))
+( (S-UNF And
+	 ,
+	 (INTJ uh)
+	 ,
+	 (ADVP-TMP usually)
+	 (SBAR-ADV if
+		   (S (NP-SBJ you)
+		      (VP can
+			  (VP find
+			      (NP somebody)))))
+	 ,
+	 N_S))
+( (CODE SpeakerB244 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD nice))
+     .
+     E_S))
+( (CODE SpeakerA245 .))
+( (S (PP Of
+	 (NP course))
+     (INTJ now)
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ you)
+		  (VP go
+		      (PP-DIR down
+			      (ADVP there))
+		      (ADVP-TMP *T*-1))))
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ they)
+     (VP 've
+	 (VP-UNF got
+		 (ADVP just)))
+     ,
+     N_S))
+( (S (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP (TYPO no where)) 
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ you)
+			  (VP can
+			      (VP miss
+				  (ADVP-LOC *T*-1)))))))
+     .
+     E_S))
+( (CODE SpeakerB246 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA247 .))
+( (S (NP-SBJ I)
+     (VP have
+	 (ADVP-TMP never)
+	 (VP (VP gone
+		 (PP-DIR to
+			 (NP a restaurant)))
+	     ,
+	     and
+	     not
+	     (ADVP just)
+	     (VP been
+		 (ADJP-PRD so full))))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD unreal))
+     .
+     E_S))
+( (CODE SpeakerB248 .))
+( (INTJ Really
+	?
+	E_S))
+( (CODE SpeakerA249 .))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD so good))
+     .
+     E_S))
+( (S (NP-TPC The seasoning)
+     (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +)
+	     (RS ]))
+     (NP-SBJ it)
+     (VP 's
+	 (ADVP just)
+	 (ADJP-PRD unreal))
+     .
+     E_S))
+( (CODE SpeakerB250 .))
+( (SQ And
+      do
+      n't
+      (NP-SBJ they)
+      (VP make
+	  (NP (NP a lot)
+	      (PP-UNF of
+		      ,
+		      (INTJ um))))
+      ,
+      N_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP trying
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP think
+			(SBAR (WHNP-2 what)
+			      (S (NP-SBJ they)
+				 (VP call
+				     (S (NP-SBJ *T*-2)
+					(NP-PRD their soup))))))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     .
+     E_S))
+( (CODE SpeakerA251 .))
+( (NP Gumbo
+      .
+      E_S))
+( (CODE SpeakerB252 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (NP jumbo
+      .
+      E_S))
+( (CODE SpeakerA253 .))
+( (FRAG (INTJ No)
+	,
+	(NP gumbo)
+	.
+	E_S))
+( (CODE SpeakerB254 .))
+( (NP Gumbo
+      ,
+      E_S))
+( (CODE SpeakerA255 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB256 .))
+( (INTJ right
+	.
+	E_S))
+( (CODE SpeakerA257 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB258 .))
+( (SQ (EDITED (RM [)
+	      (EDITED (RM [)
+		      (SQ-UNF Is)
+		      ,
+		      (IP +))
+	      (SQ-UNF is)
+	      ,
+	      (RS ])
+	      (IP +))
+      is
+      (RS ])
+      (NP-SBJ that)
+      (PP-PRD with
+	      (NP seafood))
+      ?
+      E_S))
+( (CODE SpeakerA259 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (S (NP-SBJ You)
+     (VP can
+	 (ADVP even)
+	 (VP make
+	     (NP it)
+	     (PP with
+		 (NP chicken))))))
+( (S or
+     (NP-SBJ you)
+     (VP can
+	 (VP make
+	     (NP it)
+	     (PP with
+		 (NP seafood))))
+     .
+     E_S))
+( (CODE SpeakerB260 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ you)
+     (VP can 
+	 (VP *?*))
+     ?
+     E_S))
+( (CODE SpeakerA261 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB262 .))
+( (S (NP-SBJ That)
+     (VP looks
+	 (ADJP-PRD good)
+	 (ADVP too))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 (VP seen
+	     (S (EDITED (RM [)
+			(S (NP-SBJ them)
+			   (VP-UNF d-))
+			,
+			(IP +))
+		(NP-SBJ (NP the chefs)
+			(PP on
+			    (NP T V)))
+		(VP do
+		    (RS ])
+		    (NP that)))))
+     ?
+     E_S))
+( (CODE SpeakerA263 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB264 .))
+( (S And
+     (INTJ oh)
+     ,
+     (NP-SBJ it)
+     (VP looks
+	 (ADJP-PRD delicious))
+     .
+     E_S))
+( (CODE SpeakerA265 .))
+( (S And
+     (NP-SBJ I)
+     (VP 'll
+	 (VP tell
+	     (NP you)
+	     (NP what)))
+     .
+     E_S))
+( (CODE SpeakerB266 .))
+( (S (INTJ See)
+     (NP-SBJ we)
+     (VP do
+	 ,
+	 (INTJ um)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP a thing))
+     ,))
+( (S (NP-SBJ we)
+     (VP call
+	 (S (NP-SBJ it)
+	    (NP-PRD a sea bake)))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ You)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ you)
+     (RS ])
+     (VP take
+	 (NP clams))
+     ,
+     E_S))

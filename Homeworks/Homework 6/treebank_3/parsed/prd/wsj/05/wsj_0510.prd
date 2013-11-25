@@ -1,0 +1,89 @@
+
+
+( (S (NP-SBJ Doskocil Cos.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 its bank-debt payments)
+                  (VP have
+                      (VP been
+                          (VP extended
+                              (NP *-1)
+                              (PP-CLR until
+				      (NP May 31 , 1990))
+			      ,
+			      (S-PRP (NP-SBJ *)
+				     (VP to
+					 (VP give
+					     (NP it)
+					     (NP (NP more time)
+						 (SBAR (WHADVP-2 0)
+						       (S (NP-SBJ *)
+							  (VP to
+							      (VP sell
+								  (NP its 
+								      Wilson Foods Corp. 
+								      retail and fresh meat operations)
+								  (ADVP-TMP *T*-2)))))))))))))))
+     .))
+( (S (NP-SBJ-1 The company)
+     (VP was
+	 (S (NP-SBJ *-1)
+	    (VP (VP (VP to
+			(VP repay
+			    (NP-2 (NP (QP $ 58 million)
+				      *U*)
+				  (PP in
+				      (NP debt)))
+			    (PP-TMP-3 on
+				      (NP Dec. 31))))
+		    and
+		    (VP (NP=2 (QP $ 15 million)
+			      *U*)
+			(PP-TMP=3 on
+				  (NP March 31)))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP acquired
+         (NP the debt)
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ-2 it)
+		      (VP paid
+			  (NP (QP $ 155 million) *U*)
+			  (S-PRP (NP-SBJ *-2)
+				 (VP to
+				     (VP purchase
+					 (NP Wilson))))
+			  (NP-TMP last year)
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ An agreement
+             (S (NP-SBJ *)
+                (VP to
+                    (VP sell
+                        (NP the Wilson assets)
+                        (PP-CLR for
+				(NP (NP (QP $ 150 million)
+					*U*)
+				    (PP in
+					(NP cash
+					    and
+					    notes))))))))
+     (VP collapsed
+         (PP-TMP in
+		 (NP late September))
+         ,
+         (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ (NP the buyer)
+			      ,
+			      (NP (NP a company)
+				  (VP controlled
+				      (NP *)
+				      (PP by
+					  (NP-LGS George Gillett)))))
+		      ,
+		      (VP could 
+			  n't
+			  (VP secure
+			      (NP financing)
+			      (ADVP-TMP *T*-1))))))
+     .))

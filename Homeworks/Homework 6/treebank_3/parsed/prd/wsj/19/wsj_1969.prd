@@ -1,0 +1,55 @@
+
+
+( (S (NP-SBJ Cincinnati Microwave Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP introduced
+                      (NP two radar detectors)))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP One unit)
+			,
+			(VP called
+			    (S (NP-SBJ *)
+			       (NP-PRD the Escort)))
+			,)
+	      (VP uses
+		  (NP a new digital signal-processing technology)
+		  (S-CLR (NP-SBJ *-1)
+			 (VP to
+			     (VP detect
+				 (NP radar signals)
+				 (ADVP-TMP (ADVP much sooner)
+					   (SBAR than
+						 (S (NP-SBJ *)
+						    (VP was
+							(ADVP-TMP previously)
+							(ADJP-PRD possible))))))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP The other)
+		      ,
+		      (VP called
+			  (S (NP-SBJ *)
+			     (NP-PRD the Solo)))
+		      ,)
+	      (VP (VP is
+		      (ADJP-PRD battery operated))
+		  and
+		  (VP is
+		      (NP-PRD (NP the first high-performance radar detector)
+			      (SBAR (WHNP-1 that)
+				    (S (NP-SBJ *T*-1)
+				       (VP does n't
+					   (VP need
+					       (NP a power cord)))))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))

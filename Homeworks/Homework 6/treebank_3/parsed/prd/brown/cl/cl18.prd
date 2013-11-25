@@ -1,0 +1,2097 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (S ``
+     (NP-SBJ She)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ-1 she)
+                  (VP has
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP finish
+                                 (NP a story))))))))
+     '' .))
+( (S (NP-SBJ He)
+     (VP shrugged)
+     .))
+( (S ``
+     (S (NP-SBJ I)
+        (VP asked
+            (NP her)
+            (SBAR (WHADVP-1 why)
+                  (S (NP-SBJ she)
+                     (VP could n't
+                         (VP do
+                             (NP it)
+			     (NP-TMP tomorrow)
+			     (ADVP-PRP *T*-1)))))))
+     , but
+     (S (NP-SBJ it)
+        (VP seems
+            (SBAR 0
+                  (S (S (NP-SBJ the muse)
+                        (VP is
+                            (VP working
+                                (ADVP-MNR good)
+				(NP-TMP tonight))))
+                     and
+                     (S (NP-SBJ-2 she)
+                        (VP 's
+                            (ADJP-PRD afraid
+                                      (S (NP-SBJ *-2)
+                                         (VP to
+                                             (VP let
+                                                 (S (NP-SBJ it)
+						    (VP go))))))))))))
+     '' .))
+( (S (S (NP-SBJ Casey)
+        (VP made
+            (NP some comment)))
+     , but
+     (S (NP-SBJ his mind)
+        (VP was
+            (ADJP-PRD busy)
+	    (SBAR-TMP as
+		      (S (NP-SBJ he)
+			 (VP considered
+			     (NP the man))))))
+     .))
+( (S (S (NP-SBJ His name)
+        (VP was
+            (NP-PRD George Needham)))
+     and
+     (S (NP-SBJ he)
+        ,
+        (ADVP too)
+        ,
+        (VP had
+            (VP come
+                (PP from
+                    (NP a good family)))))
+     .))
+( (S (NP-SBJ-2 He)
+     (VP was
+	 (UCP-PRD (NP (ADVP perhaps)
+		      thirty-two)
+		  ,
+		  (VP (ADVP-MNR nicely) 
+		      set
+		      (NP *-2)
+		      (PRT up)
+		      ,
+		      (PP with
+			  (NP (NP (ADJP light brown)
+				  hair)
+			      (SBAR (WHNP-1 that)
+				    (S (NP-SBJ *T*-1)
+				       (VP had
+					   (NP a pronounced wave)))))))))
+     .))
+( (S (S (NP-SBJ-2 He)
+        (VP was
+            (ADVP-TMP always)
+            (VP (VP (ADVP-MNR well) 
+                    groomed
+		    (NP *-2))
+                and
+                (VP (ADVP-MNR well)
+                    tailored
+		    (NP *-2)))))
+     , and
+     (S (NP-SBJ he)
+        (VP (VP had
+                (NP (NP that
+                        (NP rich man 's)
+                        look)
+                    (SBAR (WHNP-1 which)
+                          (S (NP-SBJ *T*-1)
+                             (VP was
+                                 (ADJP-PRD authentic enough)))))) 
+            and
+            (VP came
+                (PP from
+                    (NP (NP two good prep schools)
+                        and
+                        (NP a proper university))))))
+     .))
+( (S (S-ADV (NP-SBJ *-4)
+	    (NP-PRD An only child))
+     ,
+     (NP-SBJ-4 he)
+     (VP had
+         (VP done
+             (NP (NP all the things)
+                 (SBAR (WHNP-3 that)
+                       (S (NP-SBJ (NP young men)
+                                  (SBAR *ICH*-1))
+                          (VP do
+                              (NP *T*-3)
+			      (SBAR-1 (WHNP-5 who)
+				      (S (NP-SBJ-2 *T*-5)
+					 (VP have
+					     (VP been
+						 (VP born
+						     (NP *-2)
+						     (PP to
+							 (NP (NP money)
+							     and
+							     (NP social position))))))))))))
+	     (SBAR-TMP until
+		       (S (NP-SBJ-6 his father)
+			  (VP double-crossed
+			      (NP him)
+			      (PP by
+				  (S-NOM (NP-SBJ-7 *-6)
+					 (VP dying
+					     (S-ADV (NP-SBJ *-7) 
+						    (ADJP-PRD broke))))))))))
+     .))
+( (S (PP-TMP Since
+	     (ADVP then))
+     (NP-SBJ he)
+     (VP had
+         (VP worked
+             (PP at
+                 (NP this
+                     and
+                     that))
+	     ,
+	     (SBAR-ADV though
+		       (S (NP-SBJ some)
+			  (VP said
+			      (SBAR 0
+				    (S (NP-SBJ his main interest)
+				       (VP was
+					   (NP-PRD gambling)))))))))
+     .))
+( (S (S (NP-SBJ All this)
+        (VP went
+            (PP through
+                (NP (NP Casey 's)
+                    mind))
+	    (PP-TMP in
+		    (NP the first instant))))
+     , but
+     (S (SBAR-NOM-SBJ (WHNP-1 what)
+		      (S (NP-SBJ *T*-1)
+			 (VP held
+			     (NP his interest))))
+        (VP was
+            (NP-PRD the fact
+                    (SBAR that
+                          (S (NP-SBJ these two)
+                             (VP should
+                                 (VP be
+                                     (ADVP-PRD together)
+				     (ADVP at
+					   all))))))))
+     .))
+( (S For
+     (NP-SBJ he)
+     (VP had
+         (VP understood
+             (SBAR that
+                   (S (NP-SBJ-1 Betty)
+                      (VP had
+                          (VP been
+                              (VP engaged
+                                  (NP *-1)
+                                  (PP to
+                                      (NP (NP a boy)
+                                          (VP named
+                                              (S (NP-SBJ *)
+						 (NP-PRD Barry Jenkins))))))))))))
+     .))
+( (S (S (NP-SBJ She)
+        (VP had
+            (VP grown
+                (PRT up)
+                (PP with
+                    (NP young Jenkins)))))
+     , and
+     (S (NP-SBJ he)
+        (VP had
+            (VP heard
+                (SBAR that
+                      (S (NP-SBJ they)
+                         (VP had
+                             (VP been
+                                 (PP-PRD at
+                                         (NP (NP the point)
+                                             (PP of
+                                                 (S-NOM (NP-SBJ *)
+							(VP getting
+							    (VP married))))))
+				 (ADVP-TMP (ADVP at
+						 least)
+					   twice))))))))
+     .))
+( (S (S (NP-SBJ-1 He)
+        (VP wanted
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP ask
+                       (NP her)
+                       (PP about
+                           (NP Jenkins)))))
+	    (ADVP-TMP now)))
+     , but
+     (S (NP-SBJ he)
+        (VP knew
+            (SBAR 0
+                  (S (NP-SBJ he)
+                     (VP could n't
+                         (VP do
+                             (ADVP so)
+			     (PP in
+				 (NP (NP Needham 's)
+				     presence))))))))
+     .))
+( (S (CONJP And so) 
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (ADVP-TMP still)
+	    (UCP-PRD (VP wondering)
+		     and
+		     (ADJP (NP-ADV a little)
+			   perplexed)))
+     ,
+     (NP-SBJ-1 he)
+     (VP (VP grinned
+	     (PP at
+		 (NP the girl)))
+	 and
+	 (VP spoke
+	     (ADVP-MNR lightly))
+	 (S-PRP (NP-SBJ *-1)
+		(VP to
+		    (VP make
+			(ADJP sure
+			      (SBAR that
+				    (S (NP-SBJ she)
+				       (VP would
+					   (VP know
+					       (SBAR 0
+						     (S (NP-SBJ he)
+							(VP was
+							    (VP kidding)))))))))))))
+     .))
+( (SBARQ ``
+         (WHADVP-1 Where)
+         (SQ did
+             (NP-SBJ you)
+             (VP pick
+                 (NP him)
+                 (PRT up)
+		 (ADVP-LOC *T*-1)))
+         '' ? ?))
+( (S ``
+     (INTJ Oh)
+     ,
+     (NP-SBJ I)
+     (VP 've
+	 (VP known
+	     (NP him)
+	     (NP-TMP quite a while)))
+     '' .))
+( (S (NP-SBJ She)
+     (VP glanced
+         (PP at
+             (NP her companion))
+         (ADVP-MNR fondly))
+     .))
+( (SQ ``
+      (VP Have
+	  (VP *?*))
+      n't
+      (NP-SBJ I)
+      ,
+      (NP-VOC George)
+      '' ? ?))
+( (S-1 ``
+       (S (NP-SBJ I)
+	  (VP 've
+	      (VP been
+		  (PP-PRD after
+			  (NP her))
+		  (PP-TMP for
+			  (NP years)))))
+       '' 
+       (PRN ,
+	    (S (NP-SBJ Needham)
+	       (VP said
+		   (S *T*-1)))
+	    ,) 
+       `` but
+       (S (NP-SBJ-2 I)
+	  (VP 've
+	      (ADVP-TMP never)
+	      (VP been
+		  (ADJP-PRD able
+			    (S (NP-SBJ *-2)
+			       (VP to
+				   (VP get
+				       (ADVP anywhere)))))
+		  (PP-TMP until
+			  (NP the last few days)))))
+       '' .))
+( (S (NP-SBJ (NP The girl 's)
+             eyes)
+     (VP were
+         (ADVP-MNR softly)
+	 (VP shining)
+	 (SBAR-TMP as
+		   (S (NP-SBJ she)
+		      (VP (VP reached
+			      (ADVP-DIR out))
+			  and
+			  (VP touched
+			      (NP (NP Casey 's)
+				  hand))))))
+     .))
+( (SQ ``
+      Can
+      (NP-SBJ I)
+      (VP tell
+          (NP you)
+          (NP a secret))
+      ? ?))
+( (S (NP-SBJ-1 We)
+     (VP 're
+         (VP going
+             (S (NP-SBJ-2 *-1)
+                (VP to
+                    (VP get
+                        (VP married
+			    (NP *-2)))))))
+     .))
+( (SQ Do
+      (NP-SBJ you)
+      (VP approve)
+      '' ? ?))
+( (S (S (NP-SBJ Casey)
+        (VP kept
+            (S (NP-SBJ his smile)
+	       (ADJP-PRD fixed))))
+     , but
+     (S (NP-SBJ some small inner disturbance)
+        (VP was
+            (VP working
+                (PP on
+                    (NP him))
+		(SBAR-TMP as
+			  (S (NP-SBJ he)
+			     (VP thought
+				 (ADVP again)
+				 (PP about
+				     (NP (NP Needham)
+					 ,
+					 (SBAR (WHNP-1 who)
+					       (S (NP-SBJ *T*-1)
+						  (VP was
+						      (ADJP-PRD (ADJP (NP-ADV (QP eight or ten) years)
+								      older)
+								(PP than
+								    (NP the girl))))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP wondered
+         (SBAR (SBAR whether
+                     (S (NP-SBJ-1 Needham)
+                        (VP was
+                            (VP going
+                                (S (NP-SBJ *-1)
+                                   (VP to
+                                       (VP (VP swear
+                                               (PP off
+                                                   (NP gambling)))
+                                           and
+                                           (VP get
+                                               (NP a steady job)))))))))
+               or
+               (SBAR whether
+                     (S (NP-SBJ he)
+                        (VP was
+                            (VP counting
+                                (PP on
+                                    (NP (NP the income)
+					(PP from
+					    (NP (NP Betty 's)
+						estate))
+                                        (SBAR (WHNP-2 0)
+					      (S (NP-SBJ *T*-2) 
+						 (VP to
+						     (VP subsidize
+							 (NP him)))))))))))))
+     .))
+( (S (S (NP-SBJ (NP None)
+                (PP of
+                    (NP this)))
+        (VP showed
+            (PP-LOC in
+		    (NP his face))))
+     , and
+     (S (NP-SBJ-1 he)
+        (VP tried
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP keep
+                       (NP his skepticism)
+                       (PP in
+                           (NP hand)))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP made
+         (NP a point)
+         (PP (PP of
+                 (S-NOM (NP-SBJ *-1)
+			(VP frowning)))
+             ,
+             (PP of
+                 (S-NOM (NP-SBJ *-1)
+			(VP acting
+			    (PRT out)
+			    (NP (NP the part)
+				(PP of
+				    (NP the fond father-confessor))))))))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ-1 I)
+	      (VP 'll
+		  (VP have
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP give
+				 (NP it)
+				 (NP some thought)))))))
+     '' ,
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-2))
+     .))
+( (SQ ``
+      (S (NP-SBJ You)
+         (VP would n't
+             (VP want
+                 (S (NP-SBJ-1 me)
+                    (VP to
+                        (VP say
+                            (INTJ yes)
+                            (PP without
+                                (S-NOM (NP-SBJ *-1)
+				       (VP making
+					   (ADJP sure
+						 (SBAR 0
+						       (S (NP-SBJ his intentions)
+							  (VP are
+							      (ADJP-PRD honorable))))))))))))))
+      ,
+      (SQ (VP would
+	      (VP *?*))
+          (NP-SBJ you))
+      '' ? ?))
+( (S (S (NP-SBJ She)
+        (VP made
+            (NP a face)
+            (PP at
+                (NP him))))
+     (CONJP and
+	    then)
+     (S (NP-SBJ she)
+        (VP laughed))
+     .))
+( (FRAG ``
+	(PP Of
+	    (NP course))
+	not '' .)) 
+( (S (S ``
+        (S-TPC-2 (NP-SBJ I)
+		 (VP 'll
+		     (VP get
+			 (NP my references)
+			 (PP in
+			     (NP order)))))
+        '' ,
+        (NP-SBJ Needham)
+	(VP said
+	    (S *T*-2)))
+     , and
+     (S (SBAR-ADV though
+		  (S (NP-SBJ he)
+		     (VP spoke
+			 (PP with
+			     (NP a smile)))))
+        ,
+        (NP-SBJ Casey)
+        (ADVP somehow)
+        (VP got
+            (NP the idea
+                (SBAR that
+                      (S (NP-SBJ-1 he)
+                         (VP was not
+                             (ADVP particularly)
+			     (VP amused
+                                 (NP *-1))))))))
+     .))
+( (S-IMP ``
+	 (NP-SBJ *)
+	 (VP Stop
+	     (PRT by)
+	     (NP-TMP any time)
+	     ,
+	     (NP-VOC Casey))
+	 '' .))
+( (S (NP-SBJ He)
+     (VP (VP stood
+             (ADVP-DIR up))
+         and
+         (VP touched
+             (NP (NP the girl 's)
+                 arm)))
+     .))
+( (S-IMP ``
+	 (NP-SBJ *)
+	 (VP Come
+	     (PRT on)
+	     ,
+	     (NP-VOC darling))
+	 .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ you)
+		  (VP 're
+		      (ADVP really)
+		      (ADJP-PRD serious
+				(PP about
+				    (S-NOM (NP-SBJ *)
+					   (VP working
+					       (PP on
+						   (NP that story)))))))))
+     ,
+     (NP-SBJ I)
+     (VP 'd
+         (ADVP better)
+         (VP take
+             (NP you)
+             (ADVP-DIR home)))
+     '' .))
+( (S (NP-SBJ-1 Casey)
+     (VP watched
+         (S (NP-SBJ them)
+	    (VP go))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP (VP (ADVP-TMP still)
+			frowning
+			(ADVP-MNR absently))
+		    (CONJP and
+			   then)
+		    (VP dismissing
+			(NP the matter)
+			(SBAR-TMP as
+				  (S (NP-SBJ he)
+				     (VP called
+					 (PP for
+					     (NP his check)))))))))
+     .))
+( (S (S (SBAR-TMP As
+		  (S (NP-SBJ he)
+		     (VP went
+			 (ADVP-DIR out))))
+        (NP-SBJ he)
+        (VP told
+            (NP Freddie)
+            (SBAR 0
+                  (S (NP-SBJ the dinner)
+                     (VP was
+                         (ADJP-PRD perfect))))))
+     , and
+     (S (SBAR-TMP (WHADVP-1 when)
+		  (S (NP-SBJ he)
+		     (VP (VP got
+			     (NP his hat and coat)
+			     (PP from
+				 (NP Nancy Parks)))
+			 and
+			 (VP put
+			     (NP a fifty-cent piece)
+			     (PP-PUT in
+				     (NP the slot)))
+			 (ADVP-TMP *T*-1))))
+        ,
+        (NP-SBJ he)
+        (VP told
+            (NP-2 her)
+            (S (NP-SBJ *-2)
+               (VP to
+                   (VP be
+                       (ADJP-PRD sure
+                                 (SBAR that
+                                       (S (NP-SBJ it)
+                                          (VP went
+                                              (PP toward
+                                                  (NP her dowry)))))))))))
+     .))
+( (S (S (NP-SBJ A taxi)
+        (VP took
+            (NP him)
+	    (PP-DIR (ADVP back)
+		    to
+		    (NP (NP the bar and grill)
+			(SBAR (WHADVP-1 where)
+			      (S (NP-SBJ he)
+				 (VP had
+				     (VP left
+					 (NP his car)
+					 (ADVP-LOC *T*-1)))))))))
+     , and
+     (S (ADVP-TMP (NP a few minutes)
+		  later)
+        (NP-SBJ he)
+        (VP found
+            (NP a parking place)
+            (PP-LOC across
+		    (NP (NP the street)
+			(PP from
+			    (NP his apartment))))))
+     .))
+( (S (SBAR-PRP Because
+	       (S (NP-SBJ-1 his mind)
+		  (VP had
+		      (VP been
+			  (ADVP otherwise)
+			  (VP occupied
+			      (NP *-1)
+			      (PP-TMP for
+				      (NP (NP the past couple)
+					  (PP of
+					      (NP hours)))))))))
+     ,
+     (NP-SBJ-2 he)
+     (VP did
+         not
+         (VP think
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP (VP look) 
+			and 
+			(VP see
+			    (SBAR if
+				  (S (NP-SBJ (NP Jerry Burton 's)
+					     car)
+				     (VP was
+					 (ADVP-TMP still)
+					 (ADVP-LOC-PRD there))))))))))
+     .))
+( (S (PP In
+         (NP fact))
+     ,
+     (NP-SBJ he)
+     (VP did
+         not
+         (VP think
+             (PP about
+                 (NP Jerry Burton))
+             (ADVP at
+		   all)
+	     (SBAR-TMP until
+		       (S (NP-SBJ he)
+			  (VP (VP entered
+				  (NP his living room))
+			      and
+			      (VP closed
+				  (NP the door)
+				  (PP behind
+				      (NP him))))))))
+     .))
+( (SINV (ADVP-TMP Only then)
+        ,
+        (SBAR-TMP (WHADVP-1 when)
+		  (S (NP-SBJ his glance)
+		     (VP (VP focused
+			     (PP on
+				 (NP the divan)))
+			 and
+			 (VP saw
+			     (SBAR that
+				   (S (NP-SBJ it)
+				      (VP was
+					  (ADJP-PRD empty)))))
+			 (ADVP-TMP *T*-1))))
+        ,
+        did
+	(NP-SBJ he)
+	(VP remember
+	    (NP his earlier problem))
+        .))
+( (S (PP (ADVP Even)
+         from
+         (SBAR (WHADVP-2 where)
+               (S (NP-SBJ he)
+                  (VP stood
+		      (ADVP-LOC *T*-2)))))
+     (NP-SBJ he)
+     (VP could
+         (VP see
+             (NP (NP (NP the
+                         (ADJP neatly
+			       folded)
+                         blanket)
+                     (SBAR (WHNP-1 that)
+                           (S (NP-SBJ he)
+                              (VP had
+                                  (VP spread
+                                      (NP *T*-1)
+                                      (PP over
+                                          (NP Burton)))))))
+                 ,
+                 (NP the pillow)
+                 ,
+                 (NP (NP the sheet)
+                     (PP of
+                         (NP (NP paper)
+                             (PP-LOC on
+				     (NP (NP top)
+					 (PP of
+					     (NP it))))))))))
+     .))
+( (S (ADVP-TMP Then)
+     (NP-SBJ he)
+     (VP was
+         (VP striding
+             (PP-DIR across
+		     (NP the room))
+	     ,
+	     (S-ADV (S (NP-SBJ-1 his thoughts)
+		       (VP confused
+			   (NP *-1)))
+		    but
+		    (S (NP-SBJ the worry)
+		       (VP building
+			   (ADVP swiftly)
+			   (PP inside
+			       (NP him))
+			   (SBAR-TMP as
+				     (S (NP-SBJ he)
+					(VP snatched
+					    (PRT up)
+					    (NP the note)))))))))
+     .))
+( (S-IMP (NP-VOC Jack)
+	 :
+	 (NP-SBJ *)
+	 (VP Look
+	     (PP-LOC in
+		     (NP the wastebasket)))
+	 .))
+( (S (S (NP-SBJ I)
+        (VP knew
+            (SBAR 0
+                  (S (NP-SBJ (NP the only way)
+                             (SBAR (WHADVP-1 0)
+                                   (S (NP-SBJ I)
+                                      (VP could
+                                          (VP beat
+                                              (NP you)
+					      (ADVP-MNR *T*-1))))))
+                     (VP was
+			 (S-PRD (NP-SBJ *)
+				(VP to
+				    (VP play
+					(NP possum)))))))))
+     , but
+     (S (S (NP-SBJ it)
+           (VP was
+               (NP-PRD a good try)
+	       ,
+	       (NP-VOC kid)))
+        , and
+        (S (NP-SBJ I)
+           (VP appreciate
+               (NP it))))
+     .))
+( (S (S (NP-SBJ The wastebasket)
+        (VP stood
+            (PP-LOC near
+		    (NP the wall))
+            (ADVP-LOC next
+		      (PP to
+			  (NP the divan)))))
+     , and
+     (S (NP-TMP (NP the instant)
+		(SBAR (WHADVP-2 0)
+		      (S (NP-SBJ Casey)
+			 (VP picked
+			     (NP it)
+			     (PRT up)
+			     (ADVP-TMP *T*-2)))))
+        (NP-SBJ he)
+        (VP knew
+            (SBAR (WHNP-1 what)
+                  (S (NP-SBJ *T*-1)
+                     (VP had
+                         (VP happened))))))
+     .))
+( (S (S (NP-SBJ (NP The discarded papers)
+                (ADVP-LOC inside))
+        (VP were
+            (ADJP-PRD sodden)))
+     ,
+     (S (NP-SBJ there)
+        (VP was
+            (NP-PRD (NP a glint)
+                    (PP of
+                        (NP liquid)))
+	    (PP-LOC at
+		    (NP the bottom))))
+     , and
+     (S (NP-SBJ (NP the smell)
+                (PP of
+                    (NP whisky)))
+        (VP was
+            (ADJP-PRD strong and distinct)))
+     .))
+( (S (NP-SBJ-2 He)
+     (VP put
+         (NP the basket)
+         (PRT down)
+         (ADVP-MNR distastefully)
+	 ,
+	 (S-ADV (NP-SBJ-3 *-2)
+		(VP (VP muttering
+			(ADVP-MNR softly))
+		    and
+		    (VP (ADVP thoroughly)
+			disgusted
+			(NP *-3)
+			(PP with
+			    (NP (NP himself)
+				and
+				(NP (NP his plan)
+				    (SBAR (WHNP-1 that)
+					  (S (NP-SBJ *T*-1)
+					     (VP had
+						 (VP seemed
+						     (ADJP-PRD so foolproof))))))))))))
+     .))
+( (S For
+     (NP-SBJ he)
+     (VP remembered
+         (ADVP too well)
+         (SBAR (WHADVP-2 how)
+               (S (NP-SBJ-1 he)
+                  (VP had
+                      (VP (VP brought
+                              (ADVP back)
+                              (NP the loaded drinks)
+                              (PP to
+                                  (NP Burton)))
+                          (CONJP and
+				 then)
+                          (VP returned
+                              (PP to
+                                  (NP the kitchen))
+                              (S-PRP (NP-SBJ *-1)
+				     (VP to
+					 (VP get
+					     (NP weaker drinks)
+					     (PP for
+						 (NP himself))))))
+			  (ADVP-MNR *T*-2))))))
+     .))
+( (S (S (PP-TMP For
+		(NP another second
+		    (QP or
+			two)))
+        (NP-SBJ he)
+        (VP gave
+            (PRT in)
+            (PP to
+                (NP (NP the annoyance)
+                    (SBAR (WHNP-3 that)
+                          (S (NP-SBJ-1 *T*-3)
+                             (VP was
+                                 (VP directed
+                                     (NP *-1)
+                                     (PP at
+                                         (NP himself))))))))))
+     ; ;
+     (S (ADVP-TMP then)
+        (NP-SBJ-4 his mind)
+        (VP moved
+            (PRT on)
+	    (S-PRP (NP-SBJ-2 *-4)
+		   (VP to
+		       (VP be
+			   (VP confronted
+			       (NP *-2)
+			       (PP by
+				   (NP-LGS (NP something)
+					   (ADJP (ADVP far more)
+						 serious)))))))))
+     , and
+     (S (SBAR-TMP as
+		  (S (NP-SBJ the thought)
+		     (VP expanded)))
+        ,
+        (NP-SBJ the implications)
+        (VP jarred
+            (NP him)))
+     .))
+( (S (NP-SBJ (NP It)
+             (SBAR *EXP*-1))
+     (ADVP-TMP no longer)
+     (VP mattered
+	 (SBAR-1 that
+		 (S (NP-SBJ Burton)
+		    (VP had
+			(VP outsmarted
+			    (NP him))))))
+     .))
+( (S (NP-SBJ The important thing)
+     (VP was
+         (SBAR-PRD that
+                   (S (NP-SBJ-1 Burton)
+                      (VP had
+                          (VP gone
+                              (ADVP-DIR somewhere)
+                              (S-PRP (NP-SBJ *-1)
+				     (VP to
+					 (VP meet
+					     (NP a blackmailer))))
+                              (PP with
+                                  (NP (NP a gun)
+                                      (PP-LOC in
+					      (NP his pocket)))))))))
+     .))
+( (S And
+     (NP-SBJ that gun)
+     (VP was
+         (ADJP-PRD empty))
+     .))
+( (S (SBAR-TMP (ADVP Even)
+	       before
+	       (S (NP-SBJ his mind)
+		  (VP had
+		      (VP rounded
+			  (PRT out)
+			  (NP the idea)))))
+     ,
+     (NP-SBJ he)
+     (VP (VP thrust
+             (NP one hand)
+             (PP into
+                 (NP his trousers pocket)))
+         and
+         (VP pulled
+             (PRT out)
+             (NP (NP the six slugs)
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ he)
+                          (VP had
+                              (VP taken
+                                  (NP *T*-1)
+                                  (PP from
+                                      (NP the revolver)))))))))
+     .))
+( (S (NP-SBJ-2 He)
+     (VP (VP considered
+             (NP them)
+             (PP with
+                 (NP brooding eyes))
+             ,
+             (S-ADV (NP-SBJ-1 brows)
+		    (VP bunched
+			(NP *-1)
+			(SBAR-TMP as
+				  (S (NP-SBJ his brain)
+				     (VP grappled
+					 (PP with
+					     (NP the problem))))))))
+         and
+         (VP tried
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP find
+                        (NP some solution))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said : ``
+         (NP The crazy fool)
+         '' ,
+         (ADVP half aloud))
+     .))
+( (S (NP-SBJ He)
+     (VP put
+         (NP the shells)
+         (PP-PUT on
+		 (NP the table))
+	 ,
+	 (SBAR-ADV as though
+		   (S (NP-SBJ-1 he)
+		      (VP could
+			  (ADVP-TMP no longer)
+			  (VP bear
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP hold
+					 (NP them)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP thought :
+         (SBARQ (WHADVP-1 (WHADVP Where)
+			  (NP the hell))
+                (SQ could
+		    (NP-SBJ he)
+		    (VP have
+			(VP gone
+			    (ADVP-DIR *T*-1))))))
+     ? ?))
+( (SBARQ (WHADVP-1 How)
+         (SQ can
+             (NP-SBJ I)
+             (VP find
+                 (NP him)
+		 (ADVP-MNR *T*-1)))
+         ? ?))
+( (S (S (NP-SBJ There)
+        (VP was
+            (NP-PRD (NP no answer)
+		    (PP to
+			(NP this)))))
+     and
+     (S (NP-SBJ-1 he)
+        (VP began
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP pace
+                       (ADVP back and forth)
+                       (PP across
+                           (NP the room))
+		       ,
+		       (S-ADV (NP-SBJ his imagination)
+			      (PP-PRD out
+				      (PP of
+					  (NP control)))))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP tried
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP tell
+                    (NP himself)
+                    (SBAR that
+                          (S (ADVP maybe)
+                             (NP-SBJ-2 Burton)
+                             (VP had
+                                 (VP sobered
+                                     (PRT up)
+                                     (ADVP enough
+                                           (S (NP-SBJ *-2) 
+                                              (VP to
+                                                  (VP get
+                                                      (NP some sense)))))))))))))
+     .))
+( (S (ADVP Maybe)
+     (NP-SBJ-2 he)
+     (VP (ADVP only)
+         intended
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP (VP scare
+			(NP (NP the blackmailer)
+			    ,
+			    (SBAR (WHNP-1 whoever)
+				  (S (NP-SBJ he)
+				     (VP was
+					 (NP-PRD *T*-1))))))
+		    ,
+		    (SBAR (WHPP-3 in 
+				  (WHNP which case))
+			  (S (NP-SBJ an unloaded gun)
+			     (VP would
+				 (VP be
+				     (ADJP-PRD good enough)
+				     (PP *T*-3)))))))))
+     .))
+( (S (S (NP-SBJ He)
+        (VP thought
+            (PP of
+                (NP (NP other possibilities)
+                    ,
+                    (NP (NP none)
+			(PP of
+			    (NP them))
+                        (ADJP satisfactory))))))
+     , and
+     (S (ADVP-TMP finally)
+        (NP-SBJ-1 he)
+        (VP began
+            (S (NP-SBJ *-1)
+	       (VP (VP to
+		       (VP think))
+		   ,
+		   (VP to
+		       (VP wonder
+			   (SBAR if
+				 (S (NP-SBJ there)
+				    (VP was
+					(NP-PRD (NP some way)
+						(SBAR (WHADVP-2 0)
+						      (S (NP-SBJ he)
+							 (VP could
+							     (VP reach
+								 (NP Burton)
+								 (ADVP-MNR *T*-2)))))))))))))))
+     .))
+( (S (S (ADVP Then)
+        ,
+        (SBAR-TMP as
+		  (S (NP-SBJ he)
+		     (VP turned
+			 (PP-DIR toward
+				 (NP the telephone)))))
+        ,
+        (NP-SBJ-1 it)
+        (VP rang
+            (ADVP-MNR shrilly)
+            (S-PRP (NP-SBJ *-1)
+		   (VP to
+		       (VP shatter
+			   (NP (NP the stillness)
+			       (PP-LOC in
+				       (NP the room))))))))
+     and
+     (S (NP-SBJ he)
+        (VP reached
+            (PP for
+                (NP it))
+            (ADVP-MNR eagerly)))
+     .))
+( (S ``
+     (INTJ-TPC-1 Yeah)
+     '' ,
+     (NP-SBJ he)
+     (VP said
+	 (INTJ *T*-1))
+     .))
+( (NP `` Casey '' ? ?))
+((INTJ ``
+       Yeah
+       ''
+       .))
+( (NP `` Tony Calenda '' .))
+( (S (S (S (NP-SBJ Casey)
+           (VP heard
+               (NP the voice)
+               (ADVP-MNR distinctly)))
+        and
+        (S (NP-SBJ he)
+           (VP knew
+               (SBAR (WHNP-3 who)
+                     (S (NP-SBJ it)
+                        (VP was
+                            (NP-PRD *T*-3)))))))
+     , but
+     (S (NP-SBJ it)
+        (VP took
+            (NP-1 him)
+            (NP-TMP a while)
+	    (S (NP-SBJ *-1)
+	       (VP to
+		   (VP (VP make
+			   (NP the mental readjustment))
+		       and
+		       (VP control
+			   (NP (NP the disturbance)
+			       (PP-LOC inside
+				       (NP his head)))))))))
+     .))
+( (S (SBAR-TMP (WHADVP When)
+	       (S (NP-SBJ he)
+		  (VP heard
+		      (S (NP-SBJ Calenda)
+			 (VP say : ``
+			     (FRAG (WHNP What)
+				   (PP about
+				       (NP (NP that picture)
+					   (SBAR (WHNP-4 0)
+						 (S (NP-SBJ you)
+						    (VP took
+							(NP *T*-4)
+							(NP-TMP this afternoon)))))))
+			     '' ? ?)))))
+     (NP-SBJ It)
+     (ADVP-TMP still)
+     (VP took
+         (NP-1 him)
+         (NP-TMP another few seconds)
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP remember
+		    (NP (NP the job)
+			(SBAR (WHNP-5 0)
+			      (S (NP-SBJ he)
+				 (VP had
+				     (VP done
+					 (NP *T*-5)
+					 (PP for
+					     (NP Frank Ackerly)))))))))))
+     .))
+( (S ``
+     (WHNP-TPC-1 What
+		 picture
+		 ''
+		 ?
+		 ?)
+     (NP-SBJ He)
+     (VP demanded
+	 (WHNP *T*-1)) 
+     .))
+( (S ``
+     (NP-SBJ You)
+     (VP took
+         (NP (NP a picture)
+             (PP of
+                 (NP (NP me)
+                     (PP-LOC at
+			     (NP (NP the corner)
+				 (PP of
+				     (NP Washington
+					 and
+					 Blake)))))))
+	 (NP-TMP (NP (ADVP about)
+		     three thirty)
+		 (NP this afternoon)))
+     '' .))
+( (SBARQ ``
+         (WHNP-1 Who)
+         (SQ (NP-SBJ *T*-1)
+             (VP says
+                 (ADVP so)))
+         '' ? ?))
+( (NP `` 
+      (NP One)
+      (PP of
+          (NP my boys))
+      '' .))
+( (S (NP-SBJ Casey)
+     (VP believed
+         (NP that much))
+     .))
+( (S (NP-SBJ Calenda)
+     (VP was not
+         (NP-PRD (NP the sort)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP walked
+                              (ADVP around)
+                              (SBAR-ADV without
+					(S (NP-SBJ (NP one)
+						   (PP of
+						       (NP his `` boys '')))
+					   (ADJP-PRD close
+						     (PP at
+							 (NP hand))))))))))
+     .))
+((INTJ ``
+       So
+       ''
+       ?
+       ?))
+( (S ``
+     (PP With
+         (S-NOM (NP-SBJ my trial)
+		(VP coming
+		    (PRT up)
+		    (PP in
+			(NP Federal Court))
+		    (NP-TMP next week))))
+     (NP-SBJ I)
+     (VP would n't
+	 (VP want
+	     (S (NP-SBJ-1 that picture)
+		(VP published
+		    (NP *-1)))))
+     '' .))
+( (SBARQ ``
+         (WHNP-2 Who)
+         (SQ (NP-SBJ *T*-2)
+             (VP says
+                 (SBAR 0
+                       (S (NP-SBJ-3 it)
+			  (VP 's
+			      (VP going
+				  (S (NP-SBJ-1 *-3)
+				     (VP to
+					 (VP be
+					     (VP published
+						 (NP *-1)))))))))))
+         '' ? ?))
+( (S ``
+     (NP-SBJ I)
+     (VP would n't
+         (ADVP even)
+         (VP want
+             (S (NP-SBJ it)
+                (VP to
+                    (VP get
+                        (ADVP around))))))
+     '' .))
+( (S (PP Under
+         (NP normal circumstances))
+     (NP-SBJ Casey)
+     (VP was
+         (ADJP-PRD (NP-ADV a little)
+                   fussy)
+	 (SBAR-TMP (WHADVP-3 when)
+		   (S (NP-SBJ people)
+		      (VP told
+			  (NP him)
+			  (SBAR (WHNP-1 what)
+				(S (NP-SBJ *)
+				   (VP to
+				       (VP do
+					   (NP *T*-1)
+					   (PP with
+					       (NP (NP pictures)
+						   (SBAR (WHNP-2 0)
+							 (S (NP-SBJ he)
+							    (VP had
+								(VP taken
+								    (NP *T*-2)))))))))))
+			  (ADVP-TMP *T*-3)))))
+     .))
+( (S (ADVP Even so)
+     ,
+     (NP-SBJ he)
+     (ADVP generally)
+     (VP (VP listened)
+         and
+         (VP was
+             (ADVP usually)
+             (ADJP-PRD reasonable
+                       (PP to
+                           (NP (NP those)
+                               (SBAR (WHNP-1 who)
+                                     (S (NP-SBJ *T*-1)
+                                        (VP voiced
+                                            (NP their objections)
+                                            (ADVP-MNR properly)))))))))
+     .))
+( (S (ADVP-TMP Right now)
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ-3 he)
+     (VP was
+         (ADVP-TMP still)
+         (ADJP-PRD too worried
+                   (PP about
+                       (NP (NP Jerry Burton)
+                           , and
+                           (NP (NP the gun)
+                               (SBAR (WHNP-1 that)
+                                     (S (NP-SBJ *T*-1)
+                                        (VP had
+                                            (NP no bullets)))))
+                           , and
+                           (NP (NP the story)
+                               (SBAR (WHNP-2 0)
+                                     (S (NP-SBJ Burton)
+                                        (VP had
+                                            (VP told
+                                                (NP him)
+						(NP *T*-2))))))
+                           ,))
+                   (S (NP-SBJ *-3)
+                      (VP to
+                          (VP care
+                              (ADVP too much)
+                              (PP about
+                                  (NP Tony Calenda)))))))
+     .))
+( (S (S (NP-SBJ His nerves)
+        (VP were
+            (VP getting
+                (ADJP-PRD (NP-ADV a little)
+                          ragged))))
+     and
+     (S (NP-SBJ his impatience)
+        (VP put
+            (NP an edge)
+            (PP-PUT in
+		    (NP his voice))))
+     .))
+( (S ``
+     (S-IMP-TPC-1 (NP-SBJ *)
+		  (VP Look))
+     '' ,
+     (NP-SBJ he)
+     (VP said
+	 (S-IMP *T*-1))
+     .))
+( (S ``
+     (NP-SBJ-1 I)
+     (VP was
+         (VP hired
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP take
+                        (NP a picture))))))
+     .))
+( (S (NP-SBJ I)
+     (VP took
+         (NP it))
+     .))
+( (S (S (NP-SBJ That)
+        (VP 's
+            (NP-PRD (NP all)
+                    (SBAR (WHNP-1 0)
+                          (S (NP-SBJ I)
+                             (VP know
+                                 (NP *T*-1))))
+		    (PP about
+			(NP it)))))
+     and
+     (S (NP-SBJ that)
+        (VP 's
+            (NP-PRD (NP all)
+                    (SBAR (WHNP-2 0)
+                          (S (NP-SBJ I)
+                             (VP care
+                                 (NP *T*-2)))))))
+     '' .))
+( (S ``
+     (ADVP Maybe)
+     (NP-SBJ you)
+     (VP 'd
+	 (ADVP better)
+	 (VP tell
+	     (NP (NP the guy)
+		 (SBAR (WHNP-1 who)
+		       (S (NP-SBJ *T*-1)
+			  (VP hired
+			      (NP you)))))
+	     (SBAR (WHNP-2 what)
+		   (S (NP-SBJ I)
+		      (VP said
+			  (NP *T*-2))))))
+     '' .))
+( (S ``
+     (NP-SBJ You)
+     (VP tell
+         (NP him))
+     '' .))
+( (S ``
+     (ADJP-TPC-1 All right)
+     '' ,
+     (NP-SBJ Calenda)
+     (VP said
+	 (ADJP *T*-1))
+     ,
+     (S-ADV (NP-SBJ his voice)
+	    (ADVP-TMP still)
+	    (ADJP-PRD quiet))
+     .))
+( (S `` But
+     (S (NP-SBJ I)
+        (VP meant
+            (SBAR (WHNP-1 what)
+                  (S (NP-SBJ I)
+                     (VP said
+                         (NP *T*-1))))
+	    ,
+	    (NP-VOC Casey)))
+     .))
+( (S (SBAR-ADV If
+	       (S (S (NP-SBJ that picture)
+		     (VP gets
+			 (ADVP around)))
+		  and
+		  (S (NP-SBJ I)
+		     (VP find
+			 (PRT out)
+			 (SBAR 0
+			       (S (NP-SBJ you)
+				  (VP had
+				      (NP (NP anything)
+					  (SBAR (WHNP-1 0)
+						(S (NP-SBJ *)
+						   (VP to
+						       (VP do
+							   (NP *T*-1)
+							   (PP with
+							       (NP it))))))))))))))
+     ,
+     (NP-SBJ-2 I)
+     (VP 'm
+         (VP going
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP send
+                        (S (NP-SBJ (NP a couple)
+				   (PP of
+				       (NP my boys)))
+			   (ADVP around)
+			   (VP to
+			       (VP see
+				   (NP you)))))))))
+     '' .))
+( (S ``
+     (S-TPC-1 (NP-SBJ You)
+	      (VP do
+		  (NP that)))
+     '' ,
+     (NP-SBJ Casey)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S-IMP ``
+	 (NP-SBJ-1 *)
+	 (ADVP Just)
+	 (VP be
+	     (ADJP-PRD sure
+		       (S (NP-SBJ *-1)
+			  (VP to
+			      (VP send
+				  (NP your two best boys)))))
+	     ,
+	     (NP-VOC Tony))
+	 '' .))
+( (S (NP-SBJ-1 He)
+     (VP hung
+         (PRT up)
+         (PP with
+             (NP a bang))
+	 ,
+	 (S-ADV (NP-SBJ-2 *-1)
+		(VP (VP annoyed
+			(NP *-2)
+			(PP at
+			    (NP himself))
+			(PP for
+			    (S-NOM (NP-SBJ *)
+				   (VP running
+				       (PRT off)
+				       (PP at
+					   (NP the mouth))
+				       (PP like
+					   (NP that))))))
+		    but
+		    (VP (ADVP-TMP still)
+			(ADVP terribly)
+			concerned
+			(NP *-2)
+			(PP with
+			    (NP (NP the situation)
+				(SBAR (WHNP-4 0)
+				      (S (NP-SBJ-3 he)
+					 (VP had
+					     (VP helped
+						 (S (NP-SBJ *-3)
+						    (VP to
+							(VP create
+							    (NP *T*-4))))))))))))))
+     .))
+( (S (ADVP-TMP (ADVP As soon)
+	       (SBAR as
+		     (S (NP-SBJ he)
+			(VP could
+			    (VP think
+				(ADVP-MNR logically)
+				(ADVP again))))))
+     (NP-SBJ he)
+     (VP (VP reached
+             (PP for
+                 (NP the telephone directory)))
+         and
+         (VP found
+             (NP (NP Jerry Burton 's)
+                 home number)))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP dialed
+             (NP it))
+         and
+         (VP listened
+             (SBAR to 
+		   (S (NP-SBJ it)
+		      (VP ring
+			  (NP ten times))))
+             (SBAR-TMP before
+		       (S (NP-SBJ he)
+			  (VP hung
+			      (PRT up))))))
+     .))
+( (S (NP-SBJ He)
+     (VP called
+         (NP (NP the bar and grill)
+             (SBAR (WHADVP-1 where)
+                   (S (NP-SBJ he)
+                      (VP had
+                          (VP picked
+                              (NP Burton)
+                              (PRT up)
+			      (NP-TMP that afternoon)
+			      (ADVP-LOC *T*-1)))))))
+     .))
+( (S (SBAR-TMP (WHADVP-3 When)
+	       (S (NP-SBJ-1 he)
+		  (VP was
+		      (VP told
+			  (NP *-1)
+			  (SBAR that
+				(S (NP-SBJ no one)
+				   (VP had
+				       (VP seen
+					   (NP Burton)
+					   (PP-TMP since
+						   (ADVP then))))))
+			  (ADVP-TMP *T*-3)))))
+     ,
+     (NP-SBJ he)
+     (VP thought
+         (PP of
+             (NP (NP three other places)
+                 (SBAR (WHNP-2 that)
+                       (S (NP-SBJ *T*-2)
+                          (VP were
+                              (NP-PRD possibilities)))))))
+     .))
+( (S (S (NP-TMP Each time)
+        (NP-SBJ he)
+        (VP got
+            (NP the same answer)))
+     and
+     (S (PP in
+            (NP the end))
+        (NP-SBJ he)
+        (VP gave
+            (PRT up)))
+     .))
+( (S (PP-TMP By
+	     (NP (NP the time)
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ he)
+			  (VP had
+			      (VP smoked
+				  (NP three cigarettes)
+				  (ADVP-TMP *T*-1)))))))
+     (NP-SBJ he)
+     (VP had
+         (VP calmed
+             (PRT down)))
+     .))
+( (S (S (NP-SBJ He)
+        (VP had
+            (VP done
+                (NP (NP all)
+                    (SBAR (WHNP-1 0)
+                          (S (NP-SBJ he)
+                             (VP could
+				 (VP *?*
+				     (NP *T*-1)))))))))
+     and
+     (S (NP-SBJ that)
+        (VP was
+            (NP-PRD that)))
+     .))
+( (S And
+     (ADVP anyway)
+     (NP-SBJ Burton)
+     (VP was not
+         (NP-PRD (NP the kind)
+		 (PP of
+		     (NP guy))
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ-2 *T*-1)
+                          (VP would
+                              (VP be
+                                  (ADJP-PRD likely
+                                            (S (NP-SBJ *-2)
+                                               (VP to
+                                                   (VP get
+                                                       (PP-PRD in 
+							       (NP trouble))
+						       (SBAR-TMP (WHADVP-3 (ADVP even)
+									   when)
+								 (S (NP-SBJ he)
+								    (VP was
+									(ADJP-PRD drunk)
+									(ADVP-TMP *T*-3))))))))))))))
+     .))
+( (S (S (NP-SBJ (NP He)
+                ,
+                (NP Casey)
+                ,)
+        (VP had
+            (VP been
+                (ADJP-PRD scared)
+		(PP-TMP for
+			(NP a while)))))
+     , but
+     (S (NP-SBJ that)
+        (VP had
+            (VP come
+                (ADVP mostly)
+                (PP from
+                    (NP the fact
+                        (SBAR that
+                              (S (NP-SBJ he)
+                                 (VP felt
+                                     (ADJP-PRD responsible)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP should
+         (VP have
+             (VP (VP stayed
+                     (ADVP-LOC here))
+                 and
+                 (VP watched
+                     (NP Burton)))))
+     .))
+( (S (NP He)
+     (VP did
+	 n't)
+ .))
+( (S So
+     (NP-SBJ he)
+     (VP made
+         (NP a mistake))
+     .))
+( (FRAG So
+	(WHNP what)
+	? ?))
+( (S (NP-SBJ-1 He)
+     (VP kept
+         (S (NP-SBJ *-1)
+            (VP telling
+                (NP himself)
+                (NP this)))
+	 (SBAR-TMP as
+		   (S (NP-SBJ-2 he)
+		      (VP went
+			  (PP-DIR out
+				  (PP to
+				      (NP the kitchen)))
+			  (S-PRP (NP-SBJ *-2)
+				 (VP to
+				     (VP make
+					 (NP a drink))))))))
+     .))
+( (SINV (ADVP-TMP Only then)
+        did
+        (NP-SBJ he)
+        (VP decide
+            (SBAR 0
+                  (S (NP-SBJ he)
+                     (VP did n't
+                         (VP want
+                             (NP one))))))
+        .))
+( (S (NP-SBJ-1 He)
+     (VP (VP considered
+             (S (NP-SBJ *-1)
+                (VP opening
+                    (NP (NP a can)
+                        (PP of
+                            (NP beer))))))
+         but
+         (VP vetoed
+             (NP that idea)
+             (ADVP too)))
+     .))
+( (S (ADVP-TMP Finally)
+     (NP-SBJ-1 he)
+     (VP (VP went
+             (PP-DIR into
+		     (NP the bedroom)))
+         and
+         (VP sat
+             (ADVP-DIR down)
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP take
+			    (PRT off)
+			    (NP his shoes))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP had
+         (ADVP just)
+         (VP finished
+             (S (NP-SBJ *-1)
+                (VP unlacing
+                    (NP the right one)))
+	     (SBAR-TMP (WHADVP-2 when)
+		       (S (NP-SBJ the telephone)
+			  (VP rang
+			      (ADVP again)
+			      (ADVP-TMP *T*-2))))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (NP-SBJ he)
+		  (VP snatched
+		      (NP it)
+		      (PRT up)
+		      (ADVP-TMP *T*-2))))
+     (NP-SBJ (NP the voice)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP came
+                          (PP to
+                              (NP him))))))
+     (VP was
+         (ADJP-PRD quick and urgent))
+     .))
+( (S ``
+     (NP-VOC Casey)
+     ? ?
+     (S (NP-SBJ You)
+	(VP do n't
+	    (VP know
+		(NP me))))
+     but
+     (S (NP-SBJ I)
+	(VP know
+	    (NP you)))
+     .))
+( (S-IMP (SBAR-ADV If
+		   (S (NP-SBJ you)
+		      (VP want
+			  (NP a picture))))
+	 (NP-SBJ *)
+	 (VP get
+	     (PP-DIR to
+		     (NP (NP the corner)
+			 (PP of
+			     (NP Adams
+				 and
+				 Clark))))
+	     (ADVP (ADVP just as fast)
+		   (SBAR as
+			 (S (NP-SBJ you)
+			    (VP can
+				(VP *?*))))))
+	 .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ you)
+		  (VP hurry)))
+     (NP-SBJ you)
+     (VP might
+         (VP beat
+             (NP the headquarters boys)))
+     '' .))
+( (S (S (NP-SBJ Casey)
+        (VP heard
+            (NP (NP the click)
+                (PP of
+                    (NP the distant receiver))))
+        (SBAR-TMP before
+		  (S (NP-SBJ he)
+		     (VP could
+			 (VP open
+			     (NP his mouth))))))
+     , and
+     (S (NP-SBJ it)
+        (VP took
+            (NP-1 him)
+            (NP-TMP (QP no more
+			than
+			three)
+		    seconds)
+	    (S (NP-SBJ *-1)
+	       (VP to
+		   (VP make
+		       (NP his decision))))))
+     .))
+( (S For
+     (PP-TMP over
+	     (NP the years))
+     (NP-SBJ he)
+     (VP had
+         (VP received
+             (NP many such calls)))
+     .))
+( (S (NP-SBJ (NP Some)
+             (PP of
+                 (NP them)))
+     (VP came
+         (PP from
+             (NP (NP people)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP identified
+                              (NP themselves)))))))
+     .))
+( (S (NP-SBJ Some)
+     (VP telephoned
+	 (SBAR-PRP because
+		   (S (NP-SBJ he)
+		      (VP had
+			  (VP done
+			      (NP them)
+			      (NP a favor)
+			      (PP-TMP in
+				      (NP the past)))))))
+     .))
+( (FRAG (NP Others)
+	(SBAR-PRP because
+		  (S (NP-SBJ they)
+		     (VP expected
+			 (NP (NP some sort)
+			     (PP of
+				 (NP (NP reward)
+				     (PP for
+					 (NP the information))))))))
+	.))
+( (S (NP-SBJ A few)
+     (VP passed
+         (PRT along)
+         (NP a tip)
+	 (PP-PRP for
+		 (NP the simple reason
+		     (SBAR that
+			   (S (NP-SBJ-1 they)
+			      (VP (VP liked
+				      (NP him))
+				  and
+				  (VP wanted
+				      (S (NP-SBJ *-1)
+					 (VP to
+					     (VP give
+						 (NP him)
+						 (NP a break)))))))))))
+     .))
+( (S (S (NP-SBJ-1 Only an occasional tip)
+        (VP turned
+            (PRT out)
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP be
+                       (NP-PRD a phony))))))
+     , and ,
+     (S (S (PP like
+	       (NP the police))
+	   ,
+	   (NP-SBJ-2 Casey)
+           (VP had
+               (VP made
+                   (NP a point)
+                   (PP of
+                       (S-NOM (NP-SBJ *-2)
+			      (VP running
+				  (PRT down)
+				  (NP all such suggestions)))))))
+        and
+        (S (NP-SBJ he)
+           (VP did not
+               (VP hesitate
+                   (NP-TMP this time)))))
+     .))
+( (S (S (NP-SBJ He)
+        (VP was
+            (PP-LOC-PRD in
+			(NP his car))
+            (PP with
+		(NP his camera and equipment bag))
+	    (PP-TMP in
+		    (NP (QP less
+			    than
+			    two)
+			minutes))))
+     , and
+     (S (NP-SBJ it)
+        (VP took
+            (NP-1 him)
+            (NP-TMP (QP only three) more)
+	    (S (NP-SBJ *-1)
+	       (VP to
+		   (VP reach
+		       (NP (NP the corner)
+			   ,
+			   (NP-LOC (NP a block)
+				   (PP from
+				       (NP Columbus Avenue)))))))))
+     .))
+( (S (S (NP-SBJ It)
+        (VP was
+            (NP-PRD (NP a district)
+                    (PP of
+                        (NP (NP small factories)
+                            and
+                            (NP loft buildings)
+                            and
+                            (NP occasional tenements))))))
+     , and
+     (S (NP-SBJ he)
+        (VP could
+            (VP see
+                (NP the police radio car)
+		(SBAR-TMP as
+			  (S (NP-SBJ he)
+			     (VP (VP rounded
+				     (NP the corner))
+				 and
+				 (VP slammed
+				     (PP on
+					 (NP the brakes)))))))))
+     .))
+( (S (S (NP-SBJ He)
+        (VP did not
+            (VP bother
+                (PP with
+                    (NP his radio)))))
+     --
+     (S (NP-SBJ there)
+        (VP would
+            (VP be
+                (NP-PRD (NP time)
+                        (PP for
+                            (NP that)))
+		(ADVP-TMP later))))
+     -- but
+     (S (SBAR-TMP as
+		  (S (NP-SBJ he)
+		     (VP scrambled
+			 (PP-DIR out
+				 (PP on
+				     (NP the pavement))))))
+        (NP-SBJ he)
+        (VP (VP saw
+                (NP (NP the filling station)
+                    and
+                    (NP the public telephone booth)))
+            and
+            (VP knew
+                (ADVP instantly)
+                (SBAR (WHADVP-2 how)
+                      (S (NP-SBJ-1 he)
+                         (VP had
+                             (VP been
+                                 (VP summoned
+                                     (NP *-1)
+				     (ADVP-MNR *T*-2)))))))))
+     .))
+( (S (NP-SBJ The police car)
+     (VP had
+         (VP pulled
+             (PRT up)
+             (PP-LOC behind
+		     (NP a small sedan))
+	     ,
+	     (S-ADV (NP-SBJ its headlights)
+		    (ADVP still)
+		    (ADJP-PRD on))))
+     .))

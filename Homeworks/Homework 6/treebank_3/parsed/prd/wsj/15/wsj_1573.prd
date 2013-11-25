@@ -1,0 +1,73 @@
+
+
+( (S (NP-SBJ-1 (NP Prices)
+	       (PP for
+		   (NP (NP seats)
+		       (PP-LOC on
+			       (NP the New York Stock Exchange)))))
+     (VP are
+         (VP recovering
+             (NP-EXT a bit)
+             (PP-TMP after
+		     (S-NOM (NP-SBJ *-1)
+			    (VP hitting
+				(NP a four-year low)
+				(NP-TMP earlier this month))))))
+     .))
+( (S (NP-SBJ-1 (NP Two seats)
+               (PP-LOC on
+		       (NP the Big Board)))
+     (VP were
+         (VP sold
+             (NP *-1)
+             (NP-TMP yesterday)
+             (PP-CLR for
+		     (NP (NP $ 455,000 *U*)
+			 ,
+			 and 
+			 then
+			 (NP $ 500,000 *U*)))))
+     .))
+( (S (S (NP-SBJ The previous sale)
+        (VP was
+            (NP-PRD $ 436,000 *U*)
+            (PP-TMP on
+		    (NP Oct. 17))))
+     ;
+     (S (NP-SBJ (NP the last time)
+                (SBAR (WHADVP-1 0)
+                      (S (NP-SBJ prices)
+                         (VP were
+                             (ADJP-PRD that low)
+			     (ADVP-TMP *T*-1)))))
+        (VP was
+            (NP-PRD (NP November 1985)
+                    ,
+                    (SBAR (WHADVP-2 when)
+                          (S (NP-SBJ a seat)
+                             (VP sold
+                                 (PP-CLR for
+					 (NP $ 425,000 *U*))
+				 (ADVP-TMP *T*-2)))))))
+     .))
+( (S (NP-SBJ Prices)
+     (VP peaked
+         (PP-LOC-CLR at
+		     (NP $ 1,150,000 *U*))
+         (PP-TMP in
+		 (NP September 1987)))
+     .))
+( (S (NP-SBJ-1 Seats)
+     (VP are
+         (ADVP-TMP currently)
+         (VP quoted
+	     (NP *-1)
+             (PP-CLR at
+		     (NP (NP (NP $ 430,000 *U*)
+			     (VP bid
+				 (NP *)))
+			 and
+			 (NP (NP $ 525,000 *U*)
+			     (VP asked
+				 (NP *)))))))
+     .))

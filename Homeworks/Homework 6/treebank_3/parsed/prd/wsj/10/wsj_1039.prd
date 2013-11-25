@@ -1,0 +1,98 @@
+
+
+( (S (NP-SBJ-1 (NP Amdahl Corp.)
+	       ,
+	       (NP (NP a maker)
+		   (PP of
+		       (NP mainframe computers)))
+	       ,)
+     (VP reported
+         (NP (NP a sharp decline)
+             (PP in 
+                 (NP net income))
+	     (PP-TMP for
+		     (NP its third quarter)))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP citing
+		    (NP (NP (NP pricecutting)
+			    (PP by
+				(NP competitors))) 
+			and
+			(NP (NP adverse effects)
+			    (PP from
+				(NP a strong U.S. dollar)))))))
+     .))
+( (S (NP-SBJ Net income)
+     (VP fell
+         (NP-EXT 37 %)
+         (PP-DIR to
+		 (NP (NP (QP $ 32.9 million) *U*)
+		     , or
+		     (NP (NP 30 cents)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 52.2 million) *U*)
+		     , or
+		     (NP (NP 48 cents)
+			 (NP-ADV a share))))
+	 ,
+	 (PP-TMP in
+		 (NP the year-ago period)))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 15 %)
+         (PP-DIR to
+		 (NP (QP $ 534.3 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 464.7 million) *U*)))
+     .))
+( (S (NP-SBJ (NP Amdahl 's)
+             results)
+     (VP were
+         (ADJP-PRD (ADJP somewhat worse)
+		   (SBAR than
+			 (FRAG (VP expected))))) 
+     .))
+( (S (NP-SBJ (NP Jay Stevens)
+             ,
+             (NP (NP an analyst)
+		 (PP with
+		     (NP Dean Witter Reynolds)))
+             ,)
+     (VP (VP said
+             (SBAR 0
+                   (S (NP-SBJ he)
+                      (VP expected
+			  (S (NP-SBJ the
+				     (NAC-LOC Sunnyvale
+					      ,
+					      Calif.)
+				     ,
+				     company)
+			     (VP to
+                                 (VP earn
+                                     (NP (NP 35 cents)
+                                         (NP-ADV a share))
+				     (PP-TMP for
+					     (NP the quarter)))))))))
+         and
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ (NP the firm 's)
+                              weaker profit)
+                      (VP was
+                          (ADVP partly)
+                          (NP-PRD (NP the result)
+				  (PP of
+				      (NP (NP increased competition)
+					  (PP from
+					      (NP (NP International Business Machines Corp.)
+						  ,
+						  (NP (NP (NP Amdahl 's)
+							  principal competitor)
+						      (PP for
+							  (NP mainframe sales)))))))))))))
+     .))

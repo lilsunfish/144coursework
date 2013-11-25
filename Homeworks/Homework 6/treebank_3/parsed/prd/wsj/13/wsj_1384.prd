@@ -1,0 +1,25 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Consumer spending)
+		      (PP-LOC in
+			      (NP Britain)))
+	      (VP (VP rose
+		      (NP-EXT 0.1 %)
+		      (PP-TMP in
+			      (NP the third quarter))
+		      (PP-DIR from
+			      (NP-TMP the second quarter))) 
+		  and
+		  (VP was
+		      (ADVP-PRD up
+				(NP 3.8 %)
+				(PP from
+				    (ADVP-TMP (NP a year)
+					      ago))))))
+     ,
+     (NP-SBJ the Central Statistical Office)
+     (VP estimated
+	 (SBAR 0
+	       (S *T*-1))
+	 (NP-TMP Friday))
+     .))

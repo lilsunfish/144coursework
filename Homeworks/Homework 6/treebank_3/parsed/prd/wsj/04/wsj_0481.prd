@@ -1,0 +1,136 @@
+
+
+( (S (NP-SBJ The New York Times Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP reached
+                      (NP (NP a settlement)
+			  (PP with
+			      (NP (NP independent home delivery dealers)
+				  (PP-LOC in
+					  (NP the metropolitan
+					      New York
+					      area))))
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ *T*-1)
+                                   (VP will
+                                       (VP free
+					   (S (NP-SBJ the newspaper)
+                                              (VP to
+                                                  (VP expand
+                                                      (NP home delivery circulation)))))))))))))
+     .))
+( (S (NP-SBJ The settlement)
+     (VP stemmed
+         (PP-CLR from
+		 (NP (NP a lawsuit)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ the dealers)
+			      (VP filed
+				  (NP *T*-1)
+				  (PP-TMP in
+					  (NP 1982))
+				  (SBAR-TMP (WHADVP-2 when)
+					    (S (NP-SBJ the Times)
+					       (VP began
+						   (NP its own competing direct delivery service)
+						   (ADVP-TMP *T*-2))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The pact)
+	      (VP calls
+		  (SBAR for
+			(S (NP-SBJ the Times)
+			   (VP to
+			       (VP pay
+				   (NP dealers)
+				   (NP (NP (NP (QP $ 3.6 million) *U*)
+					   (PP over
+					       (NP six years)))
+				       ,
+				       (CONJP as well as)
+				       (NP (NP other payments)
+					   (PP in
+					       (NP (NP the form)
+						   (PP of
+						       (NP (NP subsidies)
+							   (PP over
+							       (NP three years))))))
+					   ,
+					   (VP based
+					       (NP *)
+					       (PP-CLR (PP on
+							   (NP (NP the number)
+							       (PP of
+								   ``
+								   (NP (NP new customers)
+								       (VP started
+									   (NP *)
+									   (PP-LGS by
+										   (NP the dealers)))))))
+						       and
+						       (PP on
+							   (NP pricing structures))))))))))))
+     ,
+     ''
+     (NP-SBJ the Times)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ-1 (NP The amount)
+               (PP of
+                   (NP the settlement)))
+     (VP will
+         (VP be
+             (VP taken
+                 (NP *-1)
+                 (PP-CLR as
+			 (NP (NP a charge)
+			     (PP against
+				 (NP earnings))))
+                 (PP-TMP in
+			 (NP the fourth quarter)))))
+     .))
+( (S (NP-SBJ (NP The settlement)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP involves
+                          (NP (NP most)
+                              (PP of
+                                  (NP (NP the 300 independent newspaper dealers)
+                                      (PP-LOC in
+					      (NP the New York area))))))))
+             ,)
+     (VP will
+         (VP allow
+	     (S (NP-SBJ the Times)
+                (VP to
+                    (VP (ADVP-MNR freely)
+                        operate
+                        (NP its own direct home delivery system))))))
+     .))
+( (S (NP-SBJ Home delivery)
+     (VP is
+         (NP-PRD (NP the
+		     (ADJP fastest growing)
+		     segment)
+		 (PP of
+		     (NP (NP the Times 's)
+			 (QP 1.1 million)
+			 daily circulation))))
+     .))
+( (S (ADVP-TMP Currently)
+     ,
+     (NP-SBJ (NP (QP about 60) %)
+	     (PP of
+		 (NP (NP home delivery subscribers)
+		     (PP-LOC in
+			     (NP the New York area)))))
+     (VP receive
+	 (NP the paper)
+	 (ADVP directly)
+	 (PP-CLR from
+		 (NP the Times)))
+     .))

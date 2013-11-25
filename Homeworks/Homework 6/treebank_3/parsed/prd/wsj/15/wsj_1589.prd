@@ -1,0 +1,55 @@
+
+
+( (NP-HLN (NP COCA-COLA Co .)
+	  (PRN -LRB-
+	       (NP-LOC Atlanta)
+	       -RRB-)
+	  --))
+( (S (NP-SBJ-1 (NP Anton Amon)
+               and
+               (NP George Gourlay))
+     (VP were
+         (VP elected
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP vice presidents)
+			(PP of
+			    (NP this soft-drink company))))))
+     .))
+( (S (S (NP-SBJ (NP Mr. Amon)
+                ,
+                (ADJP (NP 46 years)
+		      old)
+                ,)
+        (VP is
+            (NP-PRD (NP (NP the company 's)
+			director)
+                    (PP of
+                        (NP quality assurance)))))
+     ;
+     (S (ADVP-TMP most recently)
+        ,
+        (NP-SBJ he)
+        (VP served
+            (PP-CLR as
+		    (NP (NP vice president)
+			,
+			(NP operations)))
+            ,
+            (PP for
+		(NP Coca-Cola Enterprises))))
+     .))
+( (S (S (NP-SBJ (NP Mr. Gourlay)
+                ,
+                (NP 48)
+                ,)
+        (VP is
+            (NP-PRD (NP manager)
+                    (PP for
+                        (NP corporate manufacturing operations)))))
+     ;
+     (S (NP-SBJ he)
+        (VP was
+            (NP-PRD (NP assistant vice president)
+		    (PP-LOC at
+			    (NP the company)))))
+     .))

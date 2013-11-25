@@ -1,0 +1,74 @@
+
+
+( (S (NP-SBJ (NP (NP Sotheby 's)
+                 Holdings Inc.)
+             ,
+             (NP (NP the parent)
+                 (PP of
+                     (NP (NP the auction house)
+                         (NP Sotheby 's))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP its net loss)
+                          (PP for
+                              (NP the
+                                  (ADJP seasonally slow)
+                                  third quarter)))
+                  (VP narrowed
+                      (PP-CLR from
+			      (ADVP (NP a year)
+				    earlier))
+                      (PP on 
+                          (NP (NP a leap)
+                              (PP-LOC in 
+				      (NP operating revenue))))))))
+     .))
+( (S (NP-SBJ The New York-based company)
+     (VP reported
+         (NP (NP a third-quarter net loss)
+             (PP of
+                 (NP (NP (QP $ 5.1 million) *U*)
+                     , or
+                     (NP (NP 10 cents)
+                         (NP-ADV a share)))))
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP a year-earlier net loss)
+		     (PP of
+			 (NP (NP (QP $ 6.2 million) *U*)
+			     , or
+			     (NP (NP 12 cents)
+				 (NP-ADV a share))))))))
+     .))
+( (S (NP-SBJ Operating revenue)
+     (VP surged
+         (NP-EXT 54 %)
+         (PP-TMP in
+		 (NP the latest period))
+         (PP-DIR to
+		 (NP (QP $ 42.9 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 27.7 million) *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP 80 %)
+			    (PP of
+				(NP its auction business)))
+                  (VP is
+                      (ADVP-TMP usually)
+                      (VP conducted
+			  (NP *-1)
+			  (PP-TMP in
+				  (NP the second and fourth quarters))
+			  ,
+			  (PP with
+			      (S-NOM (NP-SBJ the current quarter)
+				     (VP having
+					 (VP begun
+					     ``
+					     (ADVP-MNR extremely well))))))))))
+     .)) 

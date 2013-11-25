@@ -1,0 +1,139 @@
+
+
+( (S (NP-SBJ Dayton Hudson Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP accepted
+                      (PP-CLR for
+			      (NP purchase))
+                      (NP (QP seven million) common shares)
+                      (PP at
+                          (NP (NP $ 62.875 *U*)
+                              (NP-ADV each)))
+                      ,
+                      (PP-LOC under
+			      (NP (NP the terms)
+				  (PP of
+				      (NP a Dutch auction self-tender offer))))))))
+     .))
+( (S (NP-SBJ The offer)
+     (VP expired
+	 (PP-TMP at
+		 (NP 12:01 a.m.))
+	 (NP-TMP yesterday))
+     .))
+( (S (PP-LOC In
+	     (NP a Dutch auction))
+     ,
+     (S (NP-SBJ the buyer)
+        (VP sets
+            (NP a price range)))
+     and
+     (S (NP-SBJ holders)
+        (VP give
+            (NP (NP a price)
+		(PP-LOC in
+			(NP that range))
+                (SBAR (WHPP-2 at
+			      (WHNP which))
+                      (S (NP-SBJ-1 they)
+                         (VP 're
+                             (ADJP-PRD willing
+                                       (S (NP-SBJ *-1)
+                                          (VP to
+                                              (VP sell
+                                                  (NP their shares)
+						  (PP *T*-2)))))))))))
+     .))
+( (S (NP-SBJ The buyer)
+     (ADVP-TMP then)
+     (VP (VP picks
+             (NP a price))
+         and
+         (VP buys
+             (NP shares)
+             (PP at
+		 (NP that price))
+             (PP-CLR from
+		     (NP (NP holders)
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ-2 *T*-1)
+				  (VP offered
+				      (S (NP-SBJ *-2)
+					 (VP to
+					     (VP sell
+						 (UCP (PP at
+							  (NP that price))
+						      or
+						      (ADVP lower))))))))))))
+     .))
+( (S (NP-SBJ (NP (NP Dayton Hudson 's)
+                 repurchase offer)
+             ,
+             (VP representing
+                 (NP (NP (QP about 9) %)
+                     (PP of
+                         (NP (NP its common shares)
+                             (ADJP outstanding)))))
+             ,)
+     (VP had
+         (VP established
+             (NP (NP a range)
+                 (PP of
+		     (NP (QP between $ 60 and $ 65) *U*))
+		 (PP for
+		     (NP the buy-back)))))
+     .))
+( (S (S (NP-SBJ Dayton Hudson)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP accepted
+                         (NP (NP all odd-lot shares)
+                             (VP tendered
+                                 (NP *)
+                                 (PP at or below
+				     (NP the final (ADJP $ 62.875 *U*) price)))))))))
+     ;
+     (S (NP-SBJ (NP the preliminary proration factor)
+		(PP for
+		    (NP (NP other shares)
+			(VP tendered
+			    (NP *)
+			    (PP at or below
+				(NP the final price))))))
+        (VP is
+            (NP-PRD 98 %)))
+     .))
+( (S (NP-SBJ The Minneapolis-based retailer)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP expects
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP pay
+                                 (PP-CLR for
+					 (NP the (QP seven million) shares))
+				 (NP-TMP next Thursday))))))))
+     .))
+( (S (NP-SBJ-1 (NP Tendered shares)
+               (VP not purchased
+		   (NP *)))
+     (VP will
+         (VP be
+             (VP returned
+                 (NP *-1)
+                 (PP-DIR to
+			 (NP holders)))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Dayton)
+     (VP rose
+         (NP-EXT $ 1 *U*)
+         (PP-DIR to
+		 (NP $ 61.125 *U*)))
+     .))

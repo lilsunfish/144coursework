@@ -1,0 +1,38 @@
+
+
+( (S (NP-SBJ-1 (NP George W. Koch)
+               ,
+               (ADJP (NP 63 years)
+                     old)
+               ,
+               (NP (NP (NP president) 
+		       and 
+		       (NP chief executive officer))
+                   (PP of
+                       (NP (NP Grocery Manufacturers)
+                           (PP of
+                               (NP America Inc.)))))
+               ,)
+     (VP was
+         (VP elected
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP a director)
+			(PP of
+			    (NP (NP this maker)
+				(PP of
+				    (NP (NP spices)
+					,
+					(NP seasonings)
+					and
+					(NP specialty foods)))))))
+	     ,
+             (S-ADV (NP-SBJ *-1)
+		    (VP succeeding
+			(NP (NP Erskin N. White Jr.)
+			    ,
+			    (NP 65)
+			    ,
+			    (SBAR (WHNP-2 who)
+				  (S (NP-SBJ *T*-2)
+				     (VP resigned))))))))
+     .))

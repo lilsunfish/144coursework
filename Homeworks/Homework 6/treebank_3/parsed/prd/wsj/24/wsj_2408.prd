@@ -1,0 +1,62 @@
+
+
+( (S (NP-SBJ Drug Emporium Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP Gary Wilber)
+                            ,
+                            (ADJP (NP 39 years)
+                                  old)
+                            ,
+                            (SBAR (WHNP-2 who)
+                                  (S (NP-SBJ *T*-2)
+                                     (VP had
+                                         (VP been
+                                             (NP-PRD (NP president)
+                                                     and
+                                                     (NP chief operating officer))
+					     (PP-TMP for
+						     (NP the past year))))))
+                            ,)
+                  (VP was
+                      (VP named
+                          (S (NP-SBJ *-1)
+			     (NP-PRD (NP chief executive officer)
+				     (PP of
+					 (NP this drugstore chain)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP succeeds
+         (NP (NP his father)
+             ,
+             (NP Philip T. Wilber)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP (VP founded
+                              (NP the company))
+                          and
+                          (VP remains
+                              (NP-PRD chairman)))))))
+     .))
+( (S (NP-SBJ-1 (NP Robert E. Lyons III)
+               ,
+               (NP 39)
+               ,
+               (SBAR (WHNP-2 who)
+                     (S (NP-SBJ *T*-2)
+                        (VP headed
+                            (NP (NP the company 's)
+                                Philadelphia region))))
+               ,)
+     (VP was
+         (VP appointed
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP president)
+			and
+			(NP chief operating officer)))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP succeeding
+			(NP Gary Wilber)))))
+     .))

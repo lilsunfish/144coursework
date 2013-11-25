@@ -1,0 +1,64 @@
+
+
+( (S (NP-SBJ (NP MC SHIPPING Inc.)
+             ,
+             (NP-LOC New York)
+             ,)
+     (VP declared
+         (NP (NP an initial quarterly)
+             (PP of
+                 (NP (NP 60 cents)
+                     (NP-ADV a share)))
+             (ADJP payable
+                   (NP-TMP Nov. 15)
+                   (PP to
+                       (NP (NP shares)
+                           (PP of
+                               (NP record))
+			   (NP-TMP Oct. 30))))))
+     .))
+( (S (NP-SBJ The announcement)
+     (VP boosted
+         (NP (NP (NP the charter-shipping company 's)
+                 shares)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP closed
+                          (PP-CLR at
+				  (NP $ 15.125 *U*))
+			  ,
+			  (ADVP up
+				(NP (NP $ 1.25 *U*)
+				    (NP-ADV a share)))
+			  ,
+			  (PP-LOC in
+				  (NP (NP composite trading)
+				      (PP-LOC on
+					      (NP the American Stock Exchange)))))))))
+     .))
+( (S (S (NP-SBJ-2 (NP The company)
+		  ,
+		  (SBAR (WHNP-1 which)
+			(S (NP-SBJ *T*-1)
+			   (VP went
+			       (ADJP-PRD public) 
+			       (PP-TMP in
+				       (NP May)))))
+		  ,)
+        (VP intends
+            (S (NP-SBJ *-2)
+               (VP to
+                   (VP pay
+                       (NP dividends)
+                       (PP-CLR from
+			       (NP available cash flow)))))))
+     ;
+     (S (NP-SBJ the amount)
+        (VP may
+            (VP vary
+                (PP-CLR (PP from
+			    (NP quarter))
+			(PP to
+			    (NP quarter))))))
+     .))

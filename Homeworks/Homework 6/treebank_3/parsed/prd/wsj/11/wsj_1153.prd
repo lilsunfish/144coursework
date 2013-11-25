@@ -1,0 +1,80 @@
+
+
+( (S (NP-SBJ Boeing Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Trans European Airways)
+                  (VP ordered
+                      (NP (NP (QP a dozen) 737 jetliners)
+                          (VP valued
+                              (NP *)
+                              (PP-CLR at
+				      (NP (NP a total)
+					  (PP of
+					      (NP (QP about $ 450 million) *U*))))))))))
+     .))
+( (S (NP-SBJ-1 The 300 and 400 series aircraft)
+     (VP will
+         (VP be
+             (VP powered
+                 (NP *-1)
+                 (PP by
+                     (NP-LGS (NP engines)
+			     (VP (ADVP-MNR jointly)
+				 produced
+				 (NP *)
+				 (PP by
+				     (NP-LGS (NP General Electric Co.)
+					     and
+					     (NP (NP Snecma)
+						 (PP of
+						     (NP France)))))))))))
+     .))
+( (S (ADVP-TMP Currently)
+     ,
+     (S (NP-SBJ Boeing)
+        (VP has
+            (NP (NP a backlog)
+                (PP of
+                    (NP (QP about $ 80 billion) *U*)))))
+     , 
+     but
+     (S (NP-SBJ-1 production)
+        (VP has
+            (VP been
+                (VP slowed
+                    (NP *-1)
+                    (PP by
+                        (NP-LGS (NP (NP a strike)
+				    (PP of
+					(NP 55,000 machinists)))
+				,
+				(SBAR (WHNP-2 which)
+				      (S (NP-SBJ *T*-2)
+					 (VP entered
+					     (NP its 22nd day)
+					     (NP-TMP today))))))))))
+     .))
+( (S (NP-TMP Last week)
+     ,
+     (NP-SBJ-2 a mediator)
+     (VP failed
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP rekindle
+                    (NP (NP talks)
+                        (PP between
+                            (NP (NP the company)
+                                and
+                                (NP (NP the strikers)
+                                    ,
+                                    (SBAR (WHNP-1 who)
+                                          (S (NP-SBJ *T*-1)
+                                             (VP have
+                                                 (VP rejected
+                                                     (NP (NP a pay raise offer)
+                                                         (PP of
+                                                             (NP (NP 10 %)
+                                                                 (PP-TMP over
+									 (NP three years)))))))))))))))))
+     .))

@@ -1,0 +1,46 @@
+
+
+( (S (NP-SBJ (NP Sherwin-Williams Co.)
+             and
+             (NP Whittaker Corp.))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP 've
+                      (VP discontinued
+                          (NP (NP talks)
+                              (PP toward
+                                  (NP (NP a definitive agreement)
+                                      (PP regarding
+                                          (NP (NP (NP Sherwin-Williams ')
+						  acquisition)
+                                              (PP of
+                                                  (NP (NP Whittaker 's)
+                                                      chemical coating group))))))))))))
+     .))
+( (S (NP-SBJ The companies)
+     (VP reached
+         (NP (NP an agreement)
+             (PP in
+                 (NP principle))
+	     (PP for
+		 (NP the sale)))
+	 (PP-TMP in
+		 (NP August)))
+     .))
+( (S (NP-SBJ-1 Terms)
+     (VP were n't
+         (VP disclosed
+	     (NP *-1)))
+     .))
+( (S (NP-SBJ Cleveland-based Sherwin-Williams)
+     (VP produces
+	 (NP paints
+	     and
+	     coatings)
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ the (ADJP Los Angeles-based) Whittaker coatings group)
+		      (VP produces
+			  (NP industrial coatings)))))
+     .))

@@ -1,0 +1,89 @@
+
+
+( (S (NP-SBJ-1 Four former Cordis Corp. officials)
+     (VP were
+         (VP acquitted
+             (NP *-1)
+             (PP-CLR of
+		     (NP (NP federal charges)
+			 (VP related
+			     (NP *)
+			     (PP-CLR to
+				     (NP (NP (NP the Miami-based company 's)
+					     sale)
+					 (PP of
+					     (NP pacemakers)))))
+			 ,
+			 (PP including
+			     (NP conspiracy
+				 (S (NP-SBJ *)
+				    (VP to
+					(VP hide
+					    (NP pacemaker defects))))))))))
+     .))
+( (S (NP-SBJ (NP Jurors)
+             (PP-LOC in
+		     (NP (NP U.S. District Court)
+			 (PP-LOC in
+				 (NP Miami)))))
+     (VP cleared
+         (NP (NP (NP Harold Hershhenson)
+                 ,
+                 (NP a former executive vice president))
+             ;
+             (NP (NP John Pagones)
+                 ,
+                 (NP a former vice president))
+             ; 
+	     and
+             (NP (NP (NP Stephen Vadas)
+                     and
+                     (NP Dean Ciporkin))
+                 ,
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP had
+                              (VP been
+                                  (NP-PRD (NP engineers)
+                                          (PP with
+                                              (NP Cordis))))))))))
+     .))
+( (S (NP-TMP Earlier this year)
+     ,
+     (NP-SBJ-1 (NP Cordis)
+	       ,
+	       (NP (NP a maker)
+		   (PP of
+		       (NP medical devices)))
+	       ,)
+     (VP agreed
+         (S (NP-SBJ-2 *-1)
+	    (VP (VP to
+		    (VP plead
+			(S-ADV (NP-SBJ *-2)
+			       (ADJP-PRD guilty))
+			(PP-CLR to
+				(NP (NP felony and misdemeanor charges)
+				    (ADJP related
+					  (PP to
+					      (NP the pacemakers)))))))
+		and
+		(VP to
+		    (VP pay
+			(NP the government)
+			(NP (NP (QP about $ 5.7 million) *U*)
+			    (PP in
+				(NP (NP fines)
+				    and
+				    (NP other costs)))))))))
+     .))
+( (S (NP-SBJ Cordis)
+     (VP sold
+         (NP its pacemaker operations)
+         (ADVP-TMP (NP two years)
+		   ago)
+         (PP-DTV to
+		 (NP (NP Telectronics Holding Ltd.)
+		     (PP of
+			 (NP Australia)))))
+     .))

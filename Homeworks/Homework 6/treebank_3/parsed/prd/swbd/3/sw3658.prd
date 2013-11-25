@@ -1,0 +1,1261 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerB1 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA2 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB3 .))
+( (NP Universal health insurance
+      ,
+      E_S))
+( (INTJ right 
+	?
+	E_S))
+( (CODE SpeakerA4 .))
+( (S (NP-SBJ That)
+     (VP 's 
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (CODE SpeakerB5 .))
+( (S (INTJ Uh)
+     ,
+     (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S-UNF (NP-SBJ (NP universal health insurance)
+			      ,
+			      (PP like
+				  (NP national health))
+			      ,
+			      (PP like
+				  (SBAR-NOM (WHNP-1 what)
+					    (S (NP-SBJ Canada)
+					       (VP has
+						   (NP *T*-1)))))))))
+     ,)) 
+( (SQ Is
+      (NP-SBJ that)
+      (SBAR-NOM-PRD (WHNP-2 what)
+		    (S (EDITED (RM [)
+			       (S (NP-SBJ you)
+				  (VP-UNF 're))
+			       ,
+			       (IP +))
+		       (NP-SBJ you)
+		       (VP 're
+			   (RS ])
+			   (VP thinking
+			       (SBAR 0
+				     (S (NP-SBJ the subject)
+					(VP is
+					    (PP-PRD about
+						    (NP *T*-2)))))))))
+      ?
+      E_S))
+( (CODE SpeakerA6 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ would
+	     (NP-SBJ-2 we)
+	     (VP like
+		 (S (NP-SBJ *-2)
+		    (VP to
+			(VP say
+			    (NP *T*-1))))))
+	 .
+	 E_S))
+( (S (NP-SBJ I)
+     (VP-UNF think)
+     ,
+     N_S))
+( (CODE SpeakerB7 .))
+( (CODE SpeakerA8 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB9 .))
+( (CODE SpeakerA10 .))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (SBAR-NOM-PRD (WHNP-1 what)
+				    (S (NP-SBJ the subject)
+				       (VP is
+					   (PP-PRD about
+						   (NP *T*-1)))))))))
+     .
+     E_S))
+( (CODE SpeakerB11 .))
+( (SQ Did
+      (NP-SBJ you)
+      (VP read
+	  ,
+	  (INTJ uh)
+	  ,
+	  (NP (NP the article)
+	      (PP in
+		  (NP the paper))
+	      (NP-TMP today)
+	      (PP about
+		  (NP this particular subject))))
+      ?
+      E_S))
+( (CODE SpeakerA12 .))
+( (PP In
+      (EDITED (RM [)
+	      (NP-UNF the Dallas)
+	      ,
+	      (IP +))
+      (NP the MORNING TIMES)
+      ?
+      (RS ])
+      E_S))
+( (CODE SpeakerB13 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA14 .))
+( (S (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP did
+		      not))))
+     .
+     E_S))
+( (CODE SpeakerB15 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ-1 (NP (NP the state)
+		   (PP of
+		       (NP Washington)))
+	       and
+	       (NP (NP the state)
+		   (PP of
+		       (NP Minnesota))))
+     (VP is
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP going
+	     (S (NP-SBJ-2 *-1)
+		(VP to
+		    (VP begin
+			(S (NP-SBJ *-2) 
+			   (VP testing
+			       (EDITED (RM [)
+				       (NP a program)
+				       ,
+				       (IP +))
+			       (NP (NP a state funded program)
+				   (RS ])
+				   (PP for
+				       (NP (NP citizens)
+					   (PP of
+					       (NP those two states))))))))))))
+     E_S))
+( (S and
+     (NP-SBJ there)
+     (VP 's 
+	 (NP-PRD (NP fourteen other
+		     ,
+		     (INTJ uh)
+		     ,
+		     states)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP are
+			      (VP considering
+				  (NP it))))))
+	 .
+	 (NP-ADV Least)
+	 (PP according
+	     (PP to
+		 (NP (NP the article)
+		     (PP in
+			 (NP the paper))
+		     (NP-TMP this morning)))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (NP-PRD (NP a trend)
+			      (SBAR (EDITED (RM [)
+					    (EDITED (RM [)
+						    (SBAR (WHNP-3 that)
+							  (S (NP-SBJ *T*-3)
+							     (VP-UNF 's)))
+						    ,
+						    (IP +))
+					    (SBAR (WHNP-4 that)
+						  (S (NP-SBJ *T*-4)
+						     (VP-UNF 's)))
+					    ,
+					    (RS ])
+					    (IP +))
+				    (WHNP-1 that)
+				    (S (NP-SBJ *T*-1)
+				       (X 's)
+				       ,
+				       (RS ])
+				       (INTJ uh)
+				       ,
+				       (ADVP probably)
+				       (VP may
+					   (VP go
+					       (ADJP-PRD nationwide)
+					       (ADVP-TMP eventually)))))))))
+	 (SBAR-PRP because
+		   (S (NP-SBJ I)
+		      (VP think
+			  (SBAR 0
+				(S (NP-SBJ national health)
+				   (VP is
+				       (NP-PRD (NP something)
+					       (SBAR (WHNP-2 that)
+						     (S (NP-SBJ (NP we)
+								(NP all))
+							(VP need
+							    (NP *T*-2))))))))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (VP getting
+	     (PP to
+		 (NP (NP a point)
+		     (SBAR (WHADVP-2 that)
+			   (S (NP-SBJ-1 you)
+			      (VP have
+				  (S (NP-SBJ *-1)
+				     (VP to
+					 (VP have
+					     (NP it))))
+				  (ADVP *T*-2))))))))
+     ,
+     E_S))
+( (S (NP-SBJ-1 you)
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP have
+		    (NP (NP some form)
+			(PP of
+			    (NP health insurance)))))))
+     .
+     E_S))
+( (CODE SpeakerA16 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ (NP it)
+	     (SBAR *EXP*-1))
+     (VP 's
+	 (VP been
+	     (ADJP-PRD interesting)
+	     (SBAR-1 that
+		     (S-UNF (NP-SBJ we)))))
+     ,
+     N_S))
+( (CODE SpeakerB17 .))
+( (FRAG (ADJP Extremely expensive)
+	,
+	(ADVP though)
+	.
+	E_S))
+( (CODE SpeakerA18 .))
+( (INTJ Yes
+	.
+	E_S))
+( (S (INTJ So)
+     (NP-SBJ we)
+     (VP live
+	 (PP in
+	     (NP (NP a society)
+		 (SBAR *ICH*-2)))
+	 ,
+	 (ADVP though)
+	 ,
+	 (SBAR-2 (WHADVP-1 where)
+		 (S (NP-SBJ everyone)
+		    (SBAR-ADV if
+			      (S (NP-SBJ you)
+				 (VP ask
+				     (NP them)
+				     (PP on
+					 (NP polls)))))
+		    ,
+		    (VP will
+			,
+			(INTJ uh)
+			,
+			(VP say
+			    (SBAR that
+				  (S (NP-SBJ they)
+				     (VP think
+					 (SBAR that
+					       (S (NP-SBJ everyone)
+						  (VP has
+						      (NP (NP a right)
+							  (PP to
+							      (NP health care)))))))))
+			    (ADVP *T*-1))))))
+     .
+     E_S))
+( (CODE SpeakerB19 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA20 .))
+( (S (CONJP And yet)
+     ,
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S (NP-SBJ we)
+		      (VP 've
+			  (ADVP-TMP ever)
+			  (ADVP quite)
+			  (VP decided
+			      (SBAR (WHNP-1 who)
+				    (S (NP-SBJ-2 *T*-1)
+				       (VP 's
+					   (ADVP really)
+					   (VP supposed
+					       (S (NP-SBJ *-2)
+						  (VP to
+						      (VP pay
+							  (PP for
+							      (NP it)))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB21 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD the thing)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     ,
+     E_S))
+( (S (INTJ uh)
+     ,
+     (ADVP unfortunately)
+     (NP-SBJ (NP the ones)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (ADVP-TMP currently)
+		      (VP (VP pay)
+			  and
+			  (VP pay
+			      (NP (NP the premiums)
+				  (PP for
+				      (NP health insurance))))))))
+     (EDITED (RM [)
+	     (VP-UNF are)
+	     ,
+	     (IP +))
+     (VP are
+	 (RS ])
+	 (VP paying
+	     (PP for
+		 (NP (NP the people)
+		     (SBAR (WHNP-2 that)
+			   (S (NP-SBJ *T*-2)
+			      (VP do
+				  n't
+				  (VP have
+				      (NP health insurance)))))))))
+     .
+     E_S))
+( (CODE SpeakerA22 .))
+( (SBAR (WHNP-1 Which)
+	(S (NP-SBJ *T*-1)
+	   (VP is
+	       (SBAR-PRP-PRD (WHADVP-2 why)
+			     (S (NP-SBJ people)
+				(VP are
+				    (VP talking
+					(PP-UNF about)
+					(ADVP-PRP *T*-2)))))))
+	,
+	N_S))
+( (S (NP-SBJ-1 we)
+     (VP ought 
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(ADVP just)
+		(VP (VP admit
+			(NP it)
+			(ADVP perhaps))
+		    (CONJP and then)
+		    (VP (VP try)
+			and
+			(ADVP-MNR somehow)
+			(VP subsidize
+			    (NP it)
+			    (PP-MNR in
+				    (NP (NP a way)
+					(SBAR (WHNP-2 that)
+					      (S (NP-SBJ *T*-2)
+						 (VP 's
+						     (ADJP-PRD more fair))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB23 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA24 .))
+( (CODE SpeakerB25 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S-UNF (NP-SBJ you)
+			  ,
+			  (INTJ uh)))))
+     ,
+     N_S))
+( (CODE SpeakerA26 .))
+( (SQ (NP-SBJ You)
+      (VP have
+	  (NP health insurance))
+      ?
+      E_S))
+( (CODE SpeakerB27 .))
+( (INTJ Yes
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP do)
+     .
+     E_S))
+( (CODE SpeakerA28 .))
+( (PP Through
+      (NP your company)
+      ?
+      E_S))
+( (CODE SpeakerB29 .))
+( (FRAG (INTJ Uh)
+	,
+	(PP through
+	    (NP my company))
+	,
+	E_S))
+( (INTJ yes
+	.
+	E_S))
+( (S But
+     (NP-SBJ I)
+     (VP have
+	 (VP been
+	     (PP-PRD in
+		     (NP (NP a situation)
+			 (SBAR *ICH*-2)))
+	     ,
+	     (INTJ uh)
+	     ,
+	     (ADVP-TMP recently)
+	     (SBAR-2 (WHADVP-3 where)
+		     (S (NP-SBJ-1 I)
+			(VP was
+			    (VP (VP laid
+				    (NP *-1)
+				    (PRT off)
+				    (PP from
+					(NP (NP a position)
+					    (PP as
+						(NP (NP a sales manager)
+						    (PP of
+							(NP a company)))))))
+				and
+				(VP was
+				    (PP-PRD off
+					    (NP work))
+				    (PP-TMP for
+					    (NP (QP about a) 
+						year)))
+				(ADVP *T*-3)))))))
+     E_S))
+( (S and
+     (NP-SBJ my wife)
+     (VP developed
+	 (NP cancer))
+     .
+     E_S))
+( (S (NP-SBJ We)
+     (VP did
+	 n't
+	 (VP have
+	     (NP any insurance)))
+     .
+     E_S))
+( (CODE SpeakerA30 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ my goodness)
+	.
+	E_S))
+( (CODE SpeakerB31 .))
+( (S And
+     (NP-SBJ it)
+     (VP was
+	 (NP-PRD a (S (NP-SBJ *)
+		      (VP go
+			  (PP-DIR to
+				  (NP Parkland))))
+		 type
+		 situation))
+     .
+     E_S))
+( (CODE SpeakerA32 .))
+( (S (NP-SBJ That)
+     (X 's)
+     (VP must 
+	 (VP have
+	     (VP been
+		 (ADJP-PRD hard))))
+     .
+     E_S))
+( (CODE SpeakerB33 .))
+( (CODE SpeakerA34 .))
+( (SBARQ (WHADVP-1 How)
+	 (SQ was
+	     (NP-SBJ your care)
+	     (PP-LOC at
+		     (NP Parkland))
+	     (ADVP-MNR-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerB35 .))
+( (S (INTJ Uh)
+     ,
+     (SBAR-PRP because
+	       (S (NP-SBJ it)
+		  (VP was
+		      (NP-PRD a 
+			      (ADJP life threatening)
+			      situation))))
+     ,
+     (NP-SBJ it)
+     (VP was
+	 (ADJP-PRD very good))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (EDITED (RM [)
+	     (SBAR-ADV as
+		       (S-UNF (NP-SBJ it)))
+	     ,
+	     (IP +))
+     (SBAR-ADV as
+	       (S (NP-SBJ it)
+		  (RS ])
+		  (VP turned
+		      (PRT out))))
+     (EDITED (RM [)
+	     (NP-SBJ (NP one)
+		     (PP of
+			 (NP the top
+			     ,
+			     (INTJ uh)
+			     ,
+			     people)))
+	     ,
+	     (IP +)
+	     or)
+     (NP-SBJ (NP one)
+	     (PP of
+		 (NP (NP the top doctors)
+		     (PP-LOC in
+			     (NP the state))
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ-2 *T*-1)
+			      (VP is
+				  (VP involved
+				      (NP *-2)
+				      (PP in
+					  (NP cancer treatment)))))))))
+     (RS ])
+     (VP was
+	 (PP-LOC-PRD at
+		     (NP Parkland)))
+     .
+     E_S))
+( (CODE SpeakerA36 .))
+( (S (CONJP But
+	    ,
+	    yet)
+     ,
+     (NP-SBJ Parkland)
+     (VP is
+	 not
+	 (ADJP-PRD free)
+	 ,
+	 (ADVP either))
+     .
+     E_S))
+( (CODE SpeakerB37 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 not
+	 (ADJP-PRD free))
+     ,
+     E_S))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ It)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP a situation)
+		 (SBAR (WHADVP-2 that)
+		       (S (SBAR-PRP because
+				    (S (S (NP-SBJ I)
+					  (VP did
+					      n't
+					      (VP have
+						  (NP any insurance))))
+				       and
+				       (S (NP-SBJ I)
+					  (VP was
+					      (PP-PRD on
+						      (NP unemployment))))))
+			  ,
+			  (NP-SBJ-1 it)
+			  (VP was
+			      (VP paid
+				  (NP *-1)
+				  (PP by
+				      (NP-LGS the county))
+				  (ADVP *T*-2)))))))
+     .
+     E_S))
+( (CODE SpeakerA38 .))
+( (SQ Is
+      (NP-SBJ it)
+      (ADJP-PRD affordable)
+      ?
+      E_S))
+( (CODE SpeakerB39 .))
+( (CODE SpeakerA40 .))
+( (S So 
+     (NP-SBJ you)
+     (VP did
+	 (VP have
+	     (NP a good experience)))
+     .
+     E_S))
+( (CODE SpeakerB41 .))
+( (S (NP-SBJ I)
+     (VP had
+	 (NP a bad experience)
+	 (SBAR-ADV as
+		   (S (NP-SBJ it)
+		      (VP turned
+			  (PRT out)))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ I)
+     (VP was
+	 (ADJP-PRD fortunate
+		   (SBAR that
+			 (S (NP-SBJ there)
+			    (VP was
+				(NP-PRD Parkland))))))
+     .
+     E_S))
+( (CODE SpeakerA42 .))
+( (S (SQ Is 
+	 (NP-SBJ your wife)
+	 (ADJP-PRD better))
+     ,
+     (S (NP-SBJ I)
+	(VP hope
+	    (SBAR *?*)))
+     ?
+     E_S))
+( (CODE SpeakerB43 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ no)
+	)) 
+( (S (NP-SBJ she)
+     (VP passed
+	 (ADVP away))
+     .
+     E_S))
+( (CODE SpeakerA44 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD real sorry))
+     .
+     E_S))
+( (CODE SpeakerB45 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD all right))
+     .
+     E_S))
+( (CODE SpeakerA46 .))
+( (INTJ Sure
+	.
+	E_S))
+( (CODE SpeakerB47 .))
+( (S (NP-SBJ That)
+     (VP happens)
+     .
+     E_S))
+( (CODE SpeakerA48 .))
+( (S (NP-SBJ It)
+     (VP does
+	 (VP happen))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD very sad))
+     .
+     E_S))
+( (CODE SpeakerB49 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S but
+     (PP in
+	 (NP any event))
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (PP-PRD in
+		 (NP (NP favor)
+		     (PP of
+			 (NP national health))))
+	 .
+	 (SBAR-ADV If
+		   (S (NP-SBJ-1 I)
+		      (VP had
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP vote
+				     (PP for
+					 (NP it)))))))))
+     .
+     E_S))
+( (CODE SpeakerA50 .))
+( (SINV (INTJ Well)
+	(ADVP-PRD-TPC-1 so)
+	(VP am
+	    (ADVP-PRD *T*-1))
+	(NP-SBJ I)
+	.
+	E_S))
+( (CODE SpeakerB51 .))
+( (CODE SpeakerA52 .))
+( (CODE SpeakerB53 .))
+( (CODE SpeakerA54 .))
+( (S (ADVP Actually) 
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (NP-PRD a pediatrician))
+     E_S))
+( (CODE SpeakerB55 .))
+( (SQ (INTJ Oh)
+      ,
+      is
+      (NP-SBJ that)
+      (ADJP-PRD right)
+      ?
+      E_S))
+( (CODE SpeakerA56 .))
+( (S and
+     (NP-SBJ I)
+     (VP (VP feel
+	     (ADVP-MNR very strongly)
+	     (PP about
+		 ,
+		 (INTJ uh)
+		 ,
+		 (NP children)))
+	 ,
+	 and
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP developed
+	     (NP (NP (ADJP very strong) 
+		     feelings)
+		 (PP about
+		     (NP this)))
+	     (PP-TMP during
+		     (NP (NP our measles epidemic)
+			 (NP-TMP last year)
+			 .
+			 (SBAR (WHADVP-2 Where)
+			       (S (NP-SBJ we)
+				  (ADVP certainly)
+				  (VP proved
+				      (SBAR that
+					    (S (NP-SBJ we)
+					       (VP 're
+						   not
+						   (VP doing
+						       (NP a
+							   (ADJP very good)
+							   job)
+						       (PP with
+							   (NP (NP preventive health care)
+							       (PP among
+								   (NP (NP children)
+								       and
+								       (NP (ADVP particularly) 
+									   (NP the children)
+									   (SBAR (WHNP-1 who)
+										 (S (NP-SBJ *T*-1)
+										    (VP need
+											(NP it)
+											(ADVP most)))))))))))))
+				      (ADVP *T*-2))))))))
+     .
+     E_S))
+( (CODE SpeakerB57 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA58 .))
+( (CODE SpeakerB59 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA60 .))
+( (S So
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ-1 I)
+     (VP 'm
+	 (ADVP really)
+	 (ADJP-PRD quite active
+		   (PP in
+		       (S-NOM (NP-SBJ-2 *-1)
+			      (VP trying
+				  (S (NP-SBJ *-2)
+				     (VP to
+					 ,
+					 (INTJ uh)
+					 ,
+					 (VP be
+					     (ADJP-PRD proactive
+						       (PP *ICH*-3)))))
+				  (ADVP at least)
+				  (PP-3 for
+					(NP (NP children 's)
+					    issues)))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (RM [)
+	 (ADJP-PRD (ADJP very complex)
+		   ,
+		   (IP +)
+		   (ADJP very complicated)))
+     ,
+     (RS ])
+     E_S))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (ADVP-MNR strongly)
+     (VP believe
+	 (SBAR that
+	       (S (NP-SBJ all children)
+		  (VP have
+		      (NP (NP a right)
+			  (PP to
+			      (NP (NP immunization)
+				  ,
+				  (NP glasses)
+				  ,
+				  (NP hearing aids)
+				  ,
+				  (NP basic health benefits))))))))
+     .
+     E_S))
+( (CODE SpeakerB61 .))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (SBAR-TMP (WHADVP when)
+	       (S (NP-SBJ I)
+		  (RS ])
+		  (VP-UNF (VP grew
+			      (PRT up))
+			  and)))
+     N_S))
+( (S (NP-SBJ I)
+     (VP grew
+	 (PRT up)
+	 (PP-LOC in
+		 (NP south central Kansas))
+	 ,
+	 (INTJ uh))
+     ,
+     E_S))
+( (S (NP-SBJ we)
+     (VP-UNF had)
+     ,
+     N_S))
+( (S and
+     (NP-SBJ my mom)
+     (VP worked
+	 (PP for
+	     (EDITED (RM [)
+		     (NP the health department)
+		     ,
+		     (IP +))
+	     (NP the county health department)))
+     (RS ])
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP had
+	 (NP x-rays)
+	 (NP-TMP every year))
+     ,
+     E_S))
+( (S (NP-SBJ we)
+     (VP had
+	 (S (NP-SBJ a dentist)
+	    (VP (VP come
+		    (PP-DIR to
+			    (NP our school)))
+		and
+		,
+		(INTJ uh)
+		,
+		(VP check
+		    (NP our teeth)
+		    (ADVP-TMP once
+			      (NP a year)
+			      (ADVP at least))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ we)
+     (VP had
+	 (S (NP-SBJ-1 (NP all our flu shots)
+		      (NP *ICH*-2))
+	    (VP taken
+		(NP care)
+		(PP of
+		    (NP *-1))
+		,
+		(NP-2 (NP our (NX (NX measles) 
+				  ,
+				  (NX mumps)
+				  ,
+				  (NX rubella)))
+		      and
+		      (NP all that other stuff)))))
+     .
+     E_S))
+( (CODE SpeakerA62 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB63 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ my children)
+		  (VP were
+		      (VP growing
+			  (PRT up)
+			  (ADVP-TMP *T*-1)))))
+     ,
+     (NP-SBJ we)
+     (VP did
+	 n't
+	 (VP have
+	     (NP that)))
+     .
+     E_S))
+( (S (NP-SBJ-1 We)
+     (VP had
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP (VP pay
+			(PP for
+			    (NP it)))
+		    ,
+		    (SBAR (WHNP-2 which)
+			  (S (NP-SBJ-3 I)
+			     (VP was
+				 n't
+				 (ADJP-PRD opposed
+					   (PP to
+					       (NP (NP *T*-2)
+						   (S-NOM (NP-SBJ *-3)
+							  (VP paying
+							      (PP for
+								  (NP it))))))))))))))
+     .
+     E_S))
+( (S (NP-SBJ-2 I)
+     (VP had
+	 (NP (NP the money)
+	     (SBAR (WHADVP-1 0)
+		   (S (NP-SBJ *-2)
+		      (VP to
+			  (VP pay
+			      (PP for
+				  (NP it))
+			      (ADVP *T*-1)))))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD sure
+		   (SBAR that
+			 (S (NP-SBJ there)
+			    (VP were
+				(NP-PRD (NP people)
+					(SBAR (WHNP-1 that)
+					      (S (NP-SBJ *T*-1)
+						 (VP do
+						     n't)))))))))
+     .
+     E_S))
+( (CODE SpeakerA64 .))
+( (S (INTJ Well)
+     ,
+     and
+     (EDITED (RM [)
+	     (S (NP-SBJ the costs)
+		(VP-UNF have))
+	     ,
+	     (IP +))
+     (NP-SBJ so much)
+     (VP has
+	 (RS ])
+	 (VP gone
+	     (PRT up)
+	     (ADVP so much)))
+     .
+     E_S))
+( (FRAG (NP (NP The cost)
+	    (PP of
+		(NP immunizations)))
+	(PP for
+	    (NP example))
+	,
+	(INTJ uh)
+	,
+	and
+	(ADVP just)
+	(EDITED (RM [)
+		(NP-UNF the legal)
+		(IP +))
+	,
+	(NP the legal
+	    (RS ])
+	    benefits)
+	,
+	(INTJ uh)
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP has
+	 (ADVP really)
+	 (VP forced
+	     (NP-1 people)
+	     (PP into
+		 (S-NOM (NP-SBJ *-1)
+			(VP (VP doing
+				(NP (NP a lot)
+				    (PP of
+					(NP things)))
+				(ADVP unnecessarily))
+			    ,
+			    (NP-ETC et cetera))))))
+     .
+     E_S))
+( (CODE SpeakerB65 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA66 .))
+( (S (INTJ So)
+     ,
+     (INTJ well)
+     ,
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP is
+	 (RS ])
+	 (ADJP-PRD interesting))
+     ,
+     E_S))
+( (S (SBAR-ADV in case
+	       (S (NP-SBJ you)
+		  (VP did
+		      n't
+		      (VP know))))
+     ,
+     (NP-SBJ Texas)
+     (VP leads
+	 (NP the nation)
+	 (PP in
+	     (NP uninsured children)))
+     .
+     E_S))
+( (S (NP-SBJ (NP Thirty-one percent)
+	     (PP of
+		 (NP all Texas children)))
+     (VP (VP do
+	     not
+	     (VP have
+		 (NP insurance)))
+	 and
+	 (VP are
+	     not
+	     (PP-PRD on
+		     (NP Medicaid))))
+     .
+     E_S))
+( (CODE SpeakerB67 .))
+( (S (NP-SBJ *)
+     (VP Did
+	 not
+	 (VP know
+	     (NP that)))
+     .
+     E_S))
+( (CODE SpeakerA68 .))
+( (S So
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ (NP one)
+	     (PP out
+		 (PP of
+		     (NP every three children))))
+     (VP has
+	 (NP (NP nothing)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (VP to
+			  (VP reimburse
+			      (NP them)
+			      (PP for
+				  (NP their health care))))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP work
+	 (PP in
+	     (NP (NP the children 's)
+		 Parkland system)))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD pretty overwhelming
+		   (PP to
+		       (NP me))))
+     .
+     E_S))
+( (CODE SpeakerB69 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA70 .))
+( (S But
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ (NP it)
+	     (S *EXP*-1))
+     (VP 's
+	 (ADJP-PRD pretty hard)
+	 (S-1 (NP-SBJ *)
+	      (VP (VP to
+		      (VP be
+			  (ADJP-PRD indigent)))
+		  and
+		  (VP to
+		      (VP be
+			  (ADJP-PRD dependent
+				    (PP upon
+					(NP (NP indigent health care systems)
+					    (PP-LOC in
+						    (NP Dallas county))))))))))
+     .
+     E_S))

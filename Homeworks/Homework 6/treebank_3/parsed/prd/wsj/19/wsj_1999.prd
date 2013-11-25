@@ -1,0 +1,583 @@
+
+
+( (S (NP-SBJ (NP GTE Corp.)
+             and
+             (NP MCI Communications Corp.))
+     (VP reported
+         (NP (NP strong earnings gains)
+             (PP to
+                 (NP record levels)))
+         (PP for
+             (NP the third quarter)))
+     .))
+( (S (NP-SBJ (NP Southwestern Bell Corp.)
+             and
+             (NP Cincinnati Bell))
+     (VP posted
+         (NP slight declines))
+     .))
+( (NP GTE Corp .))
+( (S (NP-SBJ GTE)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 net income)
+                  (VP rose
+                      (NP-EXT 18 %)
+		      ,
+		      (S-ADV (NP-SBJ-2 *-1)
+			     (VP aided
+				 (NP *-2)
+				 (PP by
+				     (NP-LGS (NP higher long-distance calling volumes)
+					     and
+					     (NP (NP an increase)
+						 (PP-LOC in
+							 (NP (NP telephone lines)
+							     (PP-LOC in
+								     (NP service)))))))))))))
+     .))
+( (S (S (NP-SBJ (NP Pretax operating profit)
+                (PP from
+                    (NP telephone operations)))
+        (VP rose
+            (NP-EXT 8.2 %)))
+     but
+     (S (NP-SBJ (NP profits)
+                (PP from
+                    (NP (NP telecommunications products)
+                        and
+                        (NP electrical products))))
+        (VP were
+            (ADJP-PRD flat)))
+     .))
+( (S (NP-SBJ Revenues)
+     (VP rose
+         (NP-EXT 8.8 %)
+         (PP-DIR to
+		 (NP (QP $ 4.35 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 4.0 billion) *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the quarter)
+                  (VP included
+                      (NP (NP (NP a (ADJP 10 %) increase)
+                              (PP-LOC in
+				      (NP (NP local-exchange usage)
+					  (PP for
+					      (NP long-distance calling)))))
+                          and
+                          (NP (NP a (ADJP 5 %) increase)
+                              (PP-LOC in
+				      (NP (NP the number)
+					  (PP of
+					      (NP (NP access lines)
+						  (PP-LOC in
+							  (NP service))))))))))))
+     .))
+( (S (S (NP-SBJ (NP Earlier rate reductions)
+                (PP-LOC in
+			(NP Texas
+			    and
+			    California)))
+        (VP reduced
+            (NP (NP the quarter 's)
+                (NX (NX revenue)
+		    and 
+		    (NX operating profit)))
+            (NP-EXT (QP $ 55 million) *U*)))
+     ;
+     (S (ADVP-TMP (NP a year)
+		  earlier)
+        ,
+        (NP-SBJ-1 (NP operating profit)
+                  (PP-LOC in
+			  (NP telephone operations)))
+        (VP was
+            (VP reduced
+                (NP *-1)
+                (PP-EXT by
+			(NP a similar amount))
+                (PP-PRP as
+			(NP (NP a result)
+			    (PP of
+				(NP (NP a provision)
+				    (PP for
+					(NP a reorganization)))))))))
+     .))
+( (S (S (NP-SBJ (NP Revenue)
+                (PP-LOC in
+			(NP the telecommunications products and services unit)))
+        (VP rose
+            (NP-EXT 27 %)
+            (PP-DIR to
+		    (NP (QP $ 728.8 million) *U*))))
+     , 
+     but
+     (S (NP-SBJ operating profit)
+        (VP was
+            (ADJP-PRD unchanged)
+            (PP at
+                (NP $ 26.3 million *U*))
+	    ,
+	    (PP-PRP (ADVP partly) 
+		    because of
+		    (NP start-up expenses))))
+     .))
+( (S (NP-SBJ (NP Electrical products ')
+             sales)
+     (VP fell
+         (PP-DIR to
+		 (NP (QP $ 496.7 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 504.5 million) *U*))
+         (SBAR-ADV with
+		   (S (NP-SBJ higher world-wide lighting volume)
+		      (VP offset
+			  (NP *)
+			  (PP by
+			      (NP-LGS (NP lower domestic prices)
+				      and
+				      (NP (NP the impact)
+					  (PP of
+					      (NP (NP weaker currencies)
+						  (PP-LOC in
+							  (NP (NP Europe)
+							      and
+							      (NP South America))))))))))))
+     .))
+( (S (NP-SBJ (NP Operating profit)
+             (PP of
+                 (NP (QP $ 37.2 million) *U*)))
+     (VP was
+         (ADJP-PRD unchanged))
+     .))
+( (S (PP-LOC In
+	     (NP composite trading))
+     (PP-LOC on
+	     (NP the New York Stock Exchange))
+     ,
+     (NP-SBJ GTE)
+     (VP rose
+         (NP-EXT $ 1.25 *U*)
+         (PP-DIR to
+		 (NP $ 64.125 *U*)))
+     .))
+( (NP MCI Communications Corp .))
+( (S (NP-SBJ (NP MCI)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP stepped
+                          (PRT up)
+                          (NP efforts
+                              (S (NP-SBJ *)
+                                 (VP to
+                                     (VP sell
+                                         (NP long-distance telephone service)
+                                         (PP-DTV to
+						 (NP residential customers)))))))))
+             ,)
+     (VP reported
+         (NP (NP a (ADJP 59 %) jump)
+             (PP-LOC in
+		     (NP earnings))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 23 %)
+         (PP-DIR to
+		 (NP (QP $ 1.67 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 1.36 billion) *U*)))
+     .))
+( (S (NP-SBJ Operating profit)
+     (VP grew
+         (NP-EXT 57 %)
+         (PP-DIR to
+		 (NP (QP $ 269 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 171 million) *U*))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ operating margins)
+		      (VP rose
+			  (PP-DIR to
+				  (NP 16.1 %))
+			  (PP-DIR from
+				  (NP (NP (NP 15.9 %)
+					  (NP-TMP the previous quarter))
+				      and
+				      (NP (NP 12.6 %)
+					  (ADVP-TMP (NP a year)
+						    ago))))))))
+     .))
+( (S (NP-SBJ (NP Daniel Akerson)
+             ,
+             (NP MCI chief financial officer)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP sees
+                      (NP (NP further improvements)
+                          (PP-LOC in
+				  (NP operating margins)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP think
+		  (SBAR 0
+			(S (NP-SBJ we)
+			   (VP can
+			       (VP take
+				   (NP it)
+				   (PP-DIR to
+					   (NP the (ADJP 18 %) range))
+				   (PP-TMP over
+					   (NP next
+					       (QP 18 to 24)
+					       months))))))))
+     , 
+     ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (PP-LOC In
+	     (NP national over-the-counter trading))
+     ,
+     (NP-SBJ MCI)
+     (VP fell
+         (NP-EXT $ 2.625 *U*)
+         (PP-DIR to
+		 (NP $ 42.375 *U*)))
+     .))
+( (S (NP-SBJ (NP Charles Schellke)
+             ,
+             (NP (NP an analyst)
+                 (PP with
+                     (NP Smith Barney , Harris Upham & Co.)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ some investors)
+                  (ADVP apparently)
+		  (VP expected
+                      (NP (ADJP slightly better)
+                          revenue growth)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP (VP said
+             (SBAR that
+                   (S (NP-SBJ residential traffic)
+                      (VP grew
+                          (ADVP-MNR (ADVP faster)
+				    (PP than
+					(NP business traffic)))))))
+         and
+         (VP attributed
+             (NP that)
+             (PP-CLR to
+		     (NP (NP its new PrimeTime calling plan)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP competes
+				      (PP-CLR with
+					      (NP (NP American Telephone & Telegraph 's)
+						  Reach Out America plan)))))))))
+     .))
+( (S (NP-SBJ MCI)
+     (VP claims
+         (NP (NP (NP (QP about 12) %)
+                 (PP of
+                     (NP the overall long-distance telephone market)))
+             but
+             (NP (NP (QP just under 10) %)
+                 (PP of
+                     (NP the 
+			 (ADJP (QP $ 23 billion) *U*) 
+			 residential market)))))
+     .))
+( (S (NP-SBJ-1 It)
+     (VP has
+         (VP been
+             (VP trying
+                 (S (NP-SBJ *-1)
+                    (VP to
+                        (VP improve
+                            (NP (NP its share)
+                                (PP of
+                                    (NP the residential market)))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP wants
+	 (S (NP-SBJ its business mix)
+            (VP to
+                (VP (ADVP-MNR more closely)
+                    match
+                    (NP (NP that)
+                        (PP of
+                            (NP AT&T)))
+		    --
+		    (NP-ADV (NP a step)
+			    (SBAR (WHNP-1 0)
+				  (S (NP-SBJ it)
+				     (VP says
+					 (SBAR 0
+					       (S (NP-SBJ-2 *T*-1)
+						  (VP will
+						      (VP help
+							  (S (NP-SBJ *-2)
+							     (VP prevent
+								 (NP cross subsidization)))))))))))))))
+     .))
+( (S (NP-SBJ-1 Mr. Akerson)
+     (VP (VP said
+             (SBAR 0
+                   (S (NP-SBJ MCI)
+                      (VP recorded
+                          (NP ``
+			      (NP another solid (ADJP cash positive) quarter)
+                              , 
+			      ''
+                              (NP (NP its fourth)
+                                  (PP-LOC in
+					  (NP a row))))))))
+         , 
+	 but
+         (VP declined
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP comment
+                        (PP-CLR on
+				(SBAR whether
+				      (S (NP-SBJ the company)
+					 (VP (VP is
+						 (VP considering
+						     (NP a dividend)))
+					     or
+					     (VP is
+						 (VP planning
+						     (NP any acquisition))))))))))))
+     .))
+( (S-1 (NP-SBJ The current quarter)
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       ``
+       (VP looks
+	   (ADJP-PRD fine))
+       .))
+( (S (NP-SBJ We)
+     (VP think
+         (SBAR (SBAR 0
+                     (S (NP-SBJ-1 revenue)
+                        (VP will
+                            (VP continue
+                                (S (NP-SBJ *-1)
+                                   (VP to
+                                       (VP grow)))))))
+               and
+               (SBAR that
+                     (S (NP-SBJ we)
+                        (VP can
+                            (VP (VP control
+                                    (NP costs))
+                                and
+                                thus
+				(VP improve
+                                    (NP profitability))))))))
+     . 
+     ''))
+( (NP Southwestern Bell Corp .))
+( (S (NP-SBJ Southwestern Bell Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net)
+                  (VP dropped
+                      (NP-EXT 8.7 %)
+		      ,
+		      (NP-ADV (NP mainly the result)
+			      (PP of
+				  (NP (NP four extraordinary items)
+				      :
+				      (NP (NP (NP a franchise tax refund)
+					      (SBAR (WHNP-1 that)
+						    (S (NP-SBJ its Southwestern Bell Telephone Co. unit)
+						       (VP received
+							   (NP *T*-1)
+							   (NP-TMP last year)))))
+					  ;
+					  (NP (NP a production shift)
+					      (PP of
+						  (NP several Yellow Pages directories))
+					      (PP to
+						  (NP the fourth quarter))
+					      (PP from
+						  (NP the third)))
+					  ;
+					  (NP (NP a rate refund)
+					      (PP-LOC in
+						      (NP Missouri)))
+					  and
+					  (NP (NP a one-time adjustment)
+					      (PP to
+						  (NP phone company revenues)))))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP slipped
+         (NP-EXT 1.2 %)
+         (PP-DIR to
+		 (NP (QP $ 2.21 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 2.23 billion) *U*)))
+     .))
+( (S (NP-SBJ-1 The earnings drop)
+     (VP had
+         (VP been
+             (VP expected
+                 (NP *-1))))
+     .))
+( (S (NP-SBJ Chairman
+             Zane E. Barnes)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP Southwestern Bell 's)
+			    `` businesses)
+                  (VP (VP are
+			  (ADJP-PRD healthy))
+		      and
+		      (VP are
+			  (VP continuing
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP grow)))))))))
+     . 
+     ''))
+( (S (NP-SBJ The company)
+     (VP (VP reported
+             (NP (NP a (ADJP 3.1 %) increase)
+                 (PP-LOC in
+			 (NP (NP the number)
+			     (PP of
+				 (NP access lines))
+			     (PP-LOC in
+				     (NP service))))))
+         , 
+	 and
+         (ADVP also)
+	 (VP said
+             (SBAR 0
+                   (S (NP-SBJ its Southwestern Bell Mobile Systems unit)
+                      (VP added
+                          (NP 30,000 new customers)
+                          ,
+                          (PP with
+                              (NP (NP a current total)
+                                  (PP of
+                                      (NP about 333,000)))))))))
+     .))
+( (S (NP-SBJ Southwestern shares)
+     (VP fell
+         (NP-EXT 50 cents)
+         (PP-DIR to
+		 (NP $ 55.875 *U*))
+         (PP-LOC in
+		 (NP composite trading))
+	 (PP-LOC on
+		 (NP the New York Stock Exchange)))
+     .))
+( (NP Cincinnati Bell Inc .))
+( (S (NP-SBJ Cincinnati Bell Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ net)
+                  (VP declined
+                      (NP-EXT 1.8 %)))))
+     .))
+( (S (NP-SBJ The company)
+     (VP noted
+         (SBAR that
+               (S (NP-SBJ the year-ago period)
+                  (VP was
+                      (ADJP-PRD particularly strong)
+		      ,
+		      (PP with
+			  (NP (NP an increase)
+			      (PP of
+				  (NP (QP nearly 70) %))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP jumped
+         (NP-EXT (QP nearly 17) %)
+         (PP-DIR to
+		 (NP (QP $ 223.3 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 191.4 million) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP composite trading))
+     (PP-LOC on
+	     (NP the New York Stock Exchange))
+     ,
+     (NP-SBJ Cincinnati Bell)
+     (VP fell
+         (NP-EXT 25 cents)
+         (PP-DIR to
+		 (NP $ 29 *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP the number)
+                          (PP of
+                              (NP access lines)))
+                  (VP dropped
+                      (ADVP slightly)
+                      (PP-TMP in
+			      (NP the quarter))
+		      ,
+		      (NP-ADV (NP a decline)
+			      (VP attributed
+				  (NP *)
+				  (PP-CLR to
+					  (NP seasonal fluctuations))))))))
+     .))
+( (S (PP For
+         (NP the year))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ (NP access lines)
+             (PP-LOC in
+		     (NP service)))
+     (VP have
+         (VP increased
+             (NP-EXT 5.5 %)))
+     .))
+( (S (NP-SBJ Chairman
+             D.H. Hibbard)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the company)
+                  (VP has
+                      (VP set
+                          (NP (NP a new five year goal)
+                              (PP of
+                                  (S-NOM (NP-SBJ-2 *-1)
+					 (VP doubling
+					     (NP revenues)
+					     (PP-CLR to
+						     (NP (QP about $ 1.8 billion) *U*))
+					     (SBAR-TMP while
+						       (S (NP-SBJ *-2)
+							  (VP (ADVP-MNR steadily)
+							      increasing
+							      (NP net)))))))))))))
+     .))

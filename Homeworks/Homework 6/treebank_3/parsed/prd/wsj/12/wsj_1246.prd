@@ -1,0 +1,512 @@
+
+
+( (S (NP-SBJ Two Japanese scientists)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP discovered
+                      (NP (NP an antibody)
+                          (SBAR (WHNP-1 that)
+                                ,
+                                (S (PP-LOC in
+					   (NP laboratory test-tube experiments))
+                                   ,
+                                   (NP-SBJ-2 *T*-1)
+                                   (VP kills
+                                       (NP AIDS-infected cells)
+				       (SBAR-TMP while
+						 (S (NP-SBJ *-2)
+						    (VP preserving
+							(NP healthy cells))))))))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ further experiments)
+		  (VP are
+		      (ADJP-PRD successful))))
+     ,
+     (NP-SBJ the work)
+     (VP would
+         (VP represent
+             (NP (NP a major advance)
+                 (PP in
+                     (NP (NP research)
+                         (PP on
+                             (NP acquired immune deficiency syndrome)))))))
+     .))
+( (S (NP-SBJ-1 (NP The drug
+		   AZT)
+	       ,
+	       (NP (NP the only treatment)
+		   (RRC (ADVP-TMP currently)
+			(PP on
+			    (NP the market))))
+	       ,)
+     (VP claims
+         (S (NP-SBJ-3 *-1)
+	    (VP (ADVP only)
+		(VP to
+		    (VP help
+			(S (NP-SBJ *-3)
+			   (VP stop
+			       (NP (NP the spread)
+				   (PP of
+				       (NP AIDS)))))))
+		, not
+		(VP to
+		    (VP cure
+			(NP it))))))
+     .))
+( (S But
+     (NP-SBJ (NP (NP several analysts)
+                 and
+                 (NP Japanese scientists))
+             (ADJP familiar
+                   (PP with
+                       (NP (NP the study)
+                           ,
+                           (SBAR (WHNP-2 which)
+                                 (S (NP-SBJ-1 *T*-2)
+                                    (VP was
+                                        (VP announced
+                                            (NP *-1)
+                                            (PP-LOC at
+						    (NP (NP a conference)
+							(PP-LOC in
+								(NP Nagoya))))
+					    (NP-TMP yesterday)))))
+                           ,))))
+     (VP expressed
+         (NP skepticism)
+	 (PP-CLR over
+		 (NP (NP the significance)
+		     (PP of
+			 (NP the results)))))
+     .))
+( (S And
+     (NP-SBJ (NP the researchers)
+             (NP themselves))
+     (VP acknowledged
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (ADVP still)
+                  (VP must
+                      (VP do
+                          (NP (ADJP much more)
+                              work)
+			  (SBAR-TMP before
+				    (S (NP-SBJ they)
+				       (VP can
+					   (VP say
+					       (SBAR whether
+						     (S (NP-SBJ the treatment)
+							(VP would
+							    (ADVP actually)
+							    (VP cure
+								(NP humans))))))))))))))
+     .))
+( (S (NP-SBJ (NP Shin Yonehara)
+             ,
+             (NP (NP a research scientist)
+                 (PP-LOC at
+			 (NP (NP the Tokyo Metropolitan Institute)
+			     (PP of
+				 (NP Medical Science)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the antibody)
+                          (SBAR (WHNP-2 0)
+                                (S (NP-SBJ he)
+                                   (VP discovered
+                                       (NP *T*-2)))))
+                  (VP works
+                      (PP-MNR by
+			      (S-NOM (NP-SBJ *)
+				     (VP recognizing
+					 (NP (NP an antigen)
+					     (VP called
+						 (S (NP-SBJ *)
+						    (NP-PRD a Fas-antigen)))
+					     ,
+					     (SBAR (WHNP-1 which)
+						   (S (NP-SBJ *T*-1)
+						      (VP is
+							  (ADJP-PRD characteristic
+								    (PP of
+									(NP an infected cell))))))))))))))
+     .))
+( (S (NP-SBJ The antibody)
+     (ADVP-TMP then)
+     (VP kills
+         (NP the cell))
+     .))
+( (S (NP-SBJ (NP Dr. Yonehara)
+             and
+             (NP (NP his partner)
+                 ,
+                 (NP (NP Nobuyuki Kobayashi)
+                     (PP of
+                         (NP Yamaguchi University)))
+                 ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ their experiments)
+                  (VP showed
+                      (SBAR that
+                            (S (NP-SBJ the antibody)
+                               (VP wiped 
+				   (PRT out)
+                                   (NP (NP an average)
+                                       (PP of
+                                           (NP (NP 60 %)
+                                               (PP of
+                                                   (NP AIDS-infected cells)))))
+				   (PP-TMP within
+					   (NP three days)))))))))
+     .))
+( (S (S-TPC-1 (PP-LOC In
+		      (NP (NP some)
+			  (PP of
+			      (NP the experiments))))
+	      ,
+	      (NP-SBJ it)
+	      (VP killed
+		  (NP (QP almost all) the infected cells)))
+     ,
+     (NP-SBJ the researchers)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (ADVP Meanwhile)
+     ,
+     (NP-SBJ-1 (NP (QP fewer
+		       than
+		       10) %)
+	       (PP of
+		   (NP the healthy cells)))
+     (VP were
+         (VP killed
+             (NP *-1)))
+     .))
+( (S (NP-SBJ The two)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP must
+                      (VP (VP (ADVP still)
+                              do
+                              (NP more laboratory tests))
+                          ,
+                          then
+                          (VP experiment
+                              (PP-CLR on
+				      (NP animals))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP hoped
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP conduct
+                                 (NP tests)
+                                 (PP-CLR on
+					 (NP (NP human patients)
+					     (PP-LOC in
+						     (NP the U.S.))))
+				 (PP-TMP by
+					 (NP late next year)))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 Japan)
+	      (VP does n't
+		  (VP have
+		      (NP enough AIDS patients
+			  (S (NP-SBJ *-1) 
+			     (VP to
+				 (VP do
+				     (NP significant experimentation)
+				     (PP-LOC in
+					     (NP that country)))))))))
+     ,
+     (NP-SBJ they)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The announcement)
+     (VP (VP got
+             (NP wide exposure)
+             (PP-LOC in
+		     (NP the Japanese media)))
+         , and
+	 (VP (ADVP even)
+	     moved
+             (NP some pharmaceutical stocks)
+             (NP-TMP yesterday)))
+     .))
+( (S But
+     (NP-SBJ (NP Takashi Kitamura)
+             ,
+             (NP (NP (NP director)
+                     (PP of
+                         (NP (NP the biology department)
+                             (PP-LOC at
+				     (NP (NP (NP Japan 's)
+					     National Institute)
+					 (PP of
+					     (NP Health)))))))
+                 and
+                 (NP (NP secretary)
+                     (PP of
+                         (NP (NP the government 's)
+                             AIDS-research center))))
+             ,)
+     (VP said , ``
+         (S (NP-SBJ I)
+            (VP 'm not
+                (ADJP-PRD so optimistic
+                          (PP of
+                              (NP (NP its future use)
+                                  (PP-LOC in
+					  (NP therapeutic methods))))))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 some infected cells)
+                  (VP (VP may not
+			  (VP have
+			      (NP the relevant antigen)))
+		      and 
+		      (VP (ADVP so)
+			  would n't
+			  (VP be
+			      (VP killed
+				  (NP *-1)
+				  (PP-TMP (ADVP even) 
+					  after
+					  (NP (NP exposure)
+					      (PP to
+						  (NP the antibody)))))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-1 The results)
+		 (VP seem
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP be
+				(ADJP-PRD very premature))))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Mitsuru Miyata)
+		,
+		(NP (NP editor)
+		    (PP of
+			(NP (NP Nikkei Biotechnology)
+			    ,
+			    (NP a leading Japanese industry newsletter)))))
+	.))
+( (S (NP-SBJ Dr. Kobayashi)
+     (VP responded
+         (SBAR that
+               (S (NP-SBJ he)
+                  (VP thought
+                      (SBAR 0
+                            (S (NP-SBJ the antibody)
+                               (VP could
+                                   (ADVP potentially)
+                                   (VP kill
+                                       (NP all infected cells)))))))))
+     .))
+( (S But
+     (NP-SBJ (NP he)
+             and
+             (NP Dr. Yonehara))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ there)
+                  (VP were
+                      (ADVP still)
+                      (NP-PRD (NP several uncertainties)
+			      ,
+			      (RRC (ADVP particularly)
+				   (PP regarding
+				       (NP possible side effects))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (S (NP-SBJ Our antibody)
+		    (VP (ADVP specifically)
+			killed
+			(NP infected cells)
+			(PP-MNR at
+				(NP a
+				    (ADJP very low)
+				    dose))))
+		 , but
+		 (S (NP-SBJ it)
+		    (VP can
+			(ADVP also)
+			(VP kill
+			    (NP other cells)))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ Dr. Yonehara)
+	.))
+( (S ``
+     (NP-SBJ We)
+     (VP do n't
+         (VP know
+             (NP (NP the effect)
+                 (PP of
+                     (NP our antibody))
+                 (PP on
+                     (NP the human body)))))
+     . ''))
+( (S (S (NP-SBJ-1 AIDS)
+        (VP is n't
+            (VP considered
+		(S (NP-SBJ *-1)
+		   (NP-PRD (NP a widespread problem)
+			   (PP-LOC in
+				   (NP Japan)))))))
+     --
+     (S (NP-SBJ the government)
+        (VP reports
+            (NP (NP (QP about 1,000) known carriers)
+                (PP of
+                    (NP the virus)))))
+     -- but
+     (S (NP-SBJ-2 many companies)
+        (VP have
+            (VP poured
+                (NP substantial resources)
+                (PP-CLR into
+			(NP research))
+		(PP-TMP in
+			(NP recent years))
+		,
+		(S-ADV (NP-SBJ-3 *-2)
+		       (VP hoping
+			   (S (NP-SBJ *-3)
+			      (VP to
+				  (VP cash 
+				      (PRT in)
+				      (PP-CLR on
+					      (NP a possible cure))))))))))
+     .))
+( (S (NP-SBJ Dr. Kitamura)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ (QP about 35) projects)
+                        (VP are
+                            (ADVP-TMP currently)
+                            (PP-PRD under
+                                    (NP way))
+			    (PP-LOC in
+				    (NP Japan)))))
+               , and
+               (SBAR that
+                     (S (NP-SBJ (NP Japanese researchers)
+                                (PP-TMP in
+					(NP the past year)))
+                        (VP have
+                            (VP made
+                                (S (ADJP-PRD available
+					     (PP *ICH*-1)
+					     (PP *ICH*-2))
+				   (NP-SBJ three possible cures)
+				   (PP-1 to
+					 (NP American researchers))
+				   (PP-2 for
+					 (NP clinical tests)))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR that
+               (S (SBAR-TMP (WHADVP-1 when)
+			    (S (NP-SBJ (NP scientists)
+				       (PP from
+					   (NP the two countries)))
+			       (VP meet
+				   (ADVP again)
+				   (PP-TMP in
+					   (NP January))
+				   (PP-LOC in
+					   (NP New Orleans))
+				   (ADVP-TMP *T*-1))))
+                  ,
+                  (NP-SBJ the Japanese)
+                  (VP will
+                      (VP present
+                          (NP (ADJP (QP at
+					least
+					three) more) drugs)
+                          (PP-CLR for
+				  (NP human testing)))))))
+     .))
+( (S (NP-SBJ AZT)
+     (VP is
+         (NP-PRD (NP (NP the world 's)
+                     only prescription medicine)
+                 (VP approved
+                     (NP *)
+                     (PP-CLR for
+			     (S-NOM (NP-SBJ *)
+				    (VP treating
+					(NP the disease)))))))
+     .))
+( (S (NP-SBJ (NP Wellcome PLC)
+             ,
+             (NP a major British pharmaceutical maker)
+             ,)
+     (VP sells
+         (NP the drug)
+         (PP-MNR under
+		 (NP (NP the name)
+		     (NP Retrovir))))
+     .))
+( (S (NP-SBJ-1 A Wellcome spokesman)
+     (VP declined
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP comment
+                    (PP-CLR on
+			    (NP (NP the discovery)
+				(PP of
+				    (NP the antibody))
+				(PP-LOC in
+					(NP Japan))))))))
+     .))
+( (S But
+     (NP-SBJ (NP Andrew Porter)
+             ,
+             (NP (NP a drug-industry analyst)
+                 (PP-LOC at
+			 (NP (NP Nikko Securities Co.)
+			     (PP-LOC in
+				     (NP London)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (SBAR-ADV if
+			    (S (NP-SBJ-2 the product)
+			       (VP were
+				   (S (NP-SBJ-1 *-2) 
+				      (VP to
+					  (VP be
+					      (VP (ADVP-MNR successfully)
+						  developed
+						  (NP *-1))))))))
+                  (NP-SBJ it)
+                  (VP would
+                      (VP represent ``
+                          (NP (NP a potential threat)
+                              (PP to
+                                  (NP (NP the long-term viability)
+                                      (PP of
+                                          (NP Retrovir))))))))))
+     .))

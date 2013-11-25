@@ -1,0 +1,43 @@
+
+
+( (S (NP-SBJ-1 (NP Wilson H. Taylor)
+               ,
+               (NP (NP (NP president)
+		       and
+		       (NP chief executive officer))
+                   (PP of
+                       (NP this insurance and financial services concern)))
+               ,)
+     (VP was
+         (VP elected
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP the additional post)
+			 (PP of
+			     (NP chairman))))))
+     .))
+( (S (NP-SBJ (NP Mr. Taylor)
+             ,
+             (ADJP (NP 45 years)
+                   old)
+             ,)
+     (VP succeeds
+         (NP (NP Robert D. Kilpatrick)
+             ,
+             (NP 64)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (VP retiring
+			      ,
+			      (SBAR-ADV as
+					(S (NP-SBJ *)
+					   (VP reported 
+					       (ADVP-TMP earlier))))))))))
+     .))
+( (S (NP-SBJ Mr. Kilpatrick)
+     (VP will
+         (VP remain
+             (NP-PRD a director)))
+     .))

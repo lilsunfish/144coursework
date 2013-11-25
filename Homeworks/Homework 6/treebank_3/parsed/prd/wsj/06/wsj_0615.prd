@@ -1,0 +1,116 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Italy 's)
+		      trade deficit)
+	      (VP narrowed
+		  (PP-DIR to
+			  (NP (NP (QP 2.007 trillion) lire)
+			      (PRN -LRB-
+				   (NP (QP $ 1.49 billion) *U*)
+				   -RRB-))
+			  (PP-TMP in
+				  (NP September)))
+		  (PP-CLR from
+			  (NP (QP 2.616 trillion) lire)
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ the state statistical office
+	     Istat)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The deficit)
+     (VP was
+         (NP-PRD (QP 466 billion) lire)
+         (PP-TMP in
+		 (NP August)))
+     .))
+( (S (PP-TMP For
+	     (NP the
+		 first nine
+		 months))
+     ,
+     (NP-SBJ the trade deficit)
+     (VP was
+	 (NP-PRD (QP 14.933 trillion) lire)
+	 ,
+	 (PP compared
+	     (PP with
+		 (NP (NP (QP 10.485 trillion)
+			 lire)
+		     (PP-TMP in
+			     (NP the year-earlier period))))))
+     .))
+( (S (NP-SBJ Istat)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the statistics)
+                  (VP (VP are
+                          (ADJP-PRD provisional))
+                      and
+                      (VP are n't
+                          (ADVP-PRD seasonally)
+                          adjusted
+			  (NP *-1))))))
+     .))
+( (S (NP-SBJ Imports)
+     (VP rose
+	 (NP-EXT 11 %)
+	 (PP-DIR to
+		 (NP (QP 18.443 trillion) lire)
+		 (PP-TMP in
+			 (NP September)))
+	 (PP-DIR from
+		 (NP-TMP a year earlier)) 
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ exports)
+		      (VP rose
+			  (NP-EXT 17 %)
+			  (PP-DIR to
+				  (NP (QP 16.436 trillion) lire))))))
+     .))
+( (S (PP-TMP In
+	     (NP the nine months))
+     ,
+     (NP-SBJ imports)
+     (VP rose
+	 (NP-EXT 20 %)
+	 (PP-DIR to
+		 (NP (QP 155.039 trillion) lire))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ exports)
+		      (VP grew
+			  (NP-EXT 18 %)
+			  (PP-DIR to
+				  (NP (QP 140.106 trillion) lire))))))
+     .))
+( (S (NP-SBJ-1 Import values)
+     (VP are
+	 (VP calculated
+	     (NP *-1)
+	     (PP on
+		 (NP a cost , insurance and freight
+		     (PRN -LRB-
+			  c.i.f
+			  .
+			  -RRB-)
+		     basis))
+	     ,
+	     (SBAR-ADV while
+		       (S (NP-SBJ-2 exports)
+			  (VP are
+			      (VP accounted
+				  (PP-CLR for
+					  (NP *-2))
+				  (PP on
+				      (NP a free-on-board
+					  (PRN -LRB-
+					       f.o.b
+					       .
+					       -RRB-) 
+					  basis))))))))
+     .))

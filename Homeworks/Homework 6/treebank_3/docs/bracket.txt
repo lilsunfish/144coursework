@@ -1,0 +1,2227 @@
+This file contains notes on new or altered parsing policy originally
+written as guidelines for the annotators.
+
+==============================================================================
+There are 3 new dash-tags being used in conjunction with Treebank II for
+bracketing Switchboard.
+
+(1) -UNF
+
+This tag marks unfinished constituents. It is added to the lowest constituent
+that can be labelled with confidence.
+
+
+( (S (NP-SBJ it)
+     (VP-UNF 's)
+     ,
+     N_S))
+
+
+( (S (NP-SBJ-1 I)
+     (VP happen
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP live
+		    (ADVP-LOC (ADVP not too far)
+			      away
+			      (PP-UNF from))))))
+     ,
+     N_S))
+
+
+(2) -ETC
+
+This tag marks a special construction, which is extremely common in speech,
+in which a conjunct of the type `or anything', `and whatever', `and everything
+else' ends (usually) the sentence. Rather than use the UCP (unlike conjoined
+phrase) continually for this, we simply allow unlike conjoined phrases of this
+type, but tag the second conjunct -ETC.
+
+( (S (NP-SBJ I)
+     (VP have
+	 (NP no idea
+	     (SBAR (WHADVP-2 how long)
+		   (S (NP-SBJ-1 this)
+		      (VP is
+		          (VP supposed
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP (VP last
+					 (ADVP-TMP *T*-2))
+		       		          or
+		      		          (NP-ETC anything))))))))))
+     .
+     E_S))
+
+
+(3) In Treebank II, imperatives are not specially marked, except by the
+presence of an empty subject (NP-SBJ *). In Switchboard, imperatives will be
+marked with the dash-tag -IMP on the S label, and main clauses with empty
+subjects will be reserved for main clauses with no (i.e. small pro) subjects. 
+
+Imperative:
+
+( (S-IMP (NP-SBJ *) 
+     (VP let
+         (S (NP-SBJ 's)
+            (VP do
+                (NP (NP something)
+                    (ADVP else)))))
+     .
+     E_S))
+
+
+Subjectless clause:
+
+( (S (NP-SBJ *-1) 
+     (ADVP probably)
+     (VP need
+         (S (NP-SBJ-1 *-2)
+	    (VP to
+	        (VP try
+		    (S (NP-SBJ-2 *)
+		       (VP to
+			   (VP get
+			      (ADVP-CLR back)
+			                (PP-PRD on
+				                (NP the topic)))))))))
+
+      E_S))
+
+===============================================================================
+VP or S?
+
+In general, we've been putting in an (NP-SBJ *) at top level whenever there
+is at least a VP actually present. I think we should distinguish cases that
+are missing just a subject and cases which are also missing one or more
+auxiliaries. So if ONLY the subject is missing then put in (NP-SBJ *). But
+if an auxiliary is missing as well, then make it VP at the top level. In
+cases where the verb is simple, i.e. there are no auxiliaries, and the
+subject is missing, the top level is S.
+
+( (S (NP-SBJ *)			'(it/that) might make you feel better'
+     (VP Might
+	 (VP make
+	     (S (NP-SBJ you)
+		(VP feel
+		    (ADJP-PRD better)))))
+     E_S))
+
+( (S (INTJ Um)			'(that) sounds good'
+     .
+     (NP-SBJ *)
+     (VP Sounds
+	 (ADJP-PRD good))
+     . E_S))
+
+
+( (VP Think			'(do you) think so?'
+      (ADVP so)
+      ? 
+      E_S)))
+
+( (VP Supposed			'(she was) supposed to be ...'
+      (S (NP-SBJ *-1)
+	 (VP to
+	     (VP be
+		 (NP-PRD (NP good ,
+			     (INTJ uh)
+			     , recommended person)
+			 (PP from
+			     (NP the church))))))
+      N_S))
+
+( (VP be			'(you are going) to be one of the ...'
+      (NP-PRD (NP one)
+	      (PP of
+		  (NP (NP the last ones)
+		      (SBAR (WHNP 0)
+			    (S (NP-SBJ *)
+			       (VP-UNF to
+				       (VP let
+					   (VP go))))))))
+      (ADVP anyway)
+      . E_S))
+
+
+This should apply to all predicates really, so
+
+( (ADJP-PRD Worried		'(are you) worried that ...'
+	    (SBAR that
+		  (S (NP-SBJ-1 they)
+		     (VP 're not
+			 (VP going
+			     (S (NP-SBJ *-1)
+				(VP to
+				    (VP get
+					(NP enough attention))))))))
+	    ? E_S))
+
+===============================================================================
+SOME PROBLEMATIC DYSFLUENCY STUFF
+
+The use of UNF
+
+There is one and only one -UNF per sentence. This -UNF goes on the lowest
+unfinished constituent. If the lowest constituent happens to be complete, the
+UNF will go on a higher constituent, but it should still be on the lowest
+unfinished constituent. S-UNF covers the following cases:
+
+A conjunction alone (filler type INTJs allowed but not assessors)
+
+( (S-UNF so
+	 N_S))
+
+( (S-UNF and
+	 (INTJ uh)
+
+	 N_S))
+
+( (FRAG and
+	(INTJ yeah)
+	E_S))
+
+
+Any constituent up to but not including the VP (as long as all are complete)
+
+( (S-UNF and
+	 (NP-SBJ John)
+	 (ADVP really)
+	 N_S))
+
+What to put at top level.
+
+Top level labelling apart from S, SBARQ, SQ, SINV, is only used when the
+constituent is complete (or possibly if somehow it is absolutely clear from
+context that all they intended to say was that constituent).
+
+Where do you live?
+
+( (NP Santa Barbara
+      E_S))
+
+In all other cases assume that the incomplete constituent is the
+start of a new S. If the constituent is an NP, then assume (again unless you
+have really good reason not to) that it is the subject. If it is possible to
+assume that it is complete (e.g. 'that', 'this' which could be complete or not)
+do so. An extreme example is a bare 'the' at the beginning of a token
+
+( (S (NP-SBJ-UNF the)
+     N_S))
+
+I think, because SBARs not uncommonly stand alone in this data, that we can
+have top level unfinished SBARs as well.
+
+( (SBAR-PRP-UNF because
+		N_S))
+
+( (SBAR-ADV-UNF if
+		N_S))
+
+But if the SBAR is preceded by a conjunction, then it must be S.
+
+( (S and
+     (SBAR-ADV-UNF if)
+     N_S))
+
+Separating stuff
+
+Every assesor (yeah, uh-huh, right, exactly, etc) gets its own token, so
+separate any that come to you joined.
+
+Don't separate off 'because' clauses, just follow what the dfl person did
+(unless they clearly go with the following clause rather than the one they're
+in).
+
+===============================================================================
+ATTACHMENT LEVELS
+
+The general rule is 'when in doubt attach high'. 
+
+See below for predicates with 'be'. Don't assume anything in this part applies
+to 'be'.
+
+When trying to choose between making a PP a modifier of an NP or putting it at
+VP level:
+
+Since PPs inside NPs are essentially reduced relatives, try putting 'which
+is/was/etc' between them. If you get a *RESTRICTIVE* relative clause which
+makes sense, then the PP goes inside the NP. If not, it goes at VP level. If it
+is doubtful, put it at VP level. 
+
+Although putting in 'which is' in the first one below isn't bad, the result is
+not a restrictive relative clause. In the second case, it is restrictive and
+should be done as a reduced relative. Never adjoin two PPs like this together.
+
+( (S (NP-SBJ Ann)
+     (VP lives
+	 (PP-LOC in
+		 (NP Ardmore))
+	 (PP-LOC near
+		 (NP Philadelphia)))))
+
+
+( (S (NP-SBJ Ann)
+     (VP lives
+	 (PP-LOC in
+		 (NP (NP the Ardmore)
+		     (PP-LOC near
+			     (NP Philadelphia)))))))
+
+(not the one near someplace else)
+
+Sometimes the level makes a big difference. In the first one below, it's the
+'presence' which is in the Gulf, and the location of the protest is
+unspecified. In the second, the protesting took place in the Gulf.
+
+( (S (NP-SBJ they)
+     (VP protested
+	 (NP (NP the presence)
+	     (PP-LOC in 
+		     (NP the Gulf))))))
+
+
+( (S (NP-SBJ they)
+     (VP protested
+	 (NP the presence)
+	 (PP-LOC in 
+		 (NP the Gulf)))))
+
+
+Places where you need to use adjoined PPs are not too common. All the following
+type cases should be done as separate PPs, not adjoined (all these are taken
+from earlier files where the PPs were adjoined). 
+
+( (S (NP-SBJ they)
+     (VP live
+	 (PP-LOC up
+		 (ADVP there))
+	 (PP-LOC in 
+		 (NP the mountains)))))
+
+# /nldb/parstexts/swbd/00/sw_0072_3876.prd
+(TOP (S (INTJ Now)
+        ,
+        (NP-SBJ I)
+        (VP work
+            (PP-LOC at
+		    (NP J C PENNY))
+	    (PP-LOC at
+		    (NP their corporate headquarters)))
+        . E_S))
+
+# /nldb/parstexts/swbd/01/sw_0123_3186.prd
+(TOP (FRAG (INTJ Well)
+           ,
+           (NP (NP thanks)
+               (PP for
+		   (S-NOM (NP-SBJ *)
+			  (VP calling)))
+	       (PP for
+		   (S-NOM (NP-SBJ *)
+			  (VP helping
+			      (NP us)
+			      (PRT out)))))
+           . E_S))
+
+# /nldb/parstexts/swbd/02/sw_0213_2285.prd
+(TOP (S (PRN (S (NP-SBJ I)
+                (VP mean)))
+        (SBAR-ADV if
+                  (S (NP-SBJ the parents)
+                     (VP are n't
+                         (VP supplying
+                             (NP it)))))
+        ,
+        (NP-SBJ-1 they)
+        (VP 've
+            (VP got
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP get
+                           (NP it)
+			   (PP from
+			       (NP (NP someone)
+				   (ADVP else)))
+			   (PP from
+			       (NP the schools)))))))
+        , E_S))
+
+# /nldb/parstexts/swbd/02/sw_0222_2676.prd
+(TOP (S (NP-SBJ *)
+        (VP Lived
+            (PP-LOC up
+		    (ADVP north 
+			  (PP of <---<<< or adjoined?
+			      (NP Los Angeles))))
+	    (PP-LOC in
+		    (NP (NP Thousand Oaks area)
+			,
+			(SBAR (WHADVP-1 where)
+			      (S (NP-SBJ the Cowboys)
+				 (VP have
+				     (NP their training camp)
+				     (ADVP-LOC *T*-1)))))))
+        ,))
+
+# /nldb/parstexts/swbd/02/sw_0222_2676.prd
+(TOP (S (NP-SBJ they)
+        (VP have
+            (NP some
+                (ADJP pretty nice)
+                weather)
+            (PP-LOC out
+		    (ADVP there))
+	    (PP-LOC in
+		    (NP Los Angeles)))
+        .))
+
+# /nldb/parstexts/swbd/02/sw_0226_3081.prd
+(TOP (FRAG (SBAR-ADV if
+                     (S (NP-SBJ you)
+                        (VP leave
+                            (NP the pit)
+                            (PP-LOC in
+				    (NP the bowl))
+			    (PP with
+				(NP the thing)))))))
+
+
+Cases where you need to adjoin PPs
+
+Range (but not endpoints) 
+
+Note that masses of endpoint cases are being done as adjoined. Make sure you
+understand the difference here.
+
+(FROM MANUAL)
+
+Where a range is indicated, {\it from...to...}\/ is annotated as a complex
+(conjoined) PP; where two end points are indicated, {\it from}\/ and {\it
+to}\/ are annotated as separate (nonconjoined) PPs.  The distinction is
+made using the following test: if the order of the PPs in question can be
+reversed, then they constitute endpoints, and if not, they constitute a
+range.  Note that {\it from...to...}\/ ranges in determiner position are
+called QP, as in the example {\it from 10 to 15 monkeys}\/ above, on
+page~\pageref{list:NPmod:measure/amount:QP:monkey-ex}.  The following
+examples contain nouns modified by ranges/endpoints.
+
+range:
+
+  (NP (NP a number)
+      (PP (PP from
+              (NP 2))
+          (PP to
+              (NP 32))))
+
+
+  (NP (NP excursions)
+      (PP (PP from
+              (NP studio))
+          (PP to
+              (NP studio))))
+
+  (VP varied
+      (PP (PP from
+              (NP 30))
+          (PP to
+              (NP 53 mg.))))
+
+
+endpoints:
+
+  (NP (NP the transition)
+      (PP from
+          (NP vinyl records))
+      (PP to
+          (NP compact discs)))
+
+  (VP went
+      (PP-DIR from
+              (NP Paris))
+      (PP-DIR to
+              (NP Dakar)))
+
+
+  (VP went
+      (PP-DIR from
+              (NP general))
+      (PP-DIR to
+              (NP specific terms)))
+
+
+With 'through'
+
+  (NP (NP a number)
+      (PP (PP from
+              (NP 0))
+          (PP through
+              (NP 6))))
+
+As a general rule, when {\it through}\/ is not in construction with another
+preposition and occurs between two like categories, such as NPs, it is
+annotated as a conjunction:
+
+  (NP numbers
+      4 through 9)
+
+  (NP (NP the file mode number)
+      (PRN *LRB*
+           (NP 0 through 6)
+           *RRB*))
+
+
+When there is a choice of VPs to attach adjuncts to, first go by the meaning.
+In the following two similar sentences, the level of the SBAR differs based on
+what the SBAR is giving the reason for: John's coming in the first one, or my
+believing in the second one. Note that in the second one you can omit (or
+better replace with 'it') the SBAR 'John is coming' and the sentence still
+makes sense, whereas in the first one it doesn't. Always try to attach high
+first, omitting or pronominalizing the in-between bits of the clause to see if
+it works. If it doesn't then move it downward until it does. When in doubt,
+attach high.
+
+( (S (NP-SBJ I)
+     (VP believe
+	 (SBAR 0
+	       (S (NP-SBJ John)
+		  (VP is
+		      (VP coming
+			  (SBAR-PRP because
+				    (S (NP-SBJ Mary)
+				       (VP told
+					   (NP him)
+					   (VP to
+					       (VP *?*))))))))))))
+
+
+( (S (NP-SBJ I)
+     (VP believe
+	 (SBAR 0
+	       (S (NP-SBJ John)
+		  (VP is
+		      (VP coming))))
+	 (SBAR-PRP because
+		   (S (NP-SBJ Mary)
+		      (VP told
+			  (NP me)
+			  (ADVP so)))))))
+
+
+The case with 'be' is somewhat different, because anything can be a predicate.
+When there is more than one potential predicate, they should be adjoined when
+either can equally well act as predicate by itself and they are of the same
+category and type (i.e. both PPs and both LOC; this is the most common type, I
+think).
+
+# /nldb/parstexts/swbd/01/sw_0151_2772.prd
+(TOP (S (NP-SBJ we)
+        (VP 're
+            (PP-LOC-PRD (PP over
+                            (PP in
+                                (NP the western edge)))
+                        (PP in
+                            (NP the mountains))))
+        . E_S))
+
+# /nldb/parstexts/swbd/02/sw_0220_2549.prd
+(TOP (S So ,
+        (NP-SBJ you)
+        (VP were
+            (PP-LOC-PRD (PP out
+                            (ADVP there))
+                        (PP in
+                            (NP San Francisco))))
+        ? E_S))
+
+
+If the constituents differ in category or type, do not adjoin them. 
+
+( (S (NP-SBJ I)
+     (VP was
+	 (PP-LOC-PRD in
+		     (NP the country))
+	 (PP-TMP in
+		 (NP the winter)))))
+
+
+If there is doubt just assume the first one is the predicate and treat the
+other as an adjunct.
+
+===============================================================================
+ADJECTIVAL VERSUS VERBAL PASSIVES
+
+The distinction between adjectives and past participles is often
+very difficult to make.  There are a number of tests that you can use to
+decide.  Be sure to apply these tests to the entire sentence containing the
+word that you are unsure of, not just the word in isolation, since the
+context is important in determining the part of speech of a word.\
+
+(From the TAGGING MANUAL)
+
+A word is an adjective:
+
+if it is gradable---that is, if it can be preceded by a degree 
+adverb like 'very', or if it allows the formation of a comparative.
+
+EXAMPLE:   He was very surprised/JJ.
+           He was more surprised/JJ than she was.
+
+if there is a corresponding {\ems un-} form with the opposite meaning.
+
+EXAMPLE:   a hurried/JJ meeting; 
+           an unhurried/JJ meeting
+
+Be sure to check whether there is a corresponding verb beginning with 'un-'.
+If there is, you cannot rely on this test to determine whether the word in
+question is an adjective or a participle, and you will have to use the other
+tests.
+
+EXAMPLE:   Your shoelace has been untied/JJ ever since we started.
+           I know---it got untied/VBN by accident.
+
+When applying the 'un-' test, be sure to take the entire context
+into account.  For instance, 'armed' can be either a JJ or a VBN,
+depending on its context.
+
+EXAMPLE:   We need an armed/JJ guard.
+           (cf. We need an unarmed guard.) 
+
+           Armed/VBN with only a knife, ...
+           (cf. *Unarmed with only a knife, ... )
+
+if the word occurs in construction with 'be', and  'be'
+could be replaced by 'become', 'feel', 'look', 'remain',
+'seem' or 'sound'.
+
+EXAMPLES:  He became interested/JJ.
+           He felt interested/JJ. 
+           He looked surprised/JJ.
+           He remained surprised/JJ.
+           He seemed surprised/JJ. 
+           He sounded surprised/JJ.
+
+However, if the complement of any of the verbs listed above is modified by
+a 'by'-phrase, it should be tagged as a participle (VBN) rather than
+as an adjective (JJ).
+
+EXAMPLE:   He remains guided/VBN by these principles.
+
+if the word occurs in construction with ' keep'.
+
+EXAMPLES:  They should be kept well watered/JJ.
+
+if it refers to a (resultant) state rather than to a (specific) event.
+
+EXAMPLES:  At the time, I was married/JJ. 
+           I was mistaken/JJ (= wrong) the other day. 
+           a mistaken/JJ decision
+
+if a collocation of the form ``X-ed N'' cannot be paraphrased as 
+``N that has been X-ed.''
+
+EXAMPLES: a decided/JJ advantage;  *an advantage that has been decided 
+          a grown/JJ woman;        *a woman that has been grown
+          married/JJ life;         *life that has been married 
+          worried/JJ faces;        *faces that have been worried
+
+
+A word is a past participle (VBN):
+
+if it can be followed by a 'by' phrase.  If this criterion 
+clashes with the possibility of inserting a degree adverb, tag the
+word as an adjective (JJ), not as a participle (VBN).
+
+EXAMPLES:  He was invited/VBN by some friends of hers. 
+           He was very surprised/JJ by her remarks.
+
+if it refers to an (specific) event rather than to a (resultant) state.
+
+EXAMPLES:  I was married/VBN on a Sunday. \\
+           I was mistaken/VBN for you the other day. \\
+           a case of mistaken/VBN identity
+
+if the word occurs in construction with 'be', and 'be' could be replaced by
+'get', but not by 'become'.
+
+EXAMPLE:   I was married/VBN on a Sunday. 
+           (cf.\ I got married, *I became married)
+
+===============================================================================
+SEZ POLICY
+
+Use SEZ to mark direct speech wherever it occurs. Since there are few
+quotation marks you'll have to use your judgement in some cases about what
+is direct or indirect.
+
+Some tipoffs for direct speech are changes in the pronouns or tense of the
+verb, subject-verb inversion in questions (indirect questions are not
+inverted), a comma following the verb (try saying it to yourself with a
+heavy pause between the verb and the complement; if you can't (in context),
+it is not direct speech), the use of interjections, especially sentence
+introducing ones like 'well' 'boy' 'God' 'yeah', 'now', 'see', but also
+just interjections in general.
+
+( (S And
+     (NP-SBJ I)
+     (ADVP just)
+     (VP said
+	 (S-SEZ (NP-SBJ this)
+		(VP is <<--------<<< note tense change
+		    (ADJP-PRD terrible))))
+     . 
+     E_S))
+
+
+Note that all non-traditional verbs of expression (be like, go, etc) always
+introduce direct speech.
+
+( (S (NP-SBJ I)
+     (VP was
+	 (PRT like)
+	 ,
+	 (SBARQ-SEZ (INTJ God)
+		    ,
+		    (WHNP-1 how much)
+		    (SQ were
+			(NP-SBJ those bottles)
+			(NP-PRD *T*-1)
+			(PRN (S (NP-SBJ you)
+				(VP know))))))
+     ? E_S))
+
+
+We are going to count signs as direct speech.
+
+(NP-PRD (NP a
+	    (INTJ uh)
+	    ,
+	    (INTJ uh)
+	    ,
+	    (ADJP hastily erected)
+	    sign)
+	(VP saying
+	    (NP-SEZ baby milk factory)))
+
+
+Direct speech can occur almost anywhere. Wherever it occurs, label it SEZ
+
+( (S (NP-SBJ they)
+     (VP get
+	 (NP-ADV very much)
+	 ,
+	 (S-SEZ (INTJ well)
+		(PRN ,
+		 (S (NP-SBJ you)
+		    (VP know))
+		 ,)
+		(NP-SBJ it)
+		(VP 's
+		    (ADVP just)
+		    (NP-PRD a big faceless
+			    corporation))))))
+
+
+
+PLACES NOT TO USE SEZ
+
+The general strategy for bracketing non-sentential stuff after a verb of
+expression that is not direct speech is to use FRAG.
+
+Compare:
+
+( (S (NP-SBJ he) <<----<<< no indication of direct speech: default indirect
+     (VP said
+	 (FRAG (NP hot dogs)))))
+
+( (S (NP-SBJ he) 
+     (VP said
+	 (FRAG-SEZ (INTJ oh) <<----<<< indications of direct speech
+		   (INTJ boy)
+		   (NP hot dogs)))
+     !))
+
+( (S (NP-SBJ he) 
+     (VP said
+	 ,  <<----<<< slightly weak indications of direct speech (but possible
+	 (NP-SEZ hot dogs))   with context)
+     !))
+
+(1) after expressions like 'I'm wanting to say' 'I would say' 'I'll say' 'I
+wouldn't say' use FRAG not SEZ.
+
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP wanting
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP say
+			(FRAG (NP Raleigh Durham)))))))
+     E_S))
+
+(2) with 'mean'
+
+( (S (FRAG-TPC-1 (PP From
+		     (NP (NP the lack)
+			 (PP of
+			     (NP stimulation)))))
+     ,
+     (NP-SBJ you)
+     (VP mean
+	 (FRAG *T*-1))
+     . E_S))
+
+(3) traces after 'say' are not dash-tagged. these are like the cases above,
+'she said that, he said something'
+
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ it)
+     (VP sounds
+	 (ADJP-PRD terrible
+		   (SBAR (WHNP-1 0)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP say
+				    (NP *T*-1)))))))
+     , E_S))
+
+===============================================================================
+*ATTACHMENT SITE OF RCS AND OTHER THINGS*
+
+To decide where to attach RCs (and other things) in NPs with adjoined PPs
+	try leaving out the PP
+		sentence still sounds good/makes sense:		high
+		sentence sounds rotten/doesn't make sense:	low
+
+
+*CO-INDEXING*
+
+Empty subject is non-referential: no indexing
+Empty subject is co-referential with a non-adjunct NP (one not inside a PP):
+	co-index EXCEPT when the clause containing the empty subject is
+	inside an NP
+
+
+*SBAR 0*
+
+Complement is direct speech: do not use (SBAR 0).
+
+tipoffs for direct speech: changes in the pronouns 
+			   changes in tense of the verb 
+			   a comma following the verb 
+				try saying it to yourself with a heavy pause 
+				between the verb and the complement; if you 
+				can't (in context), it is not direct speech 
+			   the use of interjections, 
+				especially sentence introducing ones
+				like 'well' 'boy' 'God' 'yeah', 'now', 'see',
+				but also just interjections in general
+
+default is indirect speech
+
+When speech is not involved, put in the (SBAR 0) if you can felicitously insert
+'that'.
+
+Current exception (or did we get rid of this one too?): 
+	'(S (S-1 John did it, ) he said (SBAR 0 (S *T*-1)))
+
+
+*POSITION OF TRACES*
+
+Complement traces: immediately following verb (including with PRT)
+		   exception: double object verbs: indirect object trace first
+						   direct object trace second
+		   shared traces go in each complement (yes?)
+
+Adverbial traces: as far to the end of the clause as possible
+		  default level is the *matrix* verb
+		  shared traces at the same level go at conjunction level 
+
+
+*DASH-TAGS*
+
+CLR: abolished
+
+LOC: restrict to physical location
+     test: try paraphrasing with 'located in'
+     trace of 'where' is LOC only for physical location
+
+TMP: for points of time, frequency of events, or stretches of time
+     test for stretches of time: try paraphrasing with 'during'
+     NEED A LIST OF ADVERBS HERE
+
+MNR: trace of 'how
+     NEED MORE HERE
+
+ADV: all NPs, Ss and SBARs that are not complements must have a dash-tag
+     if no more specific tag is appropriate, use ADV
+
+NOM: gerunds (-ing phrases) when acting as subject or object of preposition
+     free relatives always
+     infinitives never
+
+SEZ: direct speech in any context (for more details, see SEZ page)
+
+
+*DYSFLUENCY*
+
+see dysfluency page 
+
+
+*MISCELLANEOUS*
+
+'much' is primarily an adjective
+(NP (ADJP so much) controversy)
+
+All pre-verbal adverbs go outside the VP, even manner.
+
+'a year and a half' (like 'a year or so')
+(NP a year (QP and a half))
+
+'not' can be a conjunction and goes at conjunction level in this case not
+inside the second NP
+
+( (S (NP-SBJ he)
+     (VP bought
+	 (NP (NP hot chocolate)
+	     not
+	     (NP bread)))))
+
+'so' should be bracketed as it comes to you; if bare, as a conjunction, if in
+INTJ brackets as INTJ. Don't try to figure out the distinction, just follow
+what the dfl people did.
+
+'plus' at the beginning of a sentence is a conjunction and is therefore
+unbracketed. 
+
+'even if' is a two-word complementizer.
+
+*Adjectival vs. verbal passives
+
+Stative reading: ADJP
+Eventive reading: VP
+
+
+*Position of INTJs and PRNs, punctuation and (RS ])
+
+Finished sentence: PRN or INTJ goes at the matrix verb level (but see below)
+Unfinished sentence: PRN or INTJ goes inside the constituent marked UNF
+
+Always put PRNs and INTJs at the highest possible level 
+(between SBAR and S this means at the SBAR level)
+
+Final punctuation: final punctuation goes at top level 
+(this overrides the rule that commas go inside PRN brackets)
+
+Treat (RS ]) as punctuation.
+
+
+*Final INTJs, conjunctions and 'I mean'
+
+Split off from the end of a sentence: 'well', 'I mean', 'so', 'uh'
+Join 'well', 'I mean', 'so' to next sentence or make S-UNF if nothing follows
+Join 'uh' to next sentence or make top-level INTJ if nothing follows
+Do not split off 'you know'
+
+
+*S vs. VP
+
+Only subject missing: snipastar
+Subject and auxiliary missing: VP
+Only auxiliary missing: FRAG (you see that cute dog) <-- swbd only not nursing
+
+
+*Previously S-CLR
+
+Infinitival S-CLR --> S-PRP
+Resultative adjective S-CLR --> S (i.e. small clause)
+
+
+*DIR
+
+Only with verbs
+Restricted to physical movement from one point to another
+
+
+*DIR/LOC with 'be'
+
+be + to X = DIR-PRD
+be + there = LOC-PRD
+I'm from X = PRD
+
+*Common Temporal Adverbs*
+
+Always temporal: sometimes, always, now, right now, never, before, often,
+later, nowadays, afterwards, forever, lately, right away, already, ever,
+anymore, usually.
+
+Never temporal: again
+
+Sometimes temporal: yet, still, then
+
+For others, use your judgement. Temporal marks point in time, duration of time
+or frequency.
+
+*Possible Particles*
+
+The following words can be labelled PRT (when they appear in the appropriate
+context). Everything else that you might want to label PRT should be labelled
+ADVP.
+
+about, across, down, in, off, on, out, over, through, up, back, away, like
+(with 'be' introducing speech)
+
+
+
+*Miscellaneous
+
+go (ADVP-DIR home)
+stay (ADVP-LOC home)
+
+MNR-PRD is a legal label for a trace
+
+'somewhere', 'everywhere', etc are ADVP
+
+don't forget QP on 'a thousand', 'a hundred', etc.
+
+===============================================================================
+*Position of INTJs and PRNs at the end of finished and unfinished sentences
+
+If a sentence is FINISHED the PRN or INTJ goes at the matrix verb level.
+
+# /nldb/parstexts/swbd/00/sw_0002_4330.prd
+(TOP (S and
+        (EDITED (RM [)
+                (NP-SBJ-UNF tha-)
+                ,
+                (IP +))
+        (NP-SBJ they)
+        (RS ])
+        (VP did n't
+            (VP find
+                (NP (NP any problem)
+                    (PP with
+                        (NP that)))
+                (PRN ,
+                     (S (NP-SBJ you)
+                        (VP know)))))
+        , E_S))
+
+# /nldb/parstexts/swbd/00/sw_0002_4330.prd
+(TOP (S and
+        (NP-SBJ I)
+        (VP have
+            (NP-TMP many a time)
+            (VP called
+                (NP-1 him)
+                (S-PRP (NP-SBJ-2 *-1)
+                       (VP to
+                           (VP come
+                               (S (NP-SBJ *-2)
+                                  (VP get
+                                      (NP me))))))
+		(PRN ,
+		 (S (NP-SBJ you)
+		    (VP know)))))
+        . E_S))
+
+# /nldb/parstexts/swbd/00/sw_0002_4330.prd
+(TOP (S (EDITED (RM [)
+		    And ,
+		    (IP +))
+		(INTJ uh)
+		,
+		(INTJ uh)
+		, but ,
+		(RS ])
+        (EDITED (RM [)
+		    (NP-UNF y-)
+		    ,
+		    (IP +))
+		(PRN (S (NP-SBJ you)
+			(VP know))
+		     ,)
+		(RS ])
+        (NP-SBJ-1 they)
+        (VP do n't
+            (VP think
+                (ADVP-TMP twice)
+                (PP-CLR about
+                        (S-NOM (NP-SBJ *-1)
+                               (VP serving
+                                   (NP beer)
+                                   (PP-MNR by
+                                           (NP the keg)))))
+		.
+		(PRN (S (NP-SBJ You)
+			(VP know)))))
+        , E_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S (EDITED (RM [)
+		(S (NP-SBJ I)
+		   (VP-UNF guess))
+		(IP +))
+	(NP-SBJ I)
+	(VP guess
+	    (RS ])
+	    (SBAR 0
+		  (S (NP-SBJ we)
+		     (VP can
+			 (VP start)))) 
+	    .
+	    (INTJ Uh))
+        , E_S))
+
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S (NP-SBJ that)
+        (VP 's
+            (NP-PRD (NP something)
+                    (SBAR (WHNP-1 0)
+                          (S (NP-SBJ I)
+                             (VP 've
+                                 (VP considered
+                                     (NP *T*-1))))))
+	    .
+	    (INTJ Uh))
+        , E_S))
+
+# /nldb/parstexts/swbd/00/sw_0002_4330.prd
+(TOP (S (NP-SBJ-1 we)
+        (VP 're not
+            (VP being
+                (VP tested
+                    (NP *-1)
+                    (PP for
+			(NP drugs))
+                    (ADVP at all)
+		    ,
+		    (INTJ uh)))))
+     , E_S))
+
+
+If the sentence is UNFINISHED, then put the INTJ or PRN inside the constituent
+marked UNF
+
+# /nldb/parstexts/swbd/00/sw_0002_4330.prd
+(TOP (S (PRN (S (NP-SBJ I)
+                (VP mean))
+             ,)
+        (NP-SBJ I)
+        (VP think ,
+            (PRN (S (NP-SBJ you)
+                    (VP know))))
+        , N_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S so
+        (NP-SBJ there)
+        (VP are
+            (NP (NP a lot)
+                (PP of
+                    (NP (NP people)
+                        (SBAR (WHNP-1 who)
+                              (S (NP-SBJ *T*-1)
+                                 (VP babysit
+                                     (PP-LOC in
+                                             (NP their homes)))))
+                        (SBAR-UNF (WHNP that)
+                                  ,
+                                  (PRN (S (NP-SBJ you)
+                                          (VP know))))))))
+        , N_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S but ,
+        (INTJ uh)
+        ,
+        (NP-SBJ *)
+        (VP seems
+            (PP-UNF like
+		    ,
+		    (PRN (S (NP-SBJ you)
+			    (VP know)))))
+        , N_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S (NP-SBJ You)
+        (VP might
+            (VP-UNF try ,
+                    (INTJ uh)))
+        , E_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (S-IMP and
+            (NP-SBJ *)
+            (VP see
+                (SBAR if
+                      (S-UNF (NP-SBJ it)
+                             ,
+                             (INTJ uh))))
+            , N_S))
+
+# /nldb/parstexts/swbd/00/sw_0001_4325.prd
+(TOP (SQ Is
+         (NP-SBJ it)
+         (PP-PRD-UNF like
+		     ,
+		     (INTJ uh))
+         , N_S))
+
+
+Where do PRNs go when between SBAR and S?
+
+( (S And
+     (EDITED (RM [)
+             (S (NP-SBJ I)
+                (VP-UNF am))
+             ,
+             (IP +))
+     (NP-SBJ-1 I)
+     (VP am
+         (RS ])
+         (ADJP-PRD afraid
+                   (S (NP-SBJ *-1)
+                      (VP to
+                          (VP go
+                              (PP-DIR down
+                                      (ADVP there))))))
+         (SBAR-PRP because
+                   (S (PRN ,
+                           (S (NP-SBJ you)
+                              (VP know)))
+                      (PRN ,
+                           (S (NP-SBJ I)
+                              (VP mean))
+                           ,)
+                      (NP-SBJ you)
+                      (VP hear
+                          (PP about
+                              (S-NOM (NP-SBJ people)
+                                     (VP getting
+                                         (VP mugged))))))))
+     .
+     E_S))
+
+
+Final punctuation: the rule that commas go inside PRN brackets is overridden by
+the final punctuation rule, that says that final punctuation goes at top level.
+
+( (S (NP-SBJ I)
+     (VP-UNF am
+             (PRN ,
+                  (S (NP-SBJ you)
+                     (VP know))))
+     ,
+     N_S))
+
+(RS ]) should be treated like punctuation. This means that if the final
+punctuation is followed by (RS ]), then both of them go at top level.
+
+( (S-UNF (INTJ like)
+         (EDITED (RM [)
+                 (NP-SBJ I)
+                 ,
+                 (IP +))
+         (RS ])
+         (SBAR-TMP (WHADVP-1 when)
+                   (S (EDITED (RM [)
+                              (S (NP-SBJ I)
+                                 (VP was
+                                     (NP-PRD-UNF h-)))
+                              ,
+                              (IP +))
+                      (NP-SBJ I)
+                      (VP went
+                          (ADVP-DIR home)
+                          (ADVP-TMP *T*-1))))
+         ,
+         (RS ])
+         N_S))
+
+
+Elsewhere (RS ]) goes at the highest level available, just like other
+punctuation.
+
+( (SBARQ (WHADJP-1 How
+                   (EDITED (RM [)
+                           s-
+                           ,
+                           (IP +))
+                   deprived)
+         (RS ])
+         (SQ could
+             (NP-SBJ they)
+             (VP be
+                 (ADJP-PRD *T*-1)
+                 (SBAR-ADV if
+                           (S (NP-SBJ they)
+                              (VP had
+                                  (NP a camcorder))))))
+         ?
+         E_S))
+
+
+In restarts there should really only be one constituent (usually UNF). If there
+are INTJs hanging around put them inside something. 
+
+( (SQ And
+      (EDITED (RM [)
+              (EDITED (RM [)
+                      (SQ-UNF were
+                              (NP-SBJ they))
+                      ,
+                      (IP +))
+              (SQ-UNF (INTJ uh)
+                      ,
+                      were
+                      (NP-SBJ they))
+              ,
+              (RS ])
+              (IP +))
+      were
+      (NP-SBJ they)
+      (RS ])
+      (ADVP obviously)
+      (ADJP-PRD-UNF poor or depri-
+                    (PRN ,
+                         (S (NP-SBJ you)
+                            (VP know))))
+      ?
+      E_S))
+
+
+Stray 'uh's and other INTJ type stuff
+
+There is a diffle rule that says to put 'Uh' at the end of the previous
+sentence (when ending with a period) IF nothing follows the 'Uh'. Sometimes
+difflers do this even when something follows. These need to be split off and
+added to what follows. In the same vein, they sometimes put 'well', 'I mean',
+and 'so'  at the end of sentences. These should ALWAYS be split off from the
+ends of sentences, whether or not anything follows (if it doesn't they can be
+S-UNF by themselves).
+
+( (S (NP-SBJ I)
+     (VP do
+         not
+         (VP know
+             (SBAR (WHNP-1 what)
+                   (S (NP-SBJ the world)
+                      (VP (VP is
+                              (NP-PRD *T*-1))
+                          or
+                          (VP is
+                              not
+                              (NP-PRD *T*-1)))))))
+     .))
+( (S (INTJ Uh)
+     ,
+     E_S
+     (NP-SBJ-UNF the dimi-)
+     ,
+     N_S))
+
+===============================================================================
+THE...THE construction
+
+The first THE thing is the head of a sort of comparative (which I've jazzed up
+a bit by doing it properly with an empty operator and trace, as comparatives
+should be), while the second THE is a topic.
+
+( (S (ADVP-MNR (ADVP the faster)
+	       (SBAR (WHADVP-1 0)
+		     (S (NP-SBJ you)
+			(VP eat
+			    (ADVP-MNR *T*-1)))))
+     (ADJP-PRD-TPC-2 the sicker)
+     (NP-SBJ you)
+     (VP get
+	 (ADJP-PRD *T*-2))))
+
+
+Since the first THE thing is just floating around in the sentence it has to be
+adverbial, which is fine if the THE thing is an adverb. If it is an NP, then it
+can be NP-ADV.
+
+( (S (NP-ADV (NP the more money)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ you)
+		      (VP make
+			  (NP *T*-1)))))
+     (NP-TPC-2 the more books)
+     (NP-SBJ you)
+     (VP can
+	 (VP buy
+	     (NP *T*-2)))))
+
+
+Often though it is ADJP, in which case I guess we have to do it like those
+other floating adjectival things, with an S-ADV and empty subject (or is there
+a better way?).
+
+( (S (S-ADV (NP-SBJ *)
+	    (ADJP-PRD (ADJP the better fed)
+		      (SBAR (WHADJP-1 0)
+			    (S (NP-SBJ the lion)
+			       (VP is
+				   (ADJP-PRD *T*-1))))))
+     (ADJP-PRD-TPC-2 the safer)
+     (NP-SBJ the trainer)
+     (VP is
+	 (ADJP-PRD *T*-2))))
+
+
+It's not uncommon for there to be inversion, in which case the whole thing will
+be SINV
+
+( (SINV (S-ADV (NP-SBJ *)
+	       (ADJP-PRD (ADJP the better fed)
+			 (SBAR (WHADJP-1 0)
+			       (S (NP-SBJ the lion)
+				  (VP is
+				      (ADJP-PRD *T*-1))))))
+	(ADJP-PRD-TPC-2 the safer)
+	(VP is
+	    (ADJP-PRD *T*-2))
+	(NP-SBJ the trainer)))
+
+
+And often in one or the other part (or both) the verb is elided. For this use
+(VP *?*) and put the trace inside it.
+
+( (S (S-ADV (NP-SBJ *)
+	    (ADJP-PRD (ADJP the better fed)
+		      (SBAR (WHADJP-1 0)
+			    (S (NP-SBJ the lion)
+			       (VP *?*
+				   (ADJP-PRD *T*-1))))))
+     (ADJP-PRD-TPC-2 the safer)
+     (NP-SBJ the trainer)
+     (VP *?*
+	 (ADJP-PRD *T*-2))))
+
+
+If it's really reduced, like 'the more, the merrier', then just do it as FRAG.
+
+( (FRAG (NP/ADVP? the more)
+	(ADJP the merrier)))
+
+
+Here are some real examples culled from the old lists and mail messages.
+
+( (S (ADVP-TMP (ADVP The sooner)
+	       (SBAR (WHADVP-1 0)
+		     (S (NP-SBJ you)
+			(VP act
+			    (PP-MNR like
+				    (NP an angel))
+			    (ADVP-TMP *T*-1)))))
+     (ADVP-TPC-2 the quicker)
+     (NP-SBJ you)
+     (VP 'll
+	 (VP feel
+	     (ADJP-PRD angelic)
+	     (ADVP *T*-2)))
+     ))
+
+( (S (ADVP-MNR (ADVP The tighter)
+	       (SBAR (WHADVP-1 0)
+		     (S (NP-SBJ you)
+			(VP squeeze
+			    (ADVP-MNR *T*-1)))))
+     ,
+     (ADVP (ADVP the more)
+	   (SBAR (WHADVP-2 0)
+		 (S (NP-SBJ the price)
+		    (VP goes
+			(PRT up)
+			(ADVP *T*-2)))))
+     ,
+     (NP-PRD-TPC-3 the more incentive)
+     (NP-SBJ there)
+     (VP is
+	 (NP-PRD *T*-3))
+     .
+     E_S))
+
+
+( (S (PP of 
+	 (NP course))
+     ,
+     (ADVP-TMP (ADVP the longer)
+	       (SBAR (WHADVP-1 0)
+		     (S (NP-SBJ it)
+			(VP did 
+			    not 
+			    (VP happen
+				(ADVP-TMP *T*-1))))))
+     , 
+     (ADJP-PRD-TPC-2 the stronger)
+     (NP-SBJ her wish and belief
+	     (SBAR that 
+		   (S (NP-SBJ it)
+		      (VP might 
+			  not
+			  (VP *?*)))))
+     (VP *?*
+	 (ADJP-PRD-2 *T*-2))))
+
+
+( (SINV (S-ADV (NP-SBJ *)
+	       (ADJP (ADJP the more extensive)
+		     (SBAR (WHADJP-1 0)
+			   (S (NP-SBJ the credo)
+			      (VP *?*
+				  (ADJP-PRD *T*-1))))))
+	(ADJP-PRD-TPC-2 the more unified and strong)
+	(VP is
+	    (ADJP-PRD *T*-2))
+	(NP-SBJ the group)))
+
+
+( (SINV (S-ADV (NP-SBJ *)
+	       (ADJP-PRD (ADJP The blunter)
+			 (SBAR (WHADJP-1 0)
+			       (S (NP-SBJ the knife)
+				  (VP *?*
+				      (ADJP-PRD *T*-1))))))
+	, 
+	(ADJP-PRD-TPC-2 the higher)
+	(VP is 
+	    (ADJP-PRD *T*-2))
+	(NP-SBJ (NP the value)
+		(PP for
+		    (NP A[fj])))))
+
+
+( (S (S-ADV (NP-SBJ *)
+	    (ADJP-PRD (ADJP The longer)
+		      (SBAR (WHADJP-1 0)
+			    (S (NP-SBJ your distribution list)
+			       (VP *?*
+				   (ADJP-PRD *T*-1))))))
+     ,
+     (NP-TPC-2 the more)
+     (NP-SBJ-3 you)
+     (VP save
+	 (NP *T*-2)
+	 (S-ADV (NP-SBJ *-3)
+		(VP using
+		    (NP the list processor))))))
+
+
+( (S (S-ADV (NP-SBJ *)
+	    (ADJP-PRD (ADJP the more extensive and firm)
+		      (SBAR (WHADJP-1 0)
+			    (S (NP-SBJ the body of doctrine)
+			       (VP *?*
+				   (ADJP-PRD *T*-1))))))
+     ,
+     (ADJP-PRD-TPC-1 the firmer)
+     (NP-SBJ the group)
+     (VP *?*
+	 (ADJP-PRD *T*-1))))
+
+
+( (S And
+     (S-ADV (NP-SBJ *)
+	    (ADJP-PRD (ADJP the more complex)
+		      (SBAR (WHADJP-1 0)
+			    (S (NP-SBJ the morphophonemic system)
+			       (VP is
+				   (ADJP-PRD *T*-1)
+				   (PP in
+				       (NP (NP relation)
+					   (PP to
+					       (NP the phonemic base)))))))))
+     ,
+     (ADVP-MNR-TPC-2 the less easily)
+     (NP-SBJ-3 a phonemic system)
+     (VP will
+	 (VP be
+	     (VP analysed
+		 (NP *-3)
+		 (ADVP-MNR *T*-2)
+		 (PP without
+		     (NP (NP close attention)
+			 (PP to
+			     (NP the morphophonemics)))))))))
+
+
+( (S (ADVP-TMP (ADVP The sooner)
+	       (SBAR (WHADVP-1 0)
+		     (S (NP-SBJ you)
+			(VP act
+			    (PP-MNR like
+				    (NP an angel))
+			    (ADVP-TMP *T*-1)))))
+     (ADVP-TPC-2 the quicker)
+     (NP-SBJ you)
+     (VP 'll
+	 (VP feel
+	     (ADJP-PRD angelic)
+	     (ADVP *T*-2)))))
+
+
+( (SINV (ADVP (ADVP the more)
+	      (SBAR (WHADVP-1 0)
+		    (S (NP-SBJ-2 the action)
+		       (VP claims
+			   (S (NP-SBJ *-2)
+			      (VP to
+				  (VP be
+				      (ADJP-PRD total)
+				      (ADVP *T*-1))))))))
+	,
+	(ADJP-PRD-TPC-3 the smaller)
+	(VP is
+	    (ADJP-PRD-3 *T*-3))
+	(NP-SBJ (NP (NP the part)
+		    (PP of
+			(NP man)))
+		(VP engaged))))
+
+
+( (S (NP-SBJ it)
+     (VP follows
+	 (SBAR that
+	       (S (S-ADV (NP-SBJ *)
+			 (ADJP-PRD (ADJP the more eminent)
+				   (SBAR (WHADJP-1 0)
+					 (S (NP-SBJ the victim)
+					    (VP *
+						(ADJP-PRD *T*-1))))))
+		  ,
+		  (ADJP-PRD-TPC-2 the more impressive)
+		  (NP-SBJ the lesson)
+		  (VP *?*
+		      (ADJP-PRD *T*-2)))))))
+
+
+( (S (NP-ADV (NP The more factories and robots)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ Japanese manufacturers)
+		      (VP add
+			  (NP *T*-1)))))
+     ,
+     (S (NP-TPC-2 the more)
+	(NP-SBJ-1 they)
+	(VP will
+	    (VP be
+		(ADJP-PRD able
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP export
+				     (NP *T*-2))))))))
+     , 
+     and
+     (S (NP-TPC-3 the less)
+	(NP-SBJ-4 their domestic customers)
+	(VP will
+	    (VP need
+		(S (NP-SBJ *-4)
+		   (VP to
+		       (VP import
+			   (NP *T*-3)))))))))
+          
+
+===============================================================================
+Below is the typo policy we developed for the POS taggers. Since there seems to
+be a fair amount of variation in using the TYPO label in bracketing, we're
+going to adopt the same policy. Basically, use a TYPO label in any of the cases
+listed below where the POS taggers are supposed to use the typo sign ^. In the
+cases where the tag /GW is used, enclose all the parts which are supposed to be
+tagged /GW as well as the word actually tagged with the typo sign. I've put the
+relevant parts of the policy for /GW use at the end. Please read this
+carefully because it outlines the cases where you can and cannot assume a
+hyphen (i.e., the use of a GW tag implies a hyphen), and sets up "noah" (the
+electronic Webster's) as the final arbitrator of whether or not the collocation
+is hyphenated. 
+
+===============================================================================
+Switchboard Typo Policy
+
+Typos are indicated by a caret (^) preceding the tag. The tag given is the tag
+for the hypothesized correct word, not the actual word.
+
+Words which are wrongly capitalized (or wrongly not capitalized) should not on
+that account alone count as typos. They should be tagged as nouns or proper
+nouns according to sense not capitalization. Proper names which are wrongly
+spelled may be labelled typos but it is not necessary.
+
+The typos exemplified here are common and fairly certain. There are many other
+cases which are more shaky. As a general rule, something should only count as a
+typo if it is a homophone or a near homophone (defined as not more than one
+sound (vowel or consonant) different), but you'll have to use your judgement
+about individual cases. There are some examples of things that are definitely
+not typos at the end of this message. Feel free to ask for a second opinion if
+you're in doubt.
+
+A.1 Homophones
+
+When the typo is a homophone of the correct word it is tagged with the typo
+sign (^) and the tag for the correct word.
+
+put/VB there/^PRP$ money/NN in/IN places/NNS (=their)
+
+it/PRP 's/BES really/RB not/RB to/^RB bad/JJ (=too)
+
+their/PRP$ reporters/NNS needed/VBN to/^CD shots/NNS (=two)
+
+know/^DT  matter where you build it, (=no)
+
+right/^VB a book about it (=write)
+
+I/PRP get/VBP to/TO here/^VB about/IN Texas/NNP (=hear)
+
+fate through/^VBD them together /  (=threw)
+
+you/PRP could/MD say/VB high/^UH to/TO your/PRP$ teachers/NNS (=hi)
+
+He one/^VBD the race (=won)
+
+I/PRP might/MD of/^VB ./. (=have)
+
+
+A.2 Semi-homophones (or homophones in some dialects)
+
+Some words that are not homophones in standard English are in speech or at
+least in some dialects. Some of these are pretty standard (like final t/d
+deletion) while others (higher=here) are heavy dialect. Some common examples
+are listed below.
+
+(a) final t/d deletion
+
+everybody/NN is/NNS suppose/^VBN to/TO bring/VB something/NN
+
+I/PRP use/^VBD to/TO play/VB racquetball/NN --/: 
+
+I/PRP would/MD have/VB like/^VBN to/TO have/VB 
+
+ham and bake/^VBN potatoes, 
+
+
+(b) an/and confusion
+
+An/^CC they/PRP have/VBP to/TO be/VB in/IN ideal/JJ physical/JJ shape/NN ,/,
+basically/RB ./. (an=and)
+
+there/EX 's/BES and/^DT old/JJ joke/NN about/IN (and=an)
+
+
+(c) than/then confusion
+
+other/JJ then/^IN that/IN (then=than)
+
+more reluctant of letting my older children go baby-sit for her because I
+didn't know her -- --/: then/^IN she/PRP was/VBD reluctant/JJ of/IN
+letting/VBG strangers/NNS into/IN her/PRP$ house/NN (then=than)
+
+
+(d) where/were/we're
+
+the/DT fact/NN that/IN people/NNS where/^VBD having/VBG this/DT problem/NN
+
+when/WRB you/PRP where/^VBD in/IN school/NN 
+
+there/EX where/^VBD large/JJ numbers/NNS 
+
+not were/^WRB we are.
+
+and/CC were/^PRP^VBP officially/RB ,/, yeah/UH ,/, and/CC we/PRP 're/VBP
+officially/RB in/IN a/DT state/NN of/IN emergency/NN ./.
+
+And/CC were/^PRP^VBP here/RB
+
+
+(e) I/a/uh
+
+as/IN a/^PRP say/NN  (a=I)
+
+where/WRB a/^PRP do/NN n't/RB (a=I)
+
+it/PRP takes/VBZ almost/RB six/CD months/NNS to/TO get/VB ,/, uh/^DT ,/,
+handgun/NN permit/NN  (uh=a)
+
+0926
+I/PRP think/VBP that/DT 's/BES I/^DT pretty/RB good/JJ idea/NN ./. (I=a)
+
+
+(f) accept/except, access/excess
+
+Accept/^IN for what we give to my daughter 
+
+I think other then/^IN accept/^IN on a commercial or on news coverage
+(note also 'then' for 'than')
+
+in/IN access/^NN of/IN that/DT now/RB so/IN it/PRP 
+
+
+(g) are/or
+
+Are/^CC they put one on the parents
+
+the/DT first/JJ four/CD ,/, five/CD years/NNS or/^VBP so/RB important/JJ 
+
+just because people or/^VBP so, I don't know, just today people are just so money hungry,
+
+
+(h) i/e confusion
+
+they/PRP did/VBD n't/RB have/VB a/DT since/^NN of/IN risk/NN (since=sense)
+
+I well/^MD never, ever go back. (well=will)
+
+had/VBD some/DT bends/^NNS (from context clearly = bins)
+
+
+(i) s/c confusion
+
+investment advise/^NN
+
+somebody/NN trying/VBG to/TO ,/, to/TO device/^VB a/DT scam/NN 
+
+
+(i) miscellaneous (some of these are probably keyboard mistakes)
+
+I/PRP 'd/MD a/^VB never/RB put/VBN (a=have)
+
+Here/^PRP$ name/NN is/VBZ Lori/NNP (here=her)
+
+no/DT skin/NN of/^IN my/PRP$ back/RB (of=off)
+
+hugh/^JJ companies like Three M, uh, I'm, uh, Honeywell (hugh=huge)
+
+our/PRP$ cancer/NN society/NN sales/^VBZ daffodils/NNS ./. (sales=sells)
+
+I think it's four cups of floor/^NN , (floor=flour)
+
+the/DT okra/NN that/WDT is/VBZ growing/VBG around/IN higher/JJR (higher=here?)
+
+
+A.3 Keyboard mistakes
+
+If a word has one wrong letter or is missing a letter and it is obvious from
+context what the word should be, count it as a typo. The following sets at
+least are allowable as typos.
+
+(a) than/that
+
+he's a better man that/^IN I am (that=than)
+
+
+(b) if/it/is/in
+
+in/^PRP was/VBD in/IN high/JJ school/NN (in=it)
+
+somebody does if/^PRP and breaks tradition (if=it)
+
+especially it/^IN he's a repeater (it=if)
+
+Is/VBZ is/^PRP just/RB aerobics/NN or/CC ,/, (is=it (probably))
+
+
+(c) on/of/or
+
+take it out or your paycheck (or=of)
+
+
+(d) to/do/so
+
+So/RB ,/, what/WP else/RB to/^VBP you/PRP tape/VBP (to=do)
+
+What/WDT sort/NN of/IN requirements/NNS to/^VBP you/PRP have/VBP (to=do)
+
+just/RB so/^TO see/VB what/WP ,/, uh/UH ,/, they/PRP might/MD have/VB to/TO
+offer/VB (so=to)
+
+push/VB it/PRP so/^IN the/DT end/NN --/:  (so=to)
+
+
+(e) out/our
+
+great/JJ out/IN country/NN really/RB is/VBZ ./. (out=our)
+
+
+(f) the/they
+
+that/DT 's/BES what/WP the/^PRP prefer/VBP to/TO do/VB (the=they)
+
+they/^DT one we was all worried about -- (they=the)
+
+
+(g) miscellaneous (some might be dialect rather than keyboard mistakes)
+
+I/PRP do/VBP n't/RB thing/^VB they/PRP (thing=think)
+
+just/RB short/^RB of/IN have/VBP it/PRP on/IN (short=sort)
+
+does/VBZ [ you/^PRP$ husband/NN ] (you=your)
+
+I/PRP was/VBD just/RB wandering/VBG if/IN (wandering=wondering)
+
+he's got now/^DT doubt that (now=no)
+
+one/CD or/CC two/CD timer/^NNS a/DT year/NN (timer=times)
+
+whether/IN I/PRP night/^MD ,/, uh/UH ,/, uh/UH ,/, (night=might) 
+
+we/PRP 're/VBP taking/^VBG about/IN monies/NNS way/RB (taking=talking)
+
+
+B. Words that should be split but aren't
+
+A word that should be split is given two tags, one for each of the parts. Each
+of the tags is preceded by the typo sign (^)
+
+(a) cliticized verbs not separated
+
+If/IN your/^PRP^VBP happy/JJ with/IN it/PRP (=you 're)
+
+their/^PRP^VBP offering/VBG a/DT service/NN (=they 're)
+
+whose/^WP^BES going/VBG to/TO really/RB make/VB them/PRP ./. (=who 's (who is))
+
+Someone whose/^WP^HVS got accounts (=who 's (who has))
+
+Okay/UH ,/, I/PRP guess/VBP its/^PRP^BES recording/NN ./. (=it 's)
+
+my/PRP$ husbands/^NN^BES retired/VBN ./. (=husband 's)
+
+[ The, + the ] deposits/^NN^BES only on like drink stuff. (=deposit 's)
+
+who/WP do/VBP you/PRP thinks/^VB^BES going/VBG to/TO win/VB (=think 's)
+
+
+(b) cliticized pronoun not separated
+
+lets/^VB^PRP turn/NN the/DT war/NN off/RP (=let 's)
+
+
+(c) singular possessive /'s/ not separated
+
+what/WP the/DT guys/^NN^POS name/VBP is/VBZ (=guy 's)
+
+my/PRP$ in-laws/^NN^POS place/NN (=in-law 's)
+
+my/PRP$ neighbors/^NN^POS yard/NN ./. (=neighbor 's)
+
+
+(d) plural possessive apostraphe missing (if it were present it would be tagged POS)
+
+your cats/^NNS^POS names (=cats ') 
+
+the students/^NNS^POS , uh, parents (=students ')
+
+
+(e) verb-particle combinations (but NOT noun-particle combinations, which should be
+joined, and must be joined up using GW if they are separated)
+
+people/NNS giveaway/^VBP^RB personal/NN information/NN (=give away)
+
+It/PRP was/VBD already/RB setup/^VBN^PRT  (=set up)
+
+If he doesn't back-up/^VB^PRT  (=back up)
+
+
+(f) other miscellaneous cases
+
+for/IN along/^DT^JJ time/NN (=a long)
+
+for/IN awhile/^DT^NN ./.  (=a while)
+
+want/VB to/TO have/VB anymore/^DT^JJ children/NNS (=any more)
+
+that/DT maybe/^MD^VB true/JJ  (=may be)
+
+we went fishing everyday/^DT^NN (=every day)
+
+
+C. Words that are separate but shouldn't be
+
+Parts of words that are separated are joined with the GW tag. The final part
+carries the label for all the joined parts (not usually more than two) and it
+has the typo sign preceding its label. Note that the typo sign is used on the
+final part even if it would have the right tag anyway (see the 'with out'
+example below).
+
+(a) plural /s/ written as possessive
+
+other/JJ than/IN just/RB it/GW 's/^PRP$ labor/NN (=its)
+
+the/DT Honda/GW 's/^NNPS have/VBP been/VBN very/RB safe/JJ ./. (=Hondas)
+
+I wouldn't be surprised if thing/GW 's/^NNS like that didn't happen (=things)
+
+our/PRP$ causes/NNS do/VBP not/RB seem/VB as/RB important/JJ as/IN you/PRP
+all/GW 's/^PRP were/VBD (=you alls) ??
+
+
+(b) third singular /s/ written as possessive
+
+Well/UH ,/, what/WP get/GW 's/^VBZ me/PRP is/VBZ  (=gets)
+
+
+(c) they're = their, you're = your
+
+they/GW 're/^PRP$ Mom would never know it. (=their)
+
+I gave him you/GW 're/^PRP$ book (=your)
+
+
+(b) 'a-' words
+
+well/UH ,/, let/VB me/PRP go/VB a/GW head/^RB (=ahead)
+
+they don't look a thing a/GW like/^JJ .  (=alike)
+
+There's a certain a/GW mount/^NN of dribble (=amount)
+
+
+(c) 'all-' words
+
+all/GW though/^IN I have a feeling that people look (=although)
+
+It/PRP 's/BES all/DT metric/JJ all/GW ready/^RB ./. (=already)
+
+
+(d) miscellaneous examples
+
+a/DT meal/NN with/GW out/^IN any/DT vegetables/NNS (=without)
+
+I don't like him any/GW more/RB (=anymore)
+
+
+D. Definitely not typos
+
+(a) numbers in words indicate accents, just ignore them
+
+,/, and/CC my/PRP$ husband/NN ,/, then/RB fianc3e/NN
+
+
+(b) don't correct people's grammar, if they use the wrong tense of a verb or
+whatever, just leave it
+
+latest/JJS one/NN I/PRP 've/VBP saw/VBD 
+
+
+(c) 'zero' spelled 'oh' is a CD and is not a typo
+
+the/DT first/JJ appearance/NN of/IN Roger/NNP Moore/NNP as/IN double/JJ oh/CD seven/CD 
+
+we/PRP actually/RB do/VBP have/VB some/DT money/NN in/IN a/DT Four/CD Oh/CD
+One/CD K/SYM
+
+BEVERLY/NNP HILLS/NNP NINE/CD OH/CD TWO/CD ONE/CD OH/CD ,/,
+
+===============================================================================
+New Policy for use of GW
+
+GW is to be used only for correcting typos which affect tokenization of words;
+that is, when the transcriber spelled as two separate words something that
+should be spelled as one word. There are some very clear cases, like 'a like'
+for 'alike', 'back ground' for 'background', and many less clear cases. The
+final arbitrator for whether two items go together to make one word will be the
+dictionary, Noah. If you look the collocation up in Noah and it gives it as one
+entry spelled with only hyphens between the parts then you can use GW.  So if
+you look well rounded up in Noah it gives the following:
+
+
+[well-round-ed]
+ (we_l'roun'di_d)
+
+(ADJECTIVE).
+    1. Comprehensively developed: ``a well-rounded scholar.''
+    2. Having a shapely figure.
+
+
+Since the parts are separated only by hyphens, this is a possible place to use
+GW. If Noah does not reckonize the collocation, or recognizes it but spells it
+with spaces rather than hyphens between the parts, this indicates that GW is
+NOT possible. Thus, while 'well rounded' appears in Noah as 'well-rounded' and
+can therefore be tagged 'well/GW rounded/JJ', 'well dressed' is not recognized,
+so must be tagged 'well/RB dressed/JJ'. It is not, however, necessary to tag
+hyphenated collocations with GW, so 'well rounded' can also be tagged 'well/RB
+rounded/JJ'. In general, try to use GW only when it is not possible to
+acurrately tag the two parts separately.
+
+Places where GW should be used
+
+separated prefixes
+
+ pre-
+
+pre/GW med/JJ student/NN 
+pre/GW regime/NN crimes/NNS
+
+
+ mini- 
+
+mini/GW series/NNS 
+mini/GW skirt/NN
+
+But note that when standing alone as a short form for 'miniskirt' (she wore a
+mini/NN), it is a noun
+
+
+ inter- 
+
+inter/GW state/NN 
+inter/GW United/NNP States/NNPS
+
+
+ ex-
+
+ex/GW husband/NN 
+ex/GW boy/NN friend/NN
+
+But note that 'my ex' would be my/PRP\$ ex/NN
+
+
+ semi-
+
+the semi/GW final/JJ game/NN 
+a semi/GW nice/JJ dinner/NN 
+
+But note that 'semi', like 'mini', can also be used as a noun, i.e.,
+a type of truck (he drives a semi/NN)
+
+
+ non-
+
+non/GW fiction/NN books/NNS
+
+
+Nouns derived from verb-particle collocations are considered single words
+and thus when separated should be joined with GW
+
+the kids are drop/GW outs/NNS 
+he's a real cut/GW up/NN 
+we had a break/GW down/NN 
+all kinds of nice write/GW ups/NNS about it 
+did you do your work/GW out/NN this morning? 
+a sixty/CD five/CD percent/NN turn/GW out/NN 
+the reason for the split/GW up/NN
+
+BUT NOTE THAT THIS IS ONLY THE CASE WHEN THESE COLLOCATIONS ARE **NOUNS**.
+ADJECTIVAL AND PASSIVE USE OF THESE COLLOCATIONS ARE TAGGED SEPARATELY. SEE
+BELOW.
+
+
+Two word verbs should be joined by GW.
+
+Do you tent/GW camp/VB or do you have a camper 
+If your child back/GW talks/VBP 
+I substitute/GW teach/VBP 
+I always over/GW pay my deductions 
+You can easily over/GW do/VB it 
+He always dry/GW cleans/VBP his shirts 
+(BUT NOTE: dry/JJ cleaner/NN, dry/JJ cleaning/NN) 
+They drug/GW test/VBP and it's not random 
+(BUT NOTE: they gave him a drug/NN test/NN; they do drug/NN testing/NN ) 
+I was trying to saltwater/GW fish/VB 
+(BUT NOTE: I went surf/NN fishing/NN ???????? 
+The dog was being house/GW sit/VBN 
+They were down/GW grading/VBG all these other ones 
+
+
+Places NOT to use GW and what to do instead
+
+In general it won't be correct to join together prepositions with GW.  Although
+'into' and 'onto' are indeed different from 'in to' and 'on to', in most cases
+both will be possible in the same contexts. The difference between 'he put it
+into the bag' and 'he put it in to the bag' is only one of stress, which we, of
+course, don't have access to. So unless it's absolutely impossible to read the
+sentence with a stress on each preposition, do not join them.
+
+I went in/IN to/IN a hardware store 
+what would you be most interested in/IN getting in/IN to/IN 
+are you rich or poor or in/IN between/IN 
+he moved on/IN to/IN L A 
+the ability to move on/IN to/IN some new technology 
+
+
+Collocations with the ``suffix'' wise should be tagged separately
+with wise tagged as an adverb.
+
+you probably pay more percentage/NN wise/RB 
+he's doing well popularity/NN wise/RB 
+age/NN wise/RB he's at the upper limit 
+
+
+Collocations with 'type' should also be done as separate words
+
+a dinner/NN type/NN thing/NN 
+a polluting/NN type/NN deal/NN 
+a career/NN type/NN position/NN 
+P/NN C/NN type/NN things/NNS 
+sight/NN seeing/NN type/NN stuff/NN 
+an Austin/NNP Heely/NNP type/NN engine/NN 
+
+
+Collocations with 'free' should be done as separate words
+
+lint/NN free/JJ 
+violence/NN free/JJ 
+
+
+Nouns derived from verb-particle collocations (dropout, breakdown, etc.)
+are considered single words (see above). But when used adjectivally or in the
+passive, these are tagged separately.
+
+the cut/VBN up/RP tomatos/NNS 
+a built/VBN in/RP window/NN box/NN 
+this beaten/VBN down/RP path/NN 
+they even have dress/VB up/RP days/NNS 
+the teachers I know wear dress/VB up/RP jeans/NNS 
+a call/VB in/RP survey/NN 
+a fix/VB up/RP special/NN 
+pull/VB out/RP couches/NNS 
+it had some well/RB thought/VBN out/RP parts/NN 
+watered/VBN down/RP wine/NN 
+
+he got himself really messed/JJ up/RP 
+he just got fed/JJ up/RP 
+I'm just kind of spaced/JJ out/RP 
+we're so wound/JJ up/RP in the boy scouts 
+I just feel hemmed/JJ in/RP by that 
+everyone is spread/JJ out/RP all over TImbuktu 
+I don't typically feel intruded/JJ on/RP 
+their home is paid/JJ for/RP 
+The pages were torn/VBN out/RP by my little sister 
+
+
+Multi-word modifiers of any type should be tagged word by word (unless
+Noah gives them as hyphenated, in which case you MAY, but don't have to use GW)
+
+well/RB dressed/VBN politicians 
+
+defense/NN oriented/VBN military/NN 
+agression/NN oriented/VBN militaryNN 
+a state/NN sponsored/VBN school/NN 
+
+fast/RB breaking/VBG events/NNS 
+the eye/NN stinging/VBG variety/NN 
+time/NN consuming/VBG projects/NNS 
+problem/NN solving/VBG skills/NNS 
+
+the wood is very slow/RB burning/JJ 
+
+sloppy/JJ looking/JJ jeans/NNS 
+funny/JJ looking/JJ coke/NN 
+strange/JJ looking/JJ can/NN 
+country/NN looking/JJ watermelon/NN 
+
+blond/JJ headed/JJ girl/NN 
+open/JJ minded/JJ person/NN 
+liberal/JJ minded/JJ politician/NN 
+
+the/DT lower/JJR end/NN of/IN the/DT top/NN of/IN the/DT line/NN hotels/NNS 
+break/NN for/IN out/IN of/IN state/NN students/NNS 
+an/DT up/RB and/CC coming/VBG team/NN 
+out/IN of/IN body/NN experiences/NNS 
+he was on a/DT year/NN and/CC a/DT half/JJ training/NN plan/NN 
+

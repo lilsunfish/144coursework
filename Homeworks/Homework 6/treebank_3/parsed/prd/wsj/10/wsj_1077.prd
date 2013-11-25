@@ -1,0 +1,46 @@
+
+
+( (S (NP-SBJ (NP Hughes Aircraft Co.)
+             ,
+             (NP a General Motors Corp. unit)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 the Intelsat VI commercial communications satellite)
+                  (VP is
+                      (VP set
+                          (S (NP-SBJ-1 *-2)
+                             (VP to
+                                 (VP be
+                                     (VP launched
+                                         (NP *-1)
+					 (NP-TMP Friday))))))))))
+     .))
+( (S (NP-SBJ (NP The satellite)
+             ,
+             (VP built
+                 (NP *)
+                 (PP by
+                     (NP-LGS Hughes))
+                 (PP-BNF for
+			 (NP the International Telecommunications Satellite Organization)))
+             ,)
+     (VP is
+         (NP-PRD (NP part)
+                 (PP of
+                     (NP (NP a
+			     (ADJP (QP $ 700 million) *U*)
+			     contract)
+                         (VP awarded
+                             (NP *)
+                             (PP-DTV to
+				     (NP Hughes))
+                             (PP-TMP in
+				     (NP 1982))
+			     (S-PRP (NP-SBJ *)
+				    (VP to
+					(VP develop
+					    (NP (NP five)
+						(PP of
+						    (NP the three-ton satellites)))))))))))
+     .))

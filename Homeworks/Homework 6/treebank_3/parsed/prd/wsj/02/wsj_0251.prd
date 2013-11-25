@@ -1,0 +1,134 @@
+
+
+( (S (NP-SBJ (NP Moody 's)
+             Investors Service Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP lowered
+                      (NP (NP the ratings)
+                          (PP on
+                              (NP (NP (QP about $ 3.2 billion) *U*)
+                                  (PP of
+                                      (NP (NP Houston Lighting & Power Co. 's)
+                                          securities)))))
+		      (PP-PRP because of
+			      (NP (NP (NP the company 's)
+				      low levels)
+				  (PP of
+				      (NP (NP interest coverage)
+					  and
+					  (NP internal cash generation)))))))))
+     .))
+( (S (NP-SBJ Houston Lighting)
+     (VP is
+         (NP-PRD (NP a unit)
+		 (PP of
+		     (NP (NP Houston Industries Inc.)
+			 ,
+			 (NP (NP a utility holding company)
+			     (PP-LOC in
+				     (NP Houston)))))))
+     .))
+( (S (SINV (VP-TPC-3 Downgraded
+                     (NP *-1)
+                     (PP by
+                         (NP-LGS Moody 's)))
+           (VP were
+               (VP *T*-3))
+           (NP-SBJ-1 (NP Houston Lighting 's)
+                     (NX (NX first-mortgage bonds)
+                         and
+                         (NX secured pollution-control bonds)))
+           (PP-DIR-2 to
+                     (NP single-A-3))
+           (PP-DIR-4 from
+                     (NP single-A-2)))
+     ;
+     (SINV (NP-SBJ=1 unsecured pollution-control bonds)
+           (PP-DIR=2 to
+                     (NP Baa-1))
+           (PP-DIR=4 from
+                     (NP single-A-3)))
+     ;
+     (SINV (NP-SBJ=1 preferred stock)
+           (PP-DIR=2 to
+                     (NP single-A-3))
+           (PP-DIR=4 from
+                     (NP single-A-2)))
+     ;
+     (SINV (NP-SBJ=1 (NP a shelf registration)
+                     (PP for
+                         (NP preferred stock)))
+           (PP-DIR=2 to
+                     (NP (NP a preliminary rating)
+                         (PP of
+                             (NP single-A-3))))
+           (PP-DIR=4 from
+                     (NP (NP a preliminary rating)
+                         (PP of
+                             (NP single-A-2)))))
+     ;
+     (SINV (NP-SBJ=1 (NP two shelf registrations)
+                     (PP for
+                         (NP collateralized debt securities)))
+           (PP-DIR=2 to
+                     (NP (NP a preliminary rating)
+                         (PP of
+                             (NP single-A-3))))
+           (PP=4 from
+                 (NP (NP a preliminary rating)
+                     (PP of
+                         (NP single-A-2)))))
+     , 
+     and
+     (SINV (NP-SBJ=1 (NP (NP the unit 's)
+			 rating)
+                     (PP for
+                         (NP commercial paper)))
+           (PP=2 to
+		 (NP Prime-2))
+	   (PP=4 from
+		 (NP Prime-1)))
+     .))
+( (S (NP-SBJ Moody 's)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP Houston Lighting 's)
+                          current situation)
+                  (VP has
+                      (NP (NP some positive aspects)
+                          ,
+                          (PP including
+			      (S-NOM (NP-SBJ *)
+				     (VP managing
+					 ``
+					 (ADVP-MNR very well)
+					 ''
+					 (NP (NP the construction and commercial operation risks)
+					     (PP of
+						 (NP (NP Units 1 and 2)
+						     (PP of
+							 (NP the South Texas Project nuclear power plant)))))))))))))
+     .))
+( (S (S-TPC-1 (S (NP-SBJ Capital requirements)
+		 (VP will
+		     (VP be
+			 (VP declining))))
+	      and
+	      (S (NP-SBJ-90 no 
+			    new
+			    generating facilities)
+		 (VP will
+		     (VP be
+			 (VP required
+			     (NP *-90)))))
+	      (PP-TMP for
+		      (NP several years)))
+     ,
+     (NP-SBJ Moody 's)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     
+     .))

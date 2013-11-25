@@ -1,0 +1,154 @@
+
+
+( (S (NP-SBJ Dallas investor
+             Harold C. Simmons)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP raised
+                      (NP (NP his stake)
+                          (PP-LOC in
+				  (NP Lockheed Corp.)))
+                      (PP-DIR to
+			      (NP 10.62 %))
+                      (PP-DIR from
+			      (NP (NP 10.43 %)
+				  (PP of
+				      (NP (NP the aerospace and electronics concern 's)
+					  common shares))))))))
+     .))
+( (S (PP-LOC In
+	     (NP a Securities and Exchange Commission filing))
+     ,
+     (NP-SBJ Mr. Simmons)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP he)
+                          and
+                          (NP (NP companies)
+			      (SBAR (WHNP-1 0)
+				    (S (NP-SBJ he)
+				       (VP controls
+					   (NP *T*-1))))
+                              ,
+                              (NP (NP NL Industries Inc.)
+                                  and
+                                  (NP NL Chemicals Inc.))
+                              ,))
+                  (VP hold
+                      (NP (NP 6,744,600 shares)
+                          (PP of
+                              (NP (NP Lockheed)
+				  ,
+                                  (PP of
+                                      (NP (NP Calabasas)
+                                          ,
+                                          (NP Calif))))))))))
+     .))
+( (S (NP-SBJ They)
+     (VP include
+         (NP (NP 122,700 shares)
+             (VP bought
+		 (NP *) 
+                 (NP-TMP Friday)
+                 (PP-CLR for
+			 (NP (NP (QP between $ 47.125 and $ 48) 
+				 *U*)
+			     (ADVP each))))))
+     .))
+( (S (PP-CLR In
+	     (NP (NP composite trading)
+		 (PP-LOC on
+			 (NP the New York Stock Exchange))))
+     ,
+     (NP-SBJ Lockheed)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 46.125 *U*)
+		     (NP-ADV a share)))
+         ,
+         (ADVP down
+               (NP 12.5 cents)))
+     .))
+( (S (NP-TMP Earlier this week)
+     ,
+     (NP-SBJ Mr. Simmons)
+     (VP objected
+         (PP-CLR to
+		 (NP (NP published reports)
+		     (VP quoting
+			 (NP-1 him)
+			 (PP-CLR as
+				 (S-NOM (NP-SBJ *-1)
+					(VP saying
+					    (SBAR 0
+						  (S (NP-SBJ-2 he)
+						     (VP planned
+							 (S (NP-SBJ *-2)
+							    (VP to
+								(VP sell
+								    (NP his Lockheed stake)
+								    (SBAR-PRP because
+									      ``
+									      (S (NP-SBJ-3 the defense industry)
+										 (VP seems
+										     (S (NP-SBJ *-3)
+											(VP to
+											    (VP be
+												(VP getting
+												    (ADJP-PRD more uncertain)))))))))))))))))))))
+     . 
+     ''))
+( (S (NP-SBJ (NP Valhi Inc.)
+             ,
+             (NP (NP another)
+                 (PP of
+                     (NP (NP Mr. Simmons ')
+                         companies)))
+             ,)
+     (VP responded
+         (PP-CLR to
+		 (NP (NP an article)
+		     (NP-TMP Monday)
+		     (PP-LOC in
+			     (NP The Wall Street Journal))
+		     ,
+		     (SBAR (WHNP-1 which)
+			   (S (NP-SBJ *T*-1)
+			      (VP credited
+				  (NP (NP a story)
+				      (PP-LOC in
+					      (NP the Sunday Los Angeles Daily News)))))))))
+     .))
+( (S (NP-SBJ Valhi)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the articles)
+                  (VP did n't
+                      (VP (ADVP-MNR accurately)
+                          reflect
+                          (NP (NP Valhi)
+                              and
+                              (NP (NP (NP its affiliates ')
+				      intentions)
+                                  (PP toward
+                                      (NP Lockheed)))))))))
+     .))
+( (S-1 (ADVP Instead)
+       (PRN ,
+	    (S (NP-SBJ Valhi)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ they)
+       (VP may
+	   (VP increase , decrease or retain
+	       (NP their Lockheed holdings)
+	       ,
+	       (PP depending
+		   (PP on
+		       (NP (NP a number)
+			   (PP of
+			       (NP conditions)))))))
+       .))

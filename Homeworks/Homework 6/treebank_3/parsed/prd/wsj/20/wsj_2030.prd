@@ -1,0 +1,339 @@
+
+
+( (S (NP-SBJ (NP The oil and auto industries)
+             ,
+             (VP united
+                 (NP *)
+                 (PP-LOC in
+			 (NP (NP their dislike)
+			     (PP of
+				 (NP (NP (NP President Bush 's)
+					 proposal)
+				     (PP for
+					 (NP (NP cars)
+					     (SBAR (WHNP-1 that)
+						   (S (NP-SBJ *T*-1)
+						      (VP run
+							  (PP-MNR on
+								  (NP alternative fuels))))))))))))
+             ,)
+     (VP announced
+         (NP (NP a joint research program)
+             (SBAR (WHNP-2 that)
+                   (S (NP-SBJ *T*-2)
+                      (VP could
+                          (VP turn 
+			      (PRT up)
+                              (NP a cleaner-burning gasoline)))))))
+     .))
+( (S (NP-SBJ (NP Officials)
+             (PP of
+                 (NP (NP the Big Three auto makers)
+                     and
+                     (NP 14 petroleum companies))))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP are
+                      (VP setting 
+			  (PRT out)
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP find
+                                     (NP (NP the
+					     (ADJP most cost-effective)
+					     fuel)
+					 (PP for
+                                             (S-NOM (NP-SBJ *)
+						    (VP reducing
+							(NP (NP cities ')
+							    air-pollution problems))))))))
+			  ,
+			  (PP with
+			      (NP (NP no bias)
+				  (PP toward
+				      (NP (NP any fuel)
+					  (PP in
+					      (NP particular)))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ their search)
+     (ADVP notably)
+     (VP wo n't
+         (VP include
+             (NP (NP (NP natural gas)
+                     or
+                     (NP pure methanol))
+                 (PRN --
+		      (NP the two front-running alternative fuels)
+		      --))
+             (PP in
+                 (NP (NP tests)
+                     (SBAR (WHNP-2 0)
+			   (S (NP-SBJ-3 *T*-2)
+			      (VP to
+				  (VP be
+				      (VP completed
+					  (NP *-3)
+					  (PP-TMP by
+						  (NP next summer)))))))))))
+     .))
+( (S (ADVP Instead)
+     ,
+     (NP-SBJ the tests)
+     (VP will
+         (VP focus
+             (ADVP-MNR heavily)
+             (PP-LOC-CLR on
+			 (NP (NP (NP new blends)
+				 (PP of
+				     (NP gasoline)))
+			     ,
+			     (SBAR (SBAR (WHNP-1 which)
+					 (S (NP-SBJ *T*-1)
+					    (VP are
+						(ADVP-TMP still)
+						(ADJP-PRD undeveloped))))
+				   but
+				   (SBAR (WHNP-3 which)
+					 (S (NP-SBJ the petroleum industry)
+					    (VP has
+						(VP been
+						    (VP touting
+							(NP *T*-3)
+							(PP-CLR as
+								(NP (NP a solution)
+								    (PP for
+									(NP (NP automobile pollution)
+									    (SBAR (WHNP-2 that)
+										  (S (NP-SBJ *T*-2)
+										     (VP is
+											 (VP choking
+											     (NP urban areas)))))))))))))))))))
+     .))
+( (S (NP-SBJ Environmentalists)
+     (VP criticized
+         (NP the program)
+         (PP-CLR as
+		 (NP merely a public-relations attempt
+		     (S (NP-SBJ *)
+			(VP to
+			    (VP head (PRT off)
+				(NP a White House proposal
+				    (S (NP-SBJ *)
+				       (VP to
+					   (VP require
+					       (NP (NP (NP a million cars)
+						       (NP-ADV a year))
+						   (SBAR (WHNP-1 that)
+							 (S (NP-SBJ *T*-1)
+							    (VP run
+								(PP-MNR on
+									(NP cleaner-burning fuels))))))))))
+				(PP-TMP by
+					(NP 1997))))))))
+     .))
+( (S (SBAR-ADV While
+	       (S (NP-SBJ major oil companies)
+		  (VP have
+		      (VP been
+			  (VP experimenting
+			      (PP-CLR with
+				      (NP cleaner-burning gasoline blends))
+			      (PP-TMP for
+				      (NP years)))))))
+     ,
+     (NP-SBJ only Atlantic Richfield Co.)
+     (VP is
+         (ADVP-TMP now)
+         (VP marketing
+             (NP (NP a lower-emission gasoline)
+                 (PP for
+                     (NP (NP older cars)
+			 (VP (ADVP-TMP currently) 
+			     running
+                             (PP-MNR on
+				     (NP leaded fuel))))))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ The initial (ADJP (QP $ 11 million) *U*) research program)
+		 (VP will
+		     (VP conduct
+			 (NP (NP the
+				 (ADJP most extensive
+				       (PP *ICH*-1)) 
+				 testing)
+			     (PP-1 to
+				   (NP date))
+			     (PP of
+				 (NP reformulated gasolines))))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Joe Colucci)
+		,
+		(NP (NP head)
+		    (PP of
+			(NP fuels and lubricants))
+		    (PP-LOC at
+			    (NP General Motors Corp. research laboratories))))
+	.))
+( (S (NP-SBJ It)
+     (VP will
+         (VP compare
+             (NP (NP 21 different blends)
+                 (PP of
+                     (NP gasolines)))
+             (PP-CLR with
+		     (NP (NP three mixtures)
+			 (PP of
+			     (NP (ADJP (QP up
+					   to
+					   85)
+				       %)
+				 methanol))))))
+     .))
+( (S (NP-SBJ (NP (NP A second phase)
+                 (PP of
+                     (NP research)))
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP is
+                          (ADVP-TMP still)
+                          (VP being
+                              (VP planned
+                                  (NP *-1))))))
+             ,)
+     (VP will
+         (VP test
+             (NP reformulated gasolines)
+             (PP-LOC-CLR on
+			 (NP (NP newer engine technologies)
+			     (ADVP-TMP now)
+			     (VP being
+				 (VP developed
+				     (PP-PRP for
+					     (NP (NP use)
+						 (PP-LOC in
+							 (NP 1992 or 1993 cars))))))))))
+     .))
+( (S (NP-SBJ There)
+     (VP was
+         (NP-PRD (NP no cost estimate)
+                 (PP for
+                     (NP the second phase))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ The whole idea here)
+		 (VP is
+		     (SBAR-PRD 0
+			       (S (NP-SBJ the automobile and oil companies)
+				  (VP have
+				      (NP joint customers))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Keith McHenry)
+		,
+		(NP (NP a senior vice president)
+		    (PP of
+			(NP technology))
+		    (PP-LOC at
+			    (NP Amoco Corp))))
+	.))
+( (S `` And
+     (NP-SBJ we)
+     (VP are
+	 (VP looking
+	     (PP-CLR for
+		     (NP (NP the
+			     (ADJP most cost-effective)
+			     way)
+			 (SBAR (WHADVP-1 0)
+			       (S (NP-SBJ *)
+				  (VP to
+				      (VP clean 
+					  (PRT up)
+					  (NP the air)
+					  (ADVP-MNR *T*-1)))))))))
+     . ''))
+( (S But
+     (NP-SBJ (NP David Hawkins)
+             ,
+             (NP (NP an environmental lawyer)
+                 (PP with
+                     (NP the Natural Resources Defense Council)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the research)
+                  (VP appears
+                      (ADVP merely)
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP be
+                                 (NP-PRD (NP a way)
+                                         (SBAR (WHADVP-2 0)
+					       (S (NP-SBJ *)
+						  (VP to
+						      (VP promote
+							  (NP reformulated gasoline)
+							  (ADVP-MNR *T*-2)))))))))))))
+     .))
+( (S (NP-SBJ Oil and auto companies)
+     (VP supported
+         (NP (NP a move
+		 (S *ICH*-1))
+             (PP-LOC on
+		     (NP Capitol Hill))
+             (NP-TMP last week)
+             (S-1 (NP-SBJ *)
+		  (VP to
+		      (VP gut
+			  (NP (NP Mr. Bush 's)
+			      plans
+			      (S (NP-SBJ *)
+				 (VP to
+				     (VP require
+					 (S (NP-SBJ-2 auto makers)
+					    (VP to
+						(VP begin
+						    (S (NP-SBJ *-2)
+						       (VP selling
+							   (NP alternative-fueled cars)))
+						    (PP-TMP by
+							    (NP 1995))))))))))))))
+     .))
+( (S (ADVP Instead)
+     ,
+     (NP-SBJ a House subcommittee)
+     (VP adopted
+         (NP (NP a clean-fuels program)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (ADVP specifically)
+                      (VP mentions
+                          (NP reformulated gasoline)
+                          (PP-CLR as
+				  (NP an alternative)))))))
+     .))
+( (S (NP-SBJ The Bush administration)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ-1 it)
+                      (VP will
+                          (VP try
+                              (S (NP-SBJ *-1)
+                                 (VP to
+                                     (VP resurrect
+                                         (NP its plan)
+					 (SBAR-TMP *PPA*-2))))
+			      (SBAR-TMP-2 (WHADVP when)
+					  (S (NP-SBJ the House Energy and Commerce Committee)
+					     (VP takes 
+						 (PRT up)
+						 (NP a comprehensive clean-air bill))))))))))
+     .))

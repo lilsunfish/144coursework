@@ -1,0 +1,185 @@
+
+
+( (S (NP-SBJ-1 Georgia-Pacific Corp.)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP exceeding
+		(NP (NP some analysts ')
+		    expectations)))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter earnings)
+                  (VP rose
+                      (NP-EXT 56 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 178 million) *U*)
+				  ,
+				  or
+				  (NP (NP $ 2.03 *U*)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP (QP $ 114 million) *U*)
+				  ,
+				  or
+				  (NP (NP $ 1.19 *U*)
+				      (NP-ADV a share))
+				  ,)
+			      (PP-TMP in
+				      (NP the year-earlier period)))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP increased
+         (NP-EXT 10 %)
+         (PP-DIR to
+		 (NP (QP $ 2.65 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 2.41 billion) *U*)))
+     .))
+( (S (NP-SBJ-1 Per-share earnings)
+     (VP were
+         (VP enhanced
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP the company 's)
+			     share buy-back program)
+			 ,
+			 (SBAR (WHNP-2 which)
+			       (S (NP-SBJ *T*-2)
+				  (VP reduced
+				      (NP (NP the average shares)
+					  (ADJP outstanding))
+				      (PP-DIR to
+					      (NP (NP (QP 87.5 million))
+						  (PP-TMP in
+							  (NP the quarter))))
+				      (PP-DIR from
+					      (NP (QP 95.8 million))
+					      (PP-TMP in
+						      (NP (NP the same quarter)
+							  (PP of
+							      (NP 1988))))))))))))
+     .))
+( (S (PP With
+         (NP (NP strong prices)
+             (PP-LOC in
+		     (NP (NP (NP the company 's)
+			     two major areas)
+			 (PRN --
+			      (NP (NP building products)
+				  as well as
+				  (NP pulp and paper))
+			      --)))))
+     (NP-SBJ analysts)
+     (VP had
+         (VP expected
+             (NP a roaring quarter)))
+     .))
+( (S But
+     (NP-SBJ the performance)
+     (VP exceeded
+         (NP (NP some estimates)
+             (PP of
+                 (NP (NP (QP around $ 1.90) *U*)
+                     (NP-ADV a share)))))
+     .))
+( (SINV (VP-TPC-1 Fueling
+		  (NP the growth))
+        ,
+        (PP-LOC among
+		(NP other things))
+        , 
+	(VP were
+	    (VP *T*-1))
+        (NP-SBJ (NP higher-than-expected prices)
+                (PP for
+                    (NP certain building products)))
+        .))
+( (NP (NP One reason)
+      :
+      (S (NP-SBJ efforts
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP protect
+			    (NP the spotted owl)))))
+	 (VP led
+	     (PP-CLR to
+		     (NP (NP restrictions)
+			 (PP on
+			     (NP logging))
+			 (PP-LOC in
+				 (NP the Pacific Northwest))))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP (VP constricting
+			    (NP supply))
+			and
+			(VP forcing
+			    (NP prices)
+			    (ADVP-DIR up))))))
+      .))
+( (NP (NP Another reason)
+      :
+      (S (S-TPC-1 (NP-SBJ (NP strikes)
+			  ,
+			  (PP-LOC both
+				  at
+				  (NP (NP Georgia-Pacific)
+				      and
+				      (NP other lumber companies))))
+		  (ADVP also)
+		  (VP (VP cut
+			  (NP supplies))
+		      and
+		      (VP raised
+			  (NP prices))))
+	 ,
+	 (NP-SBJ analysts)
+	 (VP said
+	     (SBAR 0
+		   (S *T*-1))))
+      .))
+( (S (PP For
+	 (NP the nine months))
+     ,
+     (NP-SBJ (NP Georgia-Pacific 's)
+             earnings)
+     (VP increased
+         (NP-EXT 49 %)
+         (PP-DIR to
+		 (NP (NP (QP $ 504 million) *U*)
+		     ,
+		     or
+		     (NP (NP $ 5.58 *U*)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 338 million) *U*)
+		     ,
+		     or
+		     (NP (NP $ 3.41 *U*)
+			 (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 11 %)
+         (PP-DIR to
+		 (NP (QP $ 7.73 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 6.94 billion) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP composite New York Stock Exchange Trading))
+     ,
+     (NP-SBJ-1 Georgia-Pacific stock)
+     (VP rose
+         (NP-EXT (NP $ 1.25 *U*)
+		 (NP-ADV a share))
+         (NP-TMP yesterday)
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP $ 58 *U*))))))
+     .))

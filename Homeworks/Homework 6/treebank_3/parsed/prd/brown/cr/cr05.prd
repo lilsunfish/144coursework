@@ -1,0 +1,2133 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (NP Ambiguity))
+( (S (NP-SBJ-1 (NP Nothing)
+               (PP in
+                   (NP English)))
+     (VP has
+         (VP been
+             (VP ridiculed
+                 (NP *-1)
+                 (ADVP (ADVP as much)
+                       (PP as
+                           (NP (NP the ambiguous use)
+                               (PP of
+                                   (NP words)))))
+		 ,
+		 (SBAR-ADV unless
+			   (S (NP-SBJ it)
+			      (VP be
+				  (NP-PRD (NP the ambiguous use)
+					  (PP of
+					      (NP sentences)))))))))
+     .))
+( (S (NP-SBJ Ben Franklin)
+     (VP said 
+	 , 
+	 ``
+         (S (NP-SBJ-1 *)
+            (ADVP-MNR Clearly)
+	    (VP spoken
+		(NP *-1)
+		,
+		(NP-VOC Mr. Fogg))))
+     .))
+( (S (NP-SBJ You)
+     (VP explain
+         (NP English)
+         (PP by
+             (NP Greek)))
+     '' .))
+( (S (NP-SBJ Richard Brinsley Sheridan)
+     (VP said , ``
+         (S (NP-SBJ I)
+            (VP think
+                (SBAR 0
+                      (S (NP-SBJ the interpreter)
+                         (VP is
+                             (NP-PRD (NP (ADJP the hardest))
+				     (SBAR (WHNP-2 0)
+					   (S (NP-SBJ-1 *T*-2)
+					      (VP to
+						  (VP be
+						      (VP understood
+							  (NP *-1))))))
+                                     (PP of
+                                         (NP the two))))))))
+         '')
+     .))
+( (S And
+     (NP-SBJ a witty American journalist)
+     (VP remarked
+         (ADVP-TMP (NP (QP over a) century)
+		   ago)
+         (UCP (FRAG (SBAR-NOM (WHNP-1 what)
+			      (S (NP-SBJ *T*-1)
+				 (VP is
+				     (ADJP-PRD (ADVP even more)
+					       true)
+				     (NP-TMP today)))))
+	      , 
+	      ``
+	      (S (NP-SBJ-2 Many a writer)
+		 (VP seems
+		     (S (NP-SBJ *-2)
+			(VP to
+			    (VP think
+				(SBAR 0
+				      (S (NP-SBJ he)
+					 (VP is
+					     (ADVP-TMP never)
+					     (ADJP-PRD profound)
+					     (PP except
+						 (SBAR (WHADVP-3 when)
+						       (S (NP-SBJ he)
+							  (VP ca n't
+							      (VP understand
+								  (NP his own meaning)
+								  (ADVP-TMP *T*-3))))))))))))))
+	      ''))
+     .))
+( (S (S (NP-SBJ There)
+        (VP are
+            (NP-PRD (NP many types)
+                    (PP of
+                        (NP ambiguity)))))
+     and
+     (S (NP-SBJ-1 (NP many)
+                  (PP of
+                      (NP them)))
+        (VP have
+            (VP been
+                (VP described
+                    (NP *-1)
+                    (PP by
+                        (NP-LGS rhetoricians))
+                    (PP under
+                        (NP (NP such names)
+                            (PP as
+                                (NP (NP amphibology)
+                                    ,
+                                    (NP parisology)
+                                    , 
+				    and
+                                    (NP other ologies)))))))))
+     .))
+( (S (PP In
+         (NP common parlance))
+     (NP-SBJ-1 they)
+     (VP would
+         (VP be
+             (VP described
+                 (NP *-1)
+                 (PP as
+                     (NP (NP misses)
+                         --
+                         (NP (NP misinterpreters)
+                             ,
+                             (NP misunderstanders)
+                             ,
+                             (NP misdirectors)
+                             and
+                             (NP kindred misdeeds)))))))
+     .))
+( (S (NP-SBJ-1 (NP One species)
+	       (PP of
+		   (NP ambiguity)))
+     (VP tries
+         (S (NP-SBJ-2 *-1)
+            (VP to
+                (VP baffle
+		    (PP by
+			(S-NOM (NP-SBJ *-2)
+			       (VP interweaving
+				   (NP repetition))))))))
+     .))
+( (SQ ``
+      (SQ Did
+	  (NP-SBJ you)
+	  (VP *RNR*-3))
+      or
+      (SQ did
+          (NP-SBJ you)
+          not
+	  (VP *RNR*-3))
+      (VP-3 say
+	    (SBAR (WHNP-2 what)
+		  (S (NP-SBJ I)
+		     (VP said
+			 (SBAR 0
+			       (S (NP-SBJ you)
+				  (VP said
+				      (NP *T*-2))))))))
+      ,
+      (SBAR-PRP because
+		(S (NP-SBJ Jane)
+		   (VP said
+		       (SBAR 0
+			     (S (NP-SBJ you)
+				(ADVP-TMP never)
+				(VP said
+				    (SBAR (WHNP-1 what)
+					  (S (NP-SBJ I)
+					     (VP said
+						 (NP *T*-1))))))))))
+      '' ? ?))
+( (S (NP-SBJ-1 Another woman)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP addressing
+		(NP Christmas cards)))
+     ,
+     (VP said
+         (PP to
+             (NP her husband))
+         : 
+	 (SQ ``
+	     (SQ (S (S (S (NP-SBJ We)
+			  (VP sent
+			      (NP them)
+			      (NP one)
+			      (NP-TMP last year)))
+		       but
+		       (S (NP-SBJ they)
+			  (VP did n't
+			      (VP send
+				  (NP us)
+				  (NP one)))))
+		    , 
+		    so
+		    (S (NP-SBJ they)
+		       (ADVP probably)
+		       (VP wo n't
+			   (VP send
+			       (NP us)
+			       (NP one)
+			       (NP-TMP this year)
+			       (SBAR-PRP because
+					 (S (NP-SBJ they)
+					    (VP 'll
+						(VP think
+						    (SBAR 0
+							  (S (NP-SBJ we)
+							     (VP wo n't
+								 (VP send
+								     (NP them)
+								     (NP one)
+								     (SBAR-PRP because
+									       (S (NP-SBJ they)
+										  (VP did n't
+										      (NP-TMP last year))))))))))))))))
+		 ,
+		 (SQ do
+		     n't
+		     (NP-SBJ you)
+		     (VP think
+			 (SBAR *?*))))
+	     , 
+	     or
+	     (SQ shall
+		 (NP-SBJ we)
+		 (VP *?*))
+	     '' ? ?))))
+( (S (S (NP-SBJ-2 Such ambiguous exercises)
+        (VP compound
+            (NP confusion)
+            (PP by
+                (S-NOM (NP-SBJ *-2)
+		       (VP making
+			   (S (NP-SBJ it)
+			      (ADJP-PRD worse compounded)))))))
+     , 
+     and
+     (S (NP-SBJ-1 they)
+        (VP are
+            (ADVP-TMP sometimes)
+            (VP expanded
+                (NP *-1)
+		(SBAR-TMP until
+			  (S (NP-SBJ (NP the cream)
+				     (PP of
+					 (NP the jest)))
+			     (VP sours))))))
+     .))
+( (S (NP-SBJ (NP Ambiguity)
+             (PP of
+                 (NP a non-repetitious kind)))
+     (VP describes
+         (NP (NP the dilemma)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ one girl)
+                      (VP found
+                          (NP herself)
+			  (PP in
+			      (NP *T*-1)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ I)
+	      (VP 'm
+		  (ADJP-PRD terribly upset)))
+     '' 
+     ,
+     (NP-SBJ she)
+     (VP told
+	 (NP a girl-friend)
+	 (S *T*-1))
+     .))
+( (S ``
+     (S (NP-SBJ I)
+        (VP wrote
+            (S (NP-SBJ Bill)
+	       (VP *ICH*-3))
+            (PP in
+                (NP my last letter))
+	    (VP-3 to
+		  (VP forget
+		      (SBAR that
+			    (S (NP-SBJ I)
+			       (VP had
+				   (VP told
+				       (NP him)
+				       (SBAR that
+					     (S (NP-SBJ-2 I)
+						(VP did n't
+						    (VP mean
+							(S (NP-SBJ *-2)
+							   (VP to
+							       (VP reconsider
+								   (NP my decision
+								       (S (NP-SBJ *)
+									  not
+									  (VP to
+									      (VP change
+										  (NP my mind))))))))))))))))))))
+     -- 
+     and
+     (S (NP-SBJ-1 he)
+        (VP seems
+            (S (NP-SBJ *-1)
+               (VP to
+                   (VP have
+                       (VP misunderstood
+                           (NP me)))))))
+     '' .))
+( (S (ADVP Evidently)
+     (NP-SBJ Bill)
+     (VP was
+         (NP-PRD (NP another)
+                 (PP of
+                     (NP (NP those men)
+                         (SBAR (WHNP-1 who)
+                               (S (NP-SBJ *T*-1)
+                                  (ADVP simply)
+                                  (VP do n't
+                                      (VP understand
+                                          (NP women)))))))))
+     .))
+( (S (NP-SBJ Another case)
+     (VP involves
+         (NP (NP a newspaper reporter)
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP tripped
+                          (PRT up)
+                          (NP a politician))))))
+     .))
+( (S ``
+     (NP-VOC Mr. Jones)
+     ,
+     (NP-SBJ you)
+     (VP may
+	 (VP recall
+	     (SBAR that
+		   (S (NP-SBJ we)
+		      (VP printed
+			  (NP-TMP last week)
+			  (NP (NP your denial)
+			      (PP of
+				  (S-NOM (NP-SBJ *)
+					 (VP having
+					     (VP retracted
+						 (NP (NP the contradiction)
+						     (PP of
+							 (NP your original statement)))))))))))))
+     .))
+( (SQ (INTJ Now)
+      would
+      (NP-SBJ-2 you)
+      (VP care
+	  (S (NP-SBJ *-2)
+	     (VP to
+		 (VP have
+		     (S (NP-SBJ us)
+			(VP say
+			    (SBAR that
+				  (S (NP-SBJ-1 you)
+				     (VP were
+					 (VP misquoted
+					     (NP *-1)
+					     (PP in
+						 (NP (NP regard)
+						     (PP to
+							 (NP it))))))))))))))
+      '' ? ?))
+( (S (NP-SBJ (NP Questions)
+	     (PP like
+		 (NP this))
+             ,
+             (VP framed
+                 (NP *)
+                 (PP in
+                     (NP verbal fog))))
+     ,
+     (VP are
+         (ADVP perhaps)
+         (NP-PRD (NP the only kind)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP have
+                              (ADVP-TMP ever)
+                              (VP stumped
+                                  (NP an experienced politician)))))))
+     .))
+( (S (NP-SBJ They)
+     (VP recall
+         (NP (NP (NP Byron 's)
+                 classic comment)
+             : 
+	     ``
+             (S (NP-SBJ I)
+                (VP wish
+                    (SBAR 0
+                          (S (NP-SBJ he)
+                             (VP would
+                                 (VP explain
+                                     (NP his explanation)))))))
+             ''))
+     .))
+( (S (ADVP Similarly)
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ a reporter)
+		  (ADVP-TMP once)
+		  (VP questioned
+		      (NP Lincoln)
+		      (PP in
+			  (NP cryptic fashion))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ-2 Lincoln)
+     (VP refused
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP make
+                    (NP any further statement)))))
+     .))
+( (S-2 ``
+       (NP-SBJ I)
+       (VP fear
+	   (NP (NP explanations)
+	       (ADJP explanatory
+		     (PP of
+			 (NP (NP things)
+			     (VP explained
+				 (NP *)))))
+	       ''
+	       (PRN ,
+		    (S (NP-SBJ he)
+		       (VP said
+			   (S *T*-2)))
+		    ,)
+	       (VP leaving
+		   (S (NP-SBJ-1 the biter)
+		      (UCP-PRD (VP bit
+				   (NP *-1))
+			       -- 
+			       and
+			       (ADJP bitter))))))
+       .))
+( (S (NP-SBJ (NP The obscurity)
+             (PP of
+                 (NP politicians)))
+     (VP may not
+         (ADVP-TMP always)
+         (VP be
+             (ADJP-PRD (ADJP as innocent)
+                       (SBAR as
+			     (S (NP-SBJ it)
+				(VP looks
+				    (ADJP-PRD *?*)))))))
+     .))
+( (S-2 ``
+       (NP-VOC Senator)
+       '' 
+       (PRN ,
+	    (SINV (VP said
+		      (S *T*-2))
+		  (NP-SBJ an interviewer))
+	    ,) 
+       ``
+       (NP-SBJ your constituents)
+       (VP ca n't
+	   (VP understand
+	       (PP from
+		   (NP (NP your speech)
+		       (NP-TMP last night)))
+	       (SBAR (WHADVP-1 just how)
+		     (S (NP-SBJ you)
+			(VP stand
+			    (PP on
+				(NP the question))
+			    (ADVP *T*-1))))))
+       '' .))
+( (SINV (INTJ-TPC-1 ``
+		    Good
+		    '' ! !)
+	(VP Replied
+	    (INTJ *T*-1))
+	(NP-SBJ the Senator)
+	.))
+( (S ``
+     (NP-SBJ (NP It)
+	     (S *EXP*-1))
+     (VP took
+         (NP me)
+         (NP five hours)
+	 (S-1 (NP-SBJ *)
+	      (VP to
+		  (VP write
+		      (NP it)
+		      (NP-MNR that way)))))
+     '' .))
+( (S (NP-SBJ The misplaced modifier)
+     (VP is
+         (NP-PRD (NP another species)
+                 (VP (ADVP more)
+                     honored
+		     (NP *)
+                     (PP in
+                         (NP (NP the observance)
+                             (PP of
+                                 (NP obscurity))))
+                     (PP than
+                         (PP in
+                             (NP the breach))))))
+     .))
+( (S (NP-SBJ This)
+     (VP creates
+         (NP an amusing effect)
+	 (SBAR-PRP because
+		   (S (NP-SBJ-1 (NP its position)
+				(PP in
+				    (NP a sentence)))
+		      (VP seems
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP make
+				     (S (NP-SBJ it)
+					(VP apply
+					    (PP to
+						(NP the wrong word)))))))))))
+     .))
+( (SINV (NP-PRD-TPC-1 (NP A verse)
+		      (ADJP familiar
+			    (PP to
+				(NP all grammarians))))
+	(VP is
+	    (NP-PRD *T*-1))
+	(NP-SBJ (NP the quatrain)
+		: 
+		``
+		(S (NP-SBJ I)
+		   (VP saw
+		       (S (NP-SBJ a man)
+			  (VP *ICH*-4))
+		       (ADVP-TMP once)
+		       (VP-4 beat
+			     (NP (NP his wife)
+				 (SBAR *PPA*-3))
+			     (SBAR-TMP *PPA*-3))
+		       (SBAR-TMP-3 (WHADVP-2 When)
+				   (S (NP-SBJ *)
+				      (PP-PRD on
+					      (NP a drunken spree))
+				      (ADVP-TMP *T*-2))))))
+	.))
+( (UCP (SQ (INTJ Now)
+	   can
+	   (NP-SBJ you)
+	   (VP tell
+	       (NP me)
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP was
+			    (ADJP-PRD drunk))))))
+       --
+       (NP (NP The man)
+	   ,
+	   (NP his wife)
+	   , 
+	   or
+	   (NP me))
+       '' ? ?))
+( (S (NP-SBJ (NP (NP The `` wooden-leg '' gag)
+                 (PP of
+                     (NP vaudeville)))
+             ,
+             (NP (NP another standby)
+                 (PP of
+                     (NP this sort))))
+     ,
+     (VP had
+         (NP endless variations))
+     .))
+( (S ``
+     (NP-SBJ There)
+     (VP 's
+         (NP-PRD (NP a man)
+		 (ADVP-LOC outside)
+		 (PP with
+		     (NP (NP a wooden leg)
+			 (VP *PPA*-1)))
+		 (VP-1 named
+		       (S (NP-SBJ *)
+			  (NP-PRD Smith)))))
+     '' .))
+( (SBARQ ``
+         (WHNP-1 What)
+         (SQ (NP-SBJ *T*-1)
+             (VP 's
+                 (NP-PRD (NP the name)
+                         (PP of
+                             (NP his other leg)))))
+         '' ? ?))
+( (S (NP-SBJ Another stock vaudeville gag)
+     (VP ran 
+	 :
+	 ``
+         (S (NP-SBJ-1 Mother)
+            (VP is
+                (ADVP-LOC-PRD home)
+                (S-ADV (NP-SBJ *-1)
+		       (ADJP-PRD sick))
+		(S-ADV (NP-SBJ *-1)
+		       (PP-LOC-PRD in
+				   (NP bed))
+		       (PP *PPA*-2))
+		(PP-2 with
+		      (NP the doctor))))
+         '')
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ radio)
+		  (VP came
+		      (ADVP in)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ it)
+     (VP continued
+         (NP the misplaced modifier)
+         (PP in
+             (NP its routines))
+         (PP as
+             (NP a standard device)))
+     .))
+( (SQ ``
+      Do
+      (NP-SBJ you)
+      (VP see
+          (NP (NP that pretty girl)
+              (VP standing
+                  (ADVP-LOC next
+			    (PP to
+				(NP (NP the car)
+				    (PP *PPA*-1)))))
+              (PP-1 with
+		    (NP (NP slacks)
+			(ADVP on)))))
+      '' ? ?))
+( (S ``
+     (S (NP-SBJ I)
+        (VP see
+            (NP the girl)))
+     but
+     (S (NP-SBJ I)
+        (VP do n't
+            (VP see
+                (NP (NP the car)
+                    (PP with
+                        (NP (NP slacks)
+			    (ADVP on)))))))
+     '' .))
+( (S (S (PP-TMP In
+		(NP recent years))
+	(NP-SBJ gagwriters)
+	(VP have
+	    (VP discovered
+		(NP (NP this brand)
+		    (PP of
+			(NP blunder))))))
+     and
+     (S (ADVP thus)
+	(NP-SBJ the misplaced modifier)
+        (VP has
+            (VP acquired
+                (NP (NP a new habitat)
+                    (PP in
+                        (NP the gagline))))))
+     .))
+( (S (PP In
+         (NP one cartoon))
+     (NP-SBJ-7 a family)
+     (VP is
+         (VP shown
+             (NP *-7)
+             (PP-LOC outside
+		     (NP a theater))
+	     (PP with
+		 (S-NOM (NP-SBJ (NP the head)
+				(PP of
+				    (NP the family)))
+			(VP addressing
+			    (NP the doorman)
+			    : 
+			    ``
+			    (S (S-IMP (NP-SBJ *)
+				      (VP Excuse
+					  (NP me)))
+			       , 
+			       but
+			       (S (SBAR-TMP (WHADVP-1 when)
+					    (S (NP-SBJ we)
+					       (VP came
+						   (ADVP-DIR out)
+						   (ADVP-TMP *T*-1))))
+				  (NP-SBJ we)
+				  (VP found
+				      (SBAR that
+					    (S (NP-SBJ we)
+					       (VP had
+						   (VP left
+						       (NP (NP (NP my daughter 's)
+							       handbag)
+							   and
+							   (NP (NP my wife 's)
+							       (NAC *PPA*-2)))
+						       (ADVP-2 behind))))))))
+			    '')))))
+     .))
+( (S (NP-SBJ Journalism)
+     (VP supplies
+         (NP us)
+         (PP with
+             (NP (NP an endless run)
+                 (PP of
+                     (NP such slips)))))
+     .))
+( (S (ADVP-TMP Not long ago)
+     (NP-SBJ a newspaper)
+     (VP advised
+         (NP (NP those)
+             (VP taking
+                 (NP part)
+                 (PP in
+                     (NP a contest))))
+         (SBAR that 
+	       ``
+               (S (NP-SBJ snapshots)
+                  (VP must
+                      (VP be
+                          (UCP-PRD (PP of
+				       (NP (NP a person)
+					   (ADJP *PPA*-1)))
+				   (ADJP-1 (ADJP not larger)
+					   (PP than
+					       (NP A[fj] inches)))))))
+               ''))
+     .))
+( (S (NP-SBJ Classified ads)
+     (VP are
+         (ADVP also)
+         (ADJP-PRD chockfull
+                   (PP of
+                       (NP misrelated constructions))))
+     .))
+( (S (NP-SBJ (NP Readers)
+             (PP of
+                 (NP (NP the Reader 's)
+                     Digest)))
+     (VP are
+         (ADJP-PRD familiar
+                   (PP with
+                       (NP (NP such items)
+			   (SBAR (WHNP-1 which)
+				 (S (NP-SBJ *T*-1)
+				    (ADVP-TMP often)
+				    (VP appear
+					(PP in
+					    (NP (NP its lists)
+						(PP of
+						    (NP verbal slips)))))))
+                           ,
+                           (PP like
+                               (NP (NP the ad)
+				   (PP in
+				       (NP a California paper))
+                                   (SBAR (WHNP-2 that)
+                                         (S (NP-SBJ *T*-2)
+                                            (VP advertised 
+						``
+                                                (UCP (NP (NP House)
+							 (PP for
+							     (NP rent)))
+						     .
+						     (S (NP-SBJ View)
+							(VP takes
+							    (PRT in)
+							    (NP (NP five counties)
+								,
+								(NP two bedrooms)))))
+						'')))))))))
+     .))
+( (S (SBAR-PRP Since
+	       (S (NP-SBJ brevity)
+		  (VP is
+		      (NP-PRD (NP the soul)
+			      (PP of
+				  (NP (NP ambiguity)
+				      (CONJP as well as)
+				      (NP wit)))))))
+     ,
+     (NP-SBJ newspaper headlines)
+     (ADVP-TMP continually)
+     (VP provide
+         (NP us)
+         (PP with
+             (NP amusing samples)))
+     .))
+( (S ``
+     (NP-SBJ Officials)
+     (VP Meet
+         (PP-LOC on
+		 (NP rubbish)))
+     .))
+( (NP (NP Many Shapes)
+      (PP-LOC in
+	      (NP bathtubs))
+      .))
+( (S (NP-SBJ-1 (NP Son and Daughter)
+	       (PP of
+		   (NP Local Couple)))
+     (VP Married
+	 (NP *-1))
+     '' .))
+( (S (ADVP Apart
+           (PP from
+               (NP (NP misplaced modifiers) and (NP headlinese))))
+     ,
+     (NP-SBJ journalism)
+     (VP contributes
+         (NP (NP a wide variety)
+             (PP of
+                 (NP comic ambiguities))
+             (PP in
+                 (NP both 
+		     (UCP editorial and advertising)
+		     matter))))
+     .))
+( (S (S (NP-SBJ A weekly newspaper)
+        (VP reported
+            (NP a local romance)))
+     : 
+     `` 
+     (S and
+	(NP-SBJ-1 the couple)
+	(VP were
+	    (VP married
+		(NP *-1)
+		(NP-TMP last Saturday)
+		,
+		(S-ADV (ADVP thus)
+		       (NP-SBJ *-1)
+		       (VP ending
+			   (NP (NP a friendship)
+			       (SBAR (WHNP-2 which)
+				     (S (NP-SBJ *T*-2)
+					(VP began
+					    (PP-TMP in
+						    (NP their schooldays)))))))))))
+     '' .))
+( (S (NP-SBJ-1 (NP An item)
+	       (PP in
+		   (NP (NP the letters column)
+		       (PP of
+			   (NP a newspaper)))))
+     (VP renewed
+         (NP a subscription)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP adding 
+		    :
+		    ``
+		    (S (NP-SBJ I)
+		       (ADVP personally)
+		       (VP enjoy
+			   (NP your newspaper)
+			   (ADVP (ADVP as much)
+				 (PP as
+				     (NP my husband)))))
+		    '')))
+     .))
+( (S (ADVP Then)
+     (NP-SBJ there)
+     (VP was
+         (NP-PRD (NP (NP the caterer 's)
+                     ad)
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP read 
+			      : 
+			      ``
+                              (SQ are
+                                  (NP-SBJ-2 you)
+                                  (VP (VP getting
+                                          (VP married
+					      (NP *-2)))
+                                      or
+                                      (VP having
+                                          (NP an affair)))
+				  ? ?))))))))
+( (S (NP-SBJ We)
+     (VP have
+         (NP (NP complete facilities)
+             (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (VP to
+			  (VP accommodate
+			      (NP 200 people)))))))
+     '' 
+     .))
+( (S (NP-SBJ The newspaper)
+     (ADVP too)
+     (VP is
+         (NP-PRD (NP the favorite habitat)
+                 (PP of
+                     (NP the anatomical))))
+     .))
+( (S (NP-SBJ-1 This slip)
+     (VP is
+         (VP so-called
+	     (NP *-1)
+	     (SBAR-PRP because
+		       (S (NP-SBJ-2 its semi-ambiguous English)
+			  (ADVP-TMP always)
+			  (VP seems
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP (VP refer
+					     (PP to
+						 (NP (NP a person 's)
+						     anatomy)))
+					 but
+					 (VP (ADVP-TMP never)
+					     (ADVP quite)
+					     means
+					     (SBAR (WHNP-4 what)
+						   (S (NP-SBJ-3 it)
+						      (VP seems
+							  (S (NP-SBJ *-3)
+							     (VP to
+								 (VP say
+								     (NP *T*-4))))))))))))))))
+     .))
+( (NP (NP Samples)
+      :
+      (S (NP-SBJ He)
+	 (VP walked
+	     (ADVP-DIR in)
+	     (PP upon
+		 (NP her invitation))))
+      .))
+( (S (NP-SBJ She)
+     (VP kissed
+         (NP him)
+         (ADVP-MNR passionately)
+	 (PP-TMP upon
+		 (NP his reappearance)))
+     .))
+( (S (NP-SBJ He)
+     (VP kissed
+         (NP her
+	     (NAC *PPA*-1))
+         (ADVP-1 back))
+     .))
+( (SINV Not
+        (PP without
+            (NP good reason))
+        has
+        (NP-SBJ-1 the anatomical)
+        (VP been
+            (VP called
+		(S (NP-SBJ *-1)
+		   (NP-PRD jocular journalese))))
+        .))
+( (S (PP In
+         (NP news items))
+     (NP-SBJ-1 a man)
+     (VP is
+         (ADVP-TMP (ADVP less often)
+		   (PP *ICH*-2))
+         (VP shot
+             (NP *-1)
+             (PP-LOC in
+		     (NP the body or head))
+             (PP-2 than
+		   (PP-LOC in
+			   (NP the suburbs)))))
+     .))
+( (S ``
+     (SBAR-TMP While
+	       (S (NP-SBJ Henry Morgan)
+		  (VP was
+		      (VP escorting
+			  (NP Miss Vera Green)
+			  (PP from
+			      (NP the church social))
+			  (NP-TMP last Saturday night)))))
+     ,
+     (NP-SBJ a savage dog)
+     (VP (VP attacked
+	     (NP them))
+	 and
+	 (VP bit
+	     (NP Mr. Morgan)
+	     (PP-LOC *PPA*-1))
+	 (PP-LOC-1 on
+		   (NP the public square)))
+     '' 
+     .))
+( (S (S (NP-SBJ Such items)
+        (VP recall
+            (NP (NP the California journalist)
+                (SBAR (WHNP-2 who)
+                      (S (NP-SBJ *T*-2)
+                         (VP reported
+                             (NP (NP an accident)
+                                 (VP involving
+                                     (NP a movie star)))))))))
+     : 
+     ``
+     (S (NP-SBJ (NP The area)
+                (SBAR (WHPP-3 in
+			      (WHNP which))
+                      (S (NP-SBJ-1 Miss N --)
+                         (VP was
+                             (VP injured
+                                 (NP *-1)
+				 (PP-LOC *T*-3))))))
+        (VP is
+            (ADJP-PRD spectacularly scenic)))
+     '' 
+     .))
+( (S (NP-SBJ (NP The double meaning)
+             (PP in
+                 (NP the anatomical)))
+     (VP made
+         (S (NP-SBJ it)
+	    (NP-PRD (NP a familiar vaudeville device)
+		    ,
+		    (PP as
+			(PP in
+			    (NP (NP the gags)
+				(PP of
+				    (NP Weber and Fields))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ-4 (NP a witness)
+			    (PP at
+				(NP court)))
+		  (VP was
+		      (VP asked
+			  (NP *-4)
+			  (SBAR if
+				(S (NP-SBJ-5 he)
+				   (VP had
+				       (VP been
+					   (VP kicked
+					       (NP *-5)
+					       (PP in
+						   (NP the ensuing rumpus)))))))
+			  (ADVP-TMP *T*-1)))))
+     ,
+     (NP-SBJ he)
+     (VP replied 
+	 ,
+	 ``
+         (S (INTJ No)
+            ,
+            (NP-SBJ it)
+	    (VP was
+		(PP-LOC-PRD in
+			    (NP the stomach))))
+         '')
+     .))
+( (S (ADVP Strangely enough)
+     ,
+     (NP-SBJ this)
+     (ADVP-TMP always)
+     (VP brought
+         (NP the house)
+         (PRT down))
+     .))
+( (S (ADVP Apart
+           (PP from
+               (NP (NP journalese) and (NP vaudeville gags))))
+     ,
+     (NP-SBJ-1 the anatomical)
+     (VP is
+         (ADVP also)
+         (VP found
+             (NP *-1)
+             (PP in
+                 (NP jocular literature))))
+     .))
+( (S (NP-SBJ A conscientious girl)
+     (VP became
+         (NP-PRD (NP the secretary)
+                 (PP of
+                     (NP a doctor))))
+     .))
+( (S (NP-TMP (NP Her first day)
+	     (PP at
+		 (NP work)))
+     (NP-SBJ-1 she)
+     (VP was
+         (VP puzzled
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP an entry)
+			 (PP in
+			     (NP (NP the doctor 's)
+				 notes))
+			 (PP on
+			     (NP an emergency case))))))
+     .))
+( (S (NP-SBJ It)
+     (VP read 
+	 : 
+	 ``
+         (VP Shot
+	     (NP *)
+	     (PP-LOC in
+		     (NP the lumbar region)))
+         '')
+     .))
+( (S (S (PP-TMP After
+		(NP (NP a moment)
+		    (PP of
+			(NP thought))))
+	,
+	(NP-SBJ her mind)
+	(VP cleared))
+     and
+     ,
+     (S (PP in
+            (NP (NP the interest)
+                (PP of
+                    (NP clarity))))
+        ,
+        (NP-SBJ she)
+        (VP typed
+            (PP into
+                (NP the record))
+            : 
+	    ``
+            (VP Shot
+		(NP *)
+		(PP-LOC in
+			(NP the woods)))
+            ''))
+     .))
+( (S (NP-SBJ There)
+     (VP are
+         (NP-PRD (NP many grammatical misconstructions)
+		 (ADVP other
+		       (PP than
+			   (NP (NP dangling modifiers) and (NP anatomicals))))
+                 (SBAR (WHNP-1 which)
+                       (S (NP-SBJ *T*-1)
+                          (VP permit
+                              (NP two different interpretations))))))
+     .))
+( (S (PP-LOC At
+	     (NP (NP the home)
+		 (PP of
+		     (NP a gourmet))))
+     (NP-SBJ-1 the new maid)
+     (VP was
+         (VP instructed
+             (NP *-1)
+             (PP in
+                 (NP (NP the fine points)
+                     (PP of
+                         (NP serving))))))
+     .))
+( (S-2 ``
+       (S (NP-SBJ I)
+	  (VP want
+	      (S (NP-SBJ-1 the fish)
+		 (VP served
+		     (NP *-1)
+		     (S-ADV (NP-SBJ *-1)
+			    (ADJP-PRD whole))
+		     ,
+		     (PP with
+			 (NP head and tail))))))
+       '' 
+       (PRN ,
+	    (S (NP-SBJ the epicure)
+	       (VP explained
+		   (S *T*-2)))
+	    ,)
+       `` 
+       and
+       (S-IMP (NP-SBJ *)
+	      (VP serve
+		  (NP it)
+		  (PP with
+		      (NP (NP lemon)
+			  (PP-LOC in
+				  (NP mouth))))))
+       '' .))
+( (S (NP-SBJ The maid)
+     (VP demurred)
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ That)
+	      (VP 's
+		  (ADJP-PRD silly)
+		  --
+		  (NP-TPC (NP lemon)
+			  (PP-LOC in
+				  (NP mouth)))))
+     ''
+     ,
+     (NP-SBJ she)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S But
+     (SBAR-PRP since
+	       (S (NP-SBJ the gourmet)
+		  (VP insisted
+		      (SBAR that
+			    (S (NP-SBJ-1 it)
+			       (VP is
+				   (VP done
+				       (NP *-1)
+				       (NP-MNR that way)
+				       (PP-LOC at
+					       (NP the
+						   (ADJP most fashionable)
+						   dinners)))))))))
+     ,
+     (NP-SBJ the girl)
+     (ADVP-MNR reluctantly)
+     (VP agreed)
+     .))
+( (S So
+     (S (NP-SBJ she)
+        (VP brought
+            (NP-1 the fish)
+            (ADVP in)
+            (S-ADV (NP-SBJ *-1)
+		   (ADJP-PRD whole))))
+     , 
+     and
+     (S (NP-SBJ she)
+        (VP carried
+            (NP a lemon)
+            (PP-LOC in
+		    (NP her mouth))))
+     .))
+( (S (NP-SBJ-1 (NP Another specimen)
+               (PP of
+                   (NP such double-entendre)))
+     (VP is
+         (VP illustrated
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a woman)
+			 (PP-LOC in
+				 (NP a department store))))))
+     .))
+( (S (NP-SBJ She)
+     (VP said
+         (PP to
+             (NP the saleslady))
+         , 
+	 ``
+         (S (NP-SBJ I)
+            (VP want
+                (NP (NP a dress)
+                    (SBAR (WHNP-1 0)
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP put
+				     (NP *T*-1)
+				     (PRT on)
+				     (PP around
+					 (NP the house)))))))))
+         '')
+     .))
+( (S (NP-SBJ The puzzled saleslady)
+     (VP inquired 
+	 , 
+	 ``
+         (SBARQ (WHADJP-1 How large)
+                (SQ is
+                    (NP-SBJ your house)
+		    (ADJP-PRD *T*-1)
+                    ,
+                    (NP-VOC Madam)))
+         '' ? ?)))
+( (S (NP-SBJ-1 This saleslady)
+     (VP (VP was
+	     (NP-PRD (NP a failure)
+		     (PP-LOC in
+			     (NP the dress department))))
+	 and
+	 (VP was
+	     (VP transferred
+		 (NP *-1)
+		 (PP-DIR to
+			 (NP the shoe department)))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (NP-SBJ a customer)
+		  (VP asked
+		      (PP for
+			  (NP alligator shoes))
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ she)
+     (VP said 
+	 ,
+	 (SBARQ ``
+		(WHNP-1 What size)
+                (SQ is
+                    (NP-SBJ your alligator)
+                    (NP-PRD *T*-1))
+		''
+		? ?))))
+( (S (NP-SBJ The comic indefinite)
+     (VP comprises
+         (NP (NP an extensive class)
+             (PP of
+                 (NP comedy))))
+     .))
+( (S (NP-SBJ-1 One species)
+     (VP is
+         (VP restricted
+             (NP *-1)
+             (PP to
+                 (NP (NP statements)
+                     (SBAR (WHNP-2 which)
+                           (S (NP-SBJ *T*-2)
+                              (VP are
+                                  (ADJP-PRD neither explicit nor precise)
+				  (PP regarding
+				      (NP a particular person , place , time or thing)))))))))
+     .))
+( (S (NP-SBJ A woman)
+     (VP met
+         (NP a famous author)
+         (PP-LOC at
+		 (NP a literary tea)))
+     .))
+( (S ``
+     (S-TPC-2 (INTJ Oh)
+	      ,
+	      (NP-SBJ-1 I)
+	      (VP 'm
+		  (ADJP-PRD so delighted
+			    (S (NP-SBJ *-1)
+			       (VP to
+				   (VP meet
+				       (NP you)))))))
+     ''
+     ,
+     (NP-SBJ she)
+     (VP gushed
+	 (S *T*-2))
+     .))
+( (S-CLF ``
+	 (NP-SBJ It)
+	 (VP was
+	     (NP-TMP-PRD only the other day)
+	     (SBAR that
+		   (S (NP-SBJ I)
+		      (VP saw
+			  (NP (NP something)
+			      (PP of
+				  (NP yours))
+			      ,
+			      (PP about
+				  (NP something or other)))
+			  ,
+			  (PP in
+			      (NP some magazine))))))
+	 '' 
+	 .))
+( (S (NP-SBJ (NP This baffling lack)
+             (PP of
+                 (NP distinct details)))
+     (VP recalls
+         (NP (NP the secretary)
+             (SBAR (WHNP-1 whose employer)
+                   (S (NP-SBJ *T*-1)
+                      (VP (VP was
+			      (VP leaving
+				  (NP the office)))
+			  and
+			  (VP told
+			      (NP her)
+			      (SBAR (WHNP-2 what)
+				    (S (NP-SBJ *)
+				       (VP to
+					   (VP answer
+					       (NP *T*-2)
+					       (SBAR-ADV if
+							 (S (NP-SBJ anyone)
+							    (VP called
+								(PP in
+								    (NP his absence)))))))))))))))
+     .))
+( (S-1 ``
+       (S (NP-SBJ I)
+	  (VP may
+	      (VP be
+		  (ADVP-PRD back))))
+       '' 
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP explained
+		   (S *T*-1)))
+	    ,) 
+       `` 
+       and
+       (S (ADVP then again)
+	  ,
+	  (NP-SBJ I)
+	  (VP may
+	      not
+	      (VP *?*)))
+       '' .))
+( (S (NP-SBJ The girl)
+     (VP nodded
+         (ADVP-MNR understandingly))
+     .))
+( (UCP-1 ``
+	 (FRAG (INTJ Yes)
+	       ,
+	       (NP-VOC sir))
+	 '' 
+	 (PRN ,
+	      (S (NP-SBJ she)
+		 (VP said
+		     (UCP *T*-1)))
+	      ,)
+	 (SQ ``
+	     is
+	     (NP-SBJ that)
+	     (ADJP-PRD definite)
+	     ''
+	     ? ?)))
+( (S (NP-SBJ An old-fashioned mother)
+     (VP said
+         (PP to
+             (NP her modern daughter))
+         , 
+	 ``
+         (S (NP-SBJ You)
+            (VP must
+                (VP have
+                    (VP gotten
+                        (ADVP in)
+			(ADVP-TMP quite late)
+			(NP-TMP last night)
+			,
+			(NP-VOC dear))))))
+     .))
+( (SBARQ (WHADVP-1 Where)
+         (SQ were
+             (NP-SBJ you)
+	     (ADVP-LOC-PRD *T*-1))
+         '' 
+	 ? ?))
+( (S (NP-SBJ The daughter)
+     (VP replied 
+	 , 
+	 ``
+         (S (INTJ Oh)
+            ,
+            (S (NP-SBJ I)
+	       (VP had
+		   (NP dinner)
+		   (PP-UNF with)))
+	    (PRN --
+		 (S (INTJ well)
+		    ,
+		    (S (NP-SBJ you)
+		       (VP do n't
+			   (VP know
+			       (NP him))))
+		    but
+		    (S (NP-SBJ he)
+		       (VP 's
+			   (ADJP-PRD awfully nice))))
+		 --)
+            and
+            (S (NP-SBJ we)
+	       (VP went
+		   (PP-DIR to
+			   (NP (NP a couple)
+			       (PP of
+				   (NP places))))))
+	    (PRN --
+		 (S (NP-SBJ I)
+		    (VP do n't
+			(VP suppose
+			    (SBAR 0
+				  (S (NP-SBJ you)
+				     (VP 've
+					 (VP heard
+					     (PP of
+						 (NP them)))))))))
+		 --)
+            and
+            (S (NP-SBJ we)
+	       (VP finished
+		   (PRT up)
+		   (PP-LOC at
+			   (NP a cute little night club))))
+	    (PRN --
+		 (S (NP-SBJ I)
+		    (VP forget
+			(NP (NP the name)
+			    (PP of
+				(NP it))))))))
+     .))
+( (SQ (INTJ Why)
+      ,
+      (S (NP-SBJ it)
+	 (VP 's
+	     (ADJP-PRD all right)))
+      ,
+      (SQ is
+	  n't
+	  (NP-SBJ it)
+	  (ADJP-PRD *?*)
+	  ,
+	  (NP-VOC Mother)
+	  ''
+	  ? ?)))
+( (S (NP-SBJ Her woolly-minded parent)
+     (VP agreed)
+     .))
+( (S ``
+     (FRAG-TPC-1 (PP Of
+		     (NP course))
+		 ,
+		 (NP-VOC dear))
+     ''
+     ,
+     (NP-SBJ she)
+     (VP said
+	 (FRAG *T*-1))
+     .))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+	 (ADVP only)
+	 (SBAR-PRD that
+		   (S (NP-SBJ-1 I)
+		      (VP like
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP know
+				     (SBAR (WHADVP-2 where)
+					   (S (NP-SBJ you)
+					      (VP go
+						  (ADVP-DIR *T*-2)))))))))))
+     '' .))
+( (SINV (ADJP-PRD-TPC-1 (ADVP No less)
+			ambiguous)
+        (VP was
+	    (ADJP-PRD *T*-1))
+        (NP-SBJ (NP the indefinity)
+                (PP of
+                    (NP (NP a certain clergyman 's)
+                        sermon)))
+        .))
+( (S-3 ``
+       (NP-VOC (ADJP Dearly beloved))
+       '' 
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP preached
+		   (S *T*-3)))
+	    ,)
+       ``
+       (SBAR-ADV unless
+		 (S (NP-SBJ-2 you)
+		    (VP (VP repent
+			    (PP of
+				(NP your sins))
+			    (PP in
+				(NP a measure)))
+			, 
+			and
+			(VP become
+			    (VP converted
+				(NP *-2)
+				(PP to
+				    (NP a degree)))))))
+       ,
+       (NP-SBJ-1 you)
+       (VP will
+	   (PRN ,
+		(S (NP-SBJ-4 I)
+		   (VP regret
+		       (S (NP-SBJ *-4)
+			  (VP to
+			      (VP say
+				  (S *T*-3))))))
+		,)
+	   (VP be
+	       (VP damned
+		   (NP *-1)
+		   (PP to
+		       (NP a
+			   (ADJP more or less)
+			   extent)))))
+       '' 
+       .))
+( (S (NP-SBJ This clergyman)
+     (VP should
+         (VP have
+             (VP referred
+                 (PP to
+                     (NP (NP (NP Shakespeare 's)
+                             dictum)
+                         : 
+			 ``
+                         (S (NP-SBJ So-so)
+                            (VP is
+                                (NP-PRD a
+                                        (ADJP (ADJP good) 
+					      ,
+                                              (ADJP very good)
+                                              ,
+                                              (ADJP very excellent))
+                                        maxim))))))))
+     .))
+( (S (CONJP And yet)
+     (NP-SBJ it)
+     (VP is not
+	 (NP-PRD *?*))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADJP-PRD but so-so))
+     ''
+     .))
+( (S (NP-SBJ Indefinite reference)
+     (ADVP also)
+     (VP carries
+         (NP (NP double-meaning)
+             (SBAR (WHADVP-2 where)
+                   (S (NP-SBJ-1 (NP an allusion)
+				(PP to
+				    (NP one person or thing)))
+                      (VP seems
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP refer
+                                     (PP to
+                                         (NP another))
+				     (ADVP *T*-2)))))))))
+     .))
+( (S (S (NP-SBJ A news item)
+        (VP described
+            (NP (NP the launching)
+                (PP of
+                    (NP a ship)))))
+     : 
+     ``
+     (S (S-ADV (NP-SBJ *-1)
+	       (VP Completing
+		   (NP the ceremony)))
+        ,
+        (NP-SBJ-1 the beautiful movie star)
+	(VP smashed
+	    (NP (NP a bottle)
+		(PP of
+		    (NP champagne)))
+	    (PP-LOC over
+		    (NP her stern))
+	    (SBAR-TMP as
+		      (S (NP-SBJ she)
+			 (VP slid
+			     (ADVP-MNR gracefully)
+			     (PP-DIR down
+				     (NP the ways))
+			     (PP-DIR into
+				     (NP the sea)))))))
+     '' .))
+( (S (NP-SBJ This)
+     (VP is not
+         (PP-PRD unlike
+                 (NP (NP (NP the order)
+                         (VP received
+                             (NP *)
+                             (PP by
+                                 (NP-LGS (NP the sergeant)
+                                         (PP of
+                                             (NP an army motor pool))))))
+                     : 
+		     ``
+                     (FRAG (NP Four trucks)
+			   (PP to
+			       (NP Fort Mason gym))
+			   ,
+			   (NP-TMP (NP 7:30)
+				   (NP tonight))
+			   ,
+			   (PP for
+			       (S-NOM (NP-SBJ *)
+				      (VP hauling
+					  (NP girls)
+					  (PP-DIR to
+						  (NP dance)))))))))
+     .))
+( (S (S (NP-SBJ-1 The bodies)
+        (VP must
+            (VP be
+                (VP-3 cleaned
+		      (NP *-1)))))
+     and
+     (S (NP-SBJ=1-2 seats)
+        (VP=3 wiped
+	      (NP *-2)
+	      (PRT off)))
+     '' 
+     .))
+( (S (NP-SBJ-1 A politician)
+     (VP was
+         (VP approached
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a man)
+			 (VP seeking
+			     (NP (NP the office)
+				 (PP of
+				     (NP (NP a minor public official)
+					 (SBAR (WHNP-2 who)
+					       (S (NP-SBJ *T*-2)
+						  (VP had
+						      (ADVP just)
+						      (VP died))))))))))))
+     .))
+( (S (SBARQ-TPC-2 ``
+		  (WHNP-1 What)
+		  (SQ are
+		      (NP-SBJ (NP my chances)
+			      (PP for
+				  (S-NOM (NP-SBJ *)
+					 (VP taking
+					     (NP (NP Joe 's)
+						 place)))))
+		      (NP-PRD *T*-1))
+		  ''
+		  ? ?)
+     (NP-SBJ He)
+     (VP asked
+	 (SBARQ *T*-2))
+     .))
+( (S-1 ``
+       (SBAR-ADV If
+		 (S (NP-SBJ you)
+		    (VP can
+			(VP fix
+			    (NP it)
+			    (PRT up)
+			    (PP with
+				(NP the undertaker))))))
+       '' 
+       (PRN ,
+	    (SINV (VP returned
+		      (S *T*-1))
+		  (NP-SBJ the politician))
+	    ,)
+       ``
+       (NP-SBJ it)
+       (VP 's
+	   (ADJP-PRD all right
+		     (PP with
+			 (NP me))))
+       '' .))
+( (S (NP-SBJ (NP The manager)
+             (PP of
+                 (NP a movie theater)))
+     (VP received
+         (NP a telephone call)
+         (PP from
+             (NP (NP a woman)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP was
+                              (ADJP-PRD equally indefinite)))))))
+     .))
+( (S (SBARQ-TPC-2 ``
+		  (WHNP-1 What)
+		  (SQ have
+		      (NP-SBJ you)
+		      (VP got
+			  (NP *T*-1)
+			  (ADVP on)
+			  (NP-TMP today)))
+		  ''
+		  ? ?)
+     (NP-SBJ She)
+     (VP inquired
+	 (SBARQ *T*-2))
+     .))
+( (S ``
+     (NP-TPC-1 A blue suit)
+     '' 
+     ,
+     (NP-SBJ he)
+     (VP answered
+	 (NP *T*-1))
+     .))
+( (S (SBARQ-TPC-2 ``
+		  (WHNP-1 Who)
+		  (SQ (NP-SBJ *T*-1)
+		      (VP 's
+			  (PP-PRD in
+				  (NP it))))
+		  ''
+		  ? ?)
+     (NP-SBJ She)
+     (VP continued
+	 (SBARQ *T*-2))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ I)
+	      (VP am
+		  (PP-PRD *?*)))
+     '' 
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ There)
+     (VP was
+         (NP-PRD (NP a short pause)
+                 (PP for
+                     (NP reflection))))
+     .))
+( (S-1 ``
+       (INTJ Oh)
+       '' 
+       (PRN ,
+	    (SINV (VP said
+		      (S *T*-1))
+		  (NP-SBJ the woman))
+	    ,) 
+       ``
+       (NP-SBJ I)
+       (VP 've
+	   (VP seen
+	       (NP that picture)
+	       (ADVP-TMP already)))
+       '' .))
+( (S (NP-SBJ (NP Another brand)
+             (PP of
+                 (NP indefinite reference)))
+     (VP arises
+         (PP out
+             (PP of
+                 (NP (NP the use)
+                     (PP of
+                         (NP the double verb))))))
+     .))
+( (S (SBAR-TMP (WHADVP-3 When)
+	       (S (NP-SBJ a question)
+		  (VP contains
+		      (NP two verbs)
+		      (ADVP-TMP *T*-3))))
+     ,
+     (NP-SBJ the response)
+     (VP does
+         not
+         (VP make
+             (S (ADJP-PRD clear)
+		(SBAR-NOM-SBJ (WHNP-2 (WHNP which)
+				      (PP of
+					  (NP them)))
+			      (S (NP-SBJ-1 *T*-2)
+				 (VP is
+				     (VP being
+					 (VP answered
+					     (NP *-1)))))))))
+     .))
+( (S (S (NP-SBJ-1 The moonlit night)
+        (VP was
+            (VP made
+                (NP *-1)
+                (PP for
+                    (NP romance)))))
+     , 
+     and
+     (S (NP-SBJ he)
+        (VP had
+            (VP been
+                (VP looking
+                    (PP at
+                        (NP her))
+                    (ADVP-MNR soulfully)
+		    (PP-TMP for
+			    (NP some time))))))
+     .))
+( (S (ADVP Finally)
+     (NP-SBJ he)
+     (VP asked 
+	 , 
+	 (SQ ``
+	     Do
+             (NP-SBJ you)
+             (VP object
+                 (PP to
+                     (NP petting)))
+	     ''
+	     ? ?))))
+( (S ``
+     (S-TPC-2 (NP-SBJ That)
+	      (VP 's
+		  (NP-PRD (NP one thing)
+			  (SBAR (WHNP-1 0)
+				(S (NP-SBJ I)
+				   (VP 've
+				       (ADVP-TMP never)
+				       (VP done
+					   (NP *T*-1))))))))
+     '' 
+     ,
+     (NP-SBJ she)
+     (VP said
+	 (S *T*-2)
+	 (ADVP-MNR promptly))
+     .))
+( (S (NP-SBJ He)
+     (VP (VP thought
+             (NP-TMP a moment))
+         ,
+         (ADVP then)
+         (VP inquired 
+	     , 
+	     (SQ ``
+		 (NP-SBJ You)
+		 (VP mean
+		     (S (NP-SBJ *)
+			(VP petted)))
+		 ''
+		 ? ?)))))
+( (S-1 ``
+       (INTJ No)
+       '' 
+       (PRN ,
+	    (S (NP-SBJ she)
+	       (VP smiled
+		   (S *T*-1)))
+	    ,) 
+       ``
+       (S (NP-SBJ *)
+	  (VP objected))
+       '' .))
+( (S (NP-SBJ (NP Replies)
+             (PP to
+                 (NP (NP requests)
+                     (PP for
+                         (NP character reference)))))
+     (VP are
+         (ADJP-PRD notorious
+                   (PP for
+                       (NP their evasive double-entendre))))
+     .))
+( (S (NP-SBJ (NP It)
+	     (S *EXP*-1))
+     (VP would
+         (VP be
+             (ADJP-PRD hard)
+	     (S-1 (NP-SBJ *)
+		  (VP to
+		      (VP find
+			  (NP (NP anything)
+			      (ADJP (ADJP more equivocal)
+				    (PP than 
+					:
+					``
+					(S (NP-SBJ I)
+					   (VP can not
+					       (VP recommend
+						   (NP him)
+						   (ADVP-MNR too highly))))
+					''))))))))
+     .))
+( (S (S (NP-SBJ Another
+                (ADJP less ambiguous)
+                case)
+        (VP read
+            (SBAR as
+		  (S (NP-SBJ *)
+		     (VP follows)))))
+     : 
+     ``
+     (S (NP-SBJ (NP The bearer)
+                (PP of
+                    (NP this letter)))
+        (VP has
+            (VP served
+                (NP me)
+		(PP-TMP for
+			(NP two years))
+		(PP to
+		    (NP his complete satisfaction)))))
+     .))
+( (S-IMP (SBAR-ADV If
+		   (S (NP-SBJ you)
+		      (VP are
+			  (VP thinking
+			      (PP of
+				  (S-NOM (NP-SBJ *)
+					 (VP giving
+					     (NP him)
+					     (NP a berth))))))))
+	 ,
+	 (NP-SBJ *)
+	 (VP be
+	     (ADJP-PRD sure
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP make
+				  (S (NP-SBJ it)
+				     (NP-PRD a wide one)))))))
+	 '' .))
+( (S (PP In
+         (NP (NP the comedy)
+             (PP of
+                 (NP indefinite reference))))
+     ,
+     (NP-SBJ it-wit)
+     (VP occupies
+         (NP a prominent place)
+	 (PP-PRP because of
+		 (NP its frequent occurrence)))
+     .))
+( (S (NP-SBJ Ambiguity)
+     (VP arises
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ (NP the pronoun)
+			      (NP it))
+		      (VP carries
+			  (NP a twofold reference)
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ Two friends)
+     (VP were
+         (VP talking))
+     .))
+( (S (NP-SBJ One)
+     (VP said 
+	 ,
+	 ``
+         (S (S (SBAR-TMP (WHADVP-1 When)
+			 (S (NP-SBJ I)
+			    (VP get
+				(NP a cold)
+				(ADVP-TMP *T*-1))))
+	       (NP-SBJ I)
+               (VP buy
+                   (NP (NP a bottle)
+                       (PP of
+                           (NP whiskey))
+                       (PP for
+                           (NP it)))))
+            , 
+	    and
+            (S (PP-TMP within
+		       (NP a few hours))
+               (NP-SBJ it)
+               (VP 's
+                   (ADJP-PRD gone))))
+         '')
+     .))
+( (S (S (NP-SBJ The speaker)
+        (VP referred
+            (PP to
+                (NP the whiskey))))
+     but
+     (S (NP-SBJ his friend)
+        (VP thought
+            (SBAR 0
+                  (S (NP-SBJ he)
+                     (VP meant
+                         (NP the cold))))))
+     .))
+( (S (NP-SBJ It-wit)
+     (VP is
+         (NP-PRD a misnomer)
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (VP covers
+			  (NP slips
+			      (CONJP as well as)
+			      wit))))))
+  .)
+( (S (NP-SBJ An excited woman)
+     (VP was
+	 (VP making
+	     (NP (NP an emergency call)
+		 (S-IMP *ICH*-1))
+	     (PP over
+		 (NP the phone))
+	     :
+	     ``
+	     (S-IMP-1 (NP-VOC Doctor)
+		      ,
+		      (NP-SBJ *)
+		      (INTJ please)
+		      (VP come
+			  (ADVP over)
+			  (ADVP-TMP right away)))))
+     .))
+( (S (NP-SBJ My husband)
+     (VP is
+         (PP-PRD in
+                 (NP great pain)))
+     .))

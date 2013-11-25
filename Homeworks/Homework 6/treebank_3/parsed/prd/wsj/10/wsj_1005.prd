@@ -1,0 +1,62 @@
+
+
+( (S (NP-SBJ Allied-Signal Aerospace Co.)
+     (VP received
+         (NP a
+	     (ADJP (QP $ 65 million) *U*)
+	     contract
+             (S (NP-SBJ *)
+                (VP to
+                    (VP outfit
+                        (NP (NP Continental Airlines ')
+                            393 planes)
+                        (PP-CLR with
+				(NP the Bendix/King Traffic Alert and Collision Avoidance System))))))) 
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The airborne system)
+	      (VP operates
+		  (S-MNR (NP-SBJ *-1)
+			 (ADJP-PRD independent
+				   (PP of
+				       (NP ground-based radar systems))))
+		  ,
+		  (S-ADV (NP-SBJ *-1)
+			 (VP informing
+			     (NP pilots)
+			     (PP-CLR of
+				     (NP nearby aircraft))))))
+     ,
+     (NP-SBJ Allied-Signal)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The system)
+     (ADVP also)
+     (VP provides
+         (NP course-correction advisories))
+     .))
+( (S (NP-SBJ Allied-Signal)
+     (VP is
+         (NP-PRD (NP a unit)
+		 (PP of
+		     (NP (NP Allied-Signal Inc.)
+			 ,
+			 (NP (NP a manufacturer)
+			     (PP with
+				 (NP (NP interests)
+				     (PP in
+					 (NP (NP aerospace)
+					     ,
+					     (NP automotive products)
+					     and
+					     (NP engineered materials))))))))))
+     .))
+( (S (NP-SBJ Continental Airlines)
+     (VP is
+         (NP-PRD (NP a unit)
+		 (PP of
+		     (NP (NP Texas Air Corp.)
+			 ,
+			 (NP-LOC Houston)))))
+     .))

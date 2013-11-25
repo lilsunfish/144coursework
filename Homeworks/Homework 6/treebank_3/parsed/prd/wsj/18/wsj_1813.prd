@@ -1,0 +1,56 @@
+
+
+( (S (NP-SBJ (NP Christopher Whittington)
+             ,
+             (NP (NP (NP 51-year-old deputy chairman)
+                     (PP of
+                         (NP this British investment-banking group)))
+                 and
+                 (NP (NP chairman)
+                     (PP of
+                         (NP (NP Morgan Grenfell & Co.)
+                             ,
+                             (NP (NP the group 's)
+                                 main banking unit)))))
+             ,)
+     (VP has
+         (VP retired
+             (PP-CLR from
+		     (NP his executive duties))))
+     .))
+( (SINV (VP-TPC-1 Succeeding
+		  (NP Mr. Whittington)
+		  (PP-CLR as
+			  (NP (NP deputy chairman)
+			      (PP of
+				  (NP the group)))))
+        (VP is
+	    (VP *T*-1))
+        (NP-SBJ (NP Anthony Richmond-Watson)
+                ,
+                (NP 43)
+                ,
+		(NP currently
+		    a main board member))
+        .))
+( (SINV (VP-TPC-1 Succeeding
+		  (NP Mr. Whittington)
+		  (PP-LOC at
+			  (NP Morgan Grenfell & Co.)))
+        (VP is
+	    (VP *T*-1))
+        (NP-SBJ (NP Richard Webb)
+                ,
+                (NP 50)
+                ,
+		(NP currently
+		    deputy chairman))
+        .))
+( (S (NP-SBJ Mr. Whittington)
+     (VP will
+         (VP remain
+             (PP-PRD-LOC on
+			 (NP the main group board))
+             (PP as
+                 (NP a nonexecutive director))))
+     .))

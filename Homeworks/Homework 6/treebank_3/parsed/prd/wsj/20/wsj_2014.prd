@@ -1,0 +1,35 @@
+
+
+( (S (NP-SBJ UPJOHN Co.)
+     (VP reported
+         (SBAR that
+               (S (NP-SBJ third-quarter net income)
+                  (VP rose
+                      (PP-DIR to
+			      (NP (NP (QP $ 96 million) *U*)
+				  , or
+				  (NP (NP 52 cents)
+				      (NP-ADV a share))))
+                      ,
+                      (PP-DIR from
+			      (NP (QP $ 89.6 million) *U*)
+			      , or
+			      (NP (NP 49 cents)
+				  (NP-ADV a share))
+			      ,
+			      (ADVP-TMP (NP a year)
+					earlier))))))
+     .))
+( (S (NP-SBJ (NP Yesterday 's)
+             edition)
+     (VP provided
+         (NP (NP (NP analysts ')
+		 estimates)
+	     (PP for
+                 (NP the company)))
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ actual earnings)
+		      (VP were
+			  (ADJP-PRD available)
+			  (ADVP-TMP *T*-1)))))
+     .))

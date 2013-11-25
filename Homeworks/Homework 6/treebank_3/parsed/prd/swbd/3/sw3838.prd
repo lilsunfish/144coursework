@@ -1,0 +1,1398 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB2 .))
+( (S (INTJ Well)
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ you)
+		  (VP 're
+		      (PP-PRD from
+			      (NP Iowa)))))
+     ,
+     (NP-SBJ you)
+     (VP must
+	 (VP be
+	     (ADJP-PRD very artsy crafty)))
+     .
+     E_S))
+( (S (NP-SBJ (NP Everyone)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ I)
+		      (VP 've
+			  (ADVP-TMP ever)
+			  (VP known
+			      (NP *T*-1)))))
+	     (PP from
+		 (NP the Midwest)))
+     (VP can
+	 (VP do
+	     (NP everything)
+	     (PP with
+		 (NP their hands))))
+     .
+     E_S))
+( (CODE SpeakerA3 .))
+( (S (INTJ Oh)
+     ,
+     (INTJ well)
+     ,
+     (ADVP actually)
+     (NP-SBJ I)
+     (VP 'm
+	 (PP-PRD from
+		 (NP California)))
+     E_S))
+( (S and
+     (PP-TMP before
+	     (ADVP then))
+     (NP-SBJ I)
+     (VP was
+	 (PP-PRD from
+		 (NP Utah)))
+     .
+     E_S))
+( (S-UNF So
+	 .
+	 N_S))
+( (CODE SpeakerB4 .))
+( (S (NP-SBJ I)
+     (VP did
+	 n't
+	 (VP know
+	     (SBAR 0
+		   (S (NP-SBJ anyone)
+		      (ADVP-TMP ever)
+		      (VP moved
+			  (PP-DIR from
+				  (NP California))
+			  (PP-DIR to
+				  (EDITED (RM [)
+					  (NP-UNF Kan-)
+					  ,
+					  (IP +))
+				  (NP Iowa)))))))
+     ?
+     (RS ])
+     E_S))
+( (CODE SpeakerA5 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP grew
+	 (PRT up)
+	 (PP-LOC in
+		 (NP California)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (VP went
+	 (PP to
+	     (NP school))
+	 (PP-LOC in
+		 (NP Utah)))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ-1 I)
+     (VP got
+	 (VP married
+	     (NP *-1)
+	     (ADVP-LOC there)))
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP stayed
+	 (ADVP-LOC there)
+	 (PP-TMP for
+		 (NP a while)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     ,
+     (ADVP-TMP now)
+     (NP-SBJ we)
+     (VP 're
+	 (PP-LOC-PRD in
+		     (EDITED (RM [)
+			     (NP-UNF U-)
+			     ,
+			     (IP +))
+		     (NP Iowa)
+		     (RS ])))
+     .
+     E_S))
+( (CODE SpeakerB6 .))
+( (S (NP-SBJ I)
+     (VP 'm
+	 (VP teasing
+	     ,
+	     (SBAR-PRP only because
+		       (S (NP-SBJ I)
+			  (VP 'm
+			      (PP-PRD from
+				      (NP Indiana)))))))
+     .
+     E_S))
+( (CODE SpeakerA7 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	.
+	E_S))
+( (CODE SpeakerB8 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(ADVP really)
+		(VP-UNF like))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP like
+	 (RS ])
+	 (NP the Midwest))
+     .
+     E_S))
+( (CODE SpeakerA9 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerB10 .))
+( (S But
+     (NP-SBJ I)
+     (VP married
+	 (NP a Texan))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ-1 they)
+     (VP have
+	 (NP (NP a way)
+	     (PP of
+		 (S-NOM (NP-SBJ *-1)
+			(VP dragging
+			    (NP you)
+			    (ADVP-DIR back home))))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (CODE SpeakerB12 .))
+( (S (ADVP Anyway)
+     ,
+     (NP-SBJ-1 we)
+     (VP 're
+	 (VP supposed
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP be
+			(VP talking
+			    (PP about
+				(NP crafts))))))))
+     .
+     E_S))
+( (SQ (EDITED (RM [)
+	      (SQ-UNF Do
+		      (NP-SBJ you))
+	      ,
+	      (IP +))
+      (INTJ um)
+      ,
+      do
+      (NP-SBJ you)
+      (RS ])
+      (VP have
+	  (NP (NP any hobbies)
+	      (SBAR (EDITED (RM [)
+			    (WHADVP that)
+			    ,
+			    (IP +))
+		    (WHADVP-2 that) 
+		    (RS ])
+		    (S (NP-SBJ you)
+		       (VP do
+			   (NP (NP things)
+			       (PP *ICH*-1))
+			   (PP with
+			       (NP your hands))
+			   (PP-1 like
+				 (NP-UNF (NP knitting)
+					 or))
+			   (ADVP *T*-2))))))
+      ,
+      N_S))
+( (CODE SpeakerA13 .))
+( (INTJ Um
+	.
+	N_S))
+( (CODE SpeakerB14 .))
+( (CODE SpeakerA15 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP crochet)
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP do
+	 (NP water color))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     ,
+     (INTJ um)
+     ,
+     (VP sew)
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP do
+	 (NP fabric painting))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ you)
+     (VP do
+	 (NP a lot)
+	 (ADVP then))
+     .
+     E_S))
+( (SQ Do
+      (NP-SBJ you)
+      (VP do
+	  (NP (NP needlepoint)
+	      (NAC *ICH*-1))
+	  (ADVP also)
+	  (NAC-1 and
+		 (NP cross stitching)))
+      ?
+      E_S))
+( (CODE SpeakerA17 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ I)
+     (VP 've
+	 (VP done
+	     (NP some cross stitching)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP tried
+	     (NP any needlepoint)
+	     (ADVP-TMP yet)))
+     .
+     E_S))
+( (FRAG (WHADVP How)
+	(PP about
+	    (NP you))
+	?
+	E_S))
+( (CODE SpeakerB18 .))
+( (S (INTJ Um)
+     ,
+     (ADVP actually)
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'm
+	 (RS ])
+	 (ADJP-PRD pretty untalented))
+     .
+     E_S))
+( (CODE SpeakerA19 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ right)
+	.
+	E_S))
+( (CODE SpeakerB20 .))
+( (S (NP-SBJ-1 I)
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP do
+		    (NP (NP a lot)
+			(PP of
+			    (NP knitting and crocheting))))))
+	 ,
+	 (INTJ um))
+     ,
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP do
+	 n't
+	 (VP know))
+     ,
+     E_S))
+( (S (ADVP somehow)
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP have
+	     (NP the time)
+	     (ADVP-TMP anymore)))
+     .
+     E_S))
+( (S But
+     (NP-SBJ I)
+     (VP have
+	 (NP (NP all these friends)
+	     (SBAR (WHNP-2 that)
+		   (S (S (SBAR-TMP (WHADVP-1 wherever)
+				   (S (NP-SBJ you)
+				      (VP go
+					  (ADVP-DIR *T*-1))))
+			 ,
+			 (EDITED (RM [) 
+				 (NP-SBJ they) 
+				 ,
+				 (IP +))
+			 (NP-SBJ (NP *T*-2)
+				 (NP they))
+			 (RS ])
+			 (VP sit
+			     (ADVP down)))
+		      and
+		      (S (NP-ADV (NP the next thing)
+				 (SBAR (WHNP-3 0)
+				       (S (NP-SBJ you)
+					  (VP know
+					      (NP *T*-3)))))
+			 ,
+			 (NP-SBJ (NP *T*-2)
+				 (NP they))
+			 (VP pull
+			     (PP out
+				 (PP of
+				     (NP their
+					 ,
+					 (INTJ uh)
+					 ,
+					 bags)))
+			     (EDITED (RM [)
+				     (NP-UNF some)
+				     ,
+				     (IP +))
+			     (RS ])
+			     (NP their
+				 (ADJP most recent)
+				 ,
+				 (INTJ uh)
+				 ,
+				 needle craft)))))))
+     E_S))
+( (CODE SpeakerA21 .))
+( (CODE SpeakerB22 .))
+( (CODE SpeakerA23 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	.
+	E_S))
+( (CODE SpeakerB24 .))
+( (S and
+     (PP-TMP in
+	     (NP December))
+     (NP-SBJ everyone)
+     (VP was
+	 (VP doing
+	     (NP (NP stockings)
+		 (PRN ,
+		      (S (NP-SBJ you)
+			 (VP know)))
+		 (NP these
+		     gorgeous
+		     ,
+		     detailed minute
+		     ,
+		     tiny stitch stockings))))
+     .
+     E_S))
+( (CODE SpeakerA25 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB26 .))
+( (CODE SpeakerA27 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ gosh)
+	.
+	E_S))
+( (CODE SpeakerB28 .))
+( (CODE SpeakerA29 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (INTJ well)
+     (NP-SBJ those)
+     (VP take
+	 (NP (NP a lot)
+	     (PP of
+		 (NP time))))
+     .
+     E_S))
+( (CODE SpeakerB30 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (S (NP-SBJ I)
+     (ADVP only)
+     (VP can
+	 (VP do
+	     (NP (NP things)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP are
+			      (ADJP-PRD pretty fast)))))
+	     ,
+	     (SBAR-PRP because
+		       (S (NP-SBJ we)
+			  (ADVP just)
+			  ,
+			  (INTJ um)
+			  ,
+			  (VP got
+			      (NP our baby)
+			      (NP-TMP last year))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (ADVP just)
+     (VP do
+	 n't
+	 (VP have
+	     (NP (NP the patience)
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (ADVP just)
+			      (PRN ,
+				   (S (NP-SBJ you)
+				      (VP know))
+				   ,)
+			      (VP do
+				  (NP something)
+				  (ADVP *T*-1))))))))
+     .
+     E_S))
+( (CODE SpeakerB32 .))
+( (SQ Is
+      (NP-SBJ this)
+      (NP-PRD your first baby)
+      ?
+      E_S))
+( (CODE SpeakerA33 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB34 .))
+( (SQ Have
+      (NP-SBJ you)
+      (VP crocheted
+	  or
+	  knitted
+	  (NP any 
+	      (NX (NX baby clothes) 
+		  or 
+		  (NX baby blankets))))
+      ?
+      E_S))
+( (CODE SpeakerA35 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ I)
+     (VP crocheted
+	 (NP (NP an afghan)
+	     (PP for
+		 (NP our bed))))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD the only thing))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ I)
+     (VP did
+	 (NP a quilt))
+     ,
+     E_S))
+( (S-IMP (NP-SBJ *)
+	 (VP let
+	     (S (NP-SBJ 's)
+		(VP see)))
+	 ,))
+( (S (NP-SBJ I)
+     (VP 've
+	 (VP done
+	     (NP (NP a quilt)
+		 (PP for
+		     (NP our baby)))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP 've
+	 (VP done
+	     (NP (NP a quilt)
+		 (PP for
+		     (NP our bed)))))
+     ,
+     E_S))
+( (S-UNF but
+	 (PRN (S (NP-SBJ I)
+		 (VP mean)))
+	 ,
+	 N_S))
+( (CODE SpeakerB36 .))
+( (SQ Did
+      (NP-SBJ you)
+      (VP (VP embroidery 
+	      (NP the pattern))
+	  (CONJP and then)
+	  (VP quilt
+	      (NP it)
+	      (NP-ADV yourself)))
+      ,
+      E_S))
+( (SBARQ or
+	 (WHADVP-1 how)
+	 (SQ did
+	     (NP-SBJ you)
+	     (VP make
+		 (NP a quilt)
+		 (ADVP-MNR *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA37 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB38 .))
+( (CODE SpeakerA39 .))
+( (S (INTJ Um)
+     ,
+     (NP-TPC (NP our baby 's)
+	     quilt)
+     ,
+     (NP-SBJ it)
+     (VP was
+	 (EDITED (RM [)
+		 (NP-PRD-UNF a pre)
+		 ,
+		 (IP +)
+		 (RS ]))
+	 (PP-PRD like
+		 (NP the design)))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP just)
+     (VP went
+	 (PP around
+	     (NP (NP the design)
+		 (PP-LOC in
+			 (NP the quilt)))))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA41 .))
+( (S (NP-SBJ I)
+     (VP did
+	 n't
+	 (VP (VP piece
+		 (NP it))
+	     or
+	     (NP-ETC (NP anything)
+		     (PP like
+			 (NP that)))))
+     E_S))
+( (S-UNF but
+	 ,
+	 (INTJ uh)
+	 ,
+	 N_S))
+( (CODE SpeakerB42 .))
+( (S But
+     (NP-SBJ you)
+     (ADVP actually)
+     (VP hand quilted
+	 (NP it)
+	 (NP-ADV yourself))
+     ?
+     E_S))
+( (CODE SpeakerA43 .))
+( (INTJ Uh-huh
+	,
+	E_S))
+( (S-UNF and
+	 ,
+	 N_S))
+( (CODE SpeakerB44 .))
+( (SQ (EDITED (RM [)
+	      Did
+	      ,
+	      (IP +))
+      did
+      (RS ])
+      (NP-SBJ you)
+      (VP need
+	  (NP a loom))
+      ,
+      E_S))
+( (SQ-UNF or
+	  were
+	  (NP-SBJ you)
+	  (X a-)
+	  ,
+	  N_S))
+( (SQ was
+      (NP-SBJ it)
+      (ADJP-PRD small enough
+		(SBAR that
+		      (S (NP-SBJ you)
+			 (VP could
+			     (ADVP just)
+			     (VP hold
+				 (NP it))))))
+      ?
+      E_S))
+( (CODE SpeakerA45 .))
+( (S (INTJ Um)
+     ,
+     (NP-SBJ I)
+     (VP put
+	 (NP it)
+	 (PP-PUT on
+		 (EDITED (RM [)
+			 (NP the frame)
+			 ,
+			 (IP +))
+		 (NP the quilting frame)))
+     .
+     (RS ])
+     E_S))
+( (SQ (EDITED (RM [)
+	      (SQ-UNF Have
+		      (NP-SBJ you))
+	      ,
+	      (IP +))
+      are
+      (NP-SBJ you)
+      (RS ])
+      (ADJP-PRD familiar
+		(PP with
+		    (NP that)))
+      ?
+      E_S))
+( (CODE SpeakerB46 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA47 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ okay
+	.
+	E_S))
+( (CODE SpeakerB48 .))
+( (S-UNF But
+	 ,
+	 (INTJ um)
+	 ,
+	 (EDITED (RM [)
+		 (NP-SBJ-UNF my)
+		 ,
+		 (IP +))
+	 (ADVP again)
+	 ,
+	 (NP-SBJ (NP my
+		     (RS ])
+		     mother)
+		 (PP-LOC (ADVP back)
+			 in
+			 (NP Indiana)))
+	 ,
+	 N_S))
+( (S (NP-SBJ we)
+     (VP had
+	 (NP (NP a quilting frame)
+	     (PP-LOC in
+		     (NP our basement))))
+     ,
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ she)
+		(VP-UNF would))
+	     ,
+	     (IP +))
+     (NP-SBJ she)
+     (VP would
+	 (RS ])
+	 (VP quilt
+	     (NP whole quilts)
+	     (PP by
+		 (NP herself))))
+     .
+     E_S))
+( (CODE SpeakerA49 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ my God)
+	.
+	E_S))
+( (CODE SpeakerB50 .))
+( (INTJ (INTJ Um)
+	,
+	(INTJ yes)
+	,
+	E_S))
+( (X which
+     ,
+     N_S))
+( (S (NP-SBJ-1 I)
+     (VP was
+	 (ADVP-TMP always)
+	 (VP amazed
+	     (NP *-1)))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP have
+	 (NP (NP one)
+	     (PP of
+		 (NP them)))
+	 .
+	 (INTJ Um))
+     ,
+     E_S))
+( (S but
+     ,
+     (INTJ uh)
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (S-TPC (NP-SBJ *)
+	    (VP (VP to
+		    (VP have
+			(NP the quilting frame)))
+		(CONJP and then)
+		(VP to
+		    (ADVP actually)
+		    (VP do
+			(NP that)))))
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (NP-PRD (NP a tremendous amount)
+		 (PP of
+		     (NP work))))
+     .
+     E_S))
+( (CODE SpeakerA51 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP done
+	     (NP (NP tons)
+		 (PP of
+		     (NP them)))))
+     .
+     E_S))
+( (S But
+     ,
+     (INTJ um)
+     ,
+     (NP-SBJ-1 I)
+     (VP used
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP do
+		    (NP more))))
+	 (SBAR-TMP (EDITED (RM [)
+			   (EDITED (RM [)
+				   (SBAR-TMP-UNF before)
+				   ,
+				   (IP +))
+			   (INTJ um)
+			   ,
+			   (SBAR-TMP before
+				     (S (NP-SBJ I)
+					(VP-UNF had)))
+			   ,
+			   (RS ])
+			   (IP +))
+		   before
+		   (S (NP-SBJ we)
+		      (VP got
+			  (RS ])
+			  (NP our baby)))))
+     ,
+     E_S))
+( (S-UNF but
+	 .
+	 N_S))
+( (CODE SpeakerB52 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ you)
+     (VP-UNF think
+	     ,
+	     (X (NP children)))
+     ,
+     N_S))
+( (S (NP-SBJ-1 you)
+     (VP can
+	 ,
+	 (INTJ um)
+	 ,
+	 (VP use
+	     (NP crafts)
+	     (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP make
+			    (NP (NP wonderful things)
+				(PP for
+				    (NP children))))))))
+     .
+     E_S))
+( (CODE SpeakerA53 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB54 .))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (SBAR-TMP (WHADVP when)
+			    (S-UNF (NP-SBJ babies))))))
+     ,
+     N_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ (NP afghans)
+			  (EDITED (RM [)
+				  and
+				  ,
+				  (IP +))
+			  and
+			  (RS ])
+			  (NP the crocheted little sweaters))
+		  ,
+		  (EDITED (RM [)
+			  and
+			  ,
+			  (IP +)
+			  (RS ]))
+		  (EDITED (RM [)
+			  (VP-UNF are)
+			  ,
+			  (IP +))
+		  (VP are
+		      (RS ])
+		      (ADJP-PRD wonderful)))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     And
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ they)
+     (VP 'll
+	 (VP wear
+	     (NP them)))
+     .
+     E_S))
+( (CODE SpeakerA55 .))
+( (INTJ Yes
+	,
+	E_S))
+( (INTJ exactly
+	.
+	E_S))
+( (CODE SpeakerB56 .))
+( (S (SBAR-TMP Once
+	       (S (NP-SBJ they)
+		  (VP get
+		      (ADJP-PRD old enough
+				(S (NP-SBJ *)
+				   (VP to
+				       (VP talk)))))))
+     (ADVP then)
+     (NP-SBJ they)
+     (ADVP-TMP no longer)
+     (VP will
+	 (VP wear
+	     (NP them)))
+     .
+     E_S))
+( (CODE SpeakerA57 .))
+( (S (INTJ Well) ,
+     (NP-SBJ (NP one thing)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ I)
+		      (VP like
+			  (NP *T*-1))))
+	     (PP about
+		 (NP this fabric painting thing)))
+     (VP is
+	 (SBAR-PRD 0
+		   (S (NP-SBJ I)
+		      (VP can
+			  (ADVP just)
+			  (VP (VP make
+				  (NP a T shirt))
+			      and
+			      (VP put
+				  (NP a little ruffle)
+				  (PP-PUT around
+					  (NP it)))
+			      (CONJP and then)
+			      ,
+			      (INTJ um)
+			      ,
+			      (VP cut
+				  (PRT out)
+				  (NP (NP a little pattern)
+				      (PP *ICH*-2))
+				  (EDITED (RM [)
+					  (PP from
+					      (NP the material)) 
+					  ,
+					  (IP +))
+				  (PP from
+				      (NP some material))
+				  ,
+				  (RS ])
+				  (PP-2 like
+					(NP flowers or something)))
+			      , and
+			      (VP make
+				  ,
+				  (INTJ um)
+				  ,
+				  (NP (NP a design)
+				      or
+				      (PRN ,
+					   (S (NP-SBJ you)
+					      (VP know)) 
+					   ,)
+				      (NP a little arrangement)
+				      or
+				      (NP something))
+				  (PP-LOC on
+					  (NP the shirt)))
+			      and
+			      (PRN ,
+				   (S (NP-SBJ you)
+				      (VP know))
+				   ,)
+			      (VP fuse
+				  (NP it)
+				  (PRT on)
+				  (PP with
+				      (NP (NP Heat and Bond)
+					  ,
+					  or
+					  (NP whatever))))
+			      (CONJP and then)
+			      (VP paint
+				  (PP around
+				      (NP it))))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (ADVP-TMP usually)
+     (EDITED (RM [)
+	     (VP-UNF sew)
+	     ,
+	     (IP +))
+     (VP sew
+	 (RS ])
+	 (PP around
+	     (NP (NP the flower)
+		 ,
+		 (NP whatever)))
+	 (ADVP-TMP first))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (VP paint
+	 (PP around
+	     (NP it)))
+     E_S))
+( (S so
+     (NP-SBJ you)
+     (VP ca
+	 n't
+	 (VP see
+	     (NP the stitching)
+	     (ADVP as much)))
+     .
+     E_S))
+( (SQ (EDITED (RM [)
+	      Does
+	      ,
+	      (IP +))
+      does
+      (RS ])
+      (NP-SBJ that)
+      (VP make
+	  (NP sense)
+	  (PP to
+	      (NP you)))
+      ?
+      E_S))
+( (S-UNF So
+	 .
+	 N_S))
+( (CODE SpeakerB58 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ yes)
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (ADJP-PRD very clever)))))
+     .
+     E_S))
+( (S (NP-SBJ (NP It)
+	     (SBAR *ICH*-1))
+     (VP 's
+	 ,
+	 (INTJ uh)
+	 ,
+	 (ADJP-PRD funny)
+	 (SBAR-1 that
+		 (S (NP-SBJ you)
+		    (VP-UNF said))))
+     .
+     N_S))
+( (S (PP For
+	 (NP Christmas))
+     ,
+     (NP-SBJ (NP my daughter)
+	     and
+	     (NP I))
+     (VP received
+	 (NP (NP matching sweat shirts)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ a friend)
+		      (VP had
+			  (VP made
+			      (NP *T*-1)
+			      (PP-BNF for
+				      (NP us))))))))
+     .))
+( (NP A beautiful Christmas design
+      ,
+      E_S))
+( (CODE SpeakerA59 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerB60 .))
+( (S and
+     (NP-SBJ they)
+     (VP were
+	 (ADJP-PRD matching))
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP were
+	 (ADJP-PRD lovely))
+     ,
+     E_S))
+( (S but
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ I)
+		  (VP washed
+		      (NP them)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (SBAR-ADV although
+	       (S (NP-SBJ-2 I)
+		  (VP took
+		      (NP (NP the precaution)
+			  (PP of
+			      (S-NOM (NP-SBJ *-2)
+				     (VP turning
+					 (S (NP-SBJ them)
+					    (ADJP-PRD inside out)))))))))
+     (PRN (S (NP-SBJ I)
+	     (ADVP really)
+	     (VP did
+		 n't
+		 (VP do
+		     (NP (NP anything)
+			 (ADVP else)))))
+	  .)
+     (X And)
+     (ADVP truly)
+     ,
+     (NP-SBJ (NP everything)
+	     (NAC *ICH*-3))
+     (VP fell
+	 (ADVP off)
+	 ,
+	 (NAC-3 or
+		(NP (NP most)
+		    (PP of
+			(NP it)))))
+     .
+     E_S))
+( (CODE SpeakerA61 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ sure)
+	.
+	E_S))
+( (CODE SpeakerB62 .))
+( (CODE SpeakerA63 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB64 .))
+( (CODE SpeakerA65 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	.
+	E_S))
+( (CODE SpeakerB66 .))
+( (S So
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF had))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP (VP went)
+	 (RS ])
+	 and
+	 (VP bought
+	     (ADVP just)
+	     (NP some cloth glue))
+	 and
+	 (VP glued
+	     (NP (NP it)
+		 (NP all))
+	     (ADVP back)))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP (VP bought
+	     (NP the paint))
+	 and
+	 (VP redid
+	     (NP (NP most)
+		 (PP of
+		     (NP the edges)))))
+     E_S))
+( (CODE SpeakerA67 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerB68 .))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ it)
+     (VP was
+	 (ADJP-PRD salvageable))
+     ,
+     E_S))
+( (S-UNF and
+	 (NP-SBJ I)
+	 ,
+	 N_S))
+( (S but
+     (NP-SBJ it)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (S so
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD familiar
+		   (PP with
+		       (NP that))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 you)
+		  (VP 're
+		      (ADJP-PRD very clever
+				(S (NP-SBJ *-1)
+				   (VP to
+				       ,
+				       (INTJ um)
+				       ,
+				       (VP sew
+					   (PP around
+					       (NP the edges))))))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-ADV (NP gluing)
+			  (ADVP alone))
+		  ,
+		  (ADVP certainly)
+		  (SBAR-ADV if
+			    (S (NP-SBJ you)
+			       (VP wash
+				   (NP it)
+				   (NP-TMP (NP any amount)
+					   (PP of
+					       (NP time))))))
+		  ,
+		  (NP-SBJ-1 it)
+		  (VP tends
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (ADVP kind of)
+			     (VP come
+				 (ADJP-PRD loose)
+				 (PP-LOC at
+					 (NP the edges)))))))))
+     .
+     E_S))
+( (CODE SpeakerA69 .))
+( (INTJ Well
+	.
+	N_S))
+( (CODE SpeakerB70 .))
+( (CODE SpeakerA71 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ someone)
+     (VP told
+	 (NP me)
+	 (SBAR (EDITED (RM [)
+		       (EDITED (RM [)
+			       (SBAR-UNF that)
+			       ,
+			       (IP +))
+		       (SBAR that
+			     (S-UNF (NP-SBJ it)))
+		       ,
+		       (RS ])
+		       (IP +))
+	       that
+	       (S (NP-SBJ they)
+		  (RS ])
+		  (VP had
+		      (VP done
+			  (NP it)
+			  (NP-MNR both ways))))))
+     ,
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 've
+			(ADVP-TMP always)))
+	     ,
+	     (IP +))
+     (PP-TMP after
+	     (S-NOM (NP-SBJ *-1)
+		    (VP hearing
+			(NP that))))
+     ,
+     (NP-SBJ-1 I)
+     (ADVP-TMP always)
+     (RS ])
+     (VP sewed
+	 (NP it)
+	 (PRT on))
+     ,))
+( (S (EDITED (EDITED (RM [)
+		     (ADVP even)
+		     ,
+		     (IP +))
+	     (PP (ADVP even)
+		 (RS ])
+		 with
+		 (RM [)
+		 (NP-UNF the)
+		 ,
+		 (IP +)))
+     (INTJ uh)
+     ,
+     (NP-SBJ a
+	     (RS ])
+	     loose zigzag)
+     (ADVP even)
+     (VP helps)
+     .
+     E_S))
+( (S-UNF And
+	 ,
+	 (INTJ um)
+	 ,
+	 N_S))

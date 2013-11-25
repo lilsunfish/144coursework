@@ -1,0 +1,211 @@
+
+
+( (S (NP-SBJ The Food and Drug Administration)
+     (VP banned
+         (NP (NP all imports)
+             (PP of
+                 (NP mushrooms))
+             (PP from
+                 (NP China)))
+	 (PP in
+	     (NP (NP response)
+		 (PP to
+		     (NP (NP a rash)
+			 (PP of
+			     (NP (NP food-poisoning outbreaks)
+				 (VP linked
+				     (NP *)
+				     (PP-CLR to
+					     (NP canned Chinese mushrooms))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ The agency)
+	      (VP has
+		  (VP concluded
+		      (SBAR that
+			    (S (NP-SBJ contamination)
+			       (VP may
+				   (VP be
+				       (ADJP-PRD widespread)
+				       (PP-LOC throughout
+					       (NP (NP the mushroom-processing industry)
+						   (PP-LOC in
+							   (NP China)))))))))))
+     , ''
+     (NP-SBJ an FDA spokesman)
+     (VP said
+	 (S *T*-1)
+	 (NP-TMP yesterday))
+     .))
+( (S (NP-SBJ The agency)
+     (VP wo n't
+         (VP allow
+	     (S (NP-SBJ (NP mushrooms)
+			(SBAR (WHNP-2 that)
+			      (S (NP-SBJ-3 *T*-2)
+				 (VP were
+				     (VP (VP canned
+					     (NP *-3))
+					 or
+					 (VP packed
+					     (NP *-3)
+					     (PP-MNR in
+						     (NP brine)))
+					 (PP-LOC at
+						 (NP any Chinese plant)))))))
+		(VP to
+                    (VP enter
+                        (NP the U.S.)
+                        (SBAR-TMP until ``
+				  (S (NP-SBJ-1 satisfactory
+					       sanitation-control
+					       measures
+					       (S *ICH*-4))
+				     (VP are
+					 (VP implemented
+					     (NP *-1)
+					     (PP-LOC in
+						     (NP China))
+					     (S-4 (NP-SBJ *)
+						  (VP to
+						      (VP prevent ''
+							  (NP bacterial contamination)))))))))))))
+     .))
+( (S (PP-TMP On
+	     (NP May 19))
+     ,
+     (NP-SBJ-1 the FDA)
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP detaining
+                (NP (NP Chinese mushrooms)
+                    (PP-LOC in
+			    (NP 68-ounce cans)))))
+	 (SBAR-TMP after
+		   (S (NP-SBJ-2 (NP (QP more
+					than
+					100)
+				    people)
+				(PP-LOC in
+					(NP (NP Mississippi)
+					    ,
+					    (NP New York)
+					    and
+					    (NP Pennsylvania))))
+		      (VP became
+			  (ADJP-PRD ill)
+			  (PP-PRP from
+				  (S-NOM (NP-SBJ *-2)
+					 (VP eating
+					     (NP tainted mushrooms))))))))
+     .))
+( (S (PP-LOC In
+	     (NP subsequent tests))
+     ,
+     (NP-SBJ the agency)
+     (VP found
+         (NP-2 (NP smaller-size cans)
+	       (PP from
+		   (NP several Chinese plants)))
+         (S-CLR (NP-SBJ-1 *-2)
+		(VP to
+		    (VP be
+			(VP (ADVP-MNR similarly)
+			    contaminated
+			    (NP *-1))))))
+     .))
+( (S (NP-SBJ-1 The outbreaks)
+     (VP were
+         (VP traced
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP staphylococcus aureus)
+			 ,
+			 (NP (NP a type)
+			     (PP of
+				 (NP bacteria))
+			     (SBAR (WHNP-2 that)
+				   (S (NP-SBJ *T*-2)
+				      (VP produces
+					  (NP (NP a toxin)
+					      (ADJP capable
+						    (PP of
+							(S-NOM (NP-SBJ *)
+							       (VP surviving
+								   (NP (NP the high temperatures)
+								       (VP used
+									   (NP *)
+									   (PP-LOC in
+										   (S-NOM (NP-SBJ *)
+											  (VP canning
+											      (NP vegetables)))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP A recall)
+             (PP of
+                 (NP (NP the mushrooms)
+                     (VP blamed
+                         (NP *)
+                         (PP-CLR for
+				 (NP the food poisoning))))))
+     (VP began
+	 (PP-TMP in
+		 (NP early March)))
+     .))
+( (S (PP-TMP In
+	     (NP 1987))
+     ,
+     (NP-SBJ China)
+     (VP exported
+         (NP (NP (QP 65 million) pounds)
+	     (PP of
+		 (NP mushrooms))
+             ,
+             (VP valued
+                 (NP *)
+                 (PP-CLR at
+			 (NP (QP $ 47 million) *U*)))
+             ,)
+         (PP-DIR-CLR to
+		     (NP the U.S)))
+     .))
+( (S (NP-SBJ The shipments)
+     (VP went
+         (PP-DIR (ADVP mostly)
+		 to
+		 (NP (NP food-service distributors)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP supply
+				  (NP pizzerias and restaurants)))))))
+     .))
+( (S (NP-SBJ (NP A spokesman)
+             (PP for
+                 (NP the Chinese Embassy)))
+     (ADVP-LOC here)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ the Beijing government)
+                  (VP (VP has
+			  (VP taken
+			      (NP `` many effective measures ''
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP stop
+					     (NP the mushroom contamination)))))))
+		      and
+		      (VP is
+			  (VP (ADVP further)
+			      investigating
+			      (NP the underlying causes)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP predicted
+         (SBAR 0
+               (S (NP-SBJ-1 the problem)
+                  (VP will
+                      (VP be
+                          (VP solved
+                              (NP *-1)
+			      ``
+			      (ADVP-TMP very soon)))))))
+     . ''))

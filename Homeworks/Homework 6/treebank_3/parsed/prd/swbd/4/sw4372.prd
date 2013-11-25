@@ -1,0 +1,1428 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerB1 .))
+( (S-IMP (INTJ So)
+	 ,
+	 (NP-SBJ *)
+	 (VP let
+	     (S (NP-SBJ 's)
+		(VP talk
+		    (PP about
+			(NP (NP the
+				,
+				(INTJ uh)
+				,
+				wonderful abuses)
+			    (PP-LOC in
+				    (NP (NP the State)
+					(PP of
+					    (NP Pennsylvania))))
+			    (PP of
+				(NP personal property taxes))
+			    (SBAR (WHADVP-1 whereby)
+				  (S (NP-SBJ you)
+				     (VP can
+					 (VP purchase
+					     (NP something)
+					     (NP-ADV mail order)
+					     (ADVP *T*-1))))))))))
+	 E_S))
+( (S and
+     (PP after
+	 (NP the fact))
+     ,
+     (NP-SBJ (NP the State)
+	     (PP of
+		 (NP Pennsylvania)))
+     (VP can
+	 (VP (VP find
+		 (PRT out)
+		 (PP about
+		     (NP it)))
+	     and
+	     (VP send
+		 (NP you)
+		 (NP (NP a bill)
+		     (PP for
+			 (NP (NP (NP the sales tax)
+				 (ADJP appropriate
+				       (PP to
+					   (NP (NP that item)
+					       (SBAR (WHNP-2 that)
+						     (S (NP-SBJ you)
+							(VP purchased
+							    (NP *T*-2))))))))
+			     (CONJP as well as)
+			     (NP (NP interest and penalties)
+				 (PP from
+				     (NP (NP the time)
+					 (SBAR (WHADVP-1 that)
+					       (S (NP-SBJ you)
+						  (VP bought
+						      (NP it)
+						      (ADVP-TMP *T*-1)))))))))))))
+     .
+     E_S))
+( (SBARQ (WHNP-1 What)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP think
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (SQ Is
+      (NP-SBJ Pennsylvania)
+      (PP-PRD (ADVP kind of)
+	      out
+	      (PP of
+		  (NP line)))
+      (ADVP-LOC there)
+      ?
+      E_S))
+( (CODE SpeakerA2 .))
+( (S (INTJ Well)
+     ,
+     (ADVP actually)
+     ,
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S (NP-SBJ they)
+		      (VP 're
+			  (PP-PRD out
+				  (PP of
+				      (NP line))))))))
+     .
+     E_S))
+( (FRAG (EDITED (RM [)
+		(NP-UNF De-)
+		,
+		(IP +))
+	(NP (NP Devil 's)
+	    (RS ])
+	    advocate)
+	(ADVP possibly)
+	,
+	E_S))
+( (S but
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 you)
+     (RS ])
+     (VP are
+	 (VP trying
+	     (S (NP-SBJ-2 *-1)
+		(VP to
+		    (VP avoid
+			(S (NP-SBJ *-2)
+			   (VP paying
+			       (NP taxes))))))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (SBAR-ADV-UNF whe-)
+	     ,
+	     (IP +))
+     (SBAR-ADV whether
+	       (RS ])
+	       or not
+	       (S (NP-SBJ you)
+		  (VP agree
+		      (PP with
+			  (NP that law)))))
+     ,
+     (EDITED (RM [)
+	     (X i-)
+	     ,
+	     (IP +))
+     (NP-SBJ you)
+     (VP 're
+	 (RS ])
+	 (ADVP-TMP still)
+	 (VP circumventing
+	     (NP it)))
+     .
+     E_S))
+( (S (NP-SBJ You)
+     (VP are
+	 (ADJP-PRD legal)
+	 (EDITED (RM [)
+		 (PP-UNF in)
+		 ,
+		 (IP +))
+	 (PP in
+	     (RS ])
+	     (NP (NP your circumvention)
+		 (PP of
+		     (NP that law)))))
+     .
+     E_S))
+( (CODE SpeakerB3 .))
+( (FRAG (EDITED (RM [)
+		(WHNP What)
+		,
+		(IP +))
+	(WHNP what)
+	(RS ])
+	if
+	(S (NP-SBJ-1 you)
+	   (VP 're
+	       not
+	       (VP doing
+		   (NP it)
+		   (SBAR-PRP in order
+			     (S (NP-SBJ *-1)
+				(VP to
+				    (VP circumvent
+					(NP the law)))))
+		   (ADVP though))))
+	?
+	E_S))
+( (FRAG (PRN (S (NP-SBJ I)
+		(VP mean)))
+	(WHNP what)
+	if
+	(S (NP-SBJ you)
+	   (VP do
+	       n't
+	       (ADVP even)
+	       (VP realize
+		   (SBAR that
+			 (S (NP-SBJ you)
+			    (VP 're
+				(ADJP-PRD subject
+					  (PP to
+					      (S-NOM (NP-SBJ *)
+						     (VP paying
+							 ,
+							 (INTJ uh)
+							 ,
+							 (NP income tax)
+							 (PP on
+							     (NP (NP something)
+								 (SBAR (WHNP-1 that)
+								       (S (NP-SBJ you)
+									  (VP purchase
+									      (NP *T*-1)
+									      (NP-ADV mail order))))))))))))))))
+	?
+	E_S))
+( (CODE SpeakerA4 .))
+( (S (INTJ Really)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S (NP-SBJ that)
+		      (VP 's
+			  (NP-PRD a valid argument))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (S (NP-SBJ most people)
+		  (VP are
+		      (ADJP-PRD quite aware
+				(SBAR 0
+				      (S (NP-SBJ they)
+					 (VP 're
+					     not
+					     (VP paying
+						 (NP that six percent sales tax))))))))))
+     .
+     E_S))
+( (S (INTJ Um)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (X s-)
+		     ,
+		     (IP +))
+	     (X s-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (ADVP naturally)
+     (EDITED (RM [)
+	     (NP-TPC-UNF some)
+	     ,
+	     (IP +))
+     (NP-TPC-1 some
+	       (RS ])
+	       (RS ])
+	       things)
+     (NP-SBJ you)
+     (ADVP just)
+     (VP ca
+	 n't
+	 (VP find
+	     (NP *T*-1)
+	     (PP-LOC in
+		     (NP your local 
+			 (NX (NX K-Mart)
+			     (EDITED (RM [)
+				     or
+				     ,
+				     (IP +))
+			     or
+			     ,
+			     (RS ])
+			     (INTJ uh)
+			     ,
+			     (NX Bryn Mawr stereo dealer))))))
+     .
+     E_S))
+( (SBARQ (INTJ Uh)
+	 ,
+	 but
+	 (EDITED (RM [)
+		 (EDITED (RM [)
+			 (EDITED (RM [)
+				 (ADVP-UNF th-)
+				 ,
+				 (IP +))
+			 (ADVP-UNF th-)
+			 ,
+			 (RS ])
+			 (IP +))
+		 (ADVP-UNF th-)
+		 ,
+		 (RS ])
+		 (IP +))
+	 (ADVP then)
+	 (RS ])
+	 (WHADVP-1 why)
+	 (SQ (NP-SBJ *)
+	     not
+	     (EDITED (RM [)
+		     (VP-UNF pay)
+		     ,
+		     (IP +))
+	     (VP pay
+		 (RS ])
+		 (NP the sales tax)
+		 (ADVP *T*-1)
+		 (X MUMBLEx)))
+	 .
+	 E_S))
+( (S (NP-SBJ-1 Corporations)
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP *?*))))
+     ,
+     E_S))
+( (SBARQ (WHADVP-3 why)
+	 (SQ should
+	     (NP-SBJ-1 an individual)
+	     (EDITED (RM [)
+		     (SBAR-PRP just because
+			       (S (NP-SBJ it)
+				  (VP-UNF 's)))
+		     ,
+		     (IP +))
+	     (SBAR-PRP just because
+		       (S (NP-SBJ the state)
+			  (RS ])
+			  (VP ca
+			      n't
+			      (ADVP really)
+			      (VP find
+				  (PRT out)
+				  (PP about
+				      (NP it))))))
+	     ,
+	     (VP be
+		 (ADJP-PRD able
+			   (S (NP-SBJ-2 *-1)
+			      (VP to
+				  (VP avoid
+				      (S (NP-SBJ *-2)
+					 (VP paying
+					     (NP sales tax)))))))
+		 (ADVP-PRP *T*-3)))
+	 ?
+	 E_S))
+( (CODE SpeakerB5 .))
+( (S (INTJ Well)
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ it)
+     (VP seems
+	 (PP to
+	     (NP me))
+	 (SBAR that
+	       ,
+	       (S (ADVP generally)
+		  ,
+		  (PP (ADVP at least)
+		      in
+		      (NP my own experience))
+		  ,
+		  (SBAR-TMP (WHADVP-2 when)
+			    (S (NP-SBJ I)
+			       (VP purchase
+				   (NP something)
+				   (NP-ADV mail order)
+				   (ADVP-TMP *T*-2))))
+		  ,
+		  (NP-SBJ it)
+		  (VP 's
+		      not
+		      (S-PRP-PRD (NP-SBJ-1 *)
+				 (VP to
+				     (VP circumvent
+					 (S (NP-SBJ *-1)
+					    (VP paying
+						(NP sales tax)
+						(PP-DTV to
+							(NP (NP the State)
+							    (PP of
+								(NP Pennsylvania)))))))))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (SBAR-PRP-PRD because
+		       (PRN ,
+			    (S (NP-SBJ I)
+			       (VP 'm
+				   (ADJP-PRD sorry)))
+			    ,)
+		       (S-UNF (NP-SBJ (NP the Commonwealth)
+				      (PP of
+					  (NP Pennsylvania))))))
+     .
+     N_S))
+( (CODE SpeakerA6 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerB7 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (SBAR-PRP-PRD because
+		       (S (EDITED (RM [)
+				  (NP-SBJ I)
+				  ,
+				  (IP +))
+			  (NP-SBJ I)
+			  (RS ])
+			  (VP ca
+			      n't
+			      (VP find
+				  (NP (NP the item)
+				      (SBAR (WHNP-1 that)
+					    (S (NP-SBJ I)
+					       (VP want
+						   (NP *T*-1)))))
+				  (PP at
+				      (NP a competitive price))
+				  (PP-LOC (ADVP anywhere)
+					  in
+					  (NP my local area)))))))
+     .
+     E_S))
+( (S So
+     (NP-SBJ I)
+     (VP go
+	 (PP-DIR outside
+		 (NP the area))
+	 (PP for
+	     (NP that)))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (S (NP-SBJ (NP it)
+			  (S *EXP*-3))
+		  (VP 's
+		      not
+		      (NP-PRD my responsibility)
+		      (S-3 (NP-SBJ *)
+			   (VP to
+			       (VP (VP police
+				       (NP myself))
+				   and
+				   (VP pay
+				       (NP Pennsylvania)
+				       (SBAR-NOM (WHNP-2 what)
+						 (S (NP-SBJ they)
+						    (VP believe
+							(SBAR 0
+							      (S (NP-SBJ-1 they)
+								 (VP are
+								     (VP owed
+									 (NP *-1)
+									 (NP *T*-2))))))))
+				       (SBAR-ADV even though
+						 (PRN ,
+						      (S (NP-SBJ you)
+							 (VP know))
+						      ,)
+						 (S (NP-SBJ the revenue stream)
+						    (VP went
+							(PP to
+							    (NP another state)))))))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF do
+			n't))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (RS ])
+	 (VP think
+	     (SBAR that
+		   (S (NP-SBJ that)
+		      (VP 's
+			  (NP-PRD my responsibility)
+			  (EDITED (RM [)
+				  (PP as
+				      (NP-UNF a))
+				  ,
+				  (IP +))
+			  (PP as
+			      (NP a
+				  (RS ])
+				  conscientious consumer)))))))
+     .
+     E_S))
+( (CODE SpeakerA8 .))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 'll
+	 (RS ])
+	 (VP agree
+	     (SBAR 0
+		   (S (EDITED (RM [)
+			      (NP-SBJ it)
+			      ,
+			      (IP +))
+		      (NP-SBJ it)
+		      (VP 's
+			  (RS ])
+			  not
+			  (NP-PRD your responsibility))))))
+     E_S))
+( (SQ (EDITED (RM [)
+	      but
+	      ,
+	      (IP +)
+	      b-
+	      ,
+	      (RS ]))
+      is
+      (NP-SBJ (NP it)
+	      (SBAR *EXP*-1))
+      (ADVP also)
+      (ADJP-PRD legal)
+      ,
+      (SBAR-1 for
+	      (S (NP-SBJ you)
+		 (VP to
+		     (VP do
+			 (NP that)))))
+      ?
+      E_S))
+( (CODE SpeakerB9 .))
+( (CODE SpeakerA10 .))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (WHNP-UNF W-)
+		     ,
+		     (IP +))
+	     (WHNP-UNF w-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (EDITED (RM [)
+	     (PP-UNF fr-)
+	     ,
+	     (IP +))
+     (PP from
+	 (RS ])
+	 (SBAR-NOM (WHNP-3 what)
+		   (RS ])
+		   (S (NP-SBJ I)
+		      (VP understand
+			  (NP *T*-3)
+			  (PP from
+			      (EDITED (RM [)
+				      (EDITED (RM [)
+					      (ADJP-UNF v-)
+					      ,
+					      (IP +))
+				      (ADJP-UNF v-)
+				      ,
+				      (RS ])
+				      (IP +))
+			      (NP various
+				  (RS ])
+				  net readings))))))
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (EDITED (RM [)
+			     (NP-SBJ-UNF i-)
+			     ,
+			     (IP +))
+		     (NP-SBJ-UNF i-)
+		     ,
+		     (RS ])
+		     (IP +))
+	     (NP-SBJ it)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ-1 the Federal government)
+     (RS ])
+     (VP is
+	 (VP going
+	     (S (NP-SBJ-2 *-1)
+		(VP to
+		    (VP try
+			(S (NP-SBJ *-2)
+			   (VP to
+			       (VP legislate
+				   (NP (NP a (ADJP more aggressive) enforcement)
+				       (PP of
+					   (NP state tax schemes))
+				       ,
+				       (INTJ uh)
+				       ,
+				       (EDITED (RM [)
+					       (PP-UNF in)
+					       ,
+					       (IP +)))
+				   (PP into
+				       (RS ])
+				       (NP place))
+				   (PP-TMP in
+					   (NP the next few years))))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ It)
+		(VP-UNF is))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP is
+	 (RS ])
+	 (NP-PRD a lost revenue stream)
+	 (ADVP-TMP right now))
+     E_S))
+( (S and
+     (NP-SBJ states)
+     (EDITED (RM [)
+	     (VP-UNF c-)
+	     ,
+	     (IP +))
+     (VP can
+	 (RS ])
+	 (VP use
+	     (NP (NP all the revenue)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ they)
+			  (VP can
+			      (VP get
+				  (NP *T*-1))))))))
+     .
+     E_S))
+( (SQ (EDITED (RM [)
+	      (PP With
+		  (NP-UNF some))
+	      ,
+	      (IP +))
+      (PP with
+	  (NP (NP something)
+	      (RS ])
+	      (PP like
+		  (NP that))))
+      ,
+      (EDITED (RM [)
+	      (SQ-UNF d-)
+	      ,
+	      (IP +))
+      do
+      (RS ])
+      (NP-SBJ your arguments)
+      (ADVP-TMP still)
+      (VP apply)
+      ?
+      E_S))
+( (CODE SpeakerB11 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (S (SBAR-ADV (EDITED (RM [)
+				    (SBAR-UNF if)
+				    ,
+				    (IP +))
+			    (SBAR if
+				  (RS ])
+				  (S (NP-SBJ-1 policy)
+				     (VP is
+					 (VP established
+					     (NP *-1)
+					     (S-PRP *RNR*-3)))))
+			    and
+			    (SBAR if
+				  (S (NP-SBJ-2 a mechanism)
+				     (VP is
+					 (VP put
+					     (NP *-2)
+					     (PP-PUT into
+						     (NP place))
+					     (S-PRP *RNR*-3)))))
+			    (S-PRP-3 (NP-SBJ *)
+				     (VP to
+					 (VP promote
+					     (NP (NP the collection)
+						 (PP of
+						     (NP taxes))
+						 (PP-MNR in
+							 (NP this fashion)))))))
+		  ,
+		  (ADVP then)
+		  (NP-SBJ I)
+		  (VP do
+		      n't
+		      (VP argue
+			  (PP with
+			      (NP it)))))))
+     .
+     E_S))
+( (SBAR-PRP Because
+	    (S (NP-SBJ (NP it)
+		       (S *EXP*-1))
+	       (VP 's
+		   not
+		   (NP-PRD (NP a burden)
+			   (PP on
+			       (NP the consumer)))
+		   (S-1 (NP-SBJ *)
+			(VP to
+			    (VP remember
+				(SBAR that
+				      (S-SEZ (INTJ oh) 
+					     ,
+					     (NP-SBJ I)
+					     (VP bought
+						 (NP this)
+						 (ADVP-LOC out
+							   (PP of
+							       (NP state)))))))))))
+	    .
+	    E_S))
+( (S (NP-SBJ-1 I)
+     (VP need
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP (VP Xerox
+			(NP the receipt))
+		    and
+		    (VP make
+			(PRT out)
+			(NP (NP a check)
+			    (PP for
+				(NP six percent))))
+		    and
+		    (VP send
+			(NP it)
+			(PP-DIR to
+				(NP Pennsylvania)))))))
+     .
+     E_S))
+( (CODE SpeakerA12 .))
+( (SBAR (WHNP-1 Which)
+	(S (NP-SBJ *T*-1)
+	   (VP is
+	       (ADVP exactly)
+	       (SBAR-NOM-PRD (WHNP-2 what)
+			     (S (NP-SBJ businesses)
+				(VP do
+				    (NP *T*-2)
+				    (PP-TMP at
+					    (NP the present)))))))
+	.
+	E_S))
+( (CODE SpeakerB13 .))
+( (INTJ Right
+	.
+	E_S))
+( (S But
+     (SBAR-NOM-SBJ (WHNP-1 0) 
+		   (S (NP-SBJ the point)
+		      (VP is
+			  (NP-PRD *T*-1))))
+     (VP is
+	 (SBAR-PRD that
+		   (S (NP-SBJ businesses)
+		      (VP do
+			  (NP that)))))
+     .
+     E_S))
+( (S (NP-SBJ (NP The business)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ you)
+		      (VP purchase
+			  (NP the thing)
+			  (PP from
+			      (NP *T*-1))))))
+     (VP is
+	 (ADJP-PRD responsible
+		   (PP for
+		       (S-NOM (NP-SBJ *)
+			      (VP (VP collecting
+				      (NP the appropriate sales tax))
+				  and
+				  (VP forwarding
+				      (NP it)
+				      (PP-DIR to
+					      (NP (NP the state)
+						  (PP in
+						      (NP question))))))))))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP a cost)
+		 (PP of
+		     (S-NOM (NP-SBJ *)
+			    (VP doing
+				(NP business))))))
+     .
+     E_S))
+( (S (NP-SBJ-1 The burden)
+     (VP should
+	 n't
+	 (VP be
+	     (VP placed
+		 (NP *-1)
+		 (PP on
+		     (NP the consumer)))))
+     .
+     E_S))
+( (CODE SpeakerA14 .))
+( (S And
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP was
+	 (ADVP actually)
+	 (VP talking
+	     (PP about
+		 (S-NOM (NP-SBJ-1 businesses)
+			(VP (VP purchasing
+				(NP something)
+				(NP-ADV mail order))
+			    (CONJP and then)
+			    (EDITED (RM [)
+				    (VP-UNF having)
+				    ,
+				    (IP +))
+			    (VP having
+				(RS ])
+				(S (NP-SBJ *-1)
+				   (VP to
+				       (VP pay
+					   (NP sales tax)
+					   (PP on
+					       (NP it)))))))))))
+     .
+     E_S))
+( (CODE SpeakerB15 .))
+( (CODE SpeakerA16 .))
+( (CODE SpeakerB17 .))
+( (INTJ Uh
+	.
+	E_S))
+( (CODE SpeakerA18 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (NP-PRD (NP my understanding)
+		 (PP of
+		     (EDITED (RM [)
+			     (NP-UNF the way)
+			     ,
+			     (IP +))
+		     (INTJ uh)
+		     ,
+		     (NP (NP the way)
+			 (RS ])
+			 (SBAR (WHADVP-1 0)
+			       (S (NP-SBJ it)
+				  (VP works
+				      (ADVP-MNR *T*-1))))))))
+     .
+     E_S))
+( (S (ADVP Usually)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (NP-SBJ (NP the
+		 (RS ])
+		 person)
+	     (VP ordering))
+     (VP does
+	 n't
+	 (VP pay))
+     .
+     E_S))
+( (S But
+     (NP-SBJ the accounting department)
+     (VP will
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP (VP suck
+		 (PRT up)
+		 (NP all the bills)
+		 (PP-TMP at
+			 (NP (NP the end)
+			     (PP of
+				 (NP the month)))))
+	     and
+	     (VP realize
+		 (SBAR (WHNP-2 (WHADJP how much))
+		       (S (NP-SBJ-1 they)
+			  (VP have
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP pay
+					 (NP *T*-2))))))))))
+     .
+     E_S))
+( (S And
+     (EDITED (RM [)
+	     (S (NP-SBJ-UNF there)
+		(X r-))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP are
+	 (RS ])
+	 (EDITED (RM [)
+		 (NP-PRD-UNF s-)
+		 ,
+		 (IP +))
+	 (NP-PRD some
+		 (RS ])
+		 substantial
+		 ,
+		 nasty penalties)
+	 ,
+	 (INTJ um)
+	 ,
+	 (SBAR-ADV (EDITED (RM [)
+			   (SBAR-ADV if
+				     (S-UNF (NP-SBJ you)))
+			   ,
+			   (IP +))
+		   if
+		   (S (NP-SBJ-1 businesses)
+		      (RS ])
+		      (VP try
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP avoid
+				     (NP that))))))))
+     .
+     E_S))
+( (CODE SpeakerB19 .))
+( (SQ (INTJ Uh)
+      ,
+      do
+      (NP-SBJ you)
+      (VP mean
+	  (NP businesses)
+	  (PP from
+	      (NP (NP the point)
+		  (PP of
+		      (NP view))
+		  (EDITED (RM [)
+			  (PP-UNF as)
+			  ,
+			  (IP +)
+			  (RS ]))
+		  (EDITED (RM [)
+			  (PP-UNF of)
+			  ,
+			  (IP +))
+		  (PP of
+		      (RS ])
+		      (NP (S-NOM (NP-SBJ *)
+				 (VP (VP selling
+					 (NP things)
+					 (PP-DTV to
+						 (NP a consumer)))
+				     (CONJP and then)
+				     (VP being
+					 (ADJP-PRD responsible
+						   (PP for
+						       (NP the sales tax))))))
+			  ?
+			  Or
+			  (NP purchasing))))))
+      .
+      E_S))
+( (CODE SpeakerA20 .))
+( (S (NP-SBJ-UNF I-)
+     ,
+     (X MUMBLEx)
+     .
+     N_S))
+( (CODE SpeakerB21 .))
+( (CODE SpeakerA22 .))
+( (INTJ No
+	.
+	E_S))
+( (S-UNF (NP-SBJ Businesses)
+	 ,
+	 (INTJ uh)
+	 (SBAR-ADV if
+		   (S (NP-SBJ *)
+		      (VP purchasing
+			  (NP things)
+			  (NP-ADV mail order))))
+	 ,
+	 E_S))
+( (CODE SpeakerB23 .))
+( (CODE SpeakerA24 .))
+( (S (SBAR-ADV (EDITED (RM [)
+		       (SBAR-ADV-UNF if)
+		       ,
+		       (IP +))
+	       if
+	       (RS ])
+	       (S (S (NP-SBJ I)
+		     (VP 'm
+			 (NP-PRD a computer consulting firm)))
+		  and
+		  (S (NP-SBJ I)
+		     (VP see
+			 (EDITED (RM [)
+				 (NP these)
+				 ,
+				 (IP +))
+			 (NP (NP this
+				 (RS ])
+				 great deal)
+			     (PP on
+				 (NP forty-six mother boards))
+			     ,
+			     (INTJ uh)
+			     ,
+			     (EDITED (RM [)
+				     (PP-UNF from)
+				     ,
+				     (IP +))
+			     (PP from
+				 (RS ])
+				 (INTJ say)
+				 (NP Utah)))))))
+     . 
+     E_S 
+     (INTJ Um)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 I)
+     (RS ])
+     (VP might
+	 (VP (VP buy
+		 (NP the mother boards)
+		 (PP from
+		     (NP Utah)))
+	     but 
+	     (VP (ADVP then)
+		 (ADVP-TMP still)
+		 have
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP pay
+			    (NP Pennsylvania sales tax)))))))
+     .
+     E_S))
+( (S (NP-SBJ My
+	     (EDITED (RM [)
+		     a-
+		     ,
+		     (IP +))
+	     accounting
+	     (RS ])
+	     department)
+     (VP-UNF will
+	     (PP-TMP at
+		     (NP (NP the end)
+			 (PP of
+			     (NP the month)))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP think
+		    (SBAR that
+			  (S (EDITED (RM [)
+				     (NP-SBJ-UNF i-)
+				     ,
+				     (IP +))
+			     (NP-SBJ-UNF i-)))))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (RS ])
+		      (NP-PRD (NP the way)
+			      (SBAR (WHADVP-1 0)
+				    (S (NP-SBJ things)
+				       (VP work
+					   (PP-LOC in
+						   (NP Pennsylvania))
+					   (ADVP-MNR *T*-1)))))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ I)
+     (VP know
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP work
+		      (NP-MNR that way)
+		      (EDITED (RM [)
+			      (PP-LOC-UNF in)
+			      ,
+			      (IP +))
+		      (INTJ uh)
+		      ,
+		      (INTJ say)
+		      (ADVP-LOC here
+				(PP in
+				    (RS ])
+				    (NP D C)))))))
+     .
+     E_S))
+( (CODE SpeakerB25 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ See)
+     (NP-SBJ I)
+     (VP 'm
+	 (ADJP-PRD unfamiliar
+		   (PP with
+		       (NP that)))
+	 (SBAR-PRP because
+		   (S (EDITED (RM [)
+			      (S (NP-SBJ I)
+				 (VP-UNF do
+					 n't))
+			      ,
+			      (IP +))
+		      (NP-SBJ I)
+		      (ADVP-TMP never)
+		      (VP see
+			  (RS ])
+			  (NP (NP that end)
+			      (PP of
+				  (NP the business)))))))
+     .
+     E_S))
+( (CODE SpeakerA26 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB27 .))
+( (S So
+     ,
+     (NP-SBJ my only experience)
+     (VP has
+	 (VP been
+	     (PP-PRD from
+		     (NP (NP the point)
+			 (PP of
+			     (NP view))
+			 (PP of
+			     (NP a consumer))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     but
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (NP-PRD the case))))
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ-3 the business)
+		  (VP is
+		      (ADJP-PRD responsible
+				(PP for
+				    (S-NOM (NP-SBJ *-3)
+					   (VP policing
+					       (NP themselves))))))))
+     ,
+     (ADVP then)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 some (ADJP well defined) mechanisms)
+		  (VP need
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP be
+				 (PP-PRD in
+					 (NP place)))))
+		      (SBAR-PRP so that
+				,
+				(INTJ uh)
+				,
+				(S (NP-SBJ-2 the opportunity
+					     (EDITED (RM [)
+						     (X f-)
+						     ,
+						     (IP +)
+						     (RS ]))
+					     (S (NP-SBJ *)
+						(VP to
+						    (VP forget
+							(SBAR that
+							      (S (NP-SBJ you)
+								 (VP owe
+								     (NP (NP sales tax)
+									 (PP for
+									     (NP something))))))))))
+				   ,
+				   (INTJ uh)
+				   ,
+				   (VP can
+				       (VP be
+					   (VP avoided
+					       (NP *-2))))))))))
+     .
+     E_S))
+( (CODE SpeakerA28 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (EDITED (RM [)
+			     (NP-SBJ-UNF I-)
+			     ,
+			     (IP +))
+		     (NP-SBJ-UNF i-)
+		     ,
+		     (RS ])
+		     (IP +))
+	     (NP-SBJ-UNF a r-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ a big
+	     (RS ])
+	     hole)
+     (VP does
+	 (VP exist
+	     (ADVP-TMP right now)
+	     ,
+	     (INTJ uh)
+	     ,
+	     (SBAR-ADV in that
+		       (S (NP-SBJ consumers)
+			  (VP can
+			      (ADVP just)
+			      (VP say
+				  (S-SEZ (INTJ oh)
+					 ,
+					 (EDITED (RM [)
+						 (NP-SBJ I)
+						 ,
+						 (IP +))
+					 (NP-SBJ I)
+					 (RS ])
+					 (VP forgot
+					     (NP that)))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ There)
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (RS ])
+     (VP is
+	 (NP-PRD no (ADJP well defined) mechanism)
+	 (ADVP at all))
+     E_S))
+( (S-5 (EDITED (RM [)
+	       and
+	       ,
+	       (IP +))
+       and
+       (RS ])
+       (SBAR-SBJ that
+		 (S (NP-SBJ it)
+		    (VP is
+			(EDITED (RM [)
+				(NP-PRD-UNF a)
+				(IP +))
+			(NP-PRD a
+				(RS ])
+				(EDITED (RM [)
+					l-
+					,
+					(IP +))
+				loss))))
+       .
+       (RS ])
+       (EDITED (RM [)
+	       (NP-SBJ I)
+	       ,
+	       (IP +))
+       (PRN (S (NP-SBJ I)
+	       (RS ])
+	       (VP think
+		   (SBAR 0
+			 (S *T*-5)))))
+       (VP is
+	   (SBAR-PRD that
+		     (S (NP-SBJ-1 the Federal government)
+			(VP will
+			    (VP try
+				(S (NP-SBJ-3 *-1)
+				   (VP to
+				       (VP establish
+					   (NP a mechanism))))
+				(EDITED (RM [)
+					(EDITED (RM [)
+						(ADVP-UNF ju-)
+						,
+						(IP +))
+					(S-PRP (ADVP just)
+					       (RS ])
+					       (NP-SBJ *)
+					       (VP to
+						   (VP do)))
+					(IP +))
+				(SBAR-PRP just
+					  (EDITED (RM [)
+						  (SBAR-UNF that)
+						  (IP +)
+						  (RS ]))
+					  (EDITED (RM [)
+						  (PP in
+						      (NP-UNF or-))
+						  ,
+						  (IP +))
+					  in order
+					  (RS ])
+					  (S (NP-SBJ *-3)
+					     (VP to
+						 (RS ])
+						 (VP gain
+						     (NP (NP the revenue)
+							 (SBAR (WHNP-2 that)
+							       (S (NP-SBJ-4 *T*-2)
+								  (VP 's
+								      (VP being
+									  (VP lost
+									      (NP *-4))))))))))))))))
+       .
+       E_S))
+( (S (INTJ Uh)
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ I)
+		      (VP agree
+			  (PP with
+			      (NP that)))))))
+     .
+     E_S))
+( (S-UNF (EDITED (RM [)
+		 (S-UNF But
+			(NP-SBJ it)
+			,
+			(IP +)))
+	 but
+	 ,
+	 (RS ])
+	 N_S))
+( (CODE SpeakerB29 .))

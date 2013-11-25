@@ -1,0 +1,99 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Italy 's)
+		      industrial wholesale sales index)
+	      (VP rose
+		  (NP-EXT 13.2 %)
+		  (PP-TMP in
+			  (NP June))
+		  (PP-DIR from
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ the state statistical institute Istat) 
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The June increase)
+     (VP compared
+         (PP-CLR with
+		 (NP (NP a rise)
+		     (PP of
+			 (NP 10.5 %))
+		     (PP-TMP in
+			     (NP May))
+		     (PP-DIR from 
+			     (ADVP-TMP (NP a year)
+				       earlier)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Domestic wholesale sales)
+	      (VP rose
+		  (NP-EXT 11.9 %)
+		  (PP-DIR from
+			  (ADVP-TMP (NP a year)
+				    earlier))
+		  ,
+		  (SBAR-ADV while
+			    (S (NP-SBJ foreign sales)
+			       (VP jumped
+				   (NP-EXT 17.3 %))))))
+     ,
+     (NP-SBJ Istat)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP For
+         (NP the first six months))
+     ,
+     (NP-SBJ wholesale sales)
+     (VP rose
+         (NP-EXT 12.3 %)
+         (PP-DIR from
+		 (ADVP-TMP (NP the year)
+			   before))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (PP to 
+			(NP (NP (NP a (ADJP 11.5 %) jump)
+				(PP-LOC in
+					(NP domestic sales)))
+			    and
+			    (NP (NP a (ADJP 14.6 %) boost)
+				(PP-LOC in
+					(NP foreign sales))))))))
+     .))
+( (S (NP-SBJ (NP Sales)
+             (PP of
+                 (NP capital goods))
+             (PP to
+                 (NP foreign and domestic destinations)))
+     (VP increased
+         (NP-EXT 16.6 %)
+         (PP-TMP in
+		 (NP the January-June period))
+         (PP-DIR from
+		 (ADVP-TMP (NP a year)
+			   earlier)))
+     .))
+( (S (NP-SBJ (NP Sales)
+	     (PP of
+		 (NP consumer goods)))
+     (VP rose
+	 (NP-EXT 6.9 %)
+	 (PP-TMP in
+		 (NP the same period))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP sales)
+			      (PP of
+				  (NP intermediate goods)))
+		      (VP were
+			  (ADVP-PRD up
+				    (NP 13.8 %)
+				    (PP from
+					(ADVP-TMP (NP a year)
+						  ago)))))))
+     .))

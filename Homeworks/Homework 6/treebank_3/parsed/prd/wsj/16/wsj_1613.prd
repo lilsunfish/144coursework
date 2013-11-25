@@ -1,0 +1,187 @@
+
+
+( (S (NP-SBJ (NP Stock-market fears)
+             and
+             (NP (ADJP relatively more attractive)
+                 interest rates))
+     (VP (VP pushed
+	     (NP (ADJP money-market mutual)
+		 fund assets)
+	     (ADVP-DIR up
+		       (NP (QP $ 6.07 billion) *U*))
+	     (PP-TMP in
+		     (NP the latest week)))
+	 ,
+	 (NP (NP the
+		 sharpest
+		 increase)
+	     (PP-TMP in
+		     (NP (QP almost two) years))))
+     .))
+( (S (NP-SBJ (NP The 473 funds)
+             (VP tracked
+                 (NP *)
+                 (PP by
+                     (NP-LGS (NP the Investment Company Institute)
+                             ,
+                             (NP a Washington-based trade group)
+                             ,))))
+     (VP rose
+         (PP-DIR to
+		 (NP (NP (QP $ 356.1 billion) *U*)
+		     ,
+		     (NP a record))))
+     .))
+( (S (NP-SBJ The
+             (ADJP (QP $ 6.07 billion) *U*)
+	     increase)
+     (VP was
+         (NP-PRD (NP the strongest weekly inflow)
+		 (PP since
+		     (NP January 1988))))
+     .))
+( (S (NP-SBJ-1 The increase)
+     (VP was
+         (VP spread
+             (NP *-1)
+             (ADVP-MNR fairly evenly)
+	     (PP-CLR among
+		     (NP (NP all three types)
+			 (PP of
+			     (NP funds))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP Individual investors)
+			 ,
+			 (VP represented
+			     (NP *)
+			     (PP-LOC-CLR in
+					 (NP the (ADJP general-purpose and broker-dealer) fund categories)))
+			 ,)
+		 (VP (VP pulled
+			 (NP money)
+			 (PP-CLR from
+				 (NP the stock market))
+			 (PP-TMP after
+				 (NP (NP its big drop)
+				     (NP-TMP last Friday))))
+		     and
+		     (VP put
+			 (NP the money)
+			 (PP-PUT into
+				 (NP funds)))))
+        ,
+        (VP said
+	    (SBAR 0
+		  (S *T*-1)))
+        (NP-SBJ (NP Jacob Dreyer)
+                ,
+                (NP (NP (NP vice president)
+                        and
+                        (NP chief economist))
+                    (PP of
+                        (NP the Institute))))
+        .))
+( (S ``
+     (S-TPC-1 (NP-SBJ Insitutional investors)
+	      ,
+	      (PP on
+		  (NP the other hand))
+	      ,
+	      (VP reacted
+		  (PP-CLR to
+			  (NP (NP the steep decline)
+			      (PP in
+				  (NP (NP yields)
+				      (PP on
+					  (NP direct money-market
+					      instruments))))
+			      (PP-TMP following
+				      (NP (NP the stock-market decline)
+					  (NP-TMP last Friday)))))))
+     , ''
+     (NP-SBJ Mr. Dreyer)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ (NP Yields)
+             (PP on
+                 (NP money funds)))
+     (VP dropped
+         (PP-TMP in
+		 (NP (NP the week)
+		     (VP ended
+			 (NP-TMP-CLR Tuesday))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP (NP Donoghue 's)
+			 Money Fund Report)
+		     ,
+		     (NP a
+			 (NAC-LOC Holliston
+				  ,
+				  Mass.
+				  ,)
+			 newsletter)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The average seven-day compounded yield)
+	      (VP fell
+		  (PP-DIR to
+			  (NP 8.55 %))
+		  (PP-DIR from
+			  (NP 8.60 %)
+			  (ADVP-TMP (NP the week)
+				    earlier))))
+     ,
+     (NP-SBJ Donoghue 's)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (PP At
+         (NP (NP the auction)
+             (PP of
+                 (NP six-month U.S. Treasury bills))
+             (PP-TMP on
+		     (NP Monday))))
+     ,
+     (NP-SBJ the average yield)
+     (VP fell
+         (PP-DIR to
+		 (NP 7.61 %))
+	 (PP-DIR from
+		 (NP 7.82 %)))
+     .))
+( (S (ADVP Likewise)
+     ,
+     (NP-SBJ (NP certificates)
+             (PP of
+                 (NP deposit)))
+     (PP on
+         (ADJP average))
+     (VP posted
+         (NP lower yields)
+         (PP-TMP in
+		 (NP (NP the week)
+		     (VP ended
+			 (NP-TMP-CLR Tuesday)))))
+     .))
+( (S (NP-SBJ The 142 institutional-type money funds)
+     (VP rose
+         (NP-EXT (QP $ 2.23 billion) *U*)
+         (PP-DIR to
+		 (NP (QP $ 85.49 billion) *U*)))
+     .))
+( (S (NP-SBJ The 235 general-purpose funds)
+     (VP increased
+	 (NP-EXT (QP $ 2.53 billion) *U*)
+	 (PP-DIR to
+		 (NP (QP $ 116.56 billion) *U*))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ 96 broker-dealer funds)
+		      (VP increased
+			  (NP-EXT (QP $ 1.3 billion) *U*)
+			  (PP-DIR to
+				  (NP (QP $ 154.05 billion) *U*))))))
+     .))

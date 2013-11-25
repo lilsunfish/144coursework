@@ -1,0 +1,1255 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (INTJ Okay
+	,
+	E_S))
+( (S (NP-SBJ we)
+     (VP 're
+	 (ADJP-PRD energized)) 
+     .
+     E_S))
+( (CODE SpeakerB2 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA3 .))
+( (FRAG (INTJ Um)
+	,
+	(NP painting)
+	,
+	E_S))
+( (ADJP interesting
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ the guy)
+     (VP called
+	 (NP me))
+     ,
+     E_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (EDITED (S (NP-SBJ she)
+			     (VP called
+				 (NP me)))
+			  ,)
+		  (NP-SBJ the computer)
+		  (VP called
+		      (NP me)
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ I)
+     (VP thought
+	 (SBAR that
+	       (S (NP-SBJ they)
+		  (VP were
+		      (VP reading
+			  (NP my mind))))))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (PP-PRD in
+		 (NP (NP the middle)
+		     (PP of
+			 ,
+			 (INTJ um)
+			 ,
+			 (S-NOM (NP-SBJ *-1)
+				(VP going
+				    (ADVP out)
+				    (PP for
+					(NP (NP bids)
+					    (S-PRP (NP-SBJ *)
+						   (VP to
+						       (VP have
+							   (S (NP-SBJ-2 my house)
+							      (VP painted
+								  (NP *-2))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA5 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ painting)
+     (VP is
+	 not
+	 (ADJP-PRD hard
+		   (SBAR (WHNP-1 0)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP do
+				    (NP *T*-1))))))
+	 ,
+	 (INTJ uh)
+	 ,
+	 (ADVP (ADVP as long)
+	       (SBAR as
+		     (S (NP-SBJ it)
+			(VP 's
+			    (EDITED (RM [)
+				    not
+				    (PP-PRD-UNF in)
+				    ,
+				    (IP +))
+			    not
+			    (PP-PRD to
+				    (RS ])
+				    (NP (NP the point)
+					(PP of
+					    (SBAR (WHADVP-4 where)
+						  (S (NP-SBJ-2 it)
+						     (EDITED (VP-UNF 's))
+						     ,
+						     (INTJ uh)
+						     ,
+						     (VP (VP needs
+							     (S (NP-SBJ-3 *-2)
+								(VP to
+								    (VP be
+									(VP scraped
+									    (NP *-3))))))
+							 and
+							 (X (EDITED (RM [)
+								    (X bl-)
+								    ,
+								    (IP +)
+								    (RS ]))
+							    (VP peeling))
+							 (ADVP *T*-4)))))))))))) 
+     ,
+     E_S))
+( (CODE SpeakerB6 .))
+( (INTJ No
+	.
+	E_S))
+( (CODE SpeakerA7 .))
+( (CODE SpeakerB8 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA9 .))
+( (S and
+     (NP-SBJ our house)
+     (VP is
+	 not 
+	 (PP-PRD *?*))
+     N_S))
+( (S but
+     (NP-SBJ-1 it)
+     (VP 's
+	 (VP starting
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP (VP bleed
+			    (PRT through))
+			and 
+			(VP burn
+			    (PRT through)))))
+	     (SBAR-PRP because
+		       (S (NP-SBJ the paint)
+			  (VP 's
+			      (ADJP-PRD real cheap))))))
+     E_S))
+( (S and
+     (NP-SBJ (NP it)
+	     (S *EXP*-1))
+     (VP 's
+	 (NP-PRD just a hassle)
+	 (S-1 (NP-SBJ *)
+	      (VP to
+		  (VP go
+		      (PP through
+			  (NP it))))))
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (VP 'm
+	 (VP looking
+	     (PP for
+		 (NP (NP the easy way)
+		     (ADVP out)))))
+     .
+     E_S))
+( (CODE SpeakerB10 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP know)
+     .
+     E_S))
+( (X Di-
+     ,
+     N_S))
+( (SQ is
+      (X (ADJP-PRD easy)
+	 (S (NP-SBJ *)
+	    (VP to
+		(VP find
+		    (EDITED (RM [)
+			    (NP-UNF pa-)
+			    ,
+			    (IP +))
+		    (INTJ uh)
+		    ,
+		    (NP (NP painters)
+			(RS ])
+			(SBAR (WHNP-1 0)
+			      (S (NP-SBJ *T*-1)
+				 (VP to
+				     (VP do
+					 (NP this)
+					 (PP for
+					     (NP you)))))))))))
+ 
+      ?
+      E_S))
+( (CODE SpeakerA11 .))
+( (S (NP-SBJ (NP It)
+	     (S *EXP*-1))
+     (VP 's
+	 (ADJP-PRD easier)
+	 (S-1 (NP-SBJ *)
+	      (VP to
+		  (VP find
+		      (NP painters)))))
+     ,
+     E_S))
+( (S but
+     (EDITED (RM [)
+	     (S (NP-SBJ-1 you)
+		(VP have
+		    (S (NP-SBJ *-1)
+		       (VP to
+			   (VP-UNF be)))))
+	     ,
+	     (IP +))
+     (NP-SBJ-2 you)
+     (VP have
+	 (S (NP-SBJ *-2)
+	    (VP to
+		(VP be
+		    (RS ])
+		    (ADJP-PRD aware
+			      (PP of
+				  (UCP (SBAR (EDITED (RM [) 
+						     (WHNP what)
+						     ,
+						     (IP +))
+					     (INTJ uh)
+					     ,
+					     (WHADJP-3 how
+						       (RS ])
+						       messy)
+					     (S (NP-SBJ they)
+						(VP can
+						    (VP get
+							(ADJP-PRD *T*-3)))))
+				       and
+				       (SQ are
+					   (NP-SBJ-4 they)
+					   (VP going
+					       (S (NP-SBJ *-4)
+						  (VP to
+						      (VP put
+							  (PRT on)
+							  (EDITED (RM [)
+								  (NP-UNF a good)
+								  ,
+								  (IP +))
+							  (NP a good
+							      (RS ])
+							      two coats))))))
+				       ,
+				       and
+				       (SQ are
+					   (NP-SBJ-5 they)
+					   ,
+					   (VP going
+					       (S (NP-SBJ *-5)
+						  (VP to
+						      (VP caulk))))))))))))
+     ,
+     E_S))
+( (CODE SpeakerB12 .))
+( (INTJ-UNF Ri-
+	    ,
+	    N_S))
+( (SQ are
+      (NP-SBJ you)
+      (VP talking
+	  ,
+	  (ADVP outside or inside))
+      ?
+      E_S))
+( (CODE SpeakerA13 .))
+( (CODE SpeakerB14 .))
+( (CODE SpeakerA15 .))
+( (ADJP Exterior
+	.
+	E_S))
+( (CODE SpeakerB16 .))
+( (ADJP Exterior
+	,
+	E_S))
+( (INTJ yeah
+	.
+	E_S))
+( (CODE SpeakerA17 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ interior)
+     (VP 's
+	 not
+	 (ADJP-PRD so bad)
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (VP 's
+			  (ADJP-PRD more fun)))))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD-UNF more
+		       ,
+		       c-))
+     ,
+     N_S))
+( (S-UNF but
+	 (INTJ yeah)
+	 ,
+	 E_S))
+( (CODE SpeakerB18 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA19 .))
+( (S (ADVP-LOC outside)
+     (NP-SBJ you)
+     (VP have
+	 (NP (NP high (TYPO peeks)) 
+	     ,
+	     and
+	     (NP (NP those kind)
+		 (PP of
+		     (NP things)))))
+     ,
+     E_S))
+( (CODE SpeakerB20 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA21 .))
+( (S (NP-SBJ it)
+     (VP can
+	 (VP be
+	     (NP-PRD a real issue)))
+     .
+     E_S))
+( (CODE SpeakerB22 .))
+( (S-UNF (INTJ Well)
+	 ,
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ we)
+		      (VP 've
+			  (VP painted
+			      (ADVP-TMP *T*-1)))))
+	 ,
+	 (INTJ um)
+	 ,
+	 N_S))
+( (S (ADVP-TMP right now)
+     (NP-SBJ-1 our house)
+     (VP does
+	 n't
+	 (VP have
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP have
+			(NP (NP the same kind)
+			    (PP of
+				(NP exterior painting)))
+			(ADVP-LOC there))))))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (ADVP more)
+	 (NP-PRD trim) 
+	 (SBAR-PRP because
+		   (S (S (NP-SBJ it)
+			 (VP has
+			     (NP (NP some)
+				 (PP of
+				     (NP the old asbestos shingles)))
+			     ,
+			     (PP-LOC on
+				     (NP the back))))
+		      and
+		      (S (NP-SBJ there)
+			 (VP 's
+			     (NP-PRD (NP (NP some sort)
+					 (PP of
+					     (NP stone)))
+				     or
+				     (NP something))
+			     (PP-LOC in
+				     (NP the front)))))))
+     E_S))
+( (CODE SpeakerA23 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB24 .))
+( (S so
+     (NP-SBJ there)
+     (VP is
+	 n't
+	 (NP-PRD (NP (ADJP as much) wood)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ-2 *T*-1)
+			  (VP has
+			      (S (NP-SBJ-3 *-2)
+				 (VP to 
+				     (VP be
+					 (VP painted
+					     (NP *-3))))))))))
+     .
+     E_S))
+( (S-UNF (INTJ Um)
+	 ,
+	 but
+	 ,
+	 (EDITED (RM [)
+		 (NP-SBJ-UNF i-)
+		 ,
+		 (IP +))
+	 (NP-SBJ it)
+	 ,
+	 (RS ])
+	 N_S))
+( (S (NP-SBJ the problem)
+     (VP is
+	 (SBAR-PRD that
+		   (S (EDITED (RM [)
+			      (S (NP-SBJ it)
+				 (VP-UNF hits))
+			      ,
+			      (IP +))
+		      (NP-SBJ the sun)
+		      (VP hits
+			  (RS ])
+			  (NP it)))))
+     .
+     E_S))
+( (S So
+     (S-NOM-SBJ (NP-SBJ *)
+		(VP preparing))
+     (VP is
+	 (NP-PRD a real problem))
+     ,
+     E_S))
+( (CODE SpeakerA25 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB26 .))
+( (S (NP-SBJ-1 you)
+     (VP 've
+	 (VP got
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP prepare
+			(NP it)
+			(ADVP-MNR well))))))
+     E_S))
+( (S or
+     (ADVP else)
+     (NP-SBJ it)
+     (VP will
+	 (VP flake))
+     .
+     E_S))
+( (CODE SpeakerA27 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB28 .))
+( (INTJ Um
+	,
+	E_S))
+( (CODE SpeakerA29 .))
+( (S-UNF (ADVP-LOC Here)
+	 (NP-SBJ they)
+	 ,
+	 N_S))
+( (S (NP-SBJ (NP some)
+	     (PP of
+		 (NP the home builders)))
+     (VP-UNF are)
+     ,
+     N_S))
+( (S (NP-SBJ-1 they)
+     (VP do
+	 n't
+	 (VP put
+	     (NP brick)
+	     (PP-PUT on
+		     (NP (NP the side)
+			 (PP of
+			     (NP your house))))
+	     (S-PRP (NP-SBJ *-1) 
+		    (ADVP just)
+		    (VP to
+			(VP save
+			    (NP money))))))
+     E_S))
+( (S so
+     (NP-SBJ they)
+     (VP put
+	 (PRT up)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP a (ADJP quarter inch) Masonite)
+	 ,
+	 (ADVP basically))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP painted
+	 (NP it)
+	 (ADVP kind of)
+	 (INTJ like)
+	 (X (NP (NP a spun) 
+		(PP of
+		    (NP a sorts)))))
+     E_S))
+( (S so
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD real cheap))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP 've
+	 (VP had
+	     (UCP (NP (ADJP (QP thirteen hundred) dollar) bid)
+		  and
+		  (EDITED (RM [)
+			  (NP-SBJ I)
+			  ,
+			  (IP +)
+			  (RS ]))
+		  (ADJP (ADJP as low)
+			(PP as
+			    (NP (QP five hundred and forty) dollars))))))
+     E_S))
+( (S so
+     (NP-SBJ it)
+     (VP 's
+	 ,
+	 (NP-PRD (NP just a matter)
+		 (PP-UNF of)))
+     ,
+     N_S))
+( (CODE SpeakerB30 .))
+( (S (INTJ Wow)
+     .
+     (NP-SBJ that)
+     (VP 's
+	 (NP-PRD quite
+		 a range))
+     .
+     E_S))
+( (CODE SpeakerA31 .))
+( (S (NP-SBJ it)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (CODE SpeakerB32 .))
+( (CODE SpeakerA33 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ there)
+     (X (NP-PRD (NP one guy)
+		(SBAR (WHNP-1 0)
+		      (S (NP-SBJ *T*-1)
+			 (VP brags
+			     (PP about
+				 (NP (NP (NP his piece)
+					 (PP of
+					     (NP equipment))
+					 (SBAR (WHNP-2 0)
+					       (S (NP-SBJ he)
+						  (VP 's
+						      (VP using
+							  (NP *T*-2))))))
+				     and
+				     (NP the drop cloths)
+				     and
+				     (NP all that kind crap))))))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP 'm
+	 (X (ADJP-PRD (ADVP (ADVP so much)
+			    (PP *ICH*-1))
+		      worried
+		      (PP about
+			  (NP that)))
+	    (PP-1 as
+		  (SBAR-NOM-UNF (WHNP what)))))
+     ,))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP want
+	     (NP it)
+	     (PP-LOC all over
+		     (NP the brick and windows))))
+     E_S))
+( (CODE SpeakerB34 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA35 .))
+( (S-UNF and
+	 ,
+	 N_S))
+( (CODE SpeakerB36 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (SBAR (WHNP-1 which)
+	(S (NP-SBJ *T*-1)
+	   (VP might
+	       (VP be
+		   (NP-PRD (NP a bigger problem)
+			   (SBAR than
+				 (S (NP-SBJ it)
+				    (VP would
+					(VP-UNF be
+						,
+						(INTJ uh)))))))))
+	,
+	N_S))
+( (CODE SpeakerA37 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ sure)
+	.
+	E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ absolutely
+	.
+	E_S))
+( (CODE SpeakerA39 .))
+( (S So
+     (EDITED (NP-SBJ y'all)
+	     ,)
+     (NP-SBJ you)
+     (VP have
+	 n't
+	 (VP had
+	     (S (EDITED (RM [)
+			(NP-SBJ-UNF any)
+			,
+			(IP +))
+		(NP-SBJ-1 any
+			  (RS ])
+			  jobs)
+		(VP painted
+		    (NP *-1)))
+	     (PP-LOC in
+		     (NP your house))
+	     (EDITED (RM [)
+		     or
+		     (IP +)
+		     (RS ]))
+	     (ADVP-TMP recently))
+	 (X MUMBLEx))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ we)
+     (EDITED (VP-UNF 've))
+     (VP have
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP done
+	     (NP a little painting)
+	     (NP-ADV ourselves)
+	     ,
+	     (INTJ um)))
+     ,
+     E_S))
+( (S (NP-SBJ we)
+     (VP painted
+	 (NP the bedroom)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (INTJ well)
+	 (PP-TMP within
+		 (NP (NP the last
+			 (EDITED (RM [)
+				 t-
+				 ,
+				 (IP +)
+				 (RS ]))
+			 couple)
+		     (PP of
+			 (NP months)))))
+     ,
+     E_S))
+( (CODE SpeakerA41 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD fun))
+     .
+     E_S))
+( (CODE SpeakerB42 .))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ we)
+		(VP-UNF have))
+	     ,
+	     (IP +))
+     (NP-SBJ we)
+     (VP have
+	 (RS ])
+	 (NP (NP some more)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ-2 *T*-1)
+		      (VP need
+			  (S (NP-SBJ-3 *-2)
+			     (VP to 
+				 (VP be
+				     (VP done
+					 (NP *-3))))))))))
+     ,
+     E_S))
+( (CODE SpeakerA43 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB44 .))
+( (S but
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (NP-SBJ the
+	     (RS ])
+	     problem)
+     (X (SBAR-PRD that 
+		  (S (EDITED (RM [)
+			     (S (NP-SBJ we)
+				(VP-UNF 've))
+			     ,
+			     (IP +))
+		     (NP-SBJ we)
+		     (VP 've
+			 (RS ])
+			 (VP owned
+			     (NP this house)
+			     (NP-TMP (QP almost five) years)
+			     (ADVP-TMP now))))))
+     ,
+     E_S))
+( (S and
+     ,
+     (INTJ um)
+     ,
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ we)
+		  (VP bought
+		      (NP it)
+		      (ADVP-TMP *T*-1))))
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +)
+	     (RS ]))
+     (INTJ um)
+     ,
+     (NP-SBJ it)
+     (VP had
+	 (VP been
+	     (ADJP-PRD vacant)
+	     (PP-TMP for
+		     (NP a while))
+	     (SBAR-PRP because
+		       (S (NP-SBJ the family)
+			  (X will)
+			  (VP retired)))
+	     ,
+	     (X MUMBLEx)))
+     E_S))
+( (S but
+     (NP-SBJ the daughter)
+     (VP was
+	 (NP-PRD a real estate agent))
+     E_S))
+( (S and
+     (NP-SBJ she)
+     (VP was
+	 (VP selling
+	     (NP it)))
+     E_S))
+( (S and
+     (NP-SBJ-1 it)
+     (VP 's
+	 (VP been
+	     (VP lived
+		 (PP-LOC in
+			 (NP *-1))
+		 (ADVP briefly)
+		 (PP by
+		     (NP-LGS her))
+		 (SBAR-TMP before
+			   (S (NP-SBJ she)
+			      (VP bought
+				  (NP her town house)))))))
+     .
+     E_S))
+( (S So
+     (NP-SBJ she)
+     (VP told
+	 (NP us)
+	 (SBAR that
+	       (S (NP-SBJ-1 the house)
+		  (VP had
+		      (VP been
+			  ,
+			  (INTJ uh)
+			  ,
+			  (VP (ADVP-MNR professionally)
+			      painted
+			      (NP *-1)
+			      (ADVP-TMP recently)))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ it)
+     (VP looked
+	 (ADJP-PRD pretty good)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))
+	      ,)
+	 (S-ADV (EDITED (RM [)
+			(NP-SBJ-UNF the)
+			,
+			(IP +))
+		(INTJ uh)
+		,
+		(NP-SBJ the
+			(RS ])
+			interior walls)
+		all
+		(ADJP-PRD basically white)))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ-1 they)
+     (ADVP obviously)
+     (VP had 
+	 (VP been
+	     (VP done
+		 (NP *-1)
+		 (PP without
+		     (NP (NP (ADJP (TYPO to)
+				   much)
+			     ,
+			     (INTJ uh)
+			     ,
+			     wear)
+			 (ADVP-TMP afterward))))))
+     .
+     E_S))
+( (S (NP-SBJ The only problem)
+     (VP was
+	 (SBAR-PRD 0
+		   (S (SBAR-TMP (WHADVP-2 when)
+				(S (NP-SBJ-1 we)
+				   (VP started
+				       (S (NP-SBJ *-1)
+					  (VP having
+					      (S (NP-SBJ the movers)
+						 (VP move
+						     (NP the furniture)
+						     (PRT in)))))
+				       (ADVP-TMP *T*-2))))
+		      (NP-SBJ we)
+		      (VP identified
+			  (NP various rooms)
+			  (PP by
+			      (NP (NP pieces)
+				  (PP of
+				      (NP masking tape))
+				  (PP-LOC on
+					  (EDITED (RM [)
+						  (NP-UNF the wood-)
+						  ,
+						  (IP +))
+					  (INTJ uh)
+					  ,
+					  (NP the
+					      (RS ])
+					      door frames))))))))
+     ,
+     E_S))
+( (CODE SpeakerA45 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB46 .))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ we)
+		  (VP took
+		      (NP the masking tape)
+		      (PRT off)
+		      (ADVP-TMP *T*-1))))
+     (NP-SBJ half the (TYPO painted)) 
+     (VP came
+	 (PP with
+	     (NP it)))
+     .
+     E_S))
+( (CODE SpeakerA47 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 not
+	 (ADJP-PRD-UNF very))
+     ,
+     N_S))
+( (CODE SpeakerB48 .))
+( (NP Big long strips
+      .
+      E_S))
+( (S So
+     (SBAR-NOM-SBJ (WHNP-1 what)
+		   (S (NP-SBJ *T*-1)
+		      (VP had
+			  (VP happened))))
+     (VP is
+	 (SBAR-PRD that
+		   (S (NP-SBJ professional painters)
+		      (VP had
+			  not
+			  (VP prepared
+			      (NP the surface)
+			      (ADVP-MNR properly))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ-1 (NP some)
+	       (X (PP-UNF of)))
+     (ADVP-TMP still)
+     (VP has
+	 (S (NP-SBJ-2 *-1)
+	    (VP to
+		(VP be
+		    (VP redone
+			(NP *-2))))))
+     .
+     E_S))
+( (CODE SpeakerA49 .))
+( (S (INTJ Oh)
+     ,
+     (NP-SBJ they)
+     (ADVP just)
+     (VP painted
+	 (PP over
+	     (NP varnished wood)))
+     .
+     E_S))
+( (CODE SpeakerB50 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (CODE SpeakerA51 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ my)
+	,
+	E_S))
+( (CODE SpeakerB52 .))
+( (INTJ (INTJ well)
+	,
+	(INTJ no)
+	E_S))
+( (S (ADVP actually)
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S (NP-SBJ it)
+			(VP had
+			    (VP-UNF been)))
+		     ,
+		     (IP +))
+	     (INTJ uh)
+	     ,
+	     (S (NP-SBJ it)
+		(VP would 
+		    (VP have
+			(VP-UNF been))))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (VP had
+	 (VP been
+	     (RS ])
+	     (NP-PRD a repaint job)))
+     .
+     E_S))
+( (CODE SpeakerA53 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB54 .))
+( (S But
+     (NP-SBJ they)
+     (VP-UNF had
+	     not)
+     ,
+     N_S))
+( (S either
+     (NP-SBJ they)
+     (VP had
+	 (VP painted
+	     (PP with
+		 (NP (NP the wrong kind)
+		     (PP of
+			 (NP paint))))
+	     (PP over
+		 (NP top))))
+     E_S))
+( (S or
+     (NP-SBJ they)
+     (VP had
+	 n't
+	 (ADVP really)
+	 (VP (VP roughed
+		 (NP it)
+		 (PRT up))
+	     or
+	     (SBAR-NOM-ETC (WHNP whatever)
+			   (S-UNF (RM [)
+				  (NP-SBJ they)))))
+     ,
+     (IP +)
+     (RS ])
+     E_S))
+( (SBAR-PRP because
+	    (S (NP-SBJ it)
+	       (VP was
+		   (NP-PRD woodwork)))
+	    E_S))
+( (S so
+     (NP-SBJ it)
+     (VP looked
+	 (SBAR as if
+	       (S (NP-SBJ-1 it)
+		  (VP had 
+		      (VP been
+			  (VP painted
+			      (NP *-1)
+			      ,
+			      (ADVP-MNR correctly)
+			      (PP with
+				  (PRN ,
+				       (S (NP-SBJ you)
+					  (VP know))
+				       ,)
+				  (INTJ uh)
+				  ,
+				  (NP (NP an enamel)
+				      or
+				      (NP something)))))))))
+     ,
+     E_S))
+( (CODE SpeakerA55 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB56 .))
+( (UCP (EDITED (S but
+		  ,
+		  (INTJ um)
+		  ,
+		  (NP-SBJ it)
+		  (VP-UNF had
+			  not))
+	       ,)
+       E_S
+       either
+       (NP that)
+       or
+       (S (NP-SBJ-1 it)
+	  (VP had
+	      not
+	      (VP been
+		  (VP prepared
+		      (NP *-1)
+		      (ADVP-LOC underneath)))))
+       E_S))
+( (S and
+     (NP-SBJ it)
+     (VP (VP was
+	     (ADJP-PRD greasy))
+	 or
+	 (NP-ETC something))
+     ,
+     E_S))
+( (CODE SpeakerA57 .))
+( (INTJ Sure
+	.
+	E_S))
+( (CODE SpeakerB58 .))
+( (S (NP-SBJ it)
+     (VP comes
+	 (PRT off)
+	 (PP in
+	     (NP (NP strips)
+		 (PRN ,
+		      (S (NP-SBJ I)
+			 (VP mean)))
+		 not
+		 (ADVP even)
+		 (NP little bit)))) 
+     .
+     E_S))
+( (S So
+     (NP-SBJ we)
+     (ADVP-TMP still)
+     (VP have
+	 (NP (NP some)
+	     (PP of
+		 (NP (NP that trim work)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ *)
+			      (VP to
+				  (VP do
+				      (NP *T*-1))))))))
+	 (SBAR-PRP because
+		   (S (NP-SBJ we)
+		      (VP put
+			  (NP it)
+			  (PRT off)
+			  (NP-TMP all this time)))))
+     ,
+     E_S))
+( (CODE SpeakerA59 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ no)
+	.
+	E_S))
+( (CODE SpeakerB60 .))
+( (S (NP-SBJ we)
+     (VP know
+	 (SBAR (WHNP-2 what a job)
+	       (S (NP-SBJ-1 it)
+		  (VP 's
+		      (VP going
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP be
+				     (NP-PRD *T*-2)))))))))
+     E_S))
+( (SBAR-PRP because
+	    (S (NP-SBJ-1 you)
+	       (ADVP almost)
+	       (VP have
+		   (S (NP-SBJ-2 *-1)
+		      (VP to
+			  (VP strip
+			      (NP the whole thing)
+			      ,
+			      (SBAR-PRP in order
+					(S (NP-SBJ *-2)
+					   (VP to
+					       (VP do
+						   (NP it)
+						   (ADVP again))))))))))
+	    .
+	    E_S))
+( (CODE SpeakerA61 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB62 .))
+( (CODE SpeakerA63 .))
+( (S (NP-SBJ I)
+     (VP wish
+	 (NP you)
+	 (NP good luck))
+     .
+     E_S))
+( (CODE SpeakerB64 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA65 .))
+( (S (NP-SBJ *)
+     (VP Thank
+	 (NP you)
+	 (ADVP very much))
+     .
+     E_S))
+( (CODE SpeakerB66 .))
+( (S (NP-SBJ *)
+     (VP Thank
+	 (NP you))
+     .
+     E_S))
+( (CODE SpeakerA67 .))
+( (INTJ Bye-bye
+	.
+	E_S))
+( (CODE SpeakerB68 .))
+( (INTJ Bye
+	.
+	E_S))

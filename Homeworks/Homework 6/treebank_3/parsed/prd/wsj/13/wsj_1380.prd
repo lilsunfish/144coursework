@@ -1,0 +1,191 @@
+
+
+( (S (NP-SBJ (NP Program trading)
+             (PP-LOC on
+		     (NP the New York Stock Exchange))
+             (PP-TMP in
+		     (NP September)))
+     (VP rose
+         (PP-DIR to
+		 (NP (NP its highest recorded level)
+		     (PP as
+			 (NP (NP a percentage)
+			     (PP of
+				 (NP total monthly trading volume)))))))
+     .))
+( (S (NP-SBJ September program trading)
+     (VP amounted
+         (PP-CLR to
+		 (NP (NP (NP 13.8 %)
+			 (PP of
+			     (NP (NP average daily New York Stock Exchange volume)
+				 (PP of
+				     (NP (QP 151.8 million) shares)))))
+		     ,
+		     (NP (NP the largest percentage)
+			 (SBAR-TMP since 
+				   (S (NP-SBJ-1 the exchange)
+				      (VP began
+					  (S (NP-SBJ *-1)
+					     (VP making
+						 (S (NP-SBJ such figures)
+						    (ADJP-PRD public))))
+					  (PP-TMP in
+						  (NP July 1988)))))))))
+     .))
+( (S (NP-SBJ (NP A daily average)
+	     (PP of
+		 (NP (QP 20.9 million) shares))
+	     (NP *ICH*-1)) 
+     (VP traded
+         (PP-MNR in
+		 (NP program strategies))
+         (PP-TMP in
+		 (NP September))
+	 ,
+	 (NP-1 the second-highest level ever))
+     .))
+( (S (NP-SBJ The highest level)
+     (VP was
+         (PP-TMP-PRD in
+		     (NP (NP June 1989)
+			 ,
+			 (SBAR (WHADVP-1 when)
+			       (S (NP-SBJ (NP a daily average)
+					  (PP of
+					      (NP (QP 22.1 million) shares)))
+				  (VP traded
+				      (PP-MNR in
+					      (NP program strategies))
+				      (ADVP-TMP *T*-1)))))))
+     .))
+( (S (NP-SBJ (NP Average daily trading volume)
+             (PP-TMP in
+		     (NP June))
+             (PP of
+                 (NP (QP 180.3 million) shares)))
+     (VP was
+         (ADJP-PRD (ADJP considerably higher) 
+                   (PP than
+                       (PP-TMP in 
+			       (NP September)))))
+     .))
+( (S (NP-SBJ Program trading)
+     (VP amounted
+         (PP-CLR to
+		 (NP (NP 12.3 %)
+		     (PP of
+			 (NP average daily volume))))
+	 (PP-TMP in
+		 (NP June)))
+     .))
+( (S (NP-SBJ The Big Board)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ program trading)
+                  (VP describes
+                      (NP (NP a variety)
+                          (PP of
+                              (NP (NP strategies)
+                                  (VP involving
+                                      (NP (NP the purchase or sale)
+                                          (PP of
+                                              (NP (NP a basket)
+                                                  (PP of
+                                                      (NP (QP 15 or more) stocks)))))))))))))
+     .))
+( (S (NP-SBJ (NP The (ADJP most controversial))
+             (PP of
+                 (NP these)))
+     (VP is
+         (NP-PRD (NP stock-index arbitrage)
+                 ,
+                 (SBAR (WHPP-1 in
+			       (WHNP which))
+                       (S (NP-SBJ traders)
+                          (VP (VP buy or sell
+                                  (NP (NP baskets)
+                                      (PP of
+                                          (NP stocks))))
+                              and
+                              (VP offset
+                                  (NP the position)
+                                  (PP-MNR with
+					  (NP (NP an opposite trade)
+					      (PP-LOC in
+						      (NP stock-index futures))
+					      (SBAR (WHNP-2 0)
+						    (S (NP-SBJ *T*-2)
+						       (VP to
+							   (VP lock
+							       (PRT in)
+							       (NP profits))))))))
+			      (PP-LOC *T*-1))))))
+     .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (NP-PRD (NP the (ADJP most controversial) form)
+		 (PP of
+		     (NP program trading)))
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (VP can
+			  (VP create
+			      (NP (NP abrupt price swings)
+				  (PP-LOC in
+					  (NP the stock market))))))))
+     .))
+( (S (S (NP-SBJ Salomon Brothers Inc.)
+        (VP was
+            (NP-PRD the top program trader)
+            (PP-TMP in
+		    (NP September))))
+     , but
+     (S (NP-SBJ (NP most)
+		(PP of
+		    (NP (NP the firm 's)
+			activity)))
+        (VP involved
+            (NP (NP portfolio trading strategies)
+                (ADJP other
+                      (PP than
+                          (NP stock-index arbitrage))))))
+     .))
+( (S (ADVP Overall)
+     ,
+     (NP-SBJ Salomon)
+     (VP reported
+         (NP (NP program trading volume)
+             (PP of
+                 (NP (QP 75.2 million) shares))))
+     .))
+( (S (NP-SBJ The top stock-index arbitrage firm)
+     (NP-TMP last month)
+     (VP was
+         (NP-PRD Morgan Stanley & Co))
+     .))
+( (S (PP-TPC-1 Of
+	       (NP (NP (NP Morgan Stanley 's)
+		       (QP 66.8 million) shares)
+		   (PP in
+		       (NP program trades))
+		   (PP for
+		       (NP the month))))
+     ,
+     (NP-SBJ (NP (QP 53.1 million))
+	     (PP *T*-1))
+     (VP were
+         (PP-PRD in
+                 (NP stock-index arbitrage trades)))
+     .))
+( (SINV (PP-LOC-PRD-TPC-1 Behind
+			  (NP second-place Morgan Stanley))
+        (VP were
+	    (PP-LOC-PRD *T*-1))
+        (NP-SBJ (NP Kidder , Peabody & Co.)
+                ,
+                (NP Goldman , Sachs & Co.)
+                and
+                (NP (NP CS First Boston Inc. 's)
+                    First Boston Corp. unit))
+        .))

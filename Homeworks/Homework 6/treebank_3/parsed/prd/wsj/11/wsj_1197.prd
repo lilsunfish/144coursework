@@ -1,0 +1,115 @@
+
+
+( (S (NP-SBJ (NP Homestake Mining Co.)
+             ,
+             (NP-LOC San Francisco)
+             ,)
+     (VP blamed
+         (NP (NP the continued slump)
+             (PP-LOC in
+		     (NP gold prices)))
+         (PP for
+	     (NP (NP an (ADJP 83 %) plunge)
+		 (PP-LOC in
+			 (NP third-quarter net income))
+		 (PP (PP to
+			 (NP (NP (QP $ 2 million) *U*)
+			     , 
+			     or
+			     (NP (NP two cents)
+				 (NP-ADV a share))))
+		     ,
+		     (PP from
+			 (NP (NP (NP (QP $ 11.2 million) *U*)
+				 ,
+				 or
+				 (NP (NP 12 cents)
+				     (NP-ADV a share)))
+			     ,
+			     (ADVP-TMP (NP a year)
+				       earlier)))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP rose
+         (NP-EXT 5 %)
+         (PP-DIR to
+		 (NP (QP $ 110.4 million) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 105.4 million) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Homestake)
+     (VP closed
+         (PP-CLR at
+		 (NP (NP $ 15.25 *U*)
+		     ,
+		     (ADVP down
+			   (NP 25 cents)))))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ-1 (NP A significant increase)
+			(PP-LOC in
+				(NP gold sales))
+			(PP to
+			    (NP 248,279 ounces))
+			(PP for
+			    (NP the quarter))
+			(PP from
+			    (NP (NP 188,726)
+				(PP-TMP in
+					(NP (NP the third quarter)
+					    (PP of
+						(NP 1988)))))))
+	      (VP was
+		  (VP (ADVP more than) 
+		      offset
+		      (NP *-1)
+		      (PP by
+			  (NP-LGS (NP the continued decline)
+				  (PP-LOC in
+					  (NP average gold price realization))
+				  (PP (PP to
+					  (NP (NP $ 367 *U*)
+					      (PP *RNR*-3)))
+				      (PP from
+					  (NP (NP $ 429 *U*)
+					      (PP *RNR*-3)))
+				      (PP-3 per
+					    (NP ounce)))))))) 
+     , 
+     ''
+     (NP-SBJ the company)
+     (VP said
+	 (S *T*-2))
+     .))
+( (S (PP For
+         (NP the nine months))
+     ,
+     (NP-SBJ the mining company)
+     (VP posted
+         (NP (NP a (ADJP 40 %) drop)
+             (PP-LOC in
+		     (NP profit))
+             (PP (PP to
+                     (NP (NP (QP $ 30.1 million) *U*)
+                         , or
+                         (NP (NP 31 cents)
+                             (NP-ADV a share))))
+                 ,
+                 (PP from
+                     (NP (NP (QP $ 50.6 million) *U*)
+                         , or
+                         (NP (NP 52 cents)
+                             (NP-ADV a share))))))
+	 ,
+	 (PP on
+	     (NP (NP a (ADJP 6 %) rise)
+		 (PP-LOC in
+			 (NP revenue))
+		 (PP (PP to
+			 (NP (QP $ 323.2 million) *U*))
+		     (PP from
+			 (NP (QP $ 305.7 million) *U*))))))
+     .))

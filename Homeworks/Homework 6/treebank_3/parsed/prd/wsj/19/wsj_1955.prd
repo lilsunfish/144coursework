@@ -1,0 +1,55 @@
+
+
+( (S (NP-SBJ Northern Trust Corp.)
+     (VP (VP said
+             (SBAR 0
+                   (S (NP-SBJ its board)
+                      (VP adopted
+                          (NP (NP a shareholder rights plan)
+                              (VP aimed
+                                  (NP *)
+                                  (PP-CLR at
+					  (S-NOM (NP-SBJ *)
+						 (VP deterring
+						     (NP unwanted takeover bids))))))))))
+         , 
+	 but
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP 's not
+                          (ADJP-PRD aware
+                                    (PP of
+                                        (NP any plan
+                                            (S (NP-SBJ *)
+                                               (VP to
+                                                   (VP acquire
+                                                       (NP the banking concern))))))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP (NP Northern Trust 's)
+		 plan))
+     ,
+     (NP-SBJ-1 shareholders)
+     (VP were
+         (VP issued
+             (NP *-1)
+             (NP (NP rights)
+                 (SBAR (WHNP-2 that)
+		       ,
+                       (S (PP-LOC in
+				  (NP (NP the event)
+				      (PP of
+					  (NP certain attempted takeovers))))
+                          ,
+                          (NP-SBJ *T*-2)
+                          (VP allow
+                              (S (NP-SBJ holders)
+                                 (VP to
+                                     (VP buy
+                                         (NP (NP shares)
+                                             (PP-LOC in
+						     (NP the company)))
+                                         (PP-CLR at
+						 (NP half price)))))))))))
+     .))

@@ -1,0 +1,58 @@
+
+
+( (S (NP-SBJ (NP Champion International Corp. 's)
+             third-quarter profit)
+     (VP dropped
+         (NP-EXT 17 %)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP reflecting
+		    (NP (NP (NP price declines)
+			    (PP for
+				(NP certain paper products)))
+			,
+			(NP (NP operating problems)
+			    (PP-LOC at
+				    (NP certain mills)))
+			, and
+			(NP other factors)))))
+     .))
+( (S (NP-SBJ The paper producer)
+     (VP reported
+         (SBAR 0
+               (S (NP-SBJ that net income)
+                  (VP fell
+                      (PP-DIR to
+			      (NP (NP (QP $ 102.1 million) *U*)
+				  , or
+				  (NP (NP $ 1.09 *U*)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP (QP $ 122.4 million) *U*)
+				  , 
+				  or
+				  (NP (NP $ 1.29 *U*)
+				      (NP-ADV a share))
+				  ,)
+			      (PP-TMP in
+				      (NP the year-earlier period)))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 2.6 %)
+         (PP-DIR to
+		 (NP (QP $ 1.32 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 1.29 billion) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ (NP Champion 's)
+             shares)
+     (VP rose
+         (NP-EXT 25 cents)
+         (PP-DIR to
+		 (NP $ 32.125 *U*)))
+     .))

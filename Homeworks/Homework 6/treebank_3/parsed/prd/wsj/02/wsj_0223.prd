@@ -1,0 +1,44 @@
+
+
+( (S (NP-SBJ-38 (NP A seat)
+                (PP-LOC on
+			(NP the Chicago Mercantile Exchange)))
+     (VP was
+         (VP sold
+             (NP *-38)
+             (PP for
+                 (NP (NP $ 410,000 *U*)
+                     ,
+                     (ADVP down
+                           (NP $ 6,000 *U*)
+                           (PP from
+			       (NP (NP the previous sale)
+				   (NP-TMP Oct))))))))
+     .))
+( (S (NP-SBJ-39 Seats)
+     (ADVP-TMP currently)
+     (VP are
+         (VP quoted
+             (NP *-39)
+             (PP-CLR at
+		     (NP (NP (NP $ 400,000 *U*)
+			     (VP bid
+				 (NP *)))
+			 ,
+			 (NP (NP $ 425,000 *U*)
+			     (VP asked
+				 (NP *)))))))
+     .))
+( (S (NP-SBJ (NP The record price)
+	     (PP for
+		 (NP (NP a full membership)
+		     (PP-LOC on
+			     (NP the exchange))))
+	     (VP *ICH*-1))
+     (VP is
+	 (NP-PRD $ 550,000 *U*)
+	 ,
+	 (VP-1 set
+	       (NP *) 
+	       (NP-TMP-CLR March 9)))
+     .))

@@ -1,0 +1,57 @@
+
+
+( (S (NP-SBJ-1 The Treasury)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP raise
+                    (NP (NP (QP $ 700 million) *U*)
+                        (PP in
+                            (NP new cash)))
+                    (PP-MNR with
+			    (NP (NP the sale)
+				(NP-TMP Tuesday)
+				(PP of
+				    (NP (NP (QP about $ 10 billion) *U*)
+					(PP in
+					    (NP two-year notes))))
+				(SBAR (WHADVP-3 0)
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP redeem
+						 (NP (NP (QP $ 9.29 billion) *U*)
+						     (PP in
+							 (NP maturing notes)))
+						 (ADVP-MNR *T*-3)))))))))))
+     .))
+( (S (NP-SBJ-1 The offering)
+     (VP will
+         (VP (VP be
+                 (VP dated
+		     (S (NP-SBJ *-1)
+			(NP-PRD Oct. 31))))
+             and
+             (VP mature
+		 (NP-TMP Oct. 31))))
+     ,))
+( (S (NP-SBJ-1 (NP Tenders)
+	       (PP for
+		   (NP the notes))
+               ,
+               (ADJP available
+                     (PP in
+                         (NP (ADJP (QP minimum $ 5,000) *U*) denominations))) 
+               ,)
+     (VP must
+         (VP be
+             (VP received
+                 (NP *-1)
+                 (PP-TMP by
+			 (NP 1 p.m. EDT))
+		 (NP-TMP Tuesday)
+                 (PP-LOC (PP at
+			     (NP the Treasury))
+			 or
+			 (PP at
+			     (NP Federal Reserve banks or branches))))))
+     .))

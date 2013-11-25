@@ -1,0 +1,39 @@
+
+
+( (S (NP-SBJ-1 (NP Roger M. Marino)
+	       ,
+	       (NP president)
+	       ,)
+     (VP was
+         (VP named
+	     (NP *-1)
+             (PP-CLR to
+		     (NP (NP the new post)
+			 (PP of
+			     (NP vice chairman))))))
+     .))
+( (S (NP-SBJ-1 (NP Michael Ruettgers)
+	       ,
+	       (SBAR (WHNP-196 who)
+		     (S (NP-SBJ *T*-196)
+			(VP had
+			    (VP been
+				(NP-PRD (NP executive vice president)
+					,
+					(NP operations)
+					,))))))
+     (VP was
+         (VP named
+	     (S (NP-SBJ *-1)
+		(NP-PRD (NP president)
+			and
+			(NP chief operating officer)))))
+     .))
+( (S (NP-SBJ EMC)
+     (VP manufactures
+         (NP (NP data-storage systems)
+	     (PP for
+		 (NP (NP mainframes)
+		     and
+		     (NP minicomputers)))))
+     .))

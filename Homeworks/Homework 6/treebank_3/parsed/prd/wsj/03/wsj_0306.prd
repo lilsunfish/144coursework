@@ -1,0 +1,146 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Farm prices)
+		      (PP-TMP in
+			      (NP October)))
+	      (VP edged
+		  (ADVP-CLR up
+			    (NP-ADV 0.7 %)
+			    (PP-TMP from
+				    (NP September)))
+		  (SBAR-TMP as
+			    (S (NP-SBJ raw milk prices)
+			       (VP continued
+				   (NP their rise))))))
+     ,
+     (NP-SBJ the Agriculture Department)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-2 (NP-SBJ (NP Milk)
+		      (VP sold
+			  (NP *)
+			  (PP-DTV to
+				  (NP (NP the nation 's)
+				      dairy plants and dealers))))
+	      (VP averaged
+		  (NP (NP $ 14.50 *U*)
+		      (PP for
+			  (NP each hundred pounds)))
+		  ,
+		  (ADVP (ADVP up 
+			      (NP-ADV 50 cents)
+			      (PP-TMP from
+				      (NP September)))
+			and
+			(ADVP up
+			      (NP-ADV $ 1.50 *U*)
+			      (PP-TMP from
+				      (NP October 1988))))))
+     ,
+     (NP-SBJ the department)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S (NP-SBJ (NP Commercial vegetables)
+                ,
+                (VP led
+                    (NP *)
+                    (PP by
+                        (NP-LGS lettuce and tomatoes)))
+                ,)
+        (VP rose
+            (NP-EXT 19 %)
+	    (PP-TMP in
+		    (NP October))))
+     ;
+     (S (NP-SBJ (NP oranges)
+                and
+                (NP other fruits))
+        (VP rose
+            (NP-EXT 5 %)))
+     .))
+( (S (NP-SBJ Broiler prices)
+     (VP fell
+         (NP-EXT 6.5 cents)
+	 (PP-TMP in
+		 (NP October))
+	 (PP-DIR to
+		 (NP (NP 30.6 cents)
+		     (NP-ADV a pound)))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ turkey prices)
+		      (VP rose
+			  (NP-EXT (NP 1.2 cents)
+				  (NP-ADV a pound))
+			  (PP-DIR to
+				  (NP 38.5 cents))))))
+     .))
+( (S (NP-SBJ Egg prices)
+     (VP averaged
+         (NP (NP 64.2 cents)
+	     (NP-ADV a dozen))
+         ,
+         (ADVP down 
+               (NP-ADV 0.2 cent)
+               (PP-TMP from
+		       (NP September))))
+     .))
+( (S (NP-SBJ Hogs)
+     (VP rose
+         (NP-EXT $ 3.40 *U*)
+	 (PP-DIR to
+		 (NP (NP $ 46.80 *U*)
+		     (NP-ADV a hundredweight)))
+	 (PP-TMP in
+		 (NP October))
+	 ,
+	 (SBAR-ADV while
+		   (S (S (NP-SBJ beef cattle)
+			 (VP slipped
+			     (NP-EXT 80 cents)
+			     (PP-DIR to
+				     (NP (NP $ 67.40 *U*)
+					 (PP for
+					     (NP each hundred pounds))))))
+		      and
+		      (S (NP-SBJ calves)
+			 (VP dropped
+			     (NP-EXT 90 cents)
+			     (PP-DIR to
+				     (NP $ 90.20 *U*)))))))
+     .))
+( (S (S (NP-SBJ Soybeans)
+        (VP averaged
+            (NP (NP $ 5.28 *U*)
+                (NP-ADV a bushel))
+            ,
+            (ADVP down 
+                  (NP-ADV 42 cents)
+                  (PP-TMP from
+			  (NP September)))))
+     ;
+     (S (S (NP-SBJ corn)
+           (VP averaged
+               (NP $ 2.20 *U*)
+               ,
+               (ADVP down 
+                     (NP-ADV seven cents))))
+        , 
+	and
+        (S (NP-SBJ sorghum grain)
+           (VP averaged
+               (NP (NP $ 3.61 *U*)
+                   (PP for
+                       (NP each hundred pounds)))
+               ,
+               (ADVP down 
+                     (NP-ADV 19 cents))
+	       ,
+	       (PP according
+		   (PP to
+		       (NP the department))))))
+     .))

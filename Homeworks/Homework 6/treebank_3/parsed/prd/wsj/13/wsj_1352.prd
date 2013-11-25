@@ -1,0 +1,61 @@
+
+
+( (S (NP-SBJ (NP LDI Corp.)
+             ,
+             (NP-LOC Cleveland)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP offer
+                          (NP (NP (QP $ 50 million) *U*)
+                              (PP in
+                                  (NP (NP commercial paper)
+                                      (VP backed
+                                          (NP *)
+                                          (PP by
+                                              (NP-LGS lease-rental receivables)))))))))))
+     .))
+( (S (NP-SBJ The program)
+     (VP matches
+         (NP (NP funds)
+             (VP raised
+                 (NP *)
+                 (PP from
+                     (NP (NP the sale)
+                         (PP of
+                             (NP the commercial paper))))))
+         (PP-CLR with
+		 (NP (ADJP small to medium-sized) 
+		     leases)))
+     .))
+( (S (NP-SBJ-2 LDI)
+     (VP termed
+         (S (NP-SBJ the paper)
+	    ``
+	    (ADJP-PRD non-recourse financing))
+	 ,
+	 ''
+	 (S-ADV (NP-SBJ *-2)
+		(VP meaning
+		    (SBAR that
+			  (S (NP-SBJ-1 investors)
+			     (VP would
+				 (VP be
+				     (VP repaid
+					 (NP *-1)
+					 (PP-CLR from
+						 (NP the lease receivables))
+					 ,
+					 (PP rather than 
+					     (ADVP-MNR directly
+						       (PP by
+							   (NP LDI Corp))))))))))))
+     .))
+( (S (NP-SBJ LDI)
+     (VP leases and sells
+         (NP (UCP data-processing , telecommunications and
+		  (ADJP other high-tech)) 
+             equipment))
+     .))

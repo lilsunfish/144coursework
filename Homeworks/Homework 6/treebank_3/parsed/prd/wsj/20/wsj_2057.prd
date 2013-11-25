@@ -1,0 +1,1179 @@
+
+
+( (SBARQ (WHADVP Why)
+         (SQ is
+             (NP-SBJ the stock market)
+             (ADVP-TMP suddenly)
+             (ADJP-PRD so volatile))
+         ?))
+( (S (NP-TMP Yesterday)
+     ,
+     (NP-SBJ the Dow Jones Industrial Average)
+     (VP did
+         (NP (NP a
+                 (ADJP now familiar)
+                 dance))
+	 :
+	 (S (NP-SBJ It)
+	    (VP plunged
+		(NP-EXT 60.25 points)
+		(PP-TMP before
+			(NP lunch))
+		,
+		(PP with
+		    (S-NOM (NP-SBJ (NP most)
+				   (PP of
+				       (NP the drop)))
+			   (VP occurring
+			       (PP-TMP in
+				       (NP 25 minutes))))))))
+     .))
+( (S (ADVP-TMP Then)
+     ,
+     (NP-SBJ it)
+     (VP rebounded
+         (S-ADV (NP-SBJ *)
+		(VP to
+		    (VP finish
+			(ADVP-CLR down
+				  (NP only 18.65 points))))))
+     .))
+( (S And
+     (NP-SBJ those swings)
+     (VP paled
+         (PP-LOC beside
+		 (NP (NP (NP Friday 's)
+			 190.58-point plunge)
+		     and
+		     (NP (NP Monday 's)
+			 88.12-point recovery))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ It)
+	      (VP 's
+		  (NP-PRD madness)
+		  --
+		  (SBAR that
+			(S (PP-TMP in
+				   (NP an hour))
+			   (NP-SBJ you)
+			   (VP can
+			       (VP whack 
+				   (PRT off)
+				   (NP (ADJP so much)
+				       value)))))))
+     , ''
+     (VP says
+	 (S *T*-1))
+     (NP-SBJ (NP Stanford Calderwood)
+	     ,
+	     (NP (NP chairman)
+		 (PP of
+		     (NP (NP Trinity Investment Management Corp.)
+			 ,
+			 (NP-LOC Boston)))))
+     .))
+( (S And ,
+     (ADVP apparently)
+     ,
+     (NP-SBJ it)
+     (VP is
+	 (ADVP-PRD here
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP stay)))))
+     .))
+( (S (NP-SBJ (NP Richard Bernstein)
+             ,
+             (NP (NP senior quantitative analyst)
+                 (PP-LOC at
+			 (NP Merrill Lynch & Co)))
+             ,)
+     (VP says ,
+         (SBAR 0 ``
+               (S (NP-SBJ My gut feel)
+                  (VP is
+                      (SBAR-PRD that
+                                (S (NP-SBJ we)
+                                   (VP 'll
+                                       (VP live
+                                           (PP-CLR with
+						   (NP those swings))
+					   (PP-TMP for
+						   (NP a while))))))))))
+     . ''))
+( (S (NP-SBJ There)
+     (VP are
+         (NP-PRD (NP (NP many reasons)
+                     (PP for
+                         (NP (NP the market 's)
+                             jumpiness)))
+                 :
+                 (NP (NP (NP new trading vehicles)
+                         (PP such as
+                             (NP (NP stock-index futures)
+                                 and
+                                 (NP options))))
+                     ;
+                     (NP (NP computer-driven strategies)
+                         (PP like
+                             (NP program trading)))
+                     ; and
+                     (NP crowd psychology))))
+     .))
+( (S But
+     (NP-SBJ-1 most)
+     (VP are
+         (VP linked
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP a single theme)
+			 :
+			 (NP (NP liquidity)
+			     --
+			     (NP the ability
+				 (S (NP-SBJ *)
+				    (VP to
+					(VP get
+					    (PP (PP in
+						    (NP *RNR*-2)) 
+						and 
+						(PP out
+						    (PP of
+							(NP *RNR*-2)))
+						(NP-2 the market))
+					    (ADVP-MNR quickly))))))))))
+     .))
+( (S (NP-SBJ Prices)
+     (VP are
+         (VP moving
+             (ADVP-DIR up and down)
+             (ADVP-MNR so fast)
+	     (SBAR-PRP because
+		       (S (NP-SBJ investors)
+			  (VP are
+			      (VP (VP employing
+				      (NP (NP ways)
+					  (SBAR (WHADVP-1 0)
+						(S (NP-SBJ *)
+						   (VP to
+						       (VP turn 
+							   (PRT over)
+							   (NP-PRD shares)
+							   (PP at
+							       (NP ever-faster rates))
+							   (ADVP-MNR *T*-1)))))))
+				  and
+				  (VP (ADVP increasingly)
+				      acting
+				      (PP-MNR in
+					      (NP concert)))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ Institutions)
+		 (VP are
+		     (VP herding
+			 (NP animals))))
+	, ''
+	(VP says
+	    (S *T*-2))
+	(NP-SBJ (NP Peter Anderson)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP heads
+			     (NP (NP the pension-fund management arm)
+				 (PP of
+				     (NP IDS Financial Services Inc)))))))
+	.))
+( (S ``
+     (NP-SBJ We)
+     (VP (VP watch
+             (NP the same indicators))
+         and
+         (VP listen
+             (PP-CLR to
+		     (NP the same prognosticators))))
+     .))
+( (S (PP Like
+         (NP lemmings))
+     ,
+     (NP-SBJ-1 we)
+     (VP tend
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP move
+                    (PP-DIR in
+			    (NP the same direction))
+		    (PP-TMP at
+			    (NP same time))))))
+     .
+     ''))
+( (S And
+     (NP-SBJ that)
+     ,
+     (ADVP naturally)
+     ,
+     (VP exacerbates
+         (NP price movements))
+     .))
+( (S (NP-SBJ (NP Institutions)
+             (PRN --
+		  (SBAR (WHNP-1 who)
+			(S (NP-SBJ *T*-1)
+			   (ADVP-TMP now)
+			   (VP account
+			       (PP-CLR for
+				       (NP most trading)))))
+		  --))
+     (VP count
+         (PP-CLR on
+		 (S-NOM (NP-SBJ *)
+			(VP being
+			    (ADJP-PRD able
+				      (S (NP-SBJ *)
+					 (VP to
+					     (VP (NP buy and sell)
+						 (NP (NP big blocks)
+						     (PP of
+							 (NP stock)))
+						 (PP at
+						     (NP an eye-blink))))))))))
+     .))
+( (S But
+     (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ they)
+		  (VP discover
+		      (SBAR that
+			    (S (NP-SBJ markets)
+			       (VP are n't
+				   (ADVP-TMP always)
+				   (ADJP-PRD as liquid
+					     (SBAR as
+						   (S (NP-SBJ they)
+						      (VP supposed))))
+				   (ADVP-TMP *T*-1)))))))
+     --
+     (NP-SBJ markets)
+     (VP jump)
+     .))
+( (S (PP-TMP On
+	     (NP Monday))
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (NP-SBJ (NP Howard Ward)
+             ,
+             (NP (NP a principal)
+                 (PP-LOC at
+			 (NP Scudder , Stevens & Clark)))
+             ,)
+     (VP found
+         (SBAR that ``
+               (S (NP-SBJ you)
+                  (VP could n't
+                      (VP buy
+                          (NP blue-chips)
+                          (PP-CLR at
+				  (NP quoted prices))
+			  (PP without
+			      (S-NOM (NP-SBJ *)
+				     (VP paying 
+					 (PRT up)))))))))
+     . ''))
+( (S And
+     (SBAR-TMP (WHADVP-3 when)
+	       (S (NP-SBJ-2 many firms)
+		  (VP had
+		      (S (NP-SBJ *-2)
+			 (VP to ``
+			     (VP pay 
+				 (PRT up))))
+		      (ADVP-TMP *T*-3))))
+     , ''
+     (NP-SBJ-1 (NP Monday 's)
+               sudden rally)
+     (VP was
+         (VP sparked
+             (NP *-1)))
+     .))
+( (S-1 (NP-SBJ (NP Trading)
+	       (PP-LOC in
+		       (NP futures and options)))
+       (PRN ,
+	    (S (NP-SBJ some people)
+	       (VP believe
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (VP can
+	   (VP add
+	       (PP-CLR to
+		       (NP volatility))))
+       .))
+( (S (S (NP-SBJ Investors)
+        (VP believe
+            (SBAR 0
+                  (S (NP-SBJ-3 they)
+                     (VP can
+			 (X can) 
+			 (VP rely
+			     (PP-CLR on
+				     (NP such derivative securities))
+			     (S-CLR (NP-SBJ-4 *-3)
+				    (VP to
+					(VP get
+					    (PP-CLR (PP in
+							(NP *RNR*-1)) 
+						    and 
+						    (PP out
+							(PP of
+							    (NP *RNR*-1)))
+						    (NP-1 the stock market))
+					    (PP without
+						(S-NOM (NP-SBJ *-4)
+						       (ADVP actually)
+						       (VP selling
+							   (NP any stocks)))))))))))))
+     ;
+     (S (NP-SBJ that)
+	(VP is
+	    ,
+	    (FRAG (NP (NP a way)
+		      (PP of
+			  (S-NOM (NP-SBJ *)
+				 (VP staying
+				     (ADJP-PRD liquid)
+				     (SBAR-TMP (WHADVP-2 (ADVP even)
+							 when)
+					       (S (NP-SBJ they)
+						  (VP own
+						      (NP stocks)
+						      (ADVP-TMP *T*-2)))))))))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ-1 These and other modern trading methods)
+		 ``
+		 (VP tend
+		     (S (NP-SBJ *-1)
+			(VP to
+			    (VP promote
+				(NP (NP dramatic shifts)
+				    (PP-LOC in
+					    (NP assets))))))))
+	, ''
+	(VP says
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP George Douglas)
+		,
+		(NP (NP first vice president)
+		    (PP-LOC at
+			    (NP Drexel Burnham Lambert Inc))))
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP 's
+	 (NP-PRD the idea
+		 (SBAR that
+		       (S (SBAR-NOM-SBJ (WHNP-1 what)
+					(S (NP-SBJ *T*-1)
+					   (VP goes
+					       (PP-CLR in)
+					       (ADVP-MNR easy))))
+			  (VP can
+			      (VP come
+				  (PP-CLR out)
+				  (ADVP-MNR easy)
+				  ''
+				  --
+				  (SBAR-PRP so that
+					    (S (NP-SBJ-2 (NP bouts)
+							 (PP of
+							     (NP higher volatility)))
+					       (VP get
+						   (S (NP-SBJ-3 *-2)
+						      (VP built
+							  (NP *-3)
+							  (PP-CLR into
+								  (NP the stock market)))))))))))))
+     .))
+( (S (NP-SBJ (NP One new investment style)
+             (VP called
+                 (S (NP-SBJ *)
+		    ``
+		    (NP-PRD asset allocation)
+		    '')))
+     (VP shifts
+         (NP portfolio weightings)
+         (PP between
+             (NP (NP stocks)
+                 ,
+                 (NP bonds)
+                 and
+                 (NP cash)))
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ computer models)
+		      (VP say
+			  (SBAR 0
+				(S (NP-SBJ one)
+				   (VP is
+				       (ADJP-PRD more attractive)
+				       (ADVP-TMP *T*-1))))))))
+     .))
+( (S (PP For
+         (NP instance))
+     ,
+     (NP-SBJ (NP First Quadrant Corp.)
+             ,
+             (NP (NP an asset allocator)
+                 (VP based
+                     (NP *)
+                     (PP-LOC-CLR in
+				 (NP (NP Morristown)
+				     ,
+				     (NP N.J.)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP (ADVP-MNR quickly)
+                      boosted
+                      (NP (NP stock positions)
+                          (PP in
+                              (NP its `` aggressive '' accounts)))
+                      (PP-DIR to
+			      (NP 75 %))
+                      (PP-DIR from
+			      (NP 55 %))
+		      (S-PRP (NP-SBJ *)
+			     (VP to
+				 (VP take
+				     (NP (NP advantage)
+					 (PP of
+					     (NP plunging prices)))
+				     (NP-TMP Friday))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP added
+         (NP (QP another 5) %)
+         (NP-TMP Monday)
+	 (SBAR-TMP before
+		   (S (NP-SBJ stocks)
+		      (VP rallied))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ they)
+		  (VP did
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ the firm)
+     (VP reduced
+         (NP those stock holdings)
+         (PP-DIR to
+		 (NP (QP about 70) %)))
+     .))
+( (S (NP-SBJ (NP A classic example)
+             (PP of
+                 (NP (NP (NP institutions ')
+			 hunger)
+		     (PP for
+                         (NP liquidity)))))
+     (VP is
+         (NP-PRD (NP portfolio insurance)
+                 , 
+		 (ADVP-TMP now)
+                 (ADJP widely discredited)))
+     .))
+( (S (PP-TMP Before
+	     (NP the 1987 crash))
+     ,
+     (NP-SBJ-1 (NP an estimated (QP $ 60 billion) *U*)
+               (PP in
+                   (NP institutional money)))
+     (VP was
+         (VP managed
+             (NP *-1)
+             (PP-LOC under
+		     (NP this hedging technique))))
+     .))
+( (S (NP-SBJ The idea)
+     (VP was
+	 (S-PRD (NP-SBJ *)
+		(VP to ``
+		    (VP insure ''
+			(NP (NP the value)
+			    (PP of
+				(NP a portfolio)))
+			(PP-MNR by
+				(S-NOM (NP-SBJ *)
+				       (VP selling
+					   (NP futures)
+					   (SBAR-TMP (WHADVP-1 when)
+						     (S (NP-SBJ stock prices)
+							(VP dropped
+							    (ADVP-TMP *T*-1))))
+					   --
+					   (S-ADV (NP-SBJ *)
+						  (VP eliminating
+						      (NP the need
+							  (S (NP-SBJ *)
+							     (VP to
+								 (VP sell
+								     (NP the stocks
+									 themselves))))))))))))))
+     .))
+( (S But
+     (PP-TMP in
+	     (NP October 1987))
+     ,
+     (SBAR-TMP (WHADVP when)
+	       (S (NP-SBJ portfolio insurers)
+		  (VP rushed
+		      (S (NP-SBJ *)
+			 (VP to
+			     (VP sell))
+			 (PP at
+			     (NP the same time))))))
+     ,
+     (NP-SBJ they)
+     (VP overwhelmed
+         (NP both the stock and futures markets))
+     .))
+( (S (ADVP Yet)
+     (ADVP-TMP even today)
+     ,
+     (NP-SBJ institutions)
+     (VP are
+         (VP (ADVP-MNR quietly)
+             practicing
+             (NP (NP forms)
+                 (PP of
+                     (NP portfolio insurance)))
+             (PP-MNR by
+		     (S-NOM (NP-SBJ *)
+			    (VP (ADVP-MNR nervously)
+				rushing
+				(ADVP-DIR to and fro)
+				(PP-LOC in
+					(NP the markets)))))))
+     .))
+( (S (NP-SBJ Others)
+     (VP are
+         (VP doing
+             (NP ``
+                 (NP index arbitrage)
+                 ''
+                 (NP (NP a strategy)
+                     (PP of
+                         (S-NOM (NP-SBJ *)
+				(VP taking
+				    (NP advantage)
+				    (PP of
+					(NP (NP price discrepancies)
+					    (PP between
+						(NP (NP stocks)
+						    and
+						    (NP futures))))))))))))
+     .))
+( (S (PP Unlike
+         (NP traditional buy-and-hold strategies))
+     ,
+     (NP-SBJ (NP all)
+             (PP of
+                 (NP the above)))
+     (VP require
+         (SBAR that
+               (S (NP-SBJ market makers)
+                  (VP be
+		      (PP-PRD on
+			      (NP hand))
+		      (S-PRP (NP-SBJ *)
+			     (VP to
+				 (VP provide
+				     (NP liquidity)
+				     (PP-MNR by
+					     (S-NOM (NP-SBJ *)
+						    (VP buying and selling
+							(NP stocks)
+							(PP-LOC in
+								(NP a crunch))))))))))))
+     .))
+( (S But
+     (NP-SBJ institutions)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ Wall Street brokerage firms)
+                  (VP are
+                      (ADJP-PRD less willing
+                                (S (NP-SBJ *)
+                                   (VP to
+                                       (VP make
+                                           (NP markets)))))))))
+     .))
+( (S (NP-SBJ Brokers)
+     (VP do n't
+         (VP deny
+             (NP that)))
+     .))
+( (S (NP-SBJ Wall Street traders)
+     (VP say
+         (SBAR that 
+	       (S ,
+		  (SBAR with
+			(S (NP-SBJ institutional brokerage commissions)
+			   (ADJP-PRD (ADJP far lower)
+				     (PP than
+					 (PP-TMP in
+						 (NP the 1970s))))))
+                  ,
+                  (NP-SBJ-1 securities firms)
+                  (VP ca n't
+                      (VP afford
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP take
+                                     (NP (NP the risk)
+                                         (PP of
+                                             (S-NOM (NP-SBJ *)
+						    (VP buying
+							(NP (ADJP too much)
+							    stock)))))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP think
+		     (SBAR 0
+			   (S (NP-SBJ everyone)
+			      (VP 's
+				  (ADJP-PRD a little more leery))))))
+	, ''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Jack Baker)
+		,
+		(NP (NP head)
+		    (PP of
+			(NP equity trading))
+		    (PP-LOC at
+			    (NP Shearon Lehman Hutton Inc))))
+	.))
+( (SINV ``
+	(S-TPC-3 (NP-SBJ The institutions)
+		 (VP have
+		     (VP driven
+			 (NP (PRN -LRB-
+				  commission
+				  -RRB-)
+			     rates)
+			 (ADVP-DIR down)
+			 (PP to
+			     (NP (NP the point)
+				 (SBAR (WHADVP-2 where)
+				       (S (NP-SBJ (NP it)
+						  (S *EXP*-1))
+					  (VP makes
+					      (NP no sense)
+					      (S-1 (NP-SBJ *)
+						   (VP to
+						       (VP commit
+							   (NP capital))))
+					      (ADVP-LOC *T*-2)))))))))
+	, ''
+	(VP says
+	    (S *T*-3))
+	(NP-SBJ (NP Tom Gallagher)
+		,
+		(NP (NP senior executive vice president)
+		    (PP in
+			(NP (NP charge)
+			    (PP of
+				(NP institutional trading))))
+		    (PP-LOC at
+			    (NP Oppenheimer & Co))))
+	.))
+( (SBARQ ``
+	 (WHADVP Why)
+	 (SQ should
+	     (NP-SBJ I)
+	     (VP risk
+		 (NP money)
+		 (PP for
+		     (NP (NP a guy)
+			 (X for)
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ *T*-1)
+				  (VP 's
+				      (VP paying
+					  (NP me)
+					  (NP (NP five cents)
+					      (NP-ADV a dance))))))))))
+	 ?))
+( (S (NP-SBJ (NP All)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ you)
+                      (VP get
+                          (NP *T*-1)))))
+     (VP is
+         (NP-PRD risk))
+     . ''))
+( (S (NP-SBJ (NP Lack)
+             (PP of
+                 (NP liquidity)))
+     (VP can
+         (ADVP also)
+         (VP result
+             (PP-CLR from
+		     (NP exchange `` reforms))))
+     . ''))
+( (S (NP-SBJ Many traders)
+     (VP say
+         (SBAR that
+               (S (NP-SBJ ``
+                          (NP circuit breakers)
+                          ''
+                          (VP put
+                              (PP-PUT in
+				      (NP place))
+                              (S-PRP (NP-SBJ *)
+				     (VP to
+					 (VP damp
+					     (NP volatility))))
+                              (PP-TMP after
+				      (NP the 1987 crash))))
+                  (VP (ADVP actually)
+                      added
+                      (PP-CLR to
+			      (NP volatility))
+		      (SBAR-TMP (WHADVP-1 when)
+				(S (NP-SBJ the stock market)
+				   (VP plunged
+				       (NP-TMP Friday)
+				       (ADVP-TMP *T*-1))))))))
+     .))
+( (S (NP-SBJ The circuit breakers)
+     (VP caused
+         (NP (NP a 30-minute shutdown)
+             (PP in
+                 (NP (NP trading)
+                     (PP in
+                         (NP (NP Standard & Poor 's)
+                             500-stock index futures contract)))))
+	 (SBAR-TMP as
+		   (S (NP-SBJ the markets)
+		      (VP were
+			  (VP falling)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (PP With
+		     (NP the futures-trading halt))
+		 ,
+		 (NP-SBJ you)
+		 (VP could
+		     (ADVP only)
+		     (VP sell
+			 (NP stocks)
+			 ''
+			 (S-PRP (NP-SBJ *)
+				(VP to
+				    (VP cut
+					(NP (NP exposure)
+					    (PP to
+						(NP the market)))))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ a money manager)
+	.))
+( (S ``
+     (NP-SBJ It)
+     (VP was
+         (ADJP-PRD scary)
+	 (PP to
+	     (NP (NP people)
+		 (VP thinking
+		     (SBAR that
+			   (S (NP-SBJ they)
+			      (VP could n't
+				  (VP get
+				      (NP their trades)
+				      (PRT off)))))))))
+     . ''))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ It)
+		 (VP was
+		     (SBAR-PRD like
+			       (S (NP-SBJ they)
+				  (VP (VP put
+					  (NP you)
+					  (PP in
+					      (NP (NP a room)
+						  (PP with
+						      (NP a gorilla)))))
+				      and
+				      (VP told
+					  (NP you)
+					  (SBAR 0
+						(S (NP-SBJ there)
+						   (VP were
+						       (NP-PRD (NP three doors)
+							       (SBAR (WHADVP-2 0)
+								     (S (NP-SBJ *)
+									(VP to
+									    (VP exit
+										(ADVP-LOC *T*-2)))))))))))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ one Chicago-based futures trader)
+	.))
+( (S ``
+     (ADVP-TMP Then)
+     (NP-SBJ they)
+     (VP said , `
+	 (SBAR 0
+	       (S (PP By
+		      (NP the way))
+		  ,
+		  (NP-SBJ (NP two)
+			  (PP of
+			      (NP the doors)))
+		  (VP are
+		      (ADJP-PRD locked)))))
+     . '
+     ''))
+( (S (NP-SBJ The takeover mania)
+     (ADVP also)
+     (VP adds
+         (PP-CLR to
+		 (NP volatility)))
+     .))
+( (S (NP-SBJ UAL Corp.)
+     (VP is
+         (NP-PRD a good example))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Valued
+		(PP-CLR as
+			(NP a buy-out target))))
+     ,
+     (NP-SBJ-1 the airline stock)
+     (VP was
+	 (VP trading
+	     (PP-CLR at
+		     (NP (NP (QP nearly $ 280) *U*)
+			 (NP-ADV a share)))))
+     .))
+( (S (S (SBAR-TMP (WHADVP-1 When)
+		  (S (NP-SBJ the deal)
+		     (VP ran
+			 (PP-DIR into
+				 (NP trouble)
+				 (ADVP-TMP *T*-1)))))
+	,
+	(NP-SBJ the stock)
+	(VP tumbled))
+     ;
+     (S (NP-SBJ it)
+	(VP closed
+	    (PP-CLR at
+		    (NP $ 198 *U*))
+	    (NP-TMP yesterday)))
+     .))
+( (S (ADVP Presumably)
+     ,
+     (NP-SBJ UAL)
+     (VP is
+         (ADVP-TMP now)
+         (VP trading
+             (ADVP-LOC closer
+		       (PP to
+			   (NP (NP its value)
+			       (VP based
+				   (NP *)
+				   (PP-LOC-CLR on
+					       (NP earnings))))))))
+     .))
+( (S (PP By
+         (NP contrast))
+     ,
+     (NP-SBJ traditional buy-and-hold investors)
+     (VP are
+         (ADJP-PRD unlikely
+                   (S (NP-SBJ *)
+                      (VP to
+                          (VP generate
+                              (NP sudden price moves))))))
+     .))
+( (S (NP-SBJ (NP Scott Black)
+             ,
+             (NP (NP a value-oriented money manager)
+                 (SBAR (WHNP-1 who)
+                       (S (NP-SBJ *T*-1)
+                          (VP heads
+                              (NP Delphi Management Inc.)))))
+             ,)
+     (VP points 
+	 (PRT out)
+         (SBAR that
+               (S (PP for
+                      (NP (NP those)
+                          (SBAR (WHNP-2 who)
+                                (S (NP-SBJ *T*-2)
+                                   (VP invest
+                                       (PP-LOC-CLR on
+						   (NP fundamentals)))))))
+                  , 
+		  ``
+                  (NP-SBJ (NP the value)
+			  (PP of
+			      (NP a stock))
+			  (PP (PP from
+				  (NP day))
+			      (PP to
+				  (NP day))))
+		  (VP does n't
+		      (VP change
+			  (ADVP-CLR all that much))))))
+     . ''))
+( (S (NP-SBJ Some experts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ markets)
+                  (VP are n't
+                      (ADJP-PRD (ADJP as volatile)
+                                (SBAR as
+				      (S (NP-SBJ *)
+					 (VP (ADVP-MNR widely)
+					     assumed))))))))
+     .))
+( (S (NP-SBJ (NP Hans Stoll)
+             ,
+             (NP (NP finance professor)
+                 (PP-LOC at
+			 (NP Vanderbilt University)))
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ (NP the current volatility)
+                          (PP-LOC in
+				  (NP U.S. markets)))
+                  (VP pales
+                      (PP in
+                          (NP (NP comparison)
+                              (PP to
+                                  (NP (NP the 1930s)
+                                      ,
+                                      (SBAR-TMP (NP decades)
+						before
+						(S (NP-SBJ-1 (NP derivative instruments)
+							     (PP such as
+								 (NP options and futures)))
+						   (VP were
+						       (VP introduced
+							   (NP *-1)))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ I)
+	      (ADVP just)
+	      (VP ca n't
+		  (VP believe
+		      (SBAR that
+			    (S (NP-SBJ (NP the innovations)
+				       (PP-LOC in
+					       (NP the financial market)))
+			       (VP are
+				   (VP causing
+				       (NP (NP any)
+					   (PP of
+					       (NP this volatility))))))))))
+     , ''
+     (NP-SBJ he)
+     (VP says
+	 (S *T*-1))
+     .))
+( (S And
+     (NP-SBJ (NP Robert D. Arnott)
+             ,
+             (NP (NP president)
+                 (PP of
+                     (NP asset allocator
+                         First Quadrant)))
+             ,)
+     (VP notes
+         (SBAR that
+               (S (PP-TMP before
+			  (NP (NP Friday 's)
+			      tailspin))
+                  ,
+                  (NP-SBJ (NP daily volatility)
+                          (PP on
+                              (NP the New York Stock Exchange)))
+                  (PP-TMP in
+			  (NP recent weeks))
+                  (VP had
+                      (VP reached ``
+                          (NP (ADJP historically low)
+                              levels))))))
+     . ''))
+( (S (NP-SBJ-1 Some people)
+     (VP tend
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP ignore
+                    (SBAR that
+                          (S (NP-SBJ a 50-point move)
+                             (VP is
+                                 (ADJP-PRD (ADJP less
+						 (PP in
+						     (NP percentage terms)))
+					   (SBAR than
+						 (S (NP-SBJ it)
+						    (VP was
+							(ADJP-PRD *?*) 
+							(SBAR-TMP (WHADVP-2 when)
+								  (S (NP-SBJ the stock market)
+								     (VP was
+									 (ADJP-PRD lower)
+									 (ADVP-TMP *T*-2)))))))))))))))
+     .))
+( (S (NP-SBJ (NP John J. Phelan Jr.)
+             ,
+             (NP (NP chairman)
+                 (PP of
+                     (NP the Big Board)))
+             ,)
+     (VP asserts
+         (SBAR that ``
+               (S (NP-SBJ 1988 and 1989)
+                  (VP have
+                      (VP been
+                          (NP-PRD (NP two)
+                                  (PP of
+                                      (NP (NP the
+					      (ADJP least volatile)
+					      years)
+					  (PP-TMP in
+						  (NP the last (QP 30 or 40) years))))))))))
+     . ''))
+( (S But
+     (NP-SBJ (NP the low average volatility)
+             (SBAR (WHNP-1 0)
+                   (S (NP-SBJ Mr. Phelan)
+                      (VP is
+                          (VP talking
+                              (PP about
+                                  (NP *T*-1)))))))
+     (VP is n't
+         (NP-PRD any comfort)
+	 (PP-TMP in
+		 (NP (NP a period)
+		     (PP of
+			 (NP rapid stock-market moves))
+		     (PP like
+			 (NP the past week)))))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (NP-SBJ (NP Sanford Grossman)
+             ,
+             (NP a Wharton School finance professor)
+             ,)
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ (NP volatile jumps)
+                          (PP in
+                              (NP stock prices)))
+                  (VP will
+                      (VP continue
+                          (ADVP-TMP (ADVP as long)
+				    (SBAR as
+					  (S (NP-SBJ liquidity)
+					     (VP falls
+						 (ADJP short
+						       (PP of
+							   (NP (NP the voracious demands)
+							       (PP of
+								   (NP (NP institutions)
+								       ``
+								       (SBAR (WHNP-1 who)
+									     (S (NP-SBJ *T*-1)
+										(VP can
+										    (VP (VP go
+											    (ADVP-DIR out))
+											and
+											(VP say
+											    `
+											    (S (NP-SBJ I)
+											       (VP have
+												   (NP (NP (NP (QP a billion) dollars)
+													   (PP of
+													       (NP stocks)))
+												       (SBAR (WHNP-2 0)
+													     (S (NP-SBJ *)
+														(VP to
+														    (VP sell
+															(NP *T*-2)))))))))))))))))))))))))))
+     . ' ''))
+( (S (NP-SBJ Some people)
+     (VP think
+         (SBAR 0
+               (S (NP-SBJ (NP the search)
+                          (PP for
+                              (NP liquidity)))
+                  (VP is
+                      (ADJP-PRD fruitless)))))
+     .))
+( (S (PP-TMP In
+	     (NP 1936))
+     ,
+     (NP-SBJ John Maynard Keynes)
+     (VP wrote
+         (SBAR that ``
+               (S (PP-TPC-1 of
+			    (NP (NP the maxims)
+				(PP of
+				    (NP orthodox finance))))
+                  (NP-SBJ (NP none)
+			  (PP *T*-1))
+                  ,
+                  (ADVP surely)
+                  ,
+                  (VP is
+                      (ADJP-PRD (ADJP more antisocial)
+                                (PP than
+                                    (NP (NP the fetish)
+                                        (PP of
+                                            (NP liquidity)))))))))
+     . ''))
+( (S (NP-SBJ It)
+     (VP leads
+         (NP investors)
+         (S-CLR (NP-SBJ *)
+		(VP to
+		    (VP focus
+			(PP-LOC-CLR (PP on
+					(NP (NP short-term price movements)
+					    (PRN --
+						 (S ``
+						    (NP-TPC-1 (NP a game)
+							      (PP of
+								  (NP musical chairs)))
+						    , ''
+						    (NP-SBJ he)
+						    (VP called
+							(S (NP-SBJ it)
+							   (NP-PRD *T*-1))))
+						 --)))
+				    (CONJP rather
+					   than)
+				    (PP on
+					(NP long-term fundamental valuation)))))))
+     .))
+( (S (NP-SBJ James A. White)
+     (VP contributed
+         (PP-CLR to
+		 (NP this article)))
+     .))

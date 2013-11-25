@@ -1,0 +1,133 @@
+
+
+( (S (NP-SBJ Dana Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its third-quarter net income)
+                  (VP fell
+                      (NP-EXT 27 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 29.6 million) *U*)
+				  , or
+				  (NP (NP 72 cents)
+				      (NP-ADV a share))
+				  ,))
+		      (PP-DIR from
+			      (NP (NP (QP $ 40.7 million) *U*)
+				  , or
+				  (NP (NP $ 1 *U*)
+				      (NP-ADV a share)))
+			      ,
+			      (ADVP-TMP (NP a year)
+					earlier))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP dropped
+         (NP-EXT 4 %)
+         (PP-DIR to
+		 (NP (QP $ 1.12 billion) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 1.17 billion) *U*)))
+     .))
+( (S (NP-SBJ (NP The company)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP supplies
+                          (NP (NP transmissions)
+                              and
+                              (NP other drive-train parts))
+                          (PP-CLR to
+				  (NP auto makers)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (QP about half) the earnings drop)
+                  (VP came
+                      (PP-CLR from
+			      (NP (NP the `` virtual collapse '')
+				  (PP of
+				      (NP the Venezuelan auto industry))))))))
+     .))
+( (S (NP-SBJ The Venezuelan currency)
+     (VP plummeted
+         (NP-TMP this year)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP making
+		    (S (NP-SBJ (NP it)
+			       (SBAR *EXP*-1))
+		       (ADJP-PRD difficult)
+		       (SBAR-1 for
+			       (S (NP-SBJ (NP auto makers)
+					  (ADVP-LOC there))
+				  (VP to
+				      (VP afford
+					  (NP imported parts)))))))))
+     .))
+( (S (NP-SBJ Dana)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP was
+                      (VP hurt
+                          (NP *-1)
+                          (PP (PP by
+                                  (NP-LGS slumping U.S. truck sales))
+                              and
+                              (PP by
+                                  (NP-LGS (NP a strike)
+					  (PP-LOC at
+						  (NP a parts supplier))))))))))
+     .))
+( (S (NP-SBJ (NP The company)
+             ,
+             (VP based
+                 (NP *)
+                 (PP-LOC-CLR in
+			     (NP (NP Toledo)
+				 ,
+				 (NP Ohio))))
+	     ,)
+     (VP had
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP expected
+                          (NP reduced third-quarter profit))))))
+     .))
+( (S (NP-SBJ (NP Mary Anne Sudol)
+             ,
+             (NP (NP an analyst)
+                 (PP-LOC at
+			 (NP (NP Fitch Investors)
+			     (PP-LOC in
+				     (NP New York)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ automotive suppliers)
+                  (VP were
+                      (VP reporting
+                          (NP (NP lower profit)
+			      (PP-LOC (ADVP almost) `` across 
+				      (NP the board))))))))
+     .
+     ''))
+( (S (NP-SBJ (NP Southwood J. Morcott)
+             ,
+             (NP (NP Dana 's)
+                 president)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the company 's)
+                          decision
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP approve
+                                     (NP its normal fourth-quarter dividend)))))
+                  (VP indicated
+                      (NP its underlying strength)))))
+     .))

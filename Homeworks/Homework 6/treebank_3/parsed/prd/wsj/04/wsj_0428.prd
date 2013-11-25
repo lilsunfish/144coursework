@@ -1,0 +1,59 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP (NP Japan 's)
+			  exports)
+		      (PP of
+			  (NP cars
+			      ,
+			      trucks
+			      and
+			      buses)))
+	      (VP declined
+		  (NP-EXT 2.4 %)
+		  (PP-DIR to
+			  (NP 535,322 units))
+		  (PP-TMP in
+			  (NP September))
+		  (PP-DIR from
+			  (ADVP-TMP (NP a year)
+				    earlier))))
+     ,
+     (NP-SBJ the Japan Automobile Manufacturers Association)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The association)
+     (VP attributed
+         (NP the drop)
+         (PP-CLR to
+		 (NP (NP a trend
+			 (S *ICH*-1))
+		     (PP among
+			 (NP auto makers))
+		     (S-1 (NP-SBJ *)
+			  (VP to
+			      (VP move
+				  (NP manufacturing operations)
+				  (ADVP-DIR overseas)))))))
+     .))
+( (S (PP With
+         (NP (NP the exception)
+             (PP of
+                 (NP (NP August)
+                     ,
+                     (SBAR (WHADVP-TMP-1 when)
+                           (S (NP-SBJ exports)
+                              (VP rose
+                                  (NP-EXT 2.1 %)
+				  (ADVP-TMP *T*-1))))))))
+     ,
+     (NP-SBJ exports)
+     (VP have
+         (VP declined
+	     (NP-TMP every month)
+	     (PP-DIR from
+		     (NP year-earlier levels))
+	     (PP-TMP since
+		     (NP March))))
+     .))

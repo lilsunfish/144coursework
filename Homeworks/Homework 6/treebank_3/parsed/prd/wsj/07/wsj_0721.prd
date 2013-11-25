@@ -1,0 +1,65 @@
+
+
+( (S (NP-SBJ Trinova Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP will
+                      (VP resume
+                          (S (NP-SBJ *-1)
+                             (VP buying
+                                 (PRT back)
+                                 (NP (NP (QP as many as three million))
+				     (PP of
+					 (NP its common shares)))))
+			  (PP-LOC under
+				  (NP (NP a program)
+				      (VP announced
+					  (NP *)
+					  (ADVP-TMP (NP two years)
+						    ago)))))))))
+     .))
+( (S (NP-SBJ (NP Trinova)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP had
+                          (NP (NP (QP 34.2 million) common shares)
+                              (ADJP outstanding))
+			  (NP-TMP Sept. 30))))
+             ,)
+     (VP had
+         (VP repurchased
+             (NP 29,700 shares)
+             (PP-TMP since
+		     (NP October 1987))
+	     (PP-TMP before
+		     (NP this latest announcement))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP is n't
+		      (S (NP-SBJ-2 *-1)
+			 (VP making
+			     (NP a commitment
+				 (S (NP-SBJ *-2)
+				    (VP to
+					(VP purchase
+					    (NP (NP a specific number)
+						(PP of
+						    (NP shares)))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ Trinova)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 32.125 *U*))
+         ,
+         (ADVP up
+               (NP 12.5 cents)))
+     .))

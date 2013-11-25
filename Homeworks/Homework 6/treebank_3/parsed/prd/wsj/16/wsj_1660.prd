@@ -1,0 +1,338 @@
+
+
+( (S (NP-SBJ-1 (NP Banco Popular de Puerto Rico)
+	       and
+	       (NP BanPonce Corp.))
+     -- 
+     (VP agreed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP merge
+                    (PP-LOC in
+			    (NP (NP a transaction)
+				(VP valued
+				    (NP *)
+				    (PP-CLR at
+					    (NP (QP $ 324 million) *U*)))))))))
+     .))
+( (S (PP-LOC Under
+	     (NP the agreement))
+     ,
+     (NP-SBJ-1 BanPonce stockholders)
+     (VP will
+         (VP be
+             (ADJP-PRD able
+                       (S (NP-SBJ *-1)
+                          (VP to
+                              (VP exchange
+                                  (NP (NP each)
+                                      (PP of
+                                          (NP their shares)))
+				  (PP-CLR for
+					  (NP either
+					      (NP (NP shares)
+						  (PP in
+						      (NP the new entity)))
+					      or
+					      (NP cash)))))))))
+     .))
+( (S (PP-LOC In 
+	     (NP each case))
+     ,
+     (NP-SBJ-1 the exchange)
+     (VP is
+         (VP valued
+             (NP *-1)
+             (PP-CLR at
+		     (NP (NP $ 56.25 *U*)
+			 (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ The two companies)
+     ,
+     (S-ADV (NP-SBJ-1 both)
+	    (VP based
+		(NP *-1)
+		(PP-LOC-CLR in
+			    (NP San Juan))))
+     ,
+     (VP will
+         (VP form
+             (NP (NP a bank holding company)
+		 (PP with
+                     (NP (NP assets)
+                         (PP of
+                             (NP (QP just over $ 9 billion) *U*)))))))
+     .))
+( (S (NP-SBJ-1 The holding company)
+     (VP will
+	 (VP be
+	     (VP called
+		 (S (NP-SBJ *-1)
+		    (NP-PRD BanPonce Corp)))))
+     .))
+( (S (NP-SBJ-1 The primary subsidiary)
+     (VP (VP will
+	     (VP be
+		 (NP-PRD (NP the combined banking operations)
+			 (PP of
+			     (NP the two companies)))))
+	 and
+	 (VP will
+	     (VP be
+		 (VP known
+		     (NP *-1)
+		     (PP-CLR as
+			     (NP Banco Popular de Puerto Rico))))))
+     .))
+( (S (NP-SBJ (NP Rafael Carrion Jr.)
+             ,
+             (NP (NP chairman)
+                 (PP of
+                     (NP Banco Popular)))
+             ,)
+     (VP will
+         (VP be
+             (NP-PRD (NP the chairman)
+                     (PP of
+                         (NP the holding company)))))
+     .))
+( (S (NP-SBJ (NP Alberto M. Paracchini)
+             ,
+             (RRC (ADVP-TMP currently)
+		  (NP (NP chairman)
+		      (PP of
+			  (NP BanPonce))))
+             ,)
+     (VP will
+         (VP serve
+             (PP-CLR as
+		     (NP (NP (NP president)
+			     (PP of
+				 (NP the bank holding company)))
+			 and
+			 (NP (NP chairman)
+			     (PP of
+				 (NP the subsidiary)))))))
+     .))
+( (S (NP-SBJ Banco Popular)
+     (ADVP originally)
+     (VP proposed
+         (NP the merger)
+         (PP-TMP in
+		 (NP July))
+         ,
+         (PP-LOC in 
+		 (NP (NP a cash and stock transaction)
+		     (VP valued
+			 (NP *)
+			 (PP-CLR at
+				 (NP (NP (NP $ 50 *U*)
+					 (NP-ADV a share))
+				     , or
+				     (NP (QP about $ 293 million) *U*)))))))
+     .))
+( (S-3 (NP-SBJ-1 BanPonce)
+       (VP (VP reacted
+	       (ADVP-MNR cooly)
+	       (PP-TMP at (ADJP first))) 
+	   , but
+	   (VP appeared
+	       (S (NP-SBJ-2 *-1)
+		  (VP to
+		      (VP be
+			  (VP won
+			      (PRT over)
+			      (NP *-2)
+			      (PRN ,
+				   (S (NP-SBJ analysts)
+				      (VP said
+					  (SBAR 0
+						(S *T*-3))))
+				   ,)
+			      (PP by
+				  (NP-LGS (NP Banco Popular 's)
+					  assurances
+					  (SBAR that
+						(S (NP-SBJ it)
+						   (VP wanted
+						       (NP only a friendly transaction))))))))))))
+       .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ-1 Banco Popular)
+		 (ADVP just)
+		 (VP kept
+		     (S (NP-SBJ *-1)
+			(VP waiting))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Edward Thompson)
+		,
+		(NP (NP a (NX (NX vice president) and (NX analyst))) 
+		    (PP-LOC at
+			    (NP (NP Thomson BankWatch Inc.)
+				(PP-LOC in
+					(NP New York))))))
+	.))
+( (S ``
+     (NP-SBJ They)
+     (VP got
+         (NP (NP a transaction)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP 's
+                          (ADJP-PRD good
+                                    (PP for
+                                        (NP both companies))))))))
+     . ''))
+( (S (NP-SBJ-1 The two banks)
+     (VP appear
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP be
+                    (NP-PRD a good fit)))))
+     .))
+( (S (NP-SBJ BanPonce)
+     (VP caters
+	 (PP-CLR to
+		 (NP a
+		     (ADJP more affluent)
+		     customer))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ Banco Popular)
+		      (VP has
+			  (ADVP-TMP always)
+			  (VP had
+			      (NP (NP a large presence)
+				  (PP among
+				      (NP (ADJP middle-income and lower-income) markets))))))))
+     .))
+( (S (NP-SBJ The merger)
+     (VP should
+         (ADVP also)
+	 (VP allow
+	     (S (NP-SBJ-1 the companies)
+		(VP to
+                    (VP reduce
+                        (NP costs)
+                        (PP-MNR by
+				(S-NOM (NP-SBJ *-1)
+				       (VP combining
+					   (NP (NP operations)
+					       (PP-LOC in
+						       (NP (NP many locations)
+							   (PP-LOC in
+								   (NP Puerto Rico)))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ They)
+	      (VP 're
+		  (ADVP-TMP often)
+		  (PP-LOC-PRD (ADVP right) 
+			      (PP across
+				  (NP the street))
+			      (PP from
+				  (NP one another))))) 
+     , ''
+     (NP-SBJ Mr. Thompson)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ (NP Richard Carrion)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (ADVP-TMP currently)
+                          (NP-PRD (NP (NP president)
+                                      and
+                                      (NP chief executive officer))
+                                  (PP of
+                                      (NP Banco Popular))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the merger)
+                  (VP will
+                      (VP result
+                          (PP-CLR in
+				  (NP a
+				      ``
+				      (ADJP larger
+					    and
+					    stronger)
+				      (ADJP locally based)
+				      bank)))))))
+     .
+     ''))
+( (S (NP-SBJ (NP Mr. Carrion)
+             ,
+             (SBAR (WHNP-1 who)
+		   (S (NP-SBJ *T*-1)
+		      (VP will
+			  (ADVP-TMP now)
+			  (VP serve
+			      (PP-CLR as
+				      (NP (NP (NP president)
+					      and
+					      (NP chief executive officer))
+					  (PP of
+					      (NP the subsidiary bank))))))))
+	     ,)
+     (VP added :
+	 ``
+	 (S (NP-SBJ-2 We)
+            (VP 'll
+                (VP be
+                    (ADJP-PRD able
+                              (S (NP-SBJ *-2)
+                                 (VP to
+                                     (VP (ADVP-MNR better)
+					 compete
+                                         (PP-CLR with
+						 (NP large foreign banks))))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP makes
+         (NP sense)
+	 (PP from
+	     (NP a strategic standpoint)))
+     . ''))
+( (S (NP-SBJ The
+             (ADJP newly merged)
+             company)
+     (VP will
+         (VP have
+             (NP (NP (NP 165 branches)
+                     (PP-LOC in
+			     (NP Puerto Rico)))
+                 and
+                 (NP (NP 27 branches)
+                     (ADVP-LOC outside
+			       (PP of
+				   (NP the island)))))))
+     .))
+( (S (NP-SBJ The banks)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP do n't
+                      (VP expect
+			  (S (NP-SBJ the merger)
+			     (VP to
+                                 (VP face
+                                     (NP any regulatory hurdles)))))))))
+     .))
+( (S (NP-SBJ Mr. Carrion)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the merger)
+                  (VP should
+		      (VP be
+			  (VP completed
+			      (NP *-1)
+			      (PP-TMP in
+				      (NP (QP six to nine)
+					  months))))))))
+     .))

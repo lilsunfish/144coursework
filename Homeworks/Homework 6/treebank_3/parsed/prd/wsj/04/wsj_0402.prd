@@ -1,0 +1,99 @@
+
+
+( (S (NP-SBJ Rymer Foods Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP authorized
+                      (NP (NP the purchase)
+                          (PP of
+			      (NP (NP (QP as many
+					  as
+					  500,000))
+				  (PP of
+				      (NP its common stock purchase warrants))))
+			  (PP at
+			      (NP (NP a price)
+				  (PP of
+				      (NP (NP $ 4 *U*)
+					  (NP-ADV a warrant))))))))))
+     .))
+( (S (NP-SBJ (NP The food company)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+                          (NP (NP (NP 720,000 warrants)
+                                  and
+                                  (NP (QP about 2.9 million) common shares))
+                              (ADJP outstanding)))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-3 it)
+                  (VP may
+                      (VP increase
+                          (NP the offer)
+			  (S-PRP (NP-SBJ *-3)
+				 (VP to
+				     (VP purchase
+					 (NP (NP any or all warrants)
+					     (SBAR (WHNP-2 that)
+						   (S (NP-SBJ *T*-2)
+						      (VP are
+							  (VP (ADVP-MNR properly)
+							      tendered)))))))))))))
+     .))
+( (S (NP-SBJ A warrant)
+     (VP permits
+         (S (NP-SBJ a holder)
+            (VP to
+                (VP acquire
+                    (NP (NP one share)
+                        (PP of
+                            (NP common stock)))
+                    (PP-CLR for
+			    (NP (NP $ 17.50 *U*)
+				(NP-ADV a share)))))))
+     .))
+( (S (NP-SBJ-1 The warrants)
+     (VP (VP expire
+	     (PP-TMP-CLR on
+			 (NP Oct. 15 , 1992)))
+	 , and
+	 (VP may
+	     (VP be
+		 (VP called
+		     (NP *-1)
+		     (PP by
+			 (NP-LGS the company))
+		     (PP-CLR at
+			     (NP (NP a price)
+				 (PP of
+				     (NP $ 5.25 *U*))))))))
+     .))
+( (S (NP-SBJ-1 The offer)
+     (VP is
+         (VP scheduled
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP expire
+                        (PP-TMP-CLR on
+				    (NP Nov. 28)))))
+	     ,
+	     (SBAR-ADV unless
+		       (S (NP-SBJ *-1)
+			  (VP extended)))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Rymer)
+     (VP closed
+	 (NP-TMP yesterday)
+         (PP-CLR at
+		 (NP $ 10.875 *U*))
+	 ,
+	 (ADVP down
+	       (NP 12.5 cents)))
+     .))

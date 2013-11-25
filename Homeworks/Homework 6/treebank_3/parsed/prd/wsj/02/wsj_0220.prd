@@ -1,0 +1,80 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Canada 's)
+		      gross domestic product)
+	      (VP rose
+		  (NP-EXT an inflation-adjusted 0.3 %)
+		  (PP-TMP in
+			  (NP August))
+		  ,
+		  (PP-PRP (ADVP mainly)
+			  as
+			  (NP (NP a result)
+			      (PP of
+				  (NP service-industry growth))))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The August GDP)
+     (VP was
+         (ADVP-PRD up
+		   (NP 2.4 %)
+		   (PP-DIR from
+			   (NP its year-earlier level))))
+     .))
+( (S (NP-SBJ GDP)
+     (VP is
+         (NP-PRD (NP the total value)
+		 (PP of
+		     (NP (NP (NP a nation 's)
+			     output)
+			 (PP of
+			     (NP goods
+				 and
+				 services))))))
+     .))
+( (S (NP-SBJ Statistics Canada)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP service-industry output)
+                          (PP-TMP in
+				  (NP August)))
+                  (VP rose
+                      (NP-EXT 0.4 %)
+                      (PP-DIR from
+			      (NP-TMP July))))))
+     .))
+( (S (NP-SBJ (NP Output)
+             (PP of
+                 (NP goods-producing industries)))
+     (VP increased
+         (NP-EXT 0.1 %))
+     .))
+( (S (ADVP Separately)
+     ,
+     (NP-SBJ Statistics Canada)
+     (VP reported
+         (SBAR that
+               (S (NP-SBJ its industrial-product price index)
+                  (VP dropped
+                      (NP-EXT 0.2 %)
+		      (PP-TMP in
+			      (NP September))
+		      ,
+		      (NP-ADV its third consecutive monthly decline)))))
+     .))
+( (S (NP-SBJ It)
+     (ADVP also)
+     (VP reported
+         (NP (NP a (ADJP 2.6 %) decline)
+             (PP-LOC in
+		     (NP its raw-materials price index))
+	     (PP for
+		 (NP September))))
+     .))

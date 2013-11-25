@@ -1,0 +1,32 @@
+
+
+( (S (NP-SBJ Sun Microsystems Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 Prime Computer Inc.)
+                  (VP has
+                      (VP agreed
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP resell
+                                     (NP (NP (QP as much as $ 200 million)
+					     *U* worth) 
+					 (PP of
+					     (NP (NP Sun 's)
+						 machines)))
+				     (PP-TMP over
+					     (NP the next two years))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The computers)
+	      (VP use
+		  (NP (NP (NP the company 's)
+			  own microprocessor)
+		      (VP called
+			  (S (NP-SBJ *)
+			     (NP-PRD Sparc))))))
+     ,
+     (NP-SBJ Sun)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

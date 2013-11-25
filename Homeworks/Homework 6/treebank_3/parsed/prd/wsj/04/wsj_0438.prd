@@ -1,0 +1,37 @@
+
+
+( (S (NP-SBJ Louisiana-Pacific Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP authorized
+                      (NP (NP the purchase)
+                          (PP of
+                              (NP (NP (QP as many as five million))
+                                  (PP of
+				      (NP its common shares))))
+                          (PP for
+                              (NP (NP employee stock plans)
+                                  and
+                                  (NP other general corporate purposes))))))))
+     .))
+( (S (NP-SBJ The forest-products concern)
+     (ADVP-TMP currently)
+     (VP has
+         (NP (NP (QP about 38 million) shares)
+	     (ADJP outstanding)))
+     .))
+( (S (PP-LOC In
+	     (NP (NP (NP yesterday 's)
+		     composite trading)
+		 (PP-LOC on
+			 (NP the New York Stock Exchange))))
+     ,
+     (NP-SBJ Louisiana-Pacific shares)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 39.25 *U*))
+         ,
+         (ADVP down
+               (NP 37.5 cents)))
+     .))

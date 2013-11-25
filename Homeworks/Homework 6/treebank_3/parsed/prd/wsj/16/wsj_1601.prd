@@ -1,0 +1,465 @@
+
+
+( (S (NP-SBJ (NP Short interest)
+	     (PP-LOC on
+		     (NP the New York Stock Exchange)))
+     (VP declined
+	 (PP-TMP for
+		 (NP the second consecutive month))
+	 ,
+	 (NP-TMP this time)
+	 (NP-EXT 4.2 %)
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ the American Stock Exchange)
+		      (VP reported
+			  (NP (NP its third consecutive record month)
+			      (PP of
+				  (NP short interest)))))))
+     .))
+( (S (NP-SBJ The Big Board)
+     (VP reported
+	 (SBAR that
+	       (S (NP-SBJ short interest)
+		  (VP dropped
+		      (PP-DIR to
+			      (NP 523,920,214 shares)
+			      (PP-TMP as
+				      (PP of
+					  (NP Oct. 13))))
+		      (PP-DIR from
+			      (NP 547,347,585 shares)
+			      (PP-TMP in
+				      (NP mid-September)))))))
+     .))
+( (S (NP-SBJ Amex short interest)
+     (VP climbed
+         (NP-EXT 3 %)
+         (PP-DIR to
+		 (NP 53,496,665 shares))
+	 (PP-DIR from
+		 (NP 51,911,566 shares)))
+     .))
+( (S (PP For
+	 (NP the year-earlier month))
+     ,
+     (NP-SBJ the Big Board)
+     (VP reported
+	 (NP 461,539,056 shares)
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP indicating
+		    (NP a (ADJP 13.5 %) year-to-year rise)))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ the Amex)
+		      (VP reported
+			  (NP (NP 36,015,194 shares)
+			      ,
+			      (NP a (ADJP 48 %) leap))))))
+     .))
+( (S (NP-SBJ Amex short interest)
+     (VP has
+	 (VP been
+	     (VP heading
+		 (ADVP-DIR upward)
+		 (PP-TMP since
+			 (NP mid-December))
+		 ,
+		 (PP with
+		     (NP (NP increases)
+			 (PP-TMP in
+				 (NP (NP each month)
+				     (PP-TMP since
+					     (ADVP then))
+				     (PP except 
+					 (PP-TMP at
+						 (NP mid-July))))))))))
+     .))
+( (S (NP-SBJ-2 (NP Traders)
+	       (SBAR (WHNP-1 who)
+		     (S (NP-SBJ *T*-1)
+			(VP sell
+			    (ADVP short)))))
+     (VP (VP borrow
+             (NP stock))
+         and
+         (VP sell
+             (NP it))
+	 ,
+	 (S-ADV (NP-SBJ *-2)
+		(VP betting
+		    (SBAR (SBAR that
+				(S (NP-SBJ (NP the stock 's)
+					   price)
+				   (VP will
+				       (VP decline))))
+			  and
+			  (SBAR that
+				(S (NP-SBJ they)
+				   (VP can
+				       (VP buy
+					   (NP the shares)
+					   (ADVP-CLR back)
+					   (ADVP-TMP later)
+					   (PP-CLR at
+						   (NP a lower price))
+					   (PP-CLR for 
+						   (NP (NP return)
+						       (PP to
+							   (NP the lender))))))))))))
+     .))
+( (S (NP-SBJ Short interest)
+     (VP is
+         (NP-PRD (NP the number)
+                 (PP of
+                     (NP shares))
+		 (SBAR (WHNP-2 that)
+		       (S (NP-SBJ-1 *T*-2)
+			  (VP have n't
+			      (ADVP yet)
+			      (VP been
+				  (VP purchased
+				      (NP *-1)
+				      (PP-CLR for
+					      (NP (NP return)
+						  (PP to
+						      (NP lenders)))))))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ a substantial short position)
+		  (VP reflects
+		      (NP heavy speculation
+			  (SBAR that
+				(S (NP-SBJ (NP a stock 's)
+					   price)
+				   (VP will
+				       (VP decline))))))))
+     ,
+     (NP-SBJ some investors)
+     (VP consider
+	 (S (NP-SBJ (NP an increase)
+		    (PP-LOC in
+			    (NP short interest)))
+	    (ADJP-PRD bullish))
+	 (SBAR-PRP because
+		   (S (NP-SBJ-1 the borrowed shares)
+		      (ADVP-TMP eventually)
+		      (VP must
+			  (VP be
+			      (VP bought
+				  (NP *-1)
+				  (ADVP-CLR back)))))))
+     .))
+( (S (NP-SBJ-1 (NP Fluctuation)
+               (PP in
+                   (NP (NP short interest)
+                       (PP of
+                           (NP certain stocks)))))
+     (ADVP also)
+     (VP may
+	 (VP be
+	     (VP caused
+		 (NP *-1)
+		 (ADVP partly)
+		 (PP by
+		     (NP-LGS arbitraging)))))
+     .))
+( (S (NP-SBJ The figures)
+     (ADVP-TMP occasionally)
+     (VP include
+         (NP (NP incomplete transactions)
+             (PP in
+                 (NP restricted stock))))
+     .))
+( (S (NP-SBJ (NP The level)
+	     (PP of
+		 (NP negative sentiment))
+             (VP measured
+                 (NP *)
+                 (PP by
+                     (NP-LGS (NP the Big Board)
+                             short interest ratio))))
+     (VP slipped
+         (PP-DIR to
+		 (NP 3.36))
+	 (PP-DIR from
+		 (NP (NP last month 's) 
+		     3.38)))
+     .))
+( (S (NP-SBJ The ratio)
+     (VP is
+         (NP-PRD (NP the number)
+		 (PP of
+		     (NP trading days))
+		 ,
+		 (PP at
+		     (NP (NP the exchange 's)
+			 average trading volume))
+		 ,
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ-2 *T*-1)
+                          (VP would
+			      (VP be
+				  (VP required
+				      (NP *-2)
+				      (S-PRP (NP-SBJ *)
+					     (VP to
+						 (VP convert
+						     (NP the total short interest position)))))))))))
+     .))
+( (S (NP-SBJ Some analysts)
+     (VP suggest
+	 ,
+         (ADVP however)
+         ,
+         (SBAR that
+               (S (NP-SBJ the ratio)
+		  (VP has
+		      (VP weakened
+			  (PP in
+			      (NP (NP value)
+				  (PP as
+				      (NP an indicator))))
+			  (SBAR-PRP because
+				    (S (NP-SBJ-1 (NP options)
+						 and
+						 (NP other products))
+				       (VP can
+					   (VP be
+					       (VP used
+						   (NP *-1)
+						   (S-CLR (NP-SBJ *)
+							  (VP to
+							      (VP hedge
+								  (NP short positions))))))))))))))
+     .))
+( (S (NP-SBJ Varity Corp.)
+     (VP led
+         (NP (NP the Big Board list)
+             (PP of
+                 (NP largest short volumes)))
+         (PP-MNR with
+		 (NP 12,822,563 shares)))
+     .))
+( (S (NP-SBJ-1 Varity)
+     (VP has
+         (VP proposed
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP acquire
+                        (NP (NP K-H Corp.)
+                            ,
+                            (VP consisting
+                                (PP-CLR of
+					(NP (NP the auto parts division)
+					    and
+					    (NP (NP some debt)
+						(PP of
+						    (NP Fruehauf Corp.))))))
+                            ,)
+                        (PP-CLR for
+				(NP (NP (QP $ 577.3 million) *U*)
+				    (PP of
+					(NP cash and securities)))))))))
+     .))
+( (S (NP-SBJ Chemical Waste Management)
+     (VP posted
+         (NP (NP the biggest increase)
+             (PP in
+                 (NP short volume))
+             (PP-LOC on
+		     (NP the New York exchange)))
+	 ,
+	 (ADVP up
+	       (NP 3,383,477 shares)
+	       (PP to
+		   (NP 5,267,238))))
+     .))
+( (S (NP-SBJ (NP Bristol-Myers Squibb Co.)
+             ,
+             (NP (NP the entity)
+                 (VP formed
+                     (NP *)
+                     (PP-CLR from
+			     (NP (NP the recent acquisition)
+				 (PP of
+				     (NP Squibb Corp.))
+				 (PP by
+				     (NP Bristol-Myers Co.))))))
+             ,)
+     (VP logged
+         (NP (NP the largest volume decline)
+	     ,
+	     (NP 7,592,988 shares)
+             ,
+             (PP to
+                 (NP 12,017,724))))
+     .))
+( (S (NP-SBJ (NP Short interest)
+             (PP in
+                 (NP International Business Machines Corp.)))
+     (VP plunged
+         (PP-DIR to
+		 (NP 1,425,035 shares))
+	 (PP-DIR from
+		 (NP 2,387,226 shares)
+		 (ADVP-TMP (NP a month)
+			   earlier)))
+     .))
+( (SINV (ADVP Also)
+	(VP-TPC-2 (ADVP-MNR closely)
+		  watched
+		  (NP *-1))
+	(VP is
+	    (VP *T*-2))
+	(NP-SBJ-1 (NP Exxon Corp.)
+		  ,
+		  (SBAR (WHADVP-3 where)
+			(S (NP-SBJ short interest)
+			   (VP slid
+			       (PP-DIR to
+				       (NP 4,469,167 shares))
+			       (PP-DIR from
+				       (NP 5,088,774))
+			       (ADVP-LOC *T*-3)))))
+	.))
+( (S (PP On
+         (NP a percentage basis))
+     ,
+     (NP-SBJ-1 Germany Fund Inc.)
+     (VP led
+	 (NP the gainers)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP leaping
+		    (PP-DIR to
+			    (NP 67,972 shares))
+		    (PP-DIR from
+			    (NP three shares)))))
+     .))
+( (S (NP-SBJ-1 TransCanada PipeLines Ltd.)
+     (VP led
+         (NP the percentage decliners)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP dropping
+		    (PP-DIR to
+			    (NP 59 shares))
+		    (PP-DIR from
+			    (NP 183,467)))))
+     .))
+( (S (NP-SBJ The Amex short interest volume leader)
+     (ADVP again)
+     (VP was
+         (NP-PRD-1 Texas Air Corp.)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP rising
+		    (PP-DIR to
+			    (NP 3,820,634 shares))
+		    (PP-DIR from
+			    (NP 3,363,949)))))
+     .))
+( (S (NP-SBJ Bolar Pharmaceutical Co.)
+     (VP posted
+         (NP (NP the largest volume increase)
+	     ,
+	     (NP 552,302 shares)
+	     ,
+             (PP to
+                 (NP 2,157,656))))
+     .))
+( (S (NP-SBJ The company)
+     (VP is
+         (PP-LOC-PRD under
+		     (NP (NP an investigation)
+			 (VP concerning
+			     (NP (NP procedures)
+				 (SBAR (WHADVP-1 0)
+				       (S (NP-SBJ *)
+					  (VP to
+					      (VP gain
+						  (NP (NP Food and Drug Administration approval)
+						      (PP of
+							  (NP generic drugs)))
+						  (ADVP-MNR *T*-1))))))))))
+     .))
+( (S (NP-SBJ Bolar)
+     (VP has
+         (VP denied
+             (NP any wrongdoing)))
+     .))
+( (S (NP-SBJ (NP The largest volume drop)
+             --
+             (ADVP down
+                   (NP 445,645 shares)
+                   (PP to
+                       (NP 141,903)))
+             --)
+     (VP came
+         (PP-LOC in
+		 (NP (NP shares)
+		     (VP represented
+			 (NP *)
+			 (PP by
+			     (NP-LGS (NP B.A.T Industries PLC 's)
+				     American depositary receipts))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP is
+         (VP facing
+             (NP (NP a takeover proposal)
+		 (PP from
+		     (NP (NP the financier) 
+			 (NP Sir James Goldsmith))))))
+     .))
+( (S (NP-SBJ-1 First Iberian Fund)
+     (VP led
+         (NP the percentage increases)
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP rising
+		    (PP-DIR to
+			    (NP 73,100 shares))
+		    (PP-DIR from
+			    (NP 184)))))
+     .))
+( (S (NP-SBJ Nelson Holdings International Ltd.)
+     (VP dropped
+         (NP-ADV (NP the most)
+		 (PP on
+		     (NP a percentage basis)))
+	 ,
+         (PP-DIR to
+		 (NP 1,000 shares))
+	 (PP-DIR from
+		 (NP 255,923)))
+     .))
+( (S (NP-SBJ The adjacent tables)
+     (VP show
+         (NP (NP the Big Board and Amex issues)
+             (SBAR (SBAR (WHPP-1 in
+				 (WHNP which))
+                         (S (NP-SBJ (NP a short interest position)
+                                    (PP of
+                                        (NP (QP at least 100,000)
+					    shares)))
+                            (VP existed
+                                (PP-TMP as
+					(PP of
+					    (NP mid-October)))
+				(PP-LOC *T*-1))))
+                   or
+                   (SBAR (WHPP-2 in
+				 (WHNP which))
+                         (S (NP-SBJ there)
+                            (VP was
+                                (NP-PRD (NP a short position change)
+                                        (PP of
+                                            (NP (QP at least 50,000)
+						shares)))
+				(PP-TMP since
+					(NP mid-September))
+				(PP-LOC *T*-2)))))))
+     .))

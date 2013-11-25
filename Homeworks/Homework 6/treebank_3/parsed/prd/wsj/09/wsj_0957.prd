@@ -1,0 +1,125 @@
+
+
+( (FRAG (S-ADV (NP-SBJ *)
+	       (VP Regarding
+		   (NP (NP your Sept. 28
+			   Politics & Policy
+			   column)
+		       (PP on
+			   (NP (NP the party differences)
+			       (PP over
+				   (S-NOM (NP-SBJ *)
+					  (VP (VP cutting
+						  (NP capital gains))
+					      or
+					      (VP expanding
+						  (NP IRAs))))))))))
+	:
+	(FRAG (WHADVP Why not)
+	      (VP (VP compromise
+		      (ADVP-TMP now))
+		  and
+		  (VP save
+		      (NP the public)
+		      (PP-CLR from
+			      (NP (NP the coming infantile congressional political rhetoric)
+				  (SBAR (WHNP-1 that)
+					(S (NP-SBJ-2 *T*-1)
+					   (VP seems
+					       (S (NP-SBJ *-2)
+						  (VP to
+						      (VP go 
+							  (NP-MNR-CLR (NP hand)
+								      (PP in
+									  (NP hand)))
+							  (PP-CLR with
+								  (NP the process)))))))))))))
+	?))
+( (S (NP-SBJ The Republicans)
+     (VP maintain
+         (SBAR that
+               (S (NP-SBJ a (ADJP 30 %) capital-gains exclusion)
+                  (VP will
+                      (VP (VP raise
+                              (NP revenue)
+                              (PP-TMP in
+				      (NP the short term)))
+                          and
+                          (VP spur
+                              (NP economic investment))))))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ the Democrats)
+		      (VP maintain
+			  (SBAR that
+				(S (NP-SBJ (NP (NP an increase)
+					       (PP-LOC in
+						       (NP the top income-tax rate)))
+					   and
+					   (NP expanded IRAs))
+				   (VP will
+				       (VP (VP raise
+					       (NP revenue))
+					   and
+					   (VP spur
+					       (NP savings))))))))))
+     .))
+( (S (NP-SBJ This)
+     (VP is
+         (NP-PRD (NP a classic example)
+		 (PP of
+		     (NP (NP the old saying)
+			 ,
+			 `` 
+			 (S (NP-SBJ The whole)
+			    (VP is
+				(ADJP-PRD (ADJP greater)
+					  (PP than
+					      (NP (NP the sum)
+						  (PP of
+						      (NP its parts)))))))))))
+     . ''))
+( (S (NP-SBJ (NP It)
+             (SBAR *EXP*-2))
+     (VP 's
+         (ADJP-PRD ridiculous)
+	 (SBAR-2 for
+		 (S (NP-SBJ (NP a family)
+			    (PP with
+				(NP (NP taxable income)
+				    (PP of
+					(NP $ 50,000 *U*)))))
+		    (VP to
+			(VP pay
+			    (NP the same
+				(ADJP 28 %)
+				incremental tax rate)
+			    (PP as
+				(NP (NP a family)
+				    (PP with
+					(NP (NP taxable income)
+					    (PP of
+						(NP $ 250,000 *U*)))))))))))
+     .))
+( (S (NP-SBJ The (ADJP 33 %) bracket)
+     (VP should
+         (VP apply
+             (PP-CLR to
+		     (NP (NP (NP all income)
+			     (PP-LOC over
+				     (NP the applicable level)))
+			 ,
+			 not
+			 (NP just the (ADJP 5 %) rate adjustment amount)))))
+     .))
+( (S (NP-SBJ (NP It)
+             (S *EXP*-2))
+     (VP 's
+         (ADJP-PRD equally ridiculous)
+	 (S-2 (NP-SBJ *)
+	      not
+	      (VP to
+		  (VP provide
+		      (NP a (UCP capital investment or retirement-savings) tax incentive)))))
+     .))
+( (NP Jeffrey T. Schmidlin)) 

@@ -1,0 +1,384 @@
+
+
+( (SBARQ (WHADVP-1 Where)
+         (SQ do
+             (NP-SBJ Americans)
+             (VP put
+                 (NP their money)
+		 (ADVP-PUT *T*-1)))
+         ?))
+( (S (NP-SBJ It)
+     (VP depends
+         (PP-CLR on
+		 (SBAR-NOM (WHADVP-1 when)
+			   (S (NP-SBJ you)
+			      (VP look
+				  (ADVP-TMP *T*-1))))))
+     .))
+( (S (PP-TMP In
+	     (NP 1900))
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (NP-SBJ (NP (QP less than 8)
+		 %)
+	     (PP of
+		 (NP assets)))
+     (VP went
+         (PP-DIR into
+		 (NP bank deposits)))
+     .))
+( (S (NP-SBJ That)
+     (VP (VP rose
+	     (PP-DIR to
+		     (NP (QP nearly 18) %))
+	     (PP-TMP during
+		     (NP the Depression)))
+	 , 
+	 and
+	 (VP has n't
+	     (VP changed
+		 (ADVP-CLR much)
+		 (ADVP-TMP since))))
+     .))
+( (S (NP-SBJ Pension reserves)
+     ,
+     (PP on
+         (NP the other hand))
+     ,
+     (VP made 
+	 (PRT up)
+         (NP (NP a (ADJP relatively small) part)
+             (PP of
+                 (NP household assets)))
+	 (PP-TMP until
+		 (NP (NP the last decade)
+		     ,
+		     (SBAR (WHADVP-1 when)
+			   (S (NP-SBJ they)
+			      (VP skyrocketed
+				  (ADVP-TMP *T*-1)))))))
+     .))
+( (S And
+     (NP-SBJ there)
+     (VP (VP has
+	     (VP been
+		 (NP-PRD (NP a drastic decline)
+			 (PP-LOC in
+				 (NP (NP the importance)
+				     (PP of
+					 (NP unincorporated business assets)))))))
+	 --
+	 (NP-ADV (NP thanks)
+		 (PP to
+		     (NP (NP industry consolidation)
+			 and
+			 (NP (NP a decline)
+			     (PP-LOC in
+				     (NP family farms)))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD (NP some)
+                 (PP of
+		     (SBAR-NOM (WHNP-1 what)
+			       (S (NP-SBJ *T*-1)
+				  (VP emerges
+				      (PP-DIR from
+					      (NP (NP the following charts)
+						  ,
+						  (SBAR (WHNP-2 which)
+							(S (NP-SBJ *T*-2)
+							   (VP show
+							       (SBAR-NOM (WHADVP-3 how)
+									 (S (NP-SBJ Americans)
+									    (VP have
+										(VP changed
+										    (NP their investment patterns)
+										    (PP-TMP over
+											    (NP the past 90 years))
+										    (ADVP-MNR *T*-3))))))))))))))))
+     .))
+( (S (NP-SBJ Some results)
+     (VP are
+         (ADJP-PRD self-explanatory))
+     .))
+( (S But
+     (NP-SBJ other figures)
+     (VP are
+         (ADJP-PRD surprising))
+     .))
+( (S (NP-SBJ Housing)
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (VP has
+         (VP remained
+             (NP-PRD (NP a (ADJP fairly steady) component)
+                     (PP of
+                         (NP household assets)))
+	     (PP-TMP over
+		     (NP the past decade))
+	     --
+	     (SBAR-ADV although
+		       (S (NP-SBJ common wisdom)
+			  (VP would
+			      (VP have
+				  (VP expected
+				      (NP an increase))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ There)
+		 (VP is
+		     (NP-PRD (NP a lot)
+			     (PP of
+				 (NP attention))
+			     (VP paid
+				 (NP *)
+				 (PP-CLR to
+					 (NP (NP housing)
+					     (PP as
+						 (NP (NP a form)
+						     (PP of
+							 (NP household wealth))))))))))
+	, 
+	''
+	(VP says
+	    (S *T*-1))
+	(NP-SBJ (NP Edward N. Wolff)
+		,
+		(NP (NP professor)
+		    (PP of
+			(NP economics))
+		    (PP-LOC at
+			    (NP New York University))))
+	.))
+( (S `` 
+     But
+     (NP-SBJ it)
+     (VP has n't
+         (VP increased
+             (ADVP much)
+             (ADVP relative
+		   (PP to
+		       (NP other assets)))))
+     .))
+( (S (NP-SBJ It)
+     (VP suggests
+         (SBAR that
+               (S (NP-SBJ households)
+                  (VP accumulate
+                      (NP wealth)
+                      (PP across
+                          (NP (NP a broad spectrum)
+                              (PP of
+                                  (NP assets))))))))
+     .))
+( (S And
+     (NP-SBJ housing)
+     (SBAR-ADV though
+	       (S (NP-SBJ-1 it)
+		  (VP appears
+		      (PP-LOC in
+			      (NP the popular mind))
+		      (PP-CLR as
+			      (S-NOM (NP-SBJ *-1)
+				     (VP being
+					 (NP-PRD the major 
+						 (PRN -LCB- 
+						      growing 
+						      -RCB-) 
+						 household asset)))))))
+     ,
+     (VP is n't 
+	 (NP-PRD *?*))
+     . 
+     ''))
+( (S (S (PP In
+            (NP addition))
+        ,
+        (NP-SBJ-1 (NP investors ')
+		  desire
+		  (S (NP-SBJ *)
+		     (VP to
+			 (VP hold
+			     (NP stocks)
+			     (PRN --
+				  (UCP (ADVP-MNR directly)
+				       and
+				       (PP through
+					   (NP mutual funds)))
+				  --)))))
+        (VP has
+            (VP held
+                (S-CLR (NP-SBJ *-1)
+		       (ADJP-PRD surprisingly steady)))))
+     ;
+     (S (NP-SBJ (NP (NP stocks ')
+		    importance)
+                (PP-LOC among
+			(NP assets)))
+        (VP (ADVP largely)
+            reflects
+            (NP (NP (NP the ups and downs)
+                    (PP of
+                        (NP the stock market)))
+                , 
+		and
+		not
+		(NP (NP a shift)
+                    (PP-LOC in
+			    (NP stock-holding preferences))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ Stocks)
+		 (VP have not
+		     (VP spread
+			 (PP-DIR to
+				 (NP the general public))
+			 ,
+			 (PP despite
+			     (NP the fact
+				 (SBAR that
+				       (S (NP-SBJ the environment)
+					  (VP is
+					      (ADJP-PRD much different)))))))))
+	,
+	''
+	(VP concludes
+	    (S *T*-1))
+	(NP-SBJ (NP Robert Avery)
+		,
+		(NP (NP an economist)
+		    (PP-LOC at
+			    (NP Cornell University))))
+	.))
+( (S ``
+     (PP-TPC-1 To
+	       (NP me))
+     (NP-SBJ it)
+     (VP says
+	 (PP *T*-1)
+	 (SBAR that
+	       (S (PP despite
+		      (NP all the views
+			  (SBAR that
+				(S (NP-SBJ we)
+				   (VP spend
+				       (NP (NP too much)
+					   (PP of
+					       (NP our wealth)))
+				       (PP-CLR on
+					       (NP paper assets)))))))
+		  ,
+		  (NP-SBJ we)
+		  (VP have
+		      (NP (NP ways)
+			  (PP of
+			      (S-NOM (NP-SBJ *)
+				     (VP holding
+					 (NP wealth))))
+			  (ADJP similar
+				(PP to
+				    (ADVP-TMP (NP 100 years)
+					      ago))))))))
+     . 
+     ''))
+( (S --
+     (NP-SBJ The charts)
+     (VP show
+	 (SBAR-NOM (WHADVP-2 how)
+		   (S (NP-SBJ-1 househld assets)
+		      (VP have
+			  (VP been
+			      (VP distributed
+				  (NP *-1)
+				  (ADVP-MNR *T*-2)
+				  (PP-TMP over
+					  (NP time))))))))
+     .))
+( (NP (NP (NP The main components)
+          (PP of
+              (NP the various asseet categories)))
+      :
+      (NP (NP Housing)
+          :
+          (NP (NP Primary home)
+              , 
+	      but
+              not
+	      (NP (NP the land)
+                  (SBAR (WHNP-1 0)
+                        (S (NP-SBJ it)
+                           (VP 's
+                               (PP-LOC-PRD on
+					   (NP *T*-1))))))))
+      .))
+( (NP (NP (NP Land)
+          and
+          (NP Other Real Estate))
+      :
+      (NP (NP (NP Land)
+              (SBAR (WHPP-2 on
+			    (WHNP which))
+                    (S (NP-SBJ-1 primary home)
+                       (VP is
+                           (VP built
+                               (NP *-1)
+			       (PP-LOC *T*-2))))))
+          ,
+          (NP investment property))
+      .))
+( (NP (NP Consumer Durables)
+      :
+      (NP Automobiles
+          ,
+          appliances
+          ,
+          furniture)
+      .))
+( (NP (NP Bank Deposits)
+      :
+      (NP (NP Currency)
+          ,
+          (NP checking-account deposits)
+          ,
+          (NP small savings and time deposits)
+          ,
+          (NP (NP certificates)
+              (PP of
+                  (NP deposits)))
+          ,
+          (NP money-market fund shares))
+      .))
+( (NP (NP Bonds)
+      :
+      (S (NP-SBJ *)
+         (VP Excludes
+             (NP bond funds)))
+      .))
+( (NP (NP Stocks/Mutual Funds)
+      :
+      (NP (NP Stocks)
+          and
+          (NP (NP mutual funds)
+              (ADJP other
+                    (PP than
+                        (NP money-market funds)))))
+      .))
+( (NP (NP Unincorporated Business)
+      :
+      (NP (NP (NP Partnerships)
+              and
+              (NP sole proprietorships))
+          ,
+          (NP professional corporations))
+      .))
+( (NP (NP Pension Reserves)
+      :
+      (NP (NP Holdings)
+          (PP by
+              (NP pension funds)))
+      .))

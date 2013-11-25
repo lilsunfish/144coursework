@@ -1,0 +1,1346 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (WHNP What
+	?
+	E_S))
+( (SQ Do
+      (NP-SBJ-1 you)
+      (VP want
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP start))))
+      ?
+      E_S))
+( (CODE SpeakerB2 .))
+( (S (INTJ Uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ you)
+		(VP-UNF hit))
+	     ,
+	     (IP +))
+     (NP-SBJ you)
+     (VP-UNF hit
+	     ,
+	     (RS ])
+	     (INTJ uh))
+     ,
+     N_S))
+( (S (NP-SBJ it)
+     (VP does
+	 n't
+	 (VP matter))
+     .
+     E_S))
+( (S (S-TPC-1 (INTJ Um)
+	      ,
+	      (NP-SBJ we)
+	      (VP 're
+		  (VP discussing
+		      (NP the capital punishment))))
+     ,
+     (NP-SBJ I)
+     (VP believe
+	 (SBAR 0
+	       (S *T*-1)))
+     .
+     E_S))
+( (CODE SpeakerA3 .))
+( (INTJ Right
+	.
+	E_S))
+( (S (NP-SBJ You)
+     (VP are
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP suppose
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP should
+		      (VP have
+			  (VP *?*))))))
+     ,
+     E_S))
+( (CODE SpeakerB4 .))
+( (S-UNF (INTJ Uh)
+	 ,
+	 (SBAR-UNF (WHNP which))
+	 N_S))
+( (S (NP-SBJ I)
+     (EDITED (RM [)
+	     (VP-UNF am)
+	     ,
+	     (IP +))
+     (VP am
+	 (RS ])
+	 (ADJP-PRD pro 
+		   (NP capital punishment))
+	 (PP except 
+	     (SBAR that
+		   (S (NP-SBJ I)
+		      (VP do
+			  n't
+			  (VP like
+			      (NP (NP the way)
+				  (SBAR (WHADVP-2 0)
+					(S (NP-SBJ-1 it)
+					   (VP 's
+					       (VP done
+						   (NP *-1)
+						   (ADVP-MNR *T*-2))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA5 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ yeah)
+	,
+	E_S))
+( (S (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (RS ])
+     (VP guess
+	 (SBAR 0
+	       ,
+	       (S (EDITED (RM [)
+			  (NP-SBJ I)
+			  ,
+			  (IP +))
+		  (NP-SBJ-1 I)
+		  (RS ])
+		  (VP hate
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP see
+				 (S (NP-SBJ anyone)
+				    (VP die))))))))
+	 ,
+	 (INTJ uh))
+     E_S))
+( (CODE SpeakerB6 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA7 .))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-TPC (NP these people)
+			  (SBAR (WHNP-1 that)
+				(S (NP-SBJ *T*-1)
+				   (VP (VP go
+					   (ADVP-DIR around))
+				       (EDITED (RM [)
+					       and
+					       ,
+					       (IP +))
+				       and
+				       (RS ])
+				       (VP kill
+					   (NP children and women)
+					   (PP *ICH*-4))
+				       and
+				       (NP-ETC (NP everything)
+					       (ADVP else))
+				       (PP-4 without
+					     (NP any remorse))))))
+		  ,
+		  (INTJ uh)
+		  ,
+		  (NP-SBJ I)
+		  (VP do
+		      n't
+		      (VP think
+			  (SBAR 0
+				(S (NP-SBJ-2 they)
+				   (VP deserve
+				       (S (NP-SBJ-3 *-2)
+					  (EDITED (RM [)
+						  (VP-UNF to)
+						  ,
+						  (IP +))
+					  (VP to
+					      (RS ])
+					      (VP (VP live)
+						  and
+						  (VP be
+						      (VP supported
+							  (NP *-3)
+							  (PP by
+							      (NP-LGS us))
+							  (NP-TMP (NP the rest)
+								  (PP of
+								      (NP their lives))))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB8 .))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP agree)
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP-UNF 'm)
+     ,
+     (RS ])
+     N_S))
+(  (S (NP-SBJ-UNF capital)
+      N_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (NP-SBJ-UNF the)
+     ,
+     (RS ])
+     N_S))
+( (S (NP-SBJ capital punishment)
+     (VP is
+	 (ADJP-PRD necessary)
+	 (EDITED (RM [)
+		 (PP-LOC-UNF in)
+		 ,
+		 (IP +))
+	 (PP-LOC in
+		 (RS ])
+		 (NP many cases)))
+     E_S))
+( (S-UNF but
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP-SBJ-UNF the)
+	 ,
+	 N_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 not
+	 (NP-PRD a deterrent)
+	 ,
+	 (INTJ um))
+     ,))
+( (S or
+     (NP-SBJ our jails)
+     (VP would
+	 not
+	 (VP be
+	     (ADJP-PRD so full)))
+     .
+     E_S))
+( (S (NP-SBJ There)
+     (VP would
+	 n't
+	 (VP be
+	     (NP-PRD (NP (ADJP so many) 
+			 people)
+		     (PP-LOC in
+			     (NP Death Row)))))
+     .
+     E_S))
+( (CODE SpeakerA9 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB10 .))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-1 it)
+		  (VP needs
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP be
+				 (NP-PRD (NP something)
+					 ,
+					 (INTJ uh)
+					 ,
+					 (INTJ uh)
+					 ,
+					 (NP (NP a throwback)
+					     (PP to
+						 (SBAR (WHADVP-3 where)
+						       (S (NP-SBJ they)
+							  (VP did
+							      (NP (NP a
+								      ,
+								      (INTJ uh)
+								      ,
+								      public execution)
+								  (SBAR (WHADVP-2 where)
+									(S (NP-SBJ it)
+									   (VP 's
+									       (ADJP-PRD visible)
+									       (ADVP-LOC *T*-2)))))
+							      (ADVP *T*-3))))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB12 .))
+( (FRAG (INTJ Uh)
+	,
+	(NP (NP (NP something)
+		(PRN ,
+		     (S (NP-SBJ you)
+			(VP know))
+		     ,)
+		(ADJP not gruesome))
+	    E_S
+	    (EDITED (RM [)
+		    but
+		    ,
+		    (IP +))
+	    but
+	    (RS ])
+	    (NP (NP something)
+		(SBAR (ADVP more)
+		      (WHADVP-1 where)
+		      (S (NP-SBJ people)
+			 (VP know
+			     (SBAR that
+				   (S (S (EDITED (RM [)
+						 (NP-SBJ it)
+						 ,
+						 (IP +))
+					 (NP-SBJ it)
+					 (RS ])
+					 (VP was
+					     (NP-PRD a deterrent)))
+				      and
+				      (NP-SBJ it)
+				      (VP was
+					  (ADJP-PRD equal
+						    (PP for
+							(NP all people))))))
+			     (ADVP *T*-1))))))
+	.
+	E_S))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ you)
+		  (VP committed
+		      (NP a certain crime))))
+     ,
+     (NP-SBJ-1 you)
+     (VP were
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP receive
+			(NP a death penalty))))))
+     E_S))
+( (S and
+     (NP-SBJ-1 it)
+     (VP was
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP happen
+			(PP to
+			    (NP you)))))))
+     .
+     E_S))
+( (CODE SpeakerA13 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB14 .))
+( (NP (NP No stays)
+      (PP of
+	  (NP execution))
+      .
+      E_S))
+( (NP (EDITED (RM [)
+	      (NP-UNF No)
+	      ,
+	      (IP +))
+      no
+      (RS ])
+      loopholes
+      ,
+      E_S))
+( (NP-UNF no
+	  ,
+	  N_S))
+( (CODE SpeakerA15 .))
+( (S (INTJ Well)
+     ,
+     and
+     (EDITED (RM [)
+	     (ADVP even)
+	     ,
+	     (IP +))
+     (ADVP even)
+     (RS ])
+     (NP-TPC that)
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (ADVP really)
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ that)
+		      (VP would
+			  (VP help))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ (NP a lot)
+			  (PP of
+			      (NP these people)))
+		  (VP do
+		      (NP it)
+		      ,
+		      (INTJ uh)
+		      ,
+		      (PP-PRP (ADVP mainly)
+			      because
+			      (EDITED of)
+			      ,
+			      of
+			      (NP T V))))))
+     E_S))
+( (S-UNF and
+	 ,
+	 (X a-)
+	 ,
+	 N_S))
+( (CODE SpeakerB16 .))
+( (NP Notoriety
+      .
+      E_S))
+( (CODE SpeakerA17 .))
+( (FRAG (NP the double reason)
+	(RM [)
+	(X ma-)
+	,
+	(IP +)
+	(RS ])))
+( (S (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP see
+	 (S (NP-SBJ-1 it)
+	    (VP being
+		(VP done
+		    (NP *-1)
+		    (PP-LOC on
+			    (NP T V))))))))
+( (FRAG and
+	(ADVP also)
+	(NP (NP the fact)
+	    (EDITED (RM [)
+		    (PP-UNF of)
+		    ,
+		    (IP +))
+	    (PP of
+		(RS ])
+		(NP notoriety)))
+	.
+	E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ they)
+     (VP become
+	 (ADJP-PRD well known))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP are
+	 (ADVP almost)
+	 (EDITED (RM [)
+		 (PP-PRD-UNF like)
+		 ,
+		 (IP +))
+	 (PP-PRD like
+		 (RS ])
+		 (NP a big star)))
+     .
+     E_S))
+( (CODE SpeakerB18 .))
+( (INTJ (EDITED (RM [)
+		(INTJ-UNF Ye-)
+		,
+		(IP +))
+	yes
+	,
+	(RS ])
+	E_S))
+( (S (EDITED (RM [)
+	     but
+	     ,
+	     (IP +))
+     but
+     (RS ])
+     (EDITED (RM [)
+	     (NP-SBJ they)
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (RS ])
+     (VP know
+	 (SBAR that
+	       (S (NP-SBJ (NP their chances)
+			  (PP of
+			      (S-NOM (NP-SBJ *)
+				     (ADVP actually)
+				     (VP receiving
+					 (NP the death penalty)))))
+		  (VP are
+		      (ADJP-PRD minimal)))))
+     .
+     E_S))
+( (CODE SpeakerA19 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB20 .))
+( (S (NP-SBJ They)
+     (VP know
+	 (SBAR that
+	       (S (NP-SBJ they)
+		  (VP will
+		      (ADVP probably)
+		      (VP be
+			  (ADVP-PRD out)
+			  (PP-TMP in
+				  (NP (QP ten to twelve) 
+				      years)))))))
+     .
+     E_S))
+( (CODE SpeakerA21 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB22 .))
+( (SBAR That
+	(S (NP-SBJ-1 they)
+	   (VP are
+	       (VP going
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  (VP write
+			      (NP a book)))))))
+	.
+	E_S))
+( (S (NP-SBJ-1 They)
+     (VP are
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP go
+			(PP on
+			    (NP talk shows)))))))
+     E_S))
+( (S (NP-SBJ they)
+     (VP 're
+	 (VP-UNF goin-))
+     ,
+     N_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ that)
+		     ,
+		     (IP +))
+	     (NP-SBJ that)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP (NP a reward)
+		     (INTJ uh)
+		     ,
+		     (PP for
+			 (NP a heinous crime)))
+		 (CONJP rather than)
+		 ,
+		 (INTJ uh)
+		 ,
+		 (S-NOM (NP-SBJ *)
+			(VP having
+			    (S (NP-SBJ them)
+			       (VP pay
+				   (NP (NP the penalty)
+				       (SBAR (WHNP-1 which)
+					     (S (NP-SBJ *T*-1)
+						(VP is
+						    (NP-PRD (NP forfeiture)
+							    (PP of
+								(NP their life)))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA23 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB24 .))
+( (CODE SpeakerA25 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB26 .))
+( (FRAG (EDITED (RM [)
+		(PP-UNF In)
+		,
+		(IP +))
+	(PP in
+	    (RS ])
+	    (NP-UNF complete
+		    ,
+		    (INTJ uh)))
+	,
+	N_S))
+( (X MUMBLEx
+     (PP of
+	 (NP any notoriety))
+     .
+     N_S))
+( (CODE SpeakerA27 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP think
+	 (SBAR 0
+	       (S-UNF (SBAR-ADV if
+				(S (NP-SBJ they)
+				   (VP went
+				       (PP according 
+					   (PP to
+					       ,
+					       (INTJ uh)
+					       ,
+					       (NP-TTL (NP the BIBLE)
+						       (SBAR (WHADVP-1 where)
+							     (S (NP-SBJ it)
+								(VP does
+								    (VP say
+									,
+									(FRAG (NP (NP an eye)
+										  (PP for
+										      (NP an eye)))
+									      ,
+									      (NP (NP a tooth)
+										  (PP for
+										      (NP a tooth)))
+									      ,
+									      (NP (NP a life)
+										  (PP for
+										      (NP a life))))
+									(ADVP-LOC *T*-1))))))))))))))
+     ,
+     E_S))
+( (CODE SpeakerB28 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA29 .))
+( (CODE SpeakerB30 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (S (S-ADV (INTJ uh)
+	    ,
+	    (NP-SBJ you)
+	    (VP take
+		(NP a life)))
+     (NP-SBJ you)
+     (VP give
+	 (NP yours))
+     .
+     E_S))
+( (CODE SpeakerB32 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerA33 .))
+( (S (INTJ Uh)
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (PP-PRD for
+		 (ADJP sure)))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP exceptions)
+		 (PP to
+		     (NP the rule))))
+     E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean)))
+     (SBAR-ADV (EDITED (RM [)
+		       (SBAR-ADV-UNF if)
+		       ,
+		       (IP +))
+	       if
+	       (S (RS ])
+		  (NP-SBJ it)
+		  (VP 's
+		      (NP-PRD an accidental taking))))
+     (ADVP then)
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ you)
+     (VP look
+	 (PP at
+	     (NP that)))
+     E_S))
+( (S but
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-TPC (NP most)
+	     (PP of
+		 (NP (NP these people)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (ADVP (TYPO down right))
+			      (VP (VP go
+				      (ADVP right))
+				  (EDITED (RM [)
+					  and
+					  ,
+					  (IP +))
+				  and
+				  (RS ])
+				  (VP do
+				      (NP it)
+				      (PP out
+					  (PP of
+					      (NP pure pleasure))))))))))
+     (INTJ uh)
+     ,
+     (NP-SBJ-2 I)
+     (VP do
+	 n't
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP like
+	     (S (NP-SBJ *-2)
+		(VP to
+		    (VP see
+			(NP that))))))
+     .
+     E_S))
+( (CODE SpeakerB34 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA35 .))
+( (S (NP-SBJ I)
+     (VP guess
+	 (ADVP also)
+	 (SBAR 0
+	       (S-UNF (NP-SBJ the fact
+			      (SBAR that
+				    (S (NP-SBJ they)
+				       (VP say
+					   (SBAR 0
+						 (S (NP-SBJ it)
+						    (VP 's
+							not
+							(NP-PRD a deterrent)))))))))))
+     ,
+     N_S))
+( (S (NP-SBJ it)
+     (VP is
+	 (NP-PRD a deterrent)
+	 (EDITED (RM [)
+		 (PP in
+		     (NP-UNF the))
+		 ,
+		 (IP +))
+	 (PP in
+	     (NP the
+		 (RS ])
+		 sense
+		 (SBAR that
+		       (S (NP-SBJ that person)
+			  (VP will
+			      (ADVP-TMP never)
+			      (VP do
+				  (NP it)
+				  (ADVP again))))))))
+     .
+     E_S))
+( (CODE SpeakerB36 .))
+( (INTJ (INTJ Well)
+	,
+	(INTJ yes)
+	,
+	E_S))
+( (S (NP-SBJ they)
+     (VP will
+	 (VP *?*))
+     .
+     E_S))
+( (CODE SpeakerA37 .))
+( (S (SBAR-ADV (EDITED (RM [)
+		       (EDITED (RM [)
+			       Not
+			       ,
+			       (IP +))
+		       not
+		       ,
+		       (RS ])
+		       (IP +))
+	       not
+	       (RS ])
+	       if
+	       (S (NP-SBJ-1 he)
+		  (VP 's
+		      (VP killed
+			  (NP *-1)))))
+     (NP-SBJ he)
+     (VP ca
+	 n't
+	 ,
+	 (VP do
+	     (NP it)
+	     (ADVP again)))
+     .
+     E_S))
+( (CODE SpeakerB38 .))
+( (S-UNF (NP-SBJ It)
+	 ,
+	 N_S))
+( (CODE SpeakerA39 .))
+( (CODE SpeakerB40 .))
+( (FRAG (INTJ Oh)
+	,
+	(X MUMBLEx)
+	,
+	E_S))
+( (CODE SpeakerA41 .))
+( (CODE SpeakerB42 .))
+( (S (INTJ well)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD correct))
+     ,
+     E_S))
+( (INTJ yes
+	.
+	E_S))
+( (INTJ-UNF (RM [)
+	    Ye-
+	    ,
+	    (IP +)
+	    (RS ])))
+( (SBAR-ADV (EDITED (RM [)
+		    (SBAR-ADV-UNF if)
+		    ,
+		    (IP +))
+	    if
+	    (S (S (RS ])
+		  (NP-SBJ he)
+		  (ADVP indeed)
+		  (VP receives
+		      (NP the death penalty)))
+	       and
+	       (S (EDITED (RM [)
+			  (S (NP-SBJ it)
+			     (VP-UNF is))
+			  ,
+			  (IP +))
+		  (NP-SBJ-1 it)
+		  (VP is
+		      (RS ])
+		      (VP executed
+			  (NP *-1)))))
+	    .
+	    E_S))
+( (CODE SpeakerA43 .))
+( (NP The death penalty
+      .
+      E_S))
+( (CODE SpeakerB44 .))
+( (CODE SpeakerA45 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB46 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (EDITED (RM [)
+	     But
+	     ,
+	     (IP +))
+     but
+     (RS ])
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF the)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF the)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ the
+	     (RS ])
+	     chances)
+     (VP are
+	 not
+	 (ADJP-PRD great
+		   (SBAR that
+			 (S (NP-SBJ that)
+			    (VP will
+				(VP happen))))))
+     .
+     E_S))
+( (CODE SpeakerA47 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB48 .))
+( (S But
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD a greater chance 
+		 (SBAR that
+		       (S (NP-SBJ he)
+			  (VP 'll
+			      (VP be
+				  (PP-LOC-PRD (ADVP back)
+					      out
+					      (PP on
+						  (NP the streets)))
+				  (PP-TMP in
+					  (NP twelve years))))))))
+     .
+     E_S))
+( (CODE SpeakerA49 .))
+( (INTJ Uh-huh
+	,
+	E_S))
+( (INTJ yeah
+	.
+	E_S))
+( (S (INTJ Well)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP 'm
+		      (ADVP also)
+		      (VP looking
+			  (PP at
+			      (PP beyond
+				  (NP even that))))))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ I)
+		     ,
+		     (IP +))
+	     (NP-SBJ I)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP been
+		      (VP thinking
+			  (PP about
+			      (NP it)))))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP have
+	     (NP a definite opinion)))
+     E_S))
+( (FRAG but
+	,
+	(INTJ uh)
+	,
+	(NP repeat
+	    ,
+	    (INTJ uh)
+	    ,
+	    crimes)
+	(INTJ uh)
+	,
+	(ADVP maybe)
+	(NP not
+	    (NP (EDITED (RM [)
+			(NP-UNF the)
+			,
+			(IP +))
+		(NP the
+		    (RS ])
+		    (ADJP more mild) 
+		    ones))
+	    but
+	    (PRN ,
+		 (S (NP-SBJ you)
+		    (VP know))
+		 ,)
+	    (EDITED (RM [)
+		    (NP-UNF a)
+		    (IP +)
+		    (RS ]))
+	    (NP (ADJP more severe) 
+		ones))
+	(PP (ADVP especially)
+	    (EDITED (RM [)
+		    (PP-UNF on)
+		    ,
+		    (IP +))
+	    on
+	    (RS ])
+	    (NP (NP armed robbery)
+		and 
+		(NP (NP stuff)
+		    (SBAR (WHADVP-1 where)
+			  (S (NP-SBJ they)
+			     (VP been
+				 (VP (VP taking
+					 (PP from
+					     (NP elderly people)))
+				     ,
+				     and
+				     (VP (VP not
+					     (ADVP just)
+					     taking
+					     (NP the money))
+					 but
+					 (VP beating
+					     (NP them)
+					     (PP (ADVP half)
+						 to
+						 (NP death))))
+				     (ADVP *T*-1))))))))
+	.
+	E_S))
+( (CODE SpeakerB50 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA51 .))
+( (CODE SpeakerB52 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA53 .))
+( (CODE SpeakerB54 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD right))
+     .
+     E_S))
+( (CODE SpeakerA55 .))
+( (FRAG (ADVP Just)
+	(PP for
+	    (NP pleasure))
+	(ADVP too)
+	E_S))
+( (S and
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ-1 you)
+		  (VP 've
+		      (VP got
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP look
+				     (PP at
+					 (NP (NP something)
+					     (PP like
+						 (NP that))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB56 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerA57 .))
+( (SQ Do
+      (NP-SBJ-1 they)
+      (VP deserve
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 ,
+		 (INTJ uh)
+		 ,
+		 (VP remain
+		     (PP-LOC on
+			     (NP this earth))
+		     (ADVP too)))))
+      ?
+      E_S))
+( (CODE SpeakerB58 .))
+( (S (INTJ Why)
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ-UNF y-)
+		     ,
+		     (IP +))
+	     (NP-SBJ-UNF y-)
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ you)
+     (RS ])
+     (VP could
+	 (VP carry
+	     (NP it)
+	     (PP to
+		 (NP that))
+	     (SBAR-ADV (EDITED (RM [)
+			       (SBAR-ADV-UNF if)
+			       ,
+			       (IP +))
+		       (INTJ uh)
+		       ,
+		       if
+		       (RS ])
+		       (S (NP-SBJ they)
+			  (VP are
+			      (NP-PRD a repeat offender))))))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ you)
+     (VP know
+	 (SBAR that
+	       (S (ADVP-TMP (ADVP as soon)
+			    (SBAR as
+				  (S (NP-SBJ you)
+				     (VP let
+					 (NP them)
+					 (PP-LOC out
+						 (PP on
+						     (NP the streets)))))))
+		  (NP-SBJ-1 they)
+		  (VP are
+		      (VP going
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP do
+				     (NP this)))))))))
+     .
+     E_S))
+( (S (ADVP Unfortunately)
+     (NP-ADV (NP the way)
+	     (SBAR (WHADVP-2 0)
+		   (S (NP-SBJ-1 (NP our system)
+				(PP of
+				    (NP jurisprudence)))
+		      (VP is
+			  (VP set
+			      (NP *-1)
+			      (PRT up)
+			      (ADVP-MNR *T*-2))))))
+     ,
+     (INTJ um)
+     ,
+     (NP-SBJ you)
+     (ADVP only)
+     (VP receive
+	 (NP the death penalty)
+	 (PP for
+	     (NP capital crimes)))
+     ,
+     E_S))
+( (CODE SpeakerA59 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB60 .))
+( (S and
+     (PP of
+	 (NP course))
+     (INTJ uh)
+     ,
+     (X of)
+     (NP-TPC-UNF battery 
+		 or assault  
+		 or)
+     ,
+     (NP-SBJ that)
+     (VP is
+	 not
+	 (NP-PRD a capital crime)
+	 (INTJ see))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ You)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 you)
+     (RS ])
+     (VP would
+	 n't
+	 (VP be
+	     (ADJP-PRD able
+		       (S (NP-SBJ *-1)
+			  (VP to
+			      (VP *?*))))
+	     (PP-LOC under
+		     (NP our system))))
+     .
+     E_S))
+( (CODE SpeakerA61 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB62 .))
+( (S (INTJ Now)
+     (NP-SBJ (NP China)
+	     and
+	     (NP a few other countries))
+     (VP have
+	 (NP (NP a 
+		 (ADJP little different) 
+		 view)
+	     (PP of
+		 (NP that))))
+     .
+     E_S))
+( (S (S-ADV (INTJ Um)
+	    ,
+	    (NP-SBJ-1 you)
+	    (VP get
+		(VP caught
+		    (NP *-1)
+		    (PP with
+			(NP dope))
+		    (ADVP-LOC there))))
+     and
+     (NP-SBJ you)
+     (VP die
+	 ,
+	 (ADVP period))
+     .
+     E_S))
+( (CODE SpeakerA63 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB64 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ There)
+		(VP-UNF is))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP is
+	 (RS ])
+	 (EDITED (RM [)
+		 (NP no)
+		 ,
+		 (IP +))
+	 (NP-PRD no
+		 (RS ])
+		 appeals))
+     .
+     E_S))
+( (S (NP-SBJ There)
+     (VP is
+	 (NP-PRD-UNF no))
+     ,
+     N_S))

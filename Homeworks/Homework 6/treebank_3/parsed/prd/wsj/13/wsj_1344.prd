@@ -1,0 +1,87 @@
+
+
+( (S (NP-SBJ (NP Lucas Industries PLC)
+             ,
+             (NP (NP a British maker)
+                 (PP of
+                     (NP industrial parts and systems)))
+             ,)
+     (VP reported
+         (NP (NP (NP a (ADJP 28 %) rise)
+                 (PP-LOC in
+			 (NP pretax profit))
+                 (PP for
+                     (NP (NP the year)
+                         (PP to
+                             (NP July 31)))))
+             ,
+             (VP helped
+                 (NP *)
+                 (PP in
+                     (ADJP particular)) 
+                 (PP by
+                     (NP-LGS (NP a (ADJP 32 %) jump)
+                             (PP in
+                                 (NP operating profit))
+			     (PP-LOC at
+				     (NP its aerospace division)))))))
+     .))
+( (S (NP-SBJ (NP Pretax profit)
+             (PP-TMP in
+		     (NP the latest year)))
+     (VP climbed
+         (PP-DIR to
+		 (NP (NP (QP # 187.1 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 297.1 million) *U*)
+			  -RRB-)))
+	 (PP-DIR from
+		 (NP (NP (QP # 146.3 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 232.3 million) *U*)
+			  -RRB-))))
+     .))
+( (S (NP-SBJ (NP Profit)
+             (PP (PP after
+                     (NP (NP taxes) and (NP minority interests))) 
+                 but
+                 (PP before
+                     (NP extraordinary items))))
+     (VP climbed
+         (NP-EXT 27 %)
+         (PP-DIR to
+		 (NP (QP # 143.4 million) *U*))
+	 (PP-DIR from
+		 (NP (QP # 112.5 million) *U*))
+         ,
+         (PP with
+             (S-NOM (NP-SBJ (NP earnings)
+			    (PP per
+				(NP share)))
+		    (VP rising
+			(PP-DIR to
+				(NP (NP 85.1 pence)
+				    (PRN -LRB-
+					 (NP $ 1.35 *U*)
+					 -RRB-)))
+			(PP-DIR from
+				(NP (NP 79.4 pence)
+				    (PRN -LRB-
+					 (NP $ 1.26 *U*)
+					 -RRB-)))))))
+     .))
+( (S (NP-SBJ The results)
+     (VP were
+         (PP-PRD at 
+                 (NP (NP the upper end)
+                     (PP of
+                         (NP (NP market expectations)
+                             ,
+                             (SBAR (WHNP-1 which)
+                                   (S (NP-SBJ *T*-1)
+                                      (VP ranged
+                                          (PP-CLR (PP from
+						      (NP (QP # 185 million) *U*))
+						  (PP to
+						      (NP (QP # 188 million) *U*)))))))))))
+     .))

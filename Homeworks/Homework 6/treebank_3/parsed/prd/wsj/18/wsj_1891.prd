@@ -1,0 +1,99 @@
+
+
+( (S (NP-SBJ Enron Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP a subsidiary)
+                          and
+                          (NP two United Kingdom firms))
+                  (VP are
+                      (VP studying
+                          (NP (NP the feasibility)
+                              (PP of
+                                  (S-NOM (NP-SBJ *)
+					 (VP constructing
+					     (NP a 1,500 megawatt gas-fired power plant)
+					     (PP-LOC in
+						     (NP northern England))
+					     (PP as
+						 (NP (NP an outgrowth)
+						     (PP of
+							 (NP (NP the government 's)
+							     privatization program)))))))))))))
+     .))
+( (S (NP-SBJ (NP Enron Power Corp.)
+             ,
+             (NP (NP a unit)
+                 (PP of
+                     (NP the Houston natural gas pipeline company)))
+             ,)
+     (VP would
+         (VP design , construct and run
+             (NP the plant)))
+     .))
+( (S (NP-SBJ-1 (NP Gas)
+               (SBAR (WHNP-2 0)
+		     (S (NP-SBJ *T*-2)
+			(VP to
+			    (VP fuel
+				(NP it))))))
+     (VP would
+         (VP be
+             (VP piped
+                 (NP *-1)
+                 (PP-DIR from
+			 (NP the North Sea)))))
+     .))
+( (S (NP-SBJ (NP A subsidiary)
+             (PP of
+                 (NP (NP Britain 's)
+                     Imperial Chemical Industries)))
+     (VP would
+         (VP buy
+             (NP electricity and steam)
+             (PP-CLR from
+		     (NP the proposed station))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 Surplus power)
+	      (VP would
+		  (VP be
+		      (VP sold
+			  (NP *-1)
+			  (PP-LOC on
+				  (NP the open market))))))
+     ,
+     (NP-SBJ Enron)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (SINV-1 (ADVP Also)
+	  (VP-TPC-2 participating
+		    (PP-LOC-CLR in
+				(NP the study)))
+	  (PRN ,
+	       (S (NP-SBJ Enron)
+		  (VP said
+		      (SBAR 0
+			    (SINV *T*-1))))
+	       ,)
+	  (VP is
+	      (VP *T*-2))
+	  (NP-SBJ (NP the National Power division)
+		  (PP of
+		      (NP (NP Britain 's)
+			  Central Electricity Generating Board)))
+	  .))
+( (S (PP-TMP Upon
+	     (NP privatization))
+     ,
+     (NP-SBJ National Power)
+     (VP will
+         (VP be
+             (ADJP-PRD responsible
+                       (PP for
+                           (NP (NP 70 %)
+                               (PP of
+                                   (NP (NP the country 's)
+                                       power generating business)))))))
+     .))

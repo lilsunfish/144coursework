@@ -1,0 +1,83 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Initial claims)
+		      (PP for
+			  (NP state unemployment benefits)))
+	      (VP fell
+		  (PP-DIR to
+			  (NP a
+			      (ADJP seasonally adjusted)
+			      332,000)
+			  (PP-TMP for
+				  (NP (NP the week)
+				      (VP ended
+					  (NP *)
+					  (NP-TMP Oct. 14)))))
+		  (PP-DIR from
+			  (NP 396,000)
+			  (NP-TMP the previous week))))
+     ,
+     (NP-SBJ the Labor Department)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP The number)
+             (PP of
+                 (NP (NP people)
+                     (VP receiving
+                         (NP state benefits)
+                         (PP-TMP in
+				 (NP (NP the week)
+				     (VP ended
+					 (NP *)
+					 (NP-TMP Oct. 7))))))))
+     (VP fell
+         (PP-DIR to
+		 (NP (NP a
+			 (ADJP seasonally adjusted)
+			 2,202,000)
+		     , or
+		     (NP (NP 2.1 %)
+			 (PP of
+			     (NP (NP those)
+				 (ADJP covered
+				       (PP by
+					   (NP unemployment insurance))))))))
+         ,
+         (PP-DIR from
+		 (NP 2,205,000)
+		 (NP (NP the previous week)
+		     ,
+		     (SBAR (WHADVP-1 when)
+			   (S (NP-SBJ the insured unemployment rate)
+			      (VP was
+				  (NP-PRD 2.2 %)
+				  (ADVP-TMP *T*-1)))))))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP Counting
+		(NP all state and federal benefit programs)))
+     ,
+     (NP-SBJ (NP the number)
+	     (PP of
+		 (NP (NP people)
+		     (VP receiving
+			 (NP unemployment benefits)
+			 (PP-TMP in
+				 (NP (NP the week)
+				     (VP ended
+					 (NP *)
+					 (NP-TMP Oct. 7))))))))
+     (VP fell
+	 (PP-DIR to
+		 (NP 1,784,400))
+	 (PP-DIR from
+		 (NP 1,810,700)
+		 (ADVP-TMP (NP a week)
+			   earlier)))
+     .))
+( (S (NP-SBJ These figures)
+     (VP are n't
+         (ADJP-PRD seasonally adjusted))
+     .))

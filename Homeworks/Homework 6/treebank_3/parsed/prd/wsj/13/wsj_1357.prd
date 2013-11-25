@@ -1,0 +1,94 @@
+
+
+( (S (NP-SBJ A federal judge)
+     (VP granted
+         (NP (NP a temporary stay)
+             (PP of
+                 (NP (NP the California Student Aid Commission 's)
+                     emergency action
+                     (S (NP-SBJ-1 *)
+                        (VP to
+                            (VP stop
+                                (S (NP-SBJ *-1)
+                                   (VP guaranteeing
+                                       (NP (NP loans)
+                                           (PP for
+                                               (NP (NP National Technical Schools)
+                                                   ,
+                                                   (NP (NP a unit)
+                                                       (PP of
+                                                           (NP United Education & Software Inc)))))))))))))))
+     .))
+( (S (S (NP-SBJ The California Student Aid Commission)
+        (VP took
+            (NP the action)
+            (NP-TMP Oct. 15)
+            (SBAR-TMP after
+		      (S (NP-SBJ a government audit)
+			 (VP cited
+			     (NP-1 National Technical Schools)
+			     (PP-CLR for
+				     (S-NOM (NP-SBJ *-1)
+					    (VP (VP having
+						    (NP (NP courses)
+							(ADJP too short
+							      (SBAR (WHNP-2 0)
+								    (S (NP-SBJ *T*-2)
+								       (VP to
+									   (VP be
+									       (ADJP-PRD eligible
+											 (PP for
+											     (NP the educational loan program))))))))))
+						and
+						(VP having
+						    (NP (NP a student drop-out rate)
+							(PP (ADVP far) in 
+							    (NP (NP excess)
+								(PP of
+								    (NP federal standards))))))))))))))
+     , and
+     (S (NP-SBJ it)
+        (VP alleged
+            (NP (NP other serious violations)
+                (PP of
+                    (NP law and regulations)))))
+     .))
+( (S (NP-SBJ (NP United Education & Software)
+             ,
+             (NP a Los Angeles education services company)
+             ,)
+     (VP called
+         (S (NP-SBJ (NP the commission 's)
+		    action)
+	    ``
+	    (ADJP-PRD precipitous and unwarranted)))
+     .
+     ''))
+( (S (NP-SBJ The court)
+     (VP set
+         (NP (NP a hearing)
+             (PP on
+                 (NP the emergency action)))
+         (PP-CLR for
+		 (NP Oct. 30)))
+     .))
+( (S (NP-SBJ United Education & Software)
+     (VP posted
+         (NP a (ADJP $ 250,000 *U*) bond)
+         (PP against
+             (NP (NP potential losses)
+                 (PP (PP to
+                         (NP the student aid commission))
+                     and
+                     (PP to
+                         (NP taxpayers)))
+                 (PP in
+                     (S-NOM (NP-SBJ *)
+			    (VP guaranteeing
+				(NP (NP any more loans)
+				    (PP for
+					(NP National Technical Schools students)))
+				(ADVP-TMP prior
+					  (PP to
+					      (NP the hearing)))))))))
+     .))

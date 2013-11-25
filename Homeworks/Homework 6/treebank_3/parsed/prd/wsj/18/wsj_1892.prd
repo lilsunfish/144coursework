@@ -1,0 +1,119 @@
+
+
+( (S (NP-SBJ (NP Viacom Inc.)
+             ,
+             (NP-LOC New York)
+             ,)
+     (VP reported
+         (SBAR that
+               (S (NP-SBJ its third-quarter loss)
+                  (VP widened
+                      (PP-DIR to
+			      (NP (NP (QP $ 21.7 million) *U*)
+				  ,
+				  or
+				  (NP (NP 41 cents)
+				      (NP-ADV a share))
+				  ,))
+		      (PP (ADVP primarily) 
+			  because of
+			  (NP (NP interest expense)
+			      (PP of
+				  (NP (QP $ 70.1 million) *U*))))))))
+     .))
+( (S (ADVP-TMP (NP A year)
+	       ago)
+     ,
+     (NP-SBJ Viacom)
+     (VP had
+         (NP (NP a net loss)
+             (PP of
+                 (NP (NP (QP $ 56.9 million) *U*)
+                     , 
+		     or
+                     (NP (NP $ 1.07 *U*)
+                         (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ (NP Interest expense)
+             (PP-TMP in
+		     (NP the 1988 third quarter)))
+     (VP was
+         (NP-PRD (QP $ 75.3 million) *U*))
+     .))
+( (S (S (PP-TMP In
+		(NP the year-ago quarter))
+	,
+	(NP-SBJ Viacom)
+        (ADVP also)
+        (VP paid
+            (NP (NP preferred stock dividends)
+                (PP of
+                    (NP (QP $ 17 million) *U*)))))
+     ;
+     (S (NP-SBJ Viacom)
+        (VP exchanged
+            (NP its preferred stock)
+            (PP-CLR for
+		    (NP debt))
+	    (PP-TMP in
+		    (NP March))))
+     .))
+( (S (NP-SBJ The communications and entertainment company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ revenue)
+                  (VP rose
+                      (PP-DIR to
+			      (NP (QP $ 345.5 million) *U*))
+                      ,
+                      (PP-DIR from
+			      (NP (QP $ 311.6 million) *U*))))))
+     .))
+( (S (NP-SBJ Viacom)
+     (VP attributed
+         (NP the improvement)
+         (PP-CLR to
+		 (NP (NP higher earnings)
+		     (PP from
+			 (NP operations))
+		     (PP-LOC in
+			     (NP (NP its networks segment)
+				 ,
+				 (SBAR (WHNP-1 which)
+				       (S (NP-SBJ *T*-1)
+					  (VP includes
+					      (NP the MTV and Showtime networks)))))))))
+     .))
+( (S (NP-SBJ Viacom)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (ADVP also)
+                  (VP restructured
+                      (NP bank debt)
+                      (PP-LOC under
+			      (NP (NP a (ADJP (QP $ 1.5 billion) *U*) unsecured bank agreement)
+				  (SBAR (WHNP-1 that)
+					(S (NP-SBJ *T*-1)
+					   (VP offers
+					       (NP significant interest rate savings))))))))))
+     .))
+( (S (NP-SBJ (NP Sumner M. Redstone)
+             ,
+             (NP (NP Viacom 's)
+                 chairman)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Viacom)
+                  ``
+                  (VP (VP emerged
+                          (PP-DIR from
+				  (NP our leveraged buy-out structure)))
+                      and
+                      (VP gained
+                          (NP substantial (UCP operating and financial) flexibility)
+			  (PP through
+			      ''
+			      (NP the bank pact)))))))
+     .))

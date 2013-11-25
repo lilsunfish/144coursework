@@ -1,0 +1,26 @@
+This file contains a list of changes made to the tagging and parsing labels
+following the first WSJ release. These changes affect the Switchboard and
+Brown data. Details can be found in ???
+
+POS tags
+
+	(1) BES and HVS are used for 's from "is" and "has" respectively
+	(2) the tag GW is used to join parts of words that have been
+		written	separately by the transcriber
+	(3) the tag TO applies only to the infinitive marker (and not to
+		the preposition "to")
+	(4) only the following words are tagged as particles RP
+		about, across, down, in, off, on, out, over, through, up, 
+		back, away, like (with 'be' introducing speech)
+
+
+Parsing labels:
+
+	(1) New dash-tags are: 
+		(a) -UNF used to mark unfinished constituents
+		(b) -ETC used for vague sentence-final additions, such as
+			"etcetera", "or anything", "or whatever", etc.
+		(c) -IMP used to label imperatives
+	(2) The dash-tag -CLR is no longer used
+	(3) TYPO is used to group parts of "words" written separately 
+	(4) EDITED labels the reparandum of a restart

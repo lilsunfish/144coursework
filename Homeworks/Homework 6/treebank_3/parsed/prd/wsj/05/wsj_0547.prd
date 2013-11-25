@@ -1,0 +1,44 @@
+
+
+( (S (NP-SBJ-1 (NP Douglas H. Miller)
+               ,
+               (ADJP self-employed
+                     (PP-LOC in
+			     (NP the oil and gas securities business)))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP chairman)
+			(PP of
+			    (NP this oil and gas exploration company))))
+	     ,
+	     (S-ADV (NP-SBJ *)
+		    (VP filling
+			(NP a vacancy)))))
+     .))
+( (S (NP-SBJ-1 (NP Mr. Miller)
+               ,
+               (SBAR (WHNP-2 who)
+                     (S (NP-SBJ *T*-2)
+                        (VP has
+                            (VP been
+                                (NP-PRD a Coda director)))))
+               ,)
+     (ADVP also)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD chief executive officer))
+	     ,
+	     (S-ADV (NP-SBJ *-1)
+		    (VP succeeding
+			(NP (NP Ted Eubank)
+			    ,
+			    (SBAR (WHNP-3 who)
+				  (S (NP-SBJ *T*-3)
+				     (VP remains
+					 (NP-PRD (NP president)
+						 and
+						 (NP chief operating officer))))))))))
+     .))

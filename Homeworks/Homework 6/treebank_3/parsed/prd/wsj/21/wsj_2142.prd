@@ -1,0 +1,590 @@
+
+
+( (S (NP-SBJ-1 Many skittish mutual fund investors)
+     (VP (VP picked
+             (PRT up)
+             (NP the phone)
+             (NP-TMP yesterday))
+         , but
+         (VP decided 
+	     (S not
+		(NP-SBJ *-1)
+		(VP to
+		    (VP cash 
+			(PRT in)
+			(NP their chips)
+			(PP after
+			    (NP all)))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ the stock market)
+		  (VP bounced
+		      (ADVP back))))
+     ,
+     (NP-SBJ (NP withdrawals)
+             (PP of
+                 (NP money))
+             (PP from
+                 (NP stock funds)))
+     (VP amounted
+         (PP-CLR to
+		 (NP a mere trickle))
+         (PP compared
+             (PP with
+                 (NP (NP Black Monday)
+                     ,
+                     (SBAR (WHADVP-1 when)
+                           (S (NP-SBJ investors)
+                              (VP dumped
+                                  (NP (NP (QP $ 2.3 billion) *U*)
+                                      , or
+                                      (NP (NP (QP about 2) %)
+                                          (PP of
+                                              (NP stock-fund assets))))
+				  (ADVP-TMP *T*-1))))))))
+     .))
+( (S (NP-SBJ (NP Fidelity Investments)
+             ,
+             (NP (NP the nation 's)
+                 largest fund company)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ phone volume)
+                  (VP was
+                      (NP-PRD (NP (QP more
+				      than
+				      double) its typical level)
+                              , but (ADVP still)
+                              (NP (NP half that)
+                                  (PP of
+                                      (NP (NP Oct. 19) 
+					  , 
+					  (NP 1987)))))))))
+     .))
+( (S (NP-SBJ (NP Net outflows)
+             (PP from
+                 (NP (NP Fidelity 's)
+                     stock funds)))
+     (VP stood
+         (PP-LOC (PP at
+		     (NP (QP less
+			     than
+			     $ 300 million) *U*))
+		 , or
+		 (PP below
+		     (NP (NP 15 %)
+			 (PP of
+			     (NP (NP the (ADJP (QP $ 2 billion) *U*) cash position)
+				 (PP of
+				     (NP (NP the firm 's)
+					 stock portfolios))))))))
+     .))
+( (S (NP-SBJ-1 (NP Much)
+               (PP of
+                   (NP the money)))
+     (VP was
+         (VP switched
+             (NP *-1)
+             (PP-CLR into
+		     (NP (NP the firm 's)
+			 money market funds))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP Outflows)
+		      (PP-TMP since
+			      (NP (NP the close)
+				  (PP of
+				      (NP trading))
+				  (NP Friday))))
+	      (VP remain
+		  (PP-LOC-PRD below
+			      (NP (NP one-third
+				      their level)
+				  (PP of
+				      (ADVP-TMP (NP two years)
+						ago))))))
+     ,
+     (NP-SBJ Fidelity)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ Other mutual fund companies)
+     (VP reported
+         (NP (ADJP even lighter)
+             withdrawal requests))
+     .))
+( (S And
+     (NP-SBJ-1 (NP some investors)
+	       (PP-LOC at
+		       (NP Fidelity
+			   and 
+			   elsewhere)))
+     (ADVP even)
+     (VP began
+         (S (NP-SBJ *-1)
+            (VP buying
+                (NP stock funds)
+                (PP-TMP during
+			(NP the day)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (ADVP-TMP (NP Two years)
+			   ago)
+		 ,
+		 (NP-SBJ there)
+		 (VP was
+		     (NP-PRD (NP (NP a lot)
+				 (PP of
+				     (NP redemption activity)))
+			     and
+			     (NP (NP trouble)
+				 (PP with
+				     (S-NOM (NP-SBJ people)
+					    (VP getting
+						(PRT through)
+						(PP on
+						    (NP the phone)))))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Kathryn McGrath)
+		,
+		(NP (NP head)
+		    (PP of
+			(NP (NP the investment management division)
+			    (PP of
+				(NP the Securities and Exchange Commission))))))
+	.))
+( (S (NP-TMP This time)
+     , ``
+     (NP-SBJ We)
+     (VP do n't
+	 (VP have
+	     (NP that)
+	     (ADVP at
+		   all)))
+     . ''))
+( (S (PP Of
+         (NP course))
+     ,
+     (NP-SBJ-1 the relative calm)
+     (VP could
+         (VP be
+             (VP jolted
+                 (NP *-1)
+		 (SBAR-ADV if
+			   (S (NP-SBJ the market)
+			      (VP plunges
+				  (ADVP again)))))))
+     .))
+( (S And
+     (NP-SBJ (NP any strong surge)
+             (PP in
+                 (NP redemptions)))
+     (VP could
+         (VP force
+	     (S (NP-SBJ-1 some funds)
+                (VP to
+                    (VP dump
+                        (NP stocks)
+			(S-PRP (NP-SBJ *-1)
+			       (VP to
+				   (VP raise
+				       (NP cash))))
+			,
+			(SBAR-ADV as
+				  (S (NP-SBJ some)
+				     (VP did
+					  (VP *?*
+					      (PP-TMP during
+						      (NP Black Monday)))))))))))
+     .))
+( (S But
+     (NP-SBJ funds)
+     (ADVP generally)
+     (VP are
+         (ADJP-PRD better prepared)
+	 (ADVP-TMP (NP this time)
+		   around))
+     .))
+( (S (PP As
+         (NP a group))
+     ,
+     (NP-SBJ (NP their cash position)
+             (PP of
+                 (NP (NP (NP 10.2 %)
+                         (PP of
+                             (NP assets))
+                         (PP-TMP in
+				 (NP August)))
+                     --
+                     (NP (NP the latest figure)
+                         (ADJP available))
+                     --)))
+     (VP is
+         (ADJP-PRD (ADJP (NP-ADV 14 %)
+			 higher)
+                   (PP than
+                       (ADVP-TMP (NP two years)
+				 earlier))))
+     .))
+( (S (NP-SBJ Many fund managers)
+     (VP have
+         (VP boosted
+             (NP their cash levels)
+             (PP-TMP in
+		     (NP recent weeks))))
+     .))
+( (S (NP-SBJ (NP The biggest flurry)
+             (PP of
+                 (NP investor activity)))
+     (VP came
+         (ADVP-TMP early
+		   (PP in
+		       (NP the day))))
+     .))
+( (S (NP-SBJ Vanguard Group Inc.)
+     (VP saw
+         (NP (NP heavy exchanges)
+             (PP from
+                 (NP stock funds))
+             (PP into
+                 (NP money market funds)))
+	 (SBAR-TMP after
+		   (S (NP-SBJ the telephone lines)
+		      (VP opened
+			  (PP-TMP at
+				  (NP 8:30 a.m))))))
+     .))
+( (S ``
+     (S-TPC-1 (PP-TMP In
+		      (NP the first hour))
+	      ,
+	      (NP-SBJ the
+		      (ADJP real nervous)
+		      folks)
+	      (VP came
+		  (ADVP along)))
+     , ''
+     (NP-SBJ a spokesman)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S `` But
+     (NP-SBJ (NP the horrendous pace)
+	     (PP of
+		 (NP call volume))
+	     (PP in
+		 (NP the first half-hour)))
+     (VP slowed
+	 (ADVP-MNR considerably))
+     . ''))
+( (S (PP-LOC At
+	     (NP Scudder , Stevens & Clark Inc.))
+     ,
+     (NP-SBJ phone calls)
+     (VP came 
+	 (PRT in)
+         (PP-MNR at
+		 (NP (NP (NP-ADV 40 %)
+			 more)
+		     (PP than
+			 (NP the normal pace))))
+         (PP-TMP through
+		 (NP early afternoon)))
+     .))
+( (S (NP-SBJ (NP Most)
+             (PP of
+                 (NP that increase)))
+     (VP came
+         (PP-TMP in
+		 (NP (NP the first hour)
+		     (SBAR-TMP after
+			       (S (NP-SBJ the phone lines)
+				  (VP opened
+				      (PP-TMP at
+					      (NP 8 a.m))))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ stocks)
+		  (VP rose)))
+     ,
+     (PP in
+         (NP fact))
+     ,
+     (NP-SBJ some investors)
+     (VP (VP changed
+             (NP course))
+         and
+         (VP reversed
+             (NP their sell orders)))
+     .))
+( (S (NP-SBJ Many funds)
+     (VP allow
+         (S (NP-SBJ investors)
+            (VP to
+                (VP void
+                    (NP orders)
+		    (PP-TMP before
+			    (NP (NP the close)
+				(PP of
+				    (NP trading))))))))
+     .))
+( (S (PP-LOC (PP At
+		 (NP Scudder))
+	     and
+	     (PP at
+		 (NP (NP the smaller Ivy funds group)
+		     (PP-LOC in
+			     (NP (NP Hingham)
+				 ,
+				 (NP Mass.)
+				 ,
+				 (PP for
+				     (NP instance)))))))
+     ,
+     (NP-SBJ-1 some shareholders)
+     (VP (VP called
+             (PP-TMP (ADVP early) 
+		     in
+		     (NP the morning))
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP switch
+			    (NP money)
+			    (PP-DIR from
+				    (NP stock funds))
+			    (PP-DIR to
+				    (NP money market funds))))))
+         , but
+	 (VP (ADVP-TMP later)
+	     called
+             (ADVP back)
+             (S-PRP (NP-SBJ *-1)
+		    (VP to
+			(VP reverse
+			    (NP the switches))))))
+     .))
+( (S (SBAR-PRP Because
+	       (S (NP-SBJ mutual fund trades)
+		  (VP do n't
+		      (VP take
+			  (NP effect)
+			  (PP-TMP until
+				  (NP (NP the market close) 
+				      (PRN --
+					   (PP in
+					       (NP this case))
+					   ,
+					   (PP-TMP at
+						   (NP 4 p.m.))
+					   --)))))))
+     (NP-SBJ these shareholders)
+     (VP (ADVP effectively)
+         stayed 
+	 (PRT put))
+     .))
+( (S (PP-LOC At
+	     (NP (NP (NP Fidelity 's)
+		     office)
+		 (PP-LOC in
+			 (NP downtown Boston))))
+     ,
+     (NP-SBJ Gerald Sherman)
+     (VP (VP walked
+             (PRT in)
+             (PP-TMP (ADVP shortly) 
+		     after
+		     (NP 7:30 a.m.)))
+         and
+         (VP placed
+             (NP an order
+                 (S (NP-SBJ *)
+                    (VP to
+                        (VP switch
+                            (NP his retirement accounts)
+                            (PP-DIR out
+				    (PP of
+					(NP three stock funds)))
+                            and
+                            (PP-DIR into
+				    (NP a money market fund))))))))
+     .))
+( (S But
+     (PP-TMP by
+	     (NP 3:15 p.m.))
+     ,
+     (PP with
+         (NP (NP the market)
+             (ADJP comfortably ahead
+                   (PP for
+                       (NP the day)))))
+     ,
+     (NP-SBJ-1 Mr. Sherman)
+     (VP was
+         (VP preparing
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP undo
+                        (NP his switch))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ (NP It)
+			 (S *EXP*-1))
+		 (VP 's
+		     (NP-PRD a nice feeling)
+		     (S-1 (NP-SBJ *)
+			  (VP to
+			      (VP know
+				  (SBAR that
+					(S (NP-SBJ things)
+					   (VP stabilized))))))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Mr. Sherman)
+		,
+		(NP (NP the 51-year-old co-owner)
+		    (PP of
+			(NP a discount department store))))
+	.))
+( (S But
+     (NP-SBJ-1 some investors)
+     (VP continued
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP switch
+                    (PP-DIR out
+			    (PP of
+				(NP high-risk , high-yield junk funds)))))))
+     (PP despite
+         (NP (NP (NP yesterday 's)
+		 rebound)
+             (PP from
+                 (NP (NP that market 's)
+                     recent price declines))))
+     .))
+( (S (NP-SBJ Shareholders)
+     (VP have
+         (VP been
+             (VP (ADVP-MNR steadily)
+                 bailing
+                 (PRT out)
+		 (PP-CLR of
+			 (NP several big junk funds))
+                 (NP-TMP the past several weeks)
+		 (SBAR-ADV as
+			   (S (NP-SBJ-1 the (ADJP (QP $ 200 billion) *U*) market)
+			      (VP was
+				  (VP jolted
+				      (NP *-1)
+				      (PP by
+					  (NP-LGS (NP (NP a cash crunch)
+						      (PP-LOC at
+							      (NP Campeau Corp.)))
+						  and
+						  (NP steadily declining prices))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP Much)
+			(PP of
+			    (NP the money)))
+	      (VP has
+		  (VP been
+		      (VP switched
+			  (NP *-1)
+			  (PP-DIR into
+				  (NP money market funds))))))
+     ,
+     (NP-SBJ fund executives)
+     (VP say
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (PP Instead
+	 of
+	 (S-NOM (NP-SBJ-1 *-2)
+		(VP selling
+		    (NP bonds)
+		    (S-PRP (NP-SBJ *-1)
+			   (VP to
+			       (VP meet
+				   (NP redemptions)))))))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ-2 some funds)
+     (VP have
+         (VP borrowed
+             (PP-CLR from
+		     (NP banks))
+	     (S-PRP (NP-SBJ *-2)
+		    (VP to
+			(VP meet
+			    (NP withdrawal requests))))))
+     .))
+( (S (NP-SBJ This)
+     (VP avoids
+         (S (NP-SBJ *)
+            (VP knocking
+                (PRT down)
+                (NP prices)
+                (ADVP further))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ The (ADJP (QP $ 1.1 billion) *U*) T. Rowe Price High Yield Fund)
+		 (VP was
+		     (PP-LOC-PRD among
+				 (NP (NP the funds)
+				     (SBAR (WHNP-1 that)
+					   (S (NP-SBJ *T*-1)
+					      (VP borrowed
+						  (PP-TMP during
+							  (NP the Campeau crisis)))))))))
+	,
+	(VP says
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP George J. Collins)
+		,
+		(NP (NP president)
+		    (PP of
+			(NP T. Rowe Price Associates Inc))))
+	.))
+( (S (NP-ADV That way)
+     ,
+     (NP-SBJ Mr. Collins)
+     (VP says , ``
+         (S (NP-SBJ-1 We)
+            (VP did n't
+                (VP have
+                    (S (NP-SBJ *-1)
+                       (VP to
+                           (VP sell
+                               (NP securities)
+                               (PP-LOC in
+				       (NP a sloppy market)))))))))
+     . ''))
+( (S-2 (SBAR-TMP (WHADVP-1 When)
+		 (S (NP-SBJ the market)
+		    (VP stabilized
+			(ADVP-TMP *T*-1))))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP added
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,)
+       (NP-SBJ the firm)
+       (VP (VP sold
+	       (NP the bonds))
+	   and
+	   (VP (ADVP quickly)
+	       paid
+	       (NP the loans)
+	       (PRT back)))
+       .))
+( (S (NP-SBJ Tom Herman)
+     (VP contributed
+         (PP-CLR to
+		 (NP this article)))
+     .))

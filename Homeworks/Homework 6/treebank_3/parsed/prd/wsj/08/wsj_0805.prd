@@ -1,0 +1,67 @@
+
+
+( (S (NP-SBJ CMS ENERGY Corp.)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ management)
+		  (VP would
+		      (VP recommend
+			  (PP-CLR to
+				  (NP its board))
+			  (NP-TMP today)
+			  (SBAR that
+				(S (NP-SBJ-1 its common stock dividend)
+				   (VP be
+				       (VP reinstated
+					   (NP *-1)
+					   (PP-CLR at
+						   (NP a
+						       ``
+						       modest level
+						       ''))
+					   (NP-TMP later this year))))))))))
+     .))
+( (S (NP-SBJ-1 The
+	       (NAC-LOC Dearborn
+			,
+			Mich.
+			,)
+	       energy company)
+     (VP stopped
+	 (S (NP-SBJ *-1)
+	    (VP paying
+		(NP a dividend)))
+	 (PP-TMP in
+		 (NP (NP the third quarter)
+		     (PP of
+			 (NP 1984))))
+	 (PP-PRP because of
+		 (NP (NP troubles)
+		     (PP-LOC at
+			     (NP its Midland nuclear plant)))))
+     .))
+((S (PP In
+	(NP addition))
+    ,
+    (NP-SBJ CMS)
+    (VP reported
+	(NP (NP third-quarter net)
+	    (PP of
+		(NP (NP (NP (QP $ 68.2 million) *U*)
+			,
+			or
+			(NP (NP 83 cents)
+			    (NP-ADV a share)))
+		    ,
+		    (ADVP up
+			  (PP from
+			      (NP (NP (QP $ 66.8 million) *U*)
+				  ,
+				  or
+				  (NP (NP 81 cents)
+				      (NP-ADV a share)))
+			      ,
+			      (ADVP-TMP (NP a year)
+					ago)))))))
+    .)
+ )

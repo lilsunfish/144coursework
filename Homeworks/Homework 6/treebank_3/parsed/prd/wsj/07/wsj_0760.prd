@@ -1,0 +1,182 @@
+
+
+( (S (NP-SBJ Norton Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP net income)
+                          (PP for
+                              (NP the third quarter)))
+                  (VP fell
+                      (NP-EXT 6 %)
+                      (PP-DIR to
+			      (NP (NP (QP $ 20.6 million) *U*)
+				  , or
+				  (NP (NP 98 cents)
+				      (NP-ADV a share))
+				  ,))
+                      (PP-DIR from
+			      (NP (NP (QP $ 22 million) *U*)
+				  , or
+				  (NP (NP $ 1.03 *U*)
+				      (NP-ADV a share))))))))
+     .))
+( (S (NP-SBJ (NP Operating profit)
+             (PP for
+                 (NP the abrasives , engineering materials and petroleum services concern)))
+     (VP was
+         (NP-PRD (NP (QP $ 19.2 million) *U*)
+		 , or
+		 (NP (NP 91 cents)
+		     (NP-ADV a share)))
+         ,
+         (ADVP up
+               (NP 3 %)
+               (PP from
+                   (NP (NP (QP $ 18.7 million) *U*)
+                       , or
+                       (NP (NP 87 cents)
+                           (NP-ADV a share))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP had
+         (NP (NP a tax credit)
+             (PP of
+                 (NP (QP $ 1.4 million) *U*))))
+     .))
+( (S (PP-TMP In
+	     (NP the year-earlier quarter))
+     ,
+     (NP-SBJ the tax credit)
+     (VP was
+         (NP-PRD (QP $ 3.3 million) *U*))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 8 %)
+         (PP-DIR to
+		 (NP (QP $ 368.5 million) *U*))
+         (PP-DIR from
+		 (NP (QP $ 340.7 million) *U*)))
+     .))
+( (S (NP-SBJ (NP Operating profit)
+             (PP-LOC in
+		     (NP (NP the company 's)
+			 abrasives segment)))
+     (VP rose
+         (NP-EXT 16 %)
+	 (SBAR-TMP while
+		   (S (NP-SBJ (NP operating profit)
+			      (PP-LOC in
+				      (NP the engineering materials segment)))
+		      (VP rose
+			  (NP-EXT 2 %)))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ-1 (NP the company 's)
+               petroleum services segment)
+     ,
+     (ADVP while  
+	   (ADJP profitable))
+     ,
+     (VP was
+         (VP hurt
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP high financing costs)
+			 (VP associated
+			     (NP *)
+			     (PP-CLR with
+				     (NP (NP (NP the company 's)
+					     buy-out)
+					 (PP of
+					     (NP (NP a (ADJP 50 %) stake)
+						 (PP-LOC in
+							 (NP Eastman Christensen Co.))))
+					 (PP from
+					     (NP Texas Eastern Corp.))
+					 (NP-TMP last June))))))))
+     .))
+( (S (NP-SBJ (NP Norton)
+             and
+             (NP Texas Eastern))
+     (VP had 
+	 each  
+         (VP held
+             (NP (NP a (ADJP 50 %) stake)
+                 (PP in
+                     (NP Eastman)))
+             (PP-MNR in
+		     (NP a joint venture))))
+     .))
+( (S (NP-SBJ Norton)
+     (VP announced
+         (ADVP-TMP earlier
+		   (NP this month))
+         (SBAR that
+               (S (NP-SBJ it)
+                  (VP was
+                      (VP exploring
+                          (NP (NP the possible sale)
+                              (PP of
+                                  (NP (NP all or part)
+                                      (PP of
+                                          (NP Eastman Christensen))))))))))
+     .))
+( (S (PP-TMP For
+	     (NP the nine months))
+     ,
+     (NP-SBJ Norton)
+     (VP had
+         (NP (NP (NP net)
+                 (PP of
+                     (NP (NP (QP $ 81.2 million) *U*)
+                         , or
+                         (NP (NP $ 3.87 *U*)
+                             (NP-ADV a share)))))
+             , and
+             (NP (NP a tax credit)
+                 (PP of
+                     (NP (QP $ 4.4 million) *U*)))))
+     .))
+( (S (PP-TMP In
+	     (NP the year-earlier period))
+     ,
+     (NP-SBJ the company)
+     (VP had
+         (NP (NP (NP net)
+                 (PP of
+                     (NP (NP (QP $ 77.2 million) *U*)
+                         , or
+                         (NP (NP $ 3.68 *U*)
+                             (NP-ADV a share)))))
+             , and
+             (NP (NP a tax credit)
+                 (PP of
+                     (NP (QP $ 7.7 million) *U*)))))
+     .))
+( (S (NP-SBJ Norton)
+     (VP had
+         (NP (NP operating profit)
+             (PP of
+                 (NP (NP (QP $ 76.8 million) *U*)
+                     , or
+                     (NP (NP $ 3.66 *U*)
+                         (NP-ADV a share))))
+             ,
+             (ADVP up
+                   (NP-EXT 11 %)
+                   (PP from
+                       (NP (NP (QP $ 69.5 million) *U*)
+                           , or
+                           (NP (NP $ 3.31 *U*)
+                               (NP-ADV a share)))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 8 %)
+         (PP-DIR to
+		 (NP (QP $ 1.15 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 1.06 billion) *U*)))
+     .))

@@ -1,0 +1,1541 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (SBARQ (INTJ So)
+	 ,
+	 (WHADVP-1 how)
+	 (SQ is
+	     (NP-SBJ the weather)
+	     (ADVP-MNR-PRD *T*-1)
+	     (PP-LOC out
+		     (ADVP there)))
+	 ?
+	 E_S))
+( (CODE SpeakerB2 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD really cold))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     (IP +))
+     (ADVP supposedly)
+     (PP for
+	 (NP (NP this time)
+	     (PP of
+		 (NP the year))))
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADJP-PRD unseasonably cold))
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (VP 've
+	 (VP gotten
+	     (NP (NP more snow)
+		 (SBAR than
+		       (S (NP-SBJ they)
+			  (VP 've
+			      (ADVP-TMP ever)
+			      (VP had 
+				  (NP *?*))))))))
+     .
+     E_S))
+( (CODE SpeakerA3 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerB4 .))
+( (S (NP-SBJ You)
+     (VP have
+	 ,
+	 (NP (NP (NP breaking records)
+		 (PP for
+		     (NP coldness)))
+	     and
+	     (NP (NP all that kind)
+		 (PP of
+		     (NP stuff)))))
+     .
+     E_S))
+( (FRAG (WHADVP How)
+	(PP about
+	    (NP you guys))
+	?
+	E_S))
+( (CODE SpeakerA5 .))
+( (S (INTJ Um)
+     .
+     (INTJ Uh)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S (NP-SBJ it)
+			(VP-UNF 's
+				(ADVP just)))
+		     ,
+		     (IP +))
+	     (S (NP-SBJ it)
+		(VP 's
+		    (NP-PRD-UNF a)))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (NP-PRD about
+		 (RS ])
+		 same))
+     .
+     E_S))
+( (S (FRAG-TPC-1 (NP The usual))
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (FRAG *T*-1))
+     .
+     E_S))
+( (CODE SpeakerB6 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA7 .))
+( (FRAG (INTJ So)
+	,
+	(ADJP nice
+	      (PP for
+		  (NP (NP skiing)
+		      and
+		      (NP (NP all that kind)
+			  (PP of
+			      (NP stuff))))))
+	.
+	E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADJP-PRD good))
+     .
+     E_S))
+( (CODE SpeakerB8 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S-IMP (INTJ well)
+	 (RM [)
+	 (NP-ADV the weather)
+	 ,
+	 (IP +)
+	 (NP-SBJ *)
+	 (VP let
+	     (S (NP-SBJ 's)
+		(VP see)))
+	 ,))
+( (S (INTJ well)
+     ,
+     (NP-SBJ (NP the snow)
+	     (RS ])
+	     (ADVP-LOC here))
+     (VP is
+	 (ADJP-PRD different
+		   (PP from
+		       (NP Utah 's))))
+     ,
+     E_S))
+( (SBAR-PRP because
+	    (S (NP-SBJ I)
+	       (VP have
+		   (VP lived
+		       (PP-LOC in
+			       (NP Utah))
+		       (PP-TMP for
+			       (NP (QP like ten)
+				   years)))))
+	    .
+	    E_S))
+( (CODE SpeakerA9 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (WHNP What part
+	?
+	E_S))
+( (CODE SpeakerB10 .))
+( (S-UNF And
+	 ,
+	 (INTJ uh)
+	 ,
+	 N_S))
+( (NP Provo
+      .
+      E_S))
+( (S (NP-SBJ I)
+     (VP was
+	 (VP going
+	     (PP to
+		 (NP B Y U))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB12 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ the snow)
+     (VP is
+	 (INTJ like)
+	 ,
+	 (ADJP-PRD really cold))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ it)
+     (VP 's
+	 ,
+	 (INTJ like)
+	 ,
+	 (ADJP-PRD really humid))
+     E_S))
+( (S so
+     (NP-SBJ it)
+     (VP (VP seems
+	     (ADJP-PRD wetter))
+	 or
+	 (NP-ETC (NP something)
+		 (PP like
+		     (NP that))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (CODE SpeakerA13 .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADJP-PRD (ADJP more humid)
+		   (PP *ICH*-1))
+	 (PP-LOC in
+		 (NP Utah))
+	 (PP-1 than
+	       (ADVP-LOC there)))
+     ?
+     E_S))
+( (CODE SpeakerB14 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA15 .))
+( (FRAG Or
+	(ADVP-LOC there)
+	?
+	E_S))
+( (CODE SpeakerB16 .))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADJP-PRD (ADJP more humid)
+		   (PP *ICH*-1))
+	 (PP-LOC in
+		 (NP Iowa))
+	 (PP-1 than
+	       (NP Utah)))
+     .
+     E_S))
+( (CODE SpeakerA17 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB18 .))
+( (CODE SpeakerA19 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB20 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA21 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerB22 .))
+( (S And
+     (NP-SBJ it)
+     (VP seems
+	 (SBAR like
+	       (S (SBAR-TMP (WHADVP-1 when)
+			    (S (NP-SBJ the winds)
+			       (VP blow
+				   (ADVP-TMP *T*-1))))
+		  ,
+		  (EDITED (RM [)
+			  (S (NP-SBJ it)
+			     (VP-UNF 's
+				     (ADVP really)))
+			  ,
+			  (IP +)
+			  (RS ]))
+		  (NP-SBJ it)
+		  (VP goes
+		      (PP (ADVP right)
+			  through
+			  (NP you))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (ADJP-PRD really different
+		   (PP from
+		       (NP (NP Utah 's)
+			   weather))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP thought
+	 (SBAR 0
+	       (S (NP-SBJ Utah)
+		  (VP was
+		      (ADJP-PRD cold)))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ Iowa)
+		  (VP is
+		      (ADJP-PRD (NP-ADV a lot) colder)))))
+     .
+     E_S))
+( (CODE SpeakerA23 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ see)
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (SBAR-PRD (WHADVP-1 how)
+		   (S (NP-SBJ it)
+		      (VP is
+			  (ADVP-MNR-PRD *T*-1)
+			  (PP-LOC in
+				  (NP Texas)))))
+	 ,
+	 (ADVP too))
+     E_S))
+( (SBAR-PRP because
+	    (S (SBAR-TMP (WHADVP-1 when)
+			 (S (NP-SBJ it)
+			    (VP 's
+				(ADJP-PRD cold)
+				(ADVP-TMP *T*-1))))
+	       ,
+	       (NP-SBJ it)
+	       (VP 's
+		   (ADJP-PRD really cold)))
+	    .
+	    E_S))
+( (S-UNF So
+	 ,
+	 N_S))
+( (CODE SpeakerB24 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S (NP-SBJ there)
+		      (VP is
+			  (NP-PRD (NP any mountains)
+				  (SBAR (WHNP-1 0)
+					(S (NP-SBJ *T*-1)
+					   (VP to
+					       (VP stop
+						   (NP the wind)))))))))))
+     .
+     E_S))
+( (CODE SpeakerA25 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ 's
+	     (NP-SBJ that)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerB26 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP think
+	     (SBAR 0
+		   (S (NP-SBJ there)
+		      (VP is
+			  (NP-PRD (NP any mountains)
+				  (SBAR (WHNP-1 0)
+					(S (NP-SBJ *T*-1)
+					   (VP to
+					       (VP stop
+						   (NP the wind)))))))))))
+     .
+     E_S))
+( (CODE SpeakerA27 .))
+( (INTJ Right
+	.
+	E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (S-2 So
+       (NP-SBJ the humidity)
+       (VP is
+	   (PRN (S (NP-SBJ I)
+		   (VP think
+		       (SBAR 0
+			     (S *T*-2)))))
+	   (SBAR-NOM-PRD (WHNP-1 what)
+			 (S (NP-SBJ *T*-1)
+			    (VP does
+				(NP it)))))
+       .
+       E_S))
+( (CODE SpeakerB28 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (ADJP-PRD true)))))
+     .
+     E_S))
+( (CODE SpeakerA29 .))
+( (SBAR-PRP Because
+	    (S (EDITED (RM [)
+		       (NP-SBJ I)
+		       ,
+		       (IP +))
+	       (NP-SBJ I)
+	       (RS ])
+	       (VP noticed
+		   (SBAR-TMP (WHADVP-1 when)
+			     (S (NP-SBJ I)
+				(VP got
+				    (ADVP-LOC here)
+				    (ADVP-TMP *T*-1))))
+		   ,
+		   (ADVP too)))
+	    ,
+	    E_S))
+( (SBAR-PRP because
+	    (INTJ like)
+	    (S (NP-SBJ I)
+	       (VP-UNF 'd))
+	    ,
+	    N_S))
+( (S (SBAR-TMP (WHADVP-1 when)
+	       (S (NP-SBJ it)
+		  (VP would
+		      (VP snow
+			  (PP-LOC in
+				  (NP Texas))
+			  (ADVP-TMP *T*-1)))))
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF would
+			(ADVP just)))
+	     ,
+	     (IP +))
+     (PRN (S (NP-SBJ I)
+	     (VP mean)))
+     (NP-SBJ we)
+     (VP 'd
+	 (RS ])
+	 (VP be
+	     (EDITED (RM [)
+		     (X f-)
+		     ,
+		     (IP +))
+	     (ADJP-PRD really cold)))
+     (RS ])
+     E_S))
+( (CODE SpeakerB30 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA31 .))
+( (S and
+     (NP-SBJ-1 we)
+     (VP 'd
+	 (VP have
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP get
+			(ADJP-PRD really warm))))))
+     ,
+     E_S))
+( (S and
+     (ADVP-LOC here)
+     (NP-SBJ you)
+     (VP can
+	 (ADVP almost)
+	 not
+	 (ADVP even)
+	 (VP wear
+	     (NP a coat)
+	     (ADVP-LOC outside)
+	     (SBAR-TMP (WHADVP-1 when)
+		       (S (NP-SBJ it)
+			  (VP 's
+			      (VP snowing
+				  (ADVP-TMP *T*-1)))))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ you)
+		(VP-UNF do
+			n't))
+	     (IP +))
+     (NP-SBJ you)
+     (VP do
+	 n't
+	 (RS ])
+	 (VP feel
+	     (ADJP-PRD super cold)))
+     .
+     E_S))
+( (CODE SpeakerB32 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (CODE SpeakerA33 .))
+( (S (NP-SBJ It)
+     (VP was
+	 (ADJP-PRD weird))
+     .
+     E_S))
+( (CODE SpeakerB34 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA35 .))
+( (SBARQ (EDITED (RM [)
+		 But
+		 ,
+		 (IP +))
+	 so
+	 (RS ])
+	 (WHADVP-1 how long ago)
+	 (SQ did
+	     (NP-SBJ you)
+	     (VP graduate
+		 (ADVP-TMP *T*-1)))
+	 ?
+	 E_S))
+( (SQ Or
+      did
+      (NP-SBJ you)
+      ,
+      E_S))
+( (S-UNF or
+	 ,
+	 N_S))
+( (CODE SpeakerB36 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ I)
+     (VP graduated
+	 (PP-TMP in
+		 (NP nineteen eighty-seven)))
+     .
+     E_S))
+( (CODE SpeakerA37 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ my husband)
+     (VP got
+	 (NP his doctorate)
+	 (PP-LOC at
+		 (NP B Y U)))
+     ,
+     E_S))
+( (S so
+     (NP-SBJ that)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (S (CONJP and so)
+     (NP-SBJ he)
+     (ADVP just)
+     (VP graduated
+	 (NP-TMP this past year))
+     .
+     E_S))
+( (CODE SpeakerA39 .))
+( (INTJ Oh
+	.
+	E_S))
+( (S So
+     (NP-SBJ you)
+     (ADVP just)
+     (ADVP barely)
+     (VP moved
+	 (ADVP-DIR away))
+     ?
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ we)
+		(ADVP really)
+		(VP-UNF miss))
+	     ,
+	     (IP +))
+     (INTJ Well)
+     ,
+     (NP-SBJ we)
+     (ADVP really)
+     (VP miss
+	 (RS ])
+	 (NP Utah))
+     .
+     E_S))
+( (CODE SpeakerA41 .))
+( (SQ Do
+      (NP-SBJ you)
+      (VP like
+	  (NP it)
+	  (PP-LOC out
+		  (ADVP there)))
+      ?
+      E_S))
+( (CODE SpeakerB42 .))
+( (S (NP-SBJ We)
+     (VP miss
+	 (NP the mountains))
+     .
+     E_S))
+( (CODE SpeakerA43 .))
+( (S (NP-SBJ You)
+     (VP do)
+     ?
+     E_S))
+( (CODE SpeakerB44 .))
+( (CODE SpeakerA45 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB46 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ it)
+	       (VP 's
+		   ,
+		   (INTJ like)
+		   ,
+		   (ADJP-PRD really flat)
+		   (ADVP-LOC here)))
+	    .
+	    E_S))
+( (FRAG (INTJ Well)
+	,
+	(ADJP not
+	      (ADJP flat)
+	      ,
+	      but
+	      (ADJP hilly))
+	.
+	E_S))
+( (FRAG But
+	(NP (NP no big mountains)
+	    or
+	    (NP anything))
+	.
+	E_S))
+( (CODE SpeakerA47 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (S So
+     (NP-SBJ you)
+     (ADVP just)
+     (VP moved
+	 (ADVP-DIR away)
+	 (ADVP-TMP (NP a year)
+		   ago))
+     ?
+     E_S))
+( (CODE SpeakerB48 .))
+( (FRAG (INTJ Uh)
+	,
+	(PP-TMP in
+		(NP August))
+	.
+	E_S))
+( (CODE SpeakerA49 .))
+( (FRAG (INTJ Wow)
+	,
+	(ADJP really recent)
+	.
+	E_S))
+( (CODE SpeakerB50 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (SBARQ But
+	 ,
+	 (INTJ uh)
+	 ,
+	 (EDITED (RM [)
+		 (INTJ see)
+		 ,
+		 (IP +))
+	 (INTJ see)
+	 (RS ])
+	 (WHNP-1 (WHNP what)
+		 (ADVP else))
+	 (SQ can
+	     (NP-SBJ I)
+	     (VP say
+		 (NP *T*-1)
+		 (PP about
+		     (NP the weather))))
+	 .
+	 E_S))
+( (S (INTJ Uh)
+     ,
+     ,
+     (INTJ well)
+     ,
+     (NP-SBJ today)
+     (VP was
+	 (ADJP-PRD warmer))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP was
+	 (INTJ like)
+	 (NP-PRD forty-five))
+     .
+     E_S))
+( (CODE SpeakerA51 .))
+( (FRAG (INTJ Oh)
+	,
+	(ADJP warm)
+	.
+	E_S))
+( (CODE SpeakerB52 .))
+( (SBARQ So
+	 ,
+	 (WHNP-1 what)
+	 (SQ 's
+	     (NP-SBJ the temperature)
+	     (NP-PRD *T*-1)
+	     (EDITED (PP-UNF up))
+	     (NP-TMP today)
+	     (PP-LOC over
+		     (ADVP there)))
+	 ?
+	 E_S))
+( (CODE SpeakerA53 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ man)
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ-1 it)
+		(VP 's
+		    (VP got
+			(S (NP-SBJ *-1)
+			   (VP to
+			       (VP-UNF be
+				       (IP +)
+				       (INTJ like)))))))
+	     ,)
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADVP probably)
+	 (NP-PRD fifty
+		 ,
+		 fifty-five)
+	 ,
+	 (ADVP maybe))
+     .
+     E_S))
+( (CODE SpeakerB54 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerA55 .))
+( (FRAG (ADVP Maybe)
+	not
+	(ADJP that warm)
+	.
+	E_S))
+( (FRAG (ADVP Probably)
+	(NP-UNF about
+		,
+		(INTJ uh))
+	,
+	N_S))
+( (INTJ yeah
+	.
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ It)
+		(VP-UNF 's
+			not))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 not
+	 (RS ])
+	 (ADJP-PRD that cold)
+	 ,
+	 (ADVP really))
+     .
+     E_S))
+( (CODE SpeakerB56 .))
+( (S And
+     (SBAR-TMP (WHADVP-1 whenever)
+	       (S (NP-SBJ I)
+		  (VP remembered
+		      (NP (NP the weather reports)
+			  (PP-LOC in
+				  (NP Utah)))
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ I)
+     (ADVP-TMP never)
+     (ADVP really)
+     (VP remember
+	 (S (NP-SBJ them)
+	    (VP talking
+		(ADVP too much)
+		(PP about
+		    (NP wind chill)))))
+     .
+     E_S))
+( (CODE SpeakerA57 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB58 .))
+( (S But
+     (NP-SBJ they)
+     (VP talk
+	 (PP about
+	     (NP wind chill))
+	 (ADVP-LOC here)
+	 (NP-TMP all the time))
+     .
+     E_S))
+( (CODE SpeakerA59 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (NP-PRD a big deal)
+	 (PP-LOC in
+		 (NP Texas))
+	 ,
+	 (ADVP too))
+     .
+     E_S))
+( (CODE SpeakerB60 .))
+( (S (NP-SBJ They)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP could
+		      (VP be
+			  ,
+			  (NP-PRD (NP (QP like
+					  ,
+					  six) degrees)
+				  (NAC *ICH*-1))
+			  (ADVP-LOC out)
+			  (NAC-1 and
+				 ,
+				 (INTJ like)
+				 ,
+				 (NP negative forty-one wind chill)))))))
+     .
+     E_S))
+( (CODE SpeakerA61 .))
+( (INTJ Um
+	.
+	E_S))
+( (CODE SpeakerB62 .))
+( (S So
+     ,
+     (NP-SBJ that)
+     (VP 's
+	 (SBAR-NOM-PRD (WHNP-1 what)
+		       (S (NP-SBJ we)
+			  (VP 're
+			      not
+			      (ADJP-PRD used
+					(PP to
+					    (NP *T*-1)))))))
+     .
+     E_S))
+( (CODE SpeakerA63 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP makes
+	 (NP a big difference))
+     .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerB64 .))
+( (S-UNF So
+	 ,
+	 (INTJ oh)
+	 ,
+	 (NP-SBJ I)
+	 ,
+	 N_S))
+( (CODE SpeakerA65 .))
+( (SQ So
+      ,
+      did
+      (NP-SBJ-1 you)
+      (VP (TYPO used) 
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP ski)))
+	  (SBAR-TMP (WHADVP-2 when)
+		    (S (NP-SBJ you)
+		       (VP were
+			   (PP-LOC-PRD out
+				       (ADVP here))
+			   (ADVP-TMP *T*-2)))))
+      ?
+      E_S))
+( (CODE SpeakerB66 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ 's
+	     (NP-SBJ that)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerA67 .))
+( (SQ Did
+      (NP-SBJ-1 you)
+      (VP (TYPO used) 
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP ski)))
+	  (SBAR-TMP (WHADVP-2 when)
+		    (S (NP-SBJ you)
+		       (VP were
+			   (PP-LOC-PRD in
+				       (NP Utah))
+			   (ADVP-TMP *T*-2)))))
+      ?
+      E_S))
+( (CODE SpeakerB68 .))
+( (S (INTJ Oh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 've
+			(ADVP only)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP 've
+	 (ADVP only)
+	 (RS ])
+	 (VP skied
+	     (PP-LOC in
+		     (NP Utah))
+	     (ADVP-TMP once)))
+     .
+     E_S))
+( (CODE SpeakerA69 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerB70 .))
+( (S (NP-SBJ I)
+     (ADVP only)
+     (VP skied
+	 (ADVP-TMP once)
+	 (NP-TMP my whole life))
+     .
+     E_S))
+( (CODE SpeakerA71 .))
+( (CODE SpeakerB72 .))
+( (SQ But
+      ,
+      do
+      (NP-SBJ you)
+      (VP do
+	  (NP (NP a lot)
+	      (PP of
+		  (NP skiing)))
+	  (ADVP-LOC there))
+      ?
+      E_S))
+( (CODE SpeakerA73 .))
+( (FRAG (INTJ Uh)
+	,
+	not
+	(NP tons)
+	,
+	E_S))
+( (S but
+     (NP-SBJ-1 I)
+     (VP like
+	 (S (NP-SBJ *-1)
+	    (VP to 
+		(VP *?*
+		    (SBAR-TMP (WHADVP-2 when)
+			      (S (NP-SBJ I)
+				 (VP get
+				     (NP a chance)
+				     (ADVP-TMP *T*-2))))))))
+     .
+     E_S))
+( (CODE SpeakerB74 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA75 .))
+( (S (NP-SBJ I)
+     (VP 've
+	 (ADVP only)
+	 (VP (VP been
+		 (ADVP-LOC *?*)
+		 (ADVP-TMP once)
+		 (ADVP so far))
+	     ,
+	     but
+	     (VP had
+		 (NP the opportunity)
+		 (PP-TMP (NP a couple times)
+			 since
+			 (ADVP-TMP then)))))
+     .
+     E_S))
+( (S (NP-SBJ *)
+     (ADVP Just)
+     (VP saving
+	 (NP my money)
+	 (PP for
+	     (NP (NP Christmas things)
+		 and
+		 (NP that))))
+     .
+     E_S))
+( (CODE SpeakerB76 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA77 .))
+( (CODE SpeakerB78 .))
+( (SQ So
+      is
+      (NP-SBJ this)
+      (NP-PRD (NP your first year)
+	      (PP-LOC in
+		      (NP Utah)))
+      ?
+      E_S))
+( (CODE SpeakerA79 .))
+( (INTJ (INTJ Uh)
+	,
+	(INTJ no)
+	,
+	E_S))
+( (S (NP-SBJ this)
+     (VP is
+	 (ADVP actually)
+	 (NP-PRD my third year))
+     .
+     E_S))
+( (CODE SpeakerB80 .))
+( (S And
+     (NP-SBJ you)
+     (VP 're
+	 (VP going
+	     (PP to
+		 (NP school))
+	     (ADVP-LOC there)))
+     ?
+     E_S))
+( (CODE SpeakerA81 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB82 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA83 .))
+( (INTJ Yep
+	.
+	E_S))
+( (CODE SpeakerB84 .))
+( (PP-LOC At
+	  (NP (NP U)
+	      (PP of
+		  (NP U)))
+	  ,
+	  E_S))
+( (S-UNF or
+	 ,
+	 N_S))
+( (CODE SpeakerA85 .))
+( (INTJ No
+	,
+	E_S))
+( (PP-LOC at
+	  (NP B Y U)
+	  .
+	  E_S))
+( (CODE SpeakerB86 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerA87 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB88 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA89 .))
+( (S (INTJ So)
+     ,
+     but
+     ,
+     (NP-SBJ I)
+     (VP 'll
+	 (VP be
+	     (ADVP-LOC-PRD here)
+	     (NP-TMP a long time)
+	     ,
+	     (PP at
+		 (NP this rate))))
+     .
+     E_S))
+( (CODE SpeakerB90 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ 's
+	     (NP-SBJ your major)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerA91 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ it)
+     (VP was
+	 (NP-PRD nursing))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (VP 'm
+	 (PP-PRD in
+		 (NP (NP the process)
+		     (PP of
+			 (S-NOM (NP-SBJ *)
+				(VP changing
+				    (NP it))))))
+	 (ADVP-TMP right now))
+     .
+     E_S))
+( (CODE SpeakerB92 .))
+( (INTJ Uh-huh
+	,
+	E_S))
+( (INTJ oh
+	.
+	E_S))
+( (CODE SpeakerA93 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ it)
+	       (VP 's
+		   (ADJP-PRD really
+			     ,
+			     really
+			     competitive)
+		   (PP-LOC at
+			   (NP B Y U))))
+	    .
+	    E_S))
+( (CODE SpeakerB94 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA95 .))
+( (S (NP-SBJ-1 You)
+     (VP have
+	 (S (NP-SBJ-2 *-1)
+	    (VP to
+		(VP have
+		    (INTJ like)
+		    (NP a three seven)
+		    (S-PRP (NP-SBJ *-2)
+			   (VP to
+			       (VP get
+				   (ADVP in))))))))
+     E_S))
+( (S so
+     ,
+     (NP-SBJ It)
+     (VP-UNF 's
+	     (ADVP really))
+     ,
+     N_S))
+( (CODE SpeakerB96 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (CODE SpeakerA97 .))
+( (S (NP-SBJ-1 I)
+     (VP 'm
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP look
+			(PP into
+			    (NP some other fields)))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 'd
+	 (VP-UNF like))
+     ,
+     N_S))
+( (S (NP-TPC-1 (NP all the science classes)
+	       and
+	       (NP that))
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (ADVP just)
+	 not
+	 (ADVP really)
+	 (VP enjoying
+	     (NP *T*-1)
+	     (ADVP too much)))
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (ADVP better)
+		  (VP get
+		      (PP into
+			  (NP (NP something)
+			      (SBAR (WHADVP-1 that)
+				    (S (NP-SBJ I)
+				       (VP can
+					   (VP enjoy
+					       (NP (NP the process)
+						   (PP of
+						       (S-NOM (NP-SBJ *)
+							      (VP going
+								  (PP to
+								      (NP school))))))
+					       (ADVP *T*-1)))))))))))
+     E_S))
+( (CODE SpeakerB98 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA99 .))
+( (S-UNF so
+	 ,
+	 N_S))
+( (CODE SpeakerB100 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (NP-PRD a good idea))
+     .
+     E_S))
+( (CODE SpeakerA101 .))
+( (SQ Did
+      (NP-SBJ you)
+      (VP graduate
+	  (PP in
+	      (NP a certain field)))
+      E_S))
+( (S-UNF or
+	 ,
+	 N_S))
+( (CODE SpeakerB102 .))
+( (FRAG (INTJ Uh)
+	,
+	(NP education)
+	.
+	E_S))
+( (S (NP-SBJ I)
+     (VP got
+	 (NP a double major))
+     .
+     E_S))
+( (CODE SpeakerA103 .))
+( (PP-UNF In
+	  ,
+	  N_S))
+( (CODE SpeakerB104 .))
+( (FRAG (INTJ Uh)
+	,
+	(NP (NP elementary)
+	    and 
+	    (NP special ed))
+	.
+	E_S))
+( (CODE SpeakerA105 .))
+( (INTJ Really
+	?
+	E_S))
+( (CODE SpeakerB106 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA107 .))
+( (S (NP-SBJ That)
+     (X (SBAR-NOM-PRD (WHNP-1 what)
+		      (S (NP-SBJ my sister)
+			 (VP did
+			     (NP *T*-1)))))
+     .
+     E_S))
+( (CODE SpeakerB108 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerA109 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ you)
+     (VP might
+	 (VP know
+	     (NP her)))
+     .
+     E_S))
+( (S (NP-SBJ (TYPO Here) name)
+     (VP is
+	 (NP-PRD Lori
+		 ,
+		 Bird))
+     .
+     E_S))
+( (FRAG (ADVP Maybe)
+	not
+	.
+	E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ she)
+		  (VP graduated
+		      (PP-TMP around
+			      (ADVP then))
+		      ,
+		      (ADVP too)
+		      ,
+		      (ADVP though)
+		      ,
+		      (NP-TMP eighty-seven)
+		      (ADVP probably)))))
+     ,
+     E_S))
+( (S but
+     ,
+     (NP-SBJ she)
+     (VP got
+	 (NP-UNF her doc-))
+     ,
+     N_S))
+( (CODE SpeakerB110 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ well)
+     ,
+     (NP-SBJ I)
+     (VP-UNF ca
+	     n't)
+     ,
+     N_S))
+( (S (NP-SBJ there)
+     (VP are
+	 (NP-PRD (ADJP so many) girls)
+	 (PP in
+	     (NP all my classes)))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP ca
+	 n't
+	 (VP remember
+	     (NP (ADJP how many) people)))
+     .
+     E_S))
+( (CODE SpeakerA111 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ yeah
+	.
+	E_S))
+( (CODE SpeakerB112 .))
+( (CODE SpeakerA113 .))
+( (SBAR-PRP Because
+	    (S (NP-SBJ they)
+	       ,
+	       (ADVP-TMP since)
+	       ,
+	       (INTJ uh)
+	       ,
+	       (VP stopped
+		   (NP (NP that program)
+		       (PRN .
+			    (S (NP-SBJ I)
+			       (VP mean))
+			    ,)
+		       (SBAR (EDITED (RM [)
+				     (SBAR (WHADVP where)
+					   (S (NP-SBJ you)
+					      (VP-UNF can)))
+				     (IP +))
+			     (WHADVP-1 where)
+			     (S (NP-SBJ you)
+				(VP can
+				    (RS ])
+				    (VP get
+					(NP it)
+					(ADVP double)
+					(ADVP-MNR pretty easily)
+					(ADVP *T*-1))))))))
+	    .
+	    E_S))
+( (CODE SpeakerB114 .))
+( (SQ (INTJ Oh)
+      ,
+      have
+      (NP-SBJ they)
+      (VP *?*)
+      ?
+      E_S))
+( (CODE SpeakerA115 .))
+( (CODE SpeakerB116 .))
+( (INTJ Oh
+	.
+	E_S))
+( (CODE SpeakerA117 .))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP-UNF 's
+	     (RS ])
+	     (ADVP really))
+     ,
+     N_S))

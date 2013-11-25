@@ -1,0 +1,80 @@
+
+
+( (S (NP-SBJ Southmark Corp.)
+     (VP said
+         (SBAR (SBAR that
+                     (S (NP-SBJ it)
+                        (VP filed
+                            (NP (NP part)
+                                (PP of
+                                    (NP its 10-K report)))
+                            (PP-CLR with
+				    (NP the Securities and Exchange Commission)))))
+               , 
+	       but
+               (SBAR that
+                     (S (NP-SBJ the filing)
+                        (VP does n't
+                            (VP include
+                                (NP (NP its audited financial statements)
+                                    and
+                                    (NP related information))))))))
+     .))
+( (S (NP-SBJ-1 The real estate and thrift concern)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP operating
+		(PP-LOC under
+			(NP bankruptcy-law proceedings))))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP told
+                      (NP the SEC)
+                      (SBAR 0
+                            (S (NP-SBJ it)
+                               (VP could n't
+                                   (VP provide
+                                       (NP financial statements)
+                                       (PP-TMP by
+					       (NP (NP the end)
+						   (PP of
+						       (NP its first extension))))
+                                       ``
+                                       (PP without
+                                           (NP unreasonable burden or expense))))))))))
+     .
+     ''))
+( (S (NP-SBJ The company)
+     (VP asked
+         (PP-CLR for
+		 (NP a 15-day extension))
+         (NP-TMP (NP Sept. 30)
+		 ,
+		 (SBAR (WHADVP-1 when)
+		       (S (NP-SBJ the financial reports)
+			  (VP were
+			      (ADJP-PRD due)
+			      (ADVP-TMP *T*-1))))))
+     .))
+( (S (NP-SBJ Southmark)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 it)
+                  (VP plans
+                      (S (NP-SBJ *-2)
+                         (VP to
+                             (VP amend
+                                 (NP-3 its 10K)
+                                 (S-CLR (NP-SBJ *-3)
+					(VP to
+					    (VP provide
+						(NP financial results))))
+				 (ADVP-TMP (ADVP as soon)
+					   (SBAR as
+						 (S (NP-SBJ-1 its audit)
+						    (VP is
+							(VP completed
+							    (NP *-1)))))))))))))
+     .))

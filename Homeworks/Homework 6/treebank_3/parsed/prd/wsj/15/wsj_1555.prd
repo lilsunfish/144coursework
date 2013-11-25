@@ -1,0 +1,336 @@
+
+
+( (S (NP-SBJ Hewlett-Packard Co.)
+     (VP will
+         (VP announce 
+	     (NP-TMP today)
+             (NP (NP a software program)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ *T*-1)
+                          (VP allows
+			      (S (NP-SBJ-2 (NP computers)
+					   (PP-LOC in
+						   (NP a network)))
+                                 (VP to
+                                     (VP speed
+                                         (ADVP-CLR up)
+                                         (NP computing tasks)
+					 (PP-MNR by
+						 (S-NOM (NP-SBJ *-2)
+							(VP sending
+							    (NP the tasks)
+							    (PP-DIR to
+								    (NP each other))))))))))))))
+     .))
+( (S (S-ADV (NP-SBJ-1 *-2)
+	    (VP Called
+		(S (NP-SBJ *-1)
+		   (NP-TTL-PRD Task Broker))))
+     ,
+     (NP-SBJ-2 the program)
+     (VP acts 
+	 (PP (NP-ADV something)
+	     like
+	     (NP (NP an auctioneer)
+		 (PP-LOC among
+			 (NP (NP a group)
+			     (PP of
+				 (NP computers))
+			     (VP wired
+				 (NP *)
+				 (ADVP-CLR together)))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ a machine)
+		  (VP has
+		      (NP a big computing task))))
+     ,
+     (NP-SBJ Task Broker)
+     (VP asks
+         (NP (NP other computers)
+             (PP-LOC in
+		     (NP the network)))
+         (PP-CLR for
+		 (NP `` 
+		     (NP bids)
+		     ''
+		     (PP on
+			 (NP the job)))))
+     .))
+( (S (NP-SBJ It)
+     (ADVP then)
+     (VP (VP determines
+             (SBAR (WHNP-1 which machine)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP is
+                          (ADJP-PRD free
+                                    (S (NP-SBJ *-2)
+                                       (VP to
+                                           (VP do
+                                               (NP the task)
+                                               (ADVP-MNR most quickly)))))))))
+         and
+         (VP sends
+             (NP the task)
+             (PP-DIR to
+		     (NP that machine))))
+     .))
+( (S (NP-SBJ Hewlett-Packard)
+     (VP claims
+         (SBAR that
+               (S (NP-SBJ the software)
+                  (VP (VP allows
+			  (S (NP-SBJ a network)
+			     (VP to
+				 (VP run
+				     (NP (NP (ADJP (QP three times) 
+						   as many)
+					     tasks)
+					 (PP as
+					     (NP conventional networks)))))))
+		      and
+		      (VP will
+			  (VP run
+			      (NP each task)
+			      (ADVP-MNR twice as fast))))))) 
+     .))
+( (S-1 (NP-SBJ The new Hewlett-Packard program)
+       (PRN ,
+	    (SINV (VP said
+		      (SBAR 0
+			    (S *T*-1)))
+		  (NP-SBJ (NP analyst John McCarthy)
+			  (PP-LOC at
+				  (NP (NP Forrester Research Inc.)
+				      ,
+				      (NP a computer-market research company)))))
+	    ,)
+       ``
+       (VP is
+	   (NP-PRD a key building block)
+	   (SBAR-ADV as
+		     (S (NP-SBJ people)
+			(VP move
+			    (PP-DIR to
+				    (NP (NP this new model)
+					(PP of
+					    (NP distributed processing))))))))
+       . 
+       ''))
+( (S (PP-LOC In
+	     (NP (NP today 's)
+		 computer networks))
+     ,
+     (NP-SBJ-2 some machines)
+     (ADVP-TMP often)
+     (VP sit
+         (S-ADV (NP-SBJ *-2) 
+		(ADJP-PRD idle))
+	 (SBAR-TMP while
+		   (S (NP-SBJ-1 others)
+		      (VP are
+			  (VP overtaxed
+			      (NP *-1))))))
+     .))
+( (S-2 (PP With
+	   (NP the Hewlett-Packard program))
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,) 
+       ``
+       (NP-SBJ You)
+       (VP get
+	   (NP (NP more bang)
+	       (PP for
+		   (NP (NP the buck)
+		       (SBAR (WHNP-1 0)
+			     (S (NP-SBJ you)
+				(VP 've
+				    (VP spent
+					(NP *T*-1)
+					(PP-CLR on
+						(NP computers))))))))))
+       . 
+       ''))
+( (S (NP-SBJ (NP The program)
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ-1 *T*-2)
+                      (VP will
+                          (VP be
+                              (VP shipped
+                                  (NP *-1)
+                                  (PP-TMP in
+					  (NP January 1990)))))))
+             ,)
+     (VP runs
+         (PP-LOC-CLR on 
+		     (NP the Unix operating system)))
+     .))
+( (S (NP-SBJ Hewlett-Packard)
+     (VP will
+         (VP charge
+             (NP $ 5,000 *U*)
+             (PP-CLR for
+		     (NP (NP a license)
+			 (VP covering
+			     (NP 10 users))))))
+     .))
+( (S (NP-SBJ The program)
+     (ADVP-TMP now)
+     (VP works
+         (PP-LOC-CLR (PP on 
+			 (NP all Hewlett-Packard and Apollo workstations))
+		     and
+		     (PP on
+			 (NP (NP computers)
+			     (VP made
+				 (NP *)
+				 (PP by
+				     (NP-LGS (NP Multiflow Computer Inc.)
+					     (PP of
+						 (NP-LOC (NP Branford)
+							 ,
+							 (NP Conn))))))))))
+     .))
+( (S (NP-SBJ Hewlett-Packard)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP sell
+                          (NP (NP versions)
+			      (SBAR *ICH*-2))
+			  (NP-TMP later next year)
+			  (SBAR-2 (WHNP-1 that)
+				  (S (NP-SBJ *T*-1)
+				     (VP run
+					 (PP-LOC-CLR on 
+						     (NP (NP Sun Microsystems Inc.)
+							 and
+							 (NP Digital Equipment Corp. machines)))))))))))
+     .))
+( (S (NP-SBJ The Task Broker)
+     (VP differs
+         (PP-CLR from
+		 (NP (NP other programs)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP spread
+				  (NP computing tasks)
+				  (PP-DIR around
+					  (NP a network))))))))
+     .))
+( (S (NP-SBJ-1 (NP A (ADJP previously available) program)
+	       (VP called
+		   (S (NP-SBJ *)
+		      (NP-PRD Network Computing System)))
+	       ,
+	       (VP developed
+		   (NP *)
+		   (PP by
+		       (NP-LGS (NP Hewlett-Packard 's)
+			       Apollo division))))
+     ,
+     (PP for
+         (NP instance))
+     ,
+     (VP (VP takes
+             (NP a task))
+         and
+         (VP splits
+             (NP it)
+             (PRT up)
+             (PP-CLR into
+		     (NP parts)))
+         ,
+         (S-ADV (NP-SBJ *-1)
+		(VP divvying
+		    (PRT up)
+		    (NP those parts)
+		    (PP-DIR to
+			    (NP (NP several computers)
+				(PP-LOC in
+					(NP a network))))
+		    (PP for
+			(NP simultaneous processing)))))
+     .))
+( (S But
+     (NP-SBJ-1 (NP programs)
+               (PP-LOC in
+		       (NP individual computers)))
+     (VP must
+         (VP be
+             (VP revised
+                 (NP *-1)
+		 (SBAR-PRP in order
+			   (S (NP-SBJ *-1)
+			      (VP to
+				  (VP work
+				      (PP-CLR with
+					      (NP that system)))))))))
+     .))
+( (S-2 (S (NP-SBJ-1 Applications)
+	  (VP wo n't
+	      (VP have
+		  (S (NP-SBJ-3 *-1)
+		     (VP to
+			 (VP be
+			     (VP rewritten
+				 (NP *-3)
+				 (S-PRP (NP-SBJ *-3)
+					(VP to
+					    (VP work
+						(PP-CLR with
+							(NP Task Broker))))))))))))
+       (PRN ,
+	    (S (NP-SBJ Hewlett-Packard)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,) 
+       and
+       (S (NP-SBJ-4 (NP the user)
+		    (PP of
+			(NP a computer)))
+	  (VP wo n't
+	      (VP be
+		  (ADJP-PRD able
+			    (S (NP-SBJ *-4)
+			       (VP to
+				   (VP tell
+				       (SBAR that
+					     (S (NP-SBJ another machine)
+						(VP is
+						    (VP doing
+							(NP the work))))))))))))
+       .))
+( (SINV (S-TPC-2 (NP-SBJ The Task Broker)
+		 ``
+		 (VP turns
+		     (NP that network)
+		     (PP-CLR into 
+			     (PRN --
+				  (ADJP (ADJP as far)
+					(SBAR as
+					      (S (NP-SBJ-1 the user)
+						 (VP is
+						     (VP concerned
+							 (NP *-1))))))
+				  --)
+			     (NP one giant computer))))
+	, 
+	''
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP Bill Kay)
+		,
+		(NP (NP general manager)
+		    (PP of
+			(NP (NP Hewlett-Packard 's)
+			    workstation group))))
+	.))

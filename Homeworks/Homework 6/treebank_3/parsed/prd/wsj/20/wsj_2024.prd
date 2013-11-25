@@ -1,0 +1,42 @@
+
+
+( (S (NP-SBJ-2 Robert J. Regal)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-2)
+		(NP-PRD (NP (NP president)
+			    (PP *RNR*-1))
+			and
+			(NP (NP chief executive officer)
+			    (PP *RNR*-1))
+			(PP-1 of
+			      (NP (NP this company 's)
+				  Universal-Rundle Corp. unit))))))
+     .))
+( (S (NP-SBJ Mr. Regal)
+     (VP had
+         (VP been
+             (NP-PRD (NP (NP president)
+                         (PP *RNR*-2))
+                     and
+                     (NP (NP chief executive)
+                         (PP *RNR*-2))
+                     (PP-2 of
+                           (NP RBS Industries Inc)))))
+     .))
+( (S (NP-SBJ (NP Robert H. Carlson)
+             ,
+             (NP (NP previous (NX (NX president) and (NX chief executive))) 
+                 (PP of
+                     (NP Universal-Rundle)))
+             ,)
+     (VP will
+         (VP assume
+             (NP (NP the title)
+                 (PP of
+                     (NP (NP chairman)
+                         (PP of
+                             (NP (NP the unit)
+                                 ,
+                                 (NP a vitreous-china maker))))))))
+     .))

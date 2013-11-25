@@ -1,0 +1,78 @@
+
+
+( (S (NP-SBJ Conseco Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP is
+                      (VP calling
+                          (PP-CLR for
+				  (NP (NP the redemption)
+				      (PP-TMP on
+					      (NP Dec. 7))
+				      (PP of
+					  (NP (NP all the 800,000 remaining shares)
+					      (ADJP outstanding)
+					      (PP of
+						  (NP its 
+						      (ADJP $ 1.875 *U*) 
+						      Series A convertible preferred stock))))
+				      (PP at
+					  (NP (NP $ 26.805 *U*)
+					      (NP-ADV a share))))))))))
+     .))
+( (S (NP-SBJ The insurance concern)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP all conversion rights)
+                          (PP on
+                              (NP the stock)))
+                  (VP will
+                      (VP terminate
+                          (PP-TMP on
+				  (NP Nov. 30)))))))
+     .))
+( (S (PP-TMP Until
+	     (NP then))
+     ,
+     (NP-SBJ Conseco)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the stock)
+                  (VP remains
+                      (ADJP-PRD convertible
+				(PP into
+				    (NP common stock))
+				(PP at
+				    (NP (NP the rate)
+					(PP of
+					    (NP (NP 1.439 shares)
+						(PP of
+						    (NP common stock))
+						(PP for
+						    (NP (NP each share)
+							(PP of
+							    (NP preferred stock))
+							,))))
+					(SBAR (WHNP-1 which)
+					      (S (NP-SBJ *T*-1)
+						 (VP is
+						     (ADJP-PRD equivalent
+							       (PP to
+								   (NP (NP a conversion price)
+								       (PP of
+									   (NP (NP $ 17.50 *U*)
+									       (NP-ADV a common share))))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange trading))
+     (NP-TMP Friday)
+     ,
+     (NP-SBJ Conseco)
+     (VP closed
+         (PP-LOC-CLR at
+		     (NP $ 19.50 *U*))
+         ,
+         (ADVP down 
+               (NP 25 cents)))
+     .))

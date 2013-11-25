@@ -1,0 +1,192 @@
+
+
+( (S (NP-SBJ International Business Machines Corp.)
+     (VP made
+         (NP news)
+	 (NP-TMP this summer)
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ it)
+		      (VP landed
+			  (NP an unusual contract
+			      (S (NP-SBJ *)
+				 (VP to
+				     (VP manage
+					 (NP (NP all)
+					     (PP of
+						 (NP (NP Eastman Kodak Co. 's)
+						     data-processing needs)))))))
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S But
+     (NP-SBJ-1 the computer giant)
+     (VP appears
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP have
+                    (VP lost
+                        (NP (NP a second key contract)
+                            (PP with
+                                (NP Kodak)))
+			(PP to
+			    (NP archrival Digital Equipment Corp)))))))
+     .))
+( (S (NP-SBJ Kodak)
+     (NP-TMP yesterday)
+     (VP confirmed
+         (SBAR that
+               (S (NP-SBJ it)
+                  (VP has
+                      (VP entered
+                          (NP negotiations)
+			  (PP-CLR with
+				  (NP-1 (ADJP Maynard , Mass.-based)
+					Digital))
+			  (S-CLR (NP-SBJ *-1)
+				 (VP to
+				     (VP manage
+					 (NP (NP all)
+					     (PP of
+						 (NP its voice and data communications needs)))))))))))
+     .))
+( (S (NP-SBJ (NP Kodak)
+             ,
+             (VP based
+                 (NP *)
+                 (PP-LOC-CLR in
+			     (NP (NP Rochester)
+				 ,
+				 (NP N.Y.))))
+	     ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ IBM)
+                  (ADVP also)
+                  (VP had
+                      (VP bid
+                          (PP-CLR for
+				  (NP the business)))))))
+     .))
+( (S (NP-SBJ-1 IBM)
+     (VP is
+         (VP based
+             (NP *-1)
+             (PP-LOC-CLR in
+			 (NP (NP Armonk)
+			     ,
+			     (NP N.Y .)))))))
+( (S (NP-SBJ The loss)
+     (VP is
+         (NP-PRD (NP a setback)
+		 (PP to
+		     (NP (NP IBM)
+			 ,
+			 (SBAR (WHNP-1 which)
+			       (S (NP-SBJ *T*-1)
+				  (VP pointed
+				      (PP-CLR to
+					      (NP the Kodak contract))
+				      (PP-CLR as
+					      (NP (NP an example)
+						  (PP of
+						      (NP (NP its success)
+							  (PP-LOC in
+								  (NP systems integration)))))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD (NP an emerging business)
+		 (SBAR (WHPP-1 in
+			       (WHNP which))
+		       (S (NP-SBJ (NP computer makers)
+				  or
+				  (NP consultants))
+			  (VP provide
+			      (NP (NP turnkey communications)
+				  and
+				  (NP computing services))
+			      (PP-CLR to
+				      (NP major corporations))
+			      (PP-LOC *T*-1))))))
+     .))
+( (S (NP-SBJ-2 A Kodak spokesman)
+     (VP declined
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP disclose
+                    (NP (NP the potential value)
+                        (PP of
+                            (NP (NP the contract)
+                                ,
+                                (SBAR (WHNP-1 which)
+                                      (S (NP-SBJ *T*-1)
+                                         (VP is
+                                             (ADVP still)
+					     (PP-PRD in
+						     (NP negotiation))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ (NP American Telephone & Telegraph)
+                          ,
+                          (NP MCI Communications Corp.)
+                          ,
+                          (NP Rochester Telephone Corp.)
+                          and
+                          (NP (NP IBM)
+                              (NP itself)))
+                  (VP would
+                      (ADVP likely)
+                      (VP be
+                          (NP-PRD (NP (NP Digital 's)
+				      subcontractors)
+				  (PP on
+				      (NP the project))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (SBAR-TMP (WHADVP-2 When)
+			   (S (NP-SBJ-3 we)
+			      (VP decided
+				  (S (NP-SBJ *-3)
+				     (VP to
+					 (VP look
+					     (PP-LOC outside
+						     (NP the company))
+					     (PP-CLR for
+						     (NP critical (UCP data-processing and communications) services)))))
+				  (ADVP-TMP *T*-2))))
+		 ,
+		 (NP-SBJ-4 we)
+		 (VP wanted
+		     (S (NP-SBJ *-4)
+			(VP to
+			    (VP get
+				(NP (NP the best vendor)
+				    (PP for
+					(NP that service))))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Paul Allen)
+		,
+		(NP the spokesman))
+	.))
+( (S ``
+     (NP-SBJ That)
+     (VP 's
+	 (SBAR-PRD (WHADVP-1 why)
+		   (S (NP-SBJ we)
+		      (VP (VP went
+			      (PP-CLR with
+				      (NP-2 IBM))
+			      (PP-CLR-3 for
+					(NP data center management)))
+			  ...
+			  and
+			  (VP (ADVP-TMP now)
+			      (NP=2 Digital)
+			      (PP-CLR=3 for
+					(NP voice and data telecommunications)))
+			  (ADVP-PRP *T*-1)))))
+     .))

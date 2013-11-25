@@ -1,0 +1,589 @@
+
+
+( (S (NP-SBJ (NP Microsoft)
+             and
+             (NP other software stocks))
+     (VP surged
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP leading
+		    (NP (NP the Nasdaq composite index)
+			(PP of
+			    (NP over-the-counter stocks)))
+		    (PP-DIR to
+			    (NP (NP its biggest advance)
+				(PP of
+				    (NP the year))))
+		    (PP on
+			(NP breathtaking volume)))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Leading
+		(NP the pack)))
+     ,
+     (NP-SBJ-1 Microsoft)
+     (VP soared
+	 (NP-EXT (NP (QP 3 3))
+		 , or
+		 (NP 4 %)
+		 ,)
+	 (PP-DIR to
+		 (NP (NP a record price)
+		     (PP of
+			 (NP (QP 84 1)))))
+	 (PP on
+	     (NP 1.2 million shares)))
+     .))
+( (S (PP On
+         (NP the other hand))
+     ,
+     (NP-SBJ-1 Valley National)
+     (VP tumbled
+         (NP-EXT 24 %)
+	 (PP-TMP after
+		 (S-NOM (NP-SBJ *-1)
+			(VP reporting
+			    (NP a sizable third-quarter loss)))))
+     .))
+( (S (NP-SBJ The Nasdaq composite)
+     (VP leaped
+         (NP-EXT (NP 7.52 points)
+		 , or
+		 (NP 1.6 %)
+		 ,)
+         (PP-DIR to
+		 (NP 470.80)))
+     .))
+( (S (NP-SBJ (NP Its largest previous rise)
+	     (NP-TMP this year))
+     (VP came
+	 (NP-TMP Aug. 7)
+	 ,
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ it)
+		      (VP gained
+			  (NP 4.31)
+			  (ADVP-TMP *T*-1)))))
+     .))
+( (S (NP-SBJ (NP The OTC market 's)
+	     largest stocks)
+     (VP soared
+	 (ADVP as well)
+	 ,
+	 (SBAR-ADV as
+		   (S (NP-SBJ (NP the Nasdaq 100)
+			      Index)
+		      (VP jumped
+			  (NP-EXT (NP 10.01)
+				  , or
+				  (NP 2 %)
+				  ,)
+			  (PP-DIR to
+				  (NP 463.06))))))
+     .))
+( (S (NP-SBJ The Nasdaq Financial Index)
+     (VP rose
+         (NP-EXT (NP 5.04)
+		 , or
+		 (NP 1.1 %)
+		 ,)
+         (PP-DIR to
+		 (NP 460.33)))
+     .))
+( (S (PP By
+         (NP comparison))
+     ,
+     (NP-SBJ (NP (NP the Dow Jones Industrials)
+                 and
+                 (NP the New York Stock Exchange Composite))
+             (NP each)) 
+     (VP rose
+         (NP-EXT 1.5 %))
+     .))
+( (S (NP-SBJ Volume)
+     (VP totaled
+         (NP (NP (QP 173.5 million) shares)
+	     ,
+	     (PP (NP-ADV 30 %) 
+		 above
+		 (NP (NP (NP this year 's)
+			 average daily turnover)
+		     (PP-LOC on
+			     (NP Nasdaq))))))
+     .))
+( (S (PP-LOC Among
+	     (NP broader Nasdaq industry groups))
+     ,
+     (NP-SBJ the utility index)
+     (VP gained
+         (NP 18.11)
+         (PP-DIR to
+		 (NP 761.38)))
+     .))
+( (S (NP-SBJ (NP The transportation and insurance sectors)
+             (NP each))
+     (VP posted
+         (NP (NP gains)
+             (PP of
+                 (NP 8.59)))
+	 ,
+	 (PP with
+	     (S-NOM (S (NP-SBJ-1 the transports)
+		       (VP finishing
+			   (PP-CLR-2 at
+				     (NP 486.74))))
+		    and
+		    (S (NP-SBJ=1 the insurers)
+		       (PP-CLR=2 at
+				 (NP 537.91))))))
+     .))
+( (S (S (NP-SBJ The Nasdaq industrial index)
+        (VP climbed
+            (NP-EXT 8.17)
+            (PP-DIR to
+		    (NP 458.52))))
+     , and
+     (S (NP-SBJ (NP the `` other finance '' index)
+                ,
+                (VP made
+                    (PRT up)
+		    (NP *)
+		    (PP-CLR of
+			    (NP (NP commercial banks)
+				and
+				(NP real estate and brokerage firms))))
+                ,)
+        (VP rose
+            (NP-EXT 3.97)
+            (PP-DIR to
+		    (NP 545.96))))
+     .))
+( (S (NP-SBJ (NP The index)
+             (PP of
+                 (NP smaller banks)))
+     (VP improved
+         (NP-EXT 1.97))
+     .))
+( (S (PP-TPC-2 Of
+	       (NP (NP the 4,346 issues)
+		   (SBAR (WHNP-1 that)
+			 (S (NP-SBJ *T*-1)
+			    (VP changed
+				(NP hands))))))
+     ,
+     (S (NP-SBJ (NP 1,435)
+		(PP *T*-2)) 
+        (VP rose))
+     and
+     (S (NP-SBJ (NP 629)
+		(PP *T*-2))
+        (VP fell))
+     .))
+( (S (NP-SBJ (NP Jeremiah Mullins)
+             ,
+             (NP (NP head)
+		 (PP of
+		     (NP OTC trading))
+                 (PP-LOC at
+			 (NP Dean Witter Reynolds)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (ADJP both institutional and retail) investors)
+                  (VP were
+                      (VP buying)))))
+     .))
+( (S-1 (S But
+	  (NP-SBJ there)
+	  (VP was
+	      (NP-PRD (NP a dearth)
+		      (PP of
+			  (NP sellers)))))
+       (PRN ,
+	    (S (NP-SBJ traders)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       so
+       (S (NP-SBJ-2 buyers)
+	  (VP had
+	      (S (NP-SBJ *-2)
+		 (VP to
+		     (VP bid
+			 (NP prices)
+			 (ADVP-DIR up))))
+	      (S-PRP (NP-SBJ *-2) 
+		     (VP to
+			 (VP entice
+			     (NP them))))))
+       .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ There)
+		 (VP 's
+		     (NP-PRD (NP no pressure)
+			     (PP on
+				 (NP OTC stocks)))
+		     (PP-TMP at
+			     (NP this point))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Mr. Mullins)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ *T*-1)
+			 (VP said
+			     (SBAR 0
+				   (S (NP-SBJ-3 some buyers)
+				      (VP are
+					  (VP beginning
+					      (S (NP-SBJ *-3)
+						 (VP to
+						     (VP shop
+							 (PP-LOC among
+								 (NP smaller OTC issues)))))))))))))
+	.))
+( (S (NP-SBJ (NP Microsoft 's)
+             surge)
+     (VP followed
+         (NP (NP a report)
+             (NP-TMP this week)
+             (PP of
+                 (NP (NP (ADJP substantially improved)
+			 earnings)
+                     (PP for
+                         (NP (NP its first quarter)
+                             ,
+                             (VP ended
+                                 (NP-TMP Sept. 30))))))))
+     .))
+( (S (NP-SBJ The stock)
+     (VP was
+         (VP trading
+             (PP-CLR at
+		     (NP 69))
+	     (ADVP-TMP (NP (QP just two) weeks)
+		       ago)))
+     .))
+( (S (NP-SBJ-1 (NP Rick Sherlund)
+	       ,
+	       (NP a Goldman Sachs analyst)
+	       ,)
+     (VP has
+         (VP raised
+             (NP (NP (NP his earnings)
+		     estimates)
+                 (PP for
+                     (NP the company)))
+             (ADVP twice)
+             (PP-TMP in
+		     (NP the past two weeks))
+	     ,
+	     (S-ADV (NP-SBJ *-1)
+		    (VP citing
+			(NP improved margins)))))
+     .))
+( (S (SBAR-TMP After
+	       (S (NP-SBJ-1 the earnings)
+		  (VP were
+		      (VP announced
+			  (NP *-1)))))
+     ,
+     (NP-SBJ he)
+     (VP raised
+         (NP his fiscal 1990 estimate)
+         (PP-DIR to
+		 (NP (NP (QP between $ 3.80 and $ 4)
+			 *U*)
+		     (NP-ADV a share))))
+     .))
+( (S (NP-SBJ Microsoft)
+     (VP earned
+         (NP (NP $ 3.03 *U*)
+             (NP-ADV a share))
+	 (PP-TMP in
+		 (NP fiscal 1989)))
+     .))
+( (S (PP-LOC Among
+	     (NP other software issues))
+     ,
+     (S (NP-SBJ Autodesk)
+        (VP jumped
+            (NP-EXT (QP 1 1))
+            (PP-DIR to
+		    (NP 42))))
+     ,
+     (S (NP-SBJ Lotus Development)
+        (VP was
+            (ADJP-PRD unchanged)
+            (PP at
+                (NP (QP 32 1)))))
+     ,
+     (S (NP-SBJ Novell)
+        (VP jumped
+            (NP-EXT 7)
+            (PP-DIR to
+		    (NP (QP 30 3)))))
+     ,
+     (S (NP-SBJ Ashton-Tate)
+        (VP gained
+            (NP 1)
+            (PP-DIR to
+		    (NP (QP 10 5)))))
+     , and
+     (S (NP-SBJ Oracle Systems)
+        (VP rose
+            (NP-EXT 3)
+            (PP-DIR to
+		    (NP (QP 25 3)))))
+     .))
+( (S (NP-SBJ-1 (NP Caere)
+	       ,
+	       (NP a new software issue)
+	       ,)
+     (VP surged
+         (PP-DIR from
+		 (NP (NP its offering price)
+		     (PP of
+			 (NP 12))))
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP (QP 16 1)))))))
+     .))
+( (S (NP-SBJ The company)
+     (ADVP also)
+     (VP makes
+         (NP optical character recognition equipment))
+     .))
+( (S (NP-SBJ-1 Caere)
+     (VP was
+         (VP underwritten
+	     (NP *-1)
+             (PP by
+                 (NP-LGS Alex . Brown & Sons))))
+     .))
+( (S (NP-SBJ (NP Another
+                 (ADJP recently offered)
+		 Alex . Brown issue)
+             ,
+             (NP Rally 's)
+             ,)
+     (VP surged
+         (NP-EXT (QP 3 1))
+         (PP-DIR to
+		 (NP 23)))
+     .))
+( (S (NP-SBJ (NP The operator)
+	     (PP of
+		 (NP fast-food restaurants))
+             ,
+             (SBAR (WHNP-1 whose shares)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP began
+                          (S (NP-SBJ *-2)
+                             (VP trading))
+			  (NP-TMP last Friday))))
+             ,)
+     (VP climbed
+         (NP-EXT (QP 3 1))
+         (PP-DIR to
+		 (NP 23))
+         (PP on
+             (NP 944,000 shares)))
+     .))
+( (S (NP-SBJ-1 Its (ADJP 1.7 million-share) offering)
+     (VP was
+         (VP priced
+             (NP *-1)
+             (PP-CLR at
+		     (NP 15))))
+     .))
+( (S (NP-SBJ (NP (NP Valley National 's)
+		 slide)
+             (PP of
+                 (NP (QP 5 3) points))
+             (PP to
+                 (NP (QP 18 1)))
+             (PP on
+                 (NP (QP 4.2 million) shares)))
+     (VP followed
+         (NP (NP its report)
+             (NP-TMP late Wednesday)
+             (PP of
+                 (NP a
+                     (ADJP (QP $ 72.2 million) *U*)
+		     third-quarter loss))))
+     .))
+( (S (PP-TMP In
+	     (NP the 1988 quarter))
+     ,
+     (NP-SBJ the
+             (NAC-LOC Phoenix
+		      ,
+		      Ariz.
+		      ,)
+	     commercial banking concern)
+     (VP earned
+         (NP (QP $ 18.7 million) *U*))
+     .))
+( (S (NP-SBJ Valley National)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 its
+                            (NX (NX (NX (ADJP (QP $ 110 million) *U*)
+					provision)
+				    (PP for
+					(NP credit losses)))
+                                and
+				(NX (NX (ADJP (QP $ 11 million) *U*)
+					provision)
+				    (PP for
+					(NP (NP other real estate)
+					    (VP owned
+						(NP *)))))))
+                  (VP is
+                      (VP related
+                          (NP *-1)
+                          (PP-CLR to
+				  (NP (NP weakness)
+				      (PP-LOC in
+					      (NP the Arizona real estate market)))))))))
+     .))
+( (S (ADVP Additionally)
+     ,
+     (NP-SBJ (NP Moody 's)
+             Investors Service)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP (VP downgraded
+                          (NP (NP Valley National 's)
+                              senior debt))
+                      and
+                      (VP confirmed
+                          (NP (NP (NP the company 's)
+				  commercial paper rating)
+                              (PP of
+				  ``
+				  (ADJP not prime))))))))
+     .
+     ''))
+( (S (NP-SBJ-1 (NP A new issue)
+	       ,
+	       (NP Exabyte)
+	       ,)
+     (VP surged
+         (NP-EXT (QP 2 1))
+         (PP-DIR from
+		 (NP its initial offering price))
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP 12 1))))))
+     .))
+( (S (S (NP-SBJ The offering)
+        (VP was
+            (PP-PRD for
+                    (NP (NP (QP about 2.8 million) shares)
+                        (PP of
+                            (NP the data storage equipment maker))))))
+     ;
+     (S (NP-SBJ (NP (QP more than 2.2 million)
+		    shares))
+	(VP changed
+	    (NP hands)
+	    (SBAR-TMP after
+		      (S (NP-SBJ trading)
+			 (VP began)))))
+     .))
+( (S (NP-SBJ Dell Computer)
+     (VP dropped
+         (NP-EXT 7)
+         (PP-DIR to
+		 (NP 6)))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP earnings)
+			    (PP for
+				(NP (NP the year)
+				    (VP ending
+					(NP-TMP Jan. 28 , 1990 ,)))))
+                  (VP are
+                      (VP expected
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP be
+                                     (NP-PRD (NP (QP 25 to 35)
+                                                 cents)
+                                             (NP-ADV a share)))))
+			  ,
+			  (PP compared
+			      (PP with
+				  (NP (NP a previous estimate)
+				      (PP of
+					  (NP (NP (QP 50 to 60)
+						  cents)
+					      (NP-ADV a share)))))))))))
+     .))
+( (S (NP-SBJ Nutmeg Industries)
+     (VP lost
+         (NP-EXT (QP 1 3))
+         (PP-DIR to
+		 (NP 14)))
+     .))
+( (S (NP-SBJ (NP Raymond James & Associates)
+             (PP-LOC in
+		     (NP (NP St. Petersburg)
+			 ,
+			 (NP Fla.)
+			 ,)))
+     (VP lowered
+         (NP (NP (NP its third-quarter earnings)
+		 estimate)
+             (PP for
+                 (NP the company)))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP Dow Jones Professional Investor Report))))
+     .))
+( (S (NP-SBJ A.P. Green Industries)
+     (VP advanced
+         (NP-EXT (QP 1 5))
+         (PP-DIR to
+		 (NP (QP 36 1))))
+     .))
+( (S (NP-SBJ (NP East Rock Partners)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+                          (VP indicated
+                              (SBAR 0
+                                    (S (NP-SBJ it)
+                                       (VP might
+                                           (VP make
+                                               (NP (NP a bid)
+						   (PP for
+						       (NP the company)))))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP A.P. Green)
+                          ,
+                          (NP a refractory products maker)
+                          ,)
+                  (VP told
+                      (NP the partnership)
+                      (SBAR 0
+                            (S (NP-SBJ it)
+                               (VP is n't
+                                   (PP-PRD for
+                                           (NP sale)))))))))
+     .))

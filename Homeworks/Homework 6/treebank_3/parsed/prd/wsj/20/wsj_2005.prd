@@ -1,0 +1,42 @@
+
+
+( (S (NP-SBJ-1 (NP Thomas H. Johnson)
+               ,
+               (NP (NP president)
+                   (PP of
+                       (NP (NP the Coatedboard division)
+                           (PP of
+                               (NP Mead Corp.)))))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP (NP president)
+			    (PP of
+				(NP (NP Manville Forest Products Corp.)
+				    ,
+				    (NP a Manville unit))))
+			, and
+			(NP (NP senior vice president)
+			    (PP of
+				(NP Manville Corp)))))))
+     .))
+( (S (NP-SBJ Mr. Johnson)
+     (VP succeeds
+         (NP (NP Harry W. Sherman)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ-2 *T*-1)
+                      (VP resigned
+			  (S-PRP (NP-SBJ *-2)
+				 (VP to
+				     (VP pursue
+					 (NP other interests)))))))
+             ,)
+	 (PP-LOC in
+		 (NP both positions)))
+     .))
+( (S (NP-SBJ Manville)
+     (VP is
+         (NP-PRD a building and forest products concern))
+     .))

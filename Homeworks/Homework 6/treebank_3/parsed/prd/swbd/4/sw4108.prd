@@ -1,0 +1,1449 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerB1 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA2 .))
+( (SBARQ (INTJ Uh)
+	 ,
+	 (INTJ so)
+	 ,
+	 (WHNP-1 what)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP think
+		 (NP *T*-1)
+		 ,
+		 (INTJ uh)
+		 ,
+		 (PP about
+		     (S-NOM (NP-SBJ *)
+			    (VP putting
+				(NP the elderly)
+				(PP-PUT in
+					(NP a nursing home)))))))
+	 ?
+	 E_S))
+( (CODE SpeakerB3 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (S (EDITED (RM [)
+			  (NP-SBJ it)
+			  ,
+			  (IP +))
+		  (NP-SBJ it)
+		  (RS ])
+		  (VP varies
+		      (EDITED (RM [)
+			      (PP-UNF on)
+			      (IP +))
+		      (PP on
+			  (RS ])
+			  (NP the individual basis))))))
+     .
+     E_S))
+( (CODE SpeakerA4 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerB5 .))
+( (S (INTJ Uh)
+     ,
+     (ADVP-TMP sometimes)
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF is))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP is
+	 (RS ])
+	 (NP-PRD no alternative))
+     .
+     E_S))
+( (CODE SpeakerA6 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB7 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ you)
+     (VP do
+	 not
+	 (VP have
+	     ,
+	     (INTJ uh)
+	     ,
+	     (INTJ uh)
+	     ,
+	     (NP (NP (NP family)
+		     (ADJP available))
+		 or
+		 (NP (NP family)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP-UNF 's
+				      ,
+				      (INTJ uh))))))))
+     ,
+     N_S))
+( (S (NP-SBJ you)
+     (VP may
+	 not
+	 (ADVP even)
+	 (VP have
+	     (NP (NP family)
+		 (SBAR (EDITED (RM [)
+			       (SBAR (WHNP-1 that)
+				     (S (NP-SBJ *T*-1)
+					(VP is
+					    ,
+					    (INTJ uh)
+					    ,
+					    (INTJ uh)
+					    ,
+					    (PP-LOC-PRD-UNF in))))
+			       ,
+			       (IP +))
+		       (PRN (S (NP-SBJ you)
+			       (VP know))
+			    ,)
+		       (WHNP-2 who)
+		       (S (NP-SBJ *T*-2)
+			  (VP are
+			      (ADVP-LOC-PRD around)))))))
+     .
+     (RS ])
+     E_S))
+( (CODE SpeakerA8 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB9 .))
+( (S So
+     ,
+     (ADVP-TMP sometimes)
+     (NP-SBJ it)
+     (VP 's
+	 not
+	 (NP-PRD an alternative))
+     .
+     E_S))
+( (CODE SpeakerA10 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerB11 .))
+( (S (EDITED (RM [)
+	     (S And
+		(NP-SBJ I)
+		(VP-UNF think))
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     but
+     (NP-SBJ I)
+     (VP think
+	 (RS ])
+	 (ADVP also)
+	 ,
+	 (SBAR 0
+	       (S (ADVP-TMP sometimes)
+		  (NP-SBJ it)
+		  (VP can
+		      (VP be
+			  ,
+			  (INTJ uh)
+			  ,
+			  (NP-PRD a benefit)
+			  (SBAR-ADV if
+				    (S (NP-SBJ it)
+				       (VP 's
+					   (PP-TMP-PRD for
+						       (NP a short time))))))))))
+     .
+     E_S))
+( (S-UNF (ADVP-TMP Sometimes)
+	 (PP-LOC in
+		 (NP a nursing home))
+	 N_S))
+( (CODE SpeakerA12 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB13 .))
+( (SBAR-ADV (INTJ uh)
+	    ,
+	    (ADVP especially)
+	    (EDITED (RM [)
+		    (SBAR-ADV-UNF if)
+		    ,
+		    (IP +))
+	    if
+	    (RS ])
+	    (S (NP-SBJ it)
+	       (VP 's
+		   (PP-TMP-PRD after
+			       (NP an acute illness))))
+	    .
+	    E_S))
+( (S (NP-SBJ *)
+     (VP To
+	 (VP get
+	     (PP over
+		 (NP-UNF a))))
+     ,
+     N_S))
+( (S or
+     (NP-SBJ *)
+     (VP to
+	 (VP rehab
+	     (PP-TMP after
+		     ,
+		     (INTJ uh)
+		     ,
+		     (NP an illness))))
+     .
+     E_S))
+( (CODE SpeakerA14 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP-TMP never)
+     (VP thought
+	 (PP of
+	     (NP that)))
+     .
+     E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB15 .))
+( (S (EDITED (RM [)
+	     (ADVP-TMP Sometimes)
+	     (IP +))
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (ADVP-TMP sometimes)
+     (RS ])
+     (NP-SBJ the nursing homes)
+     (VP are
+	 (ADJP-PRD good)
+	 (PP-TMP for
+		 ,
+		 (INTJ uh)
+		 ,
+		 (NP (NP just short periods)
+		     (PP of
+			 (NP time)))))
+     .
+     E_S))
+( (CODE SpeakerA16 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     ,
+     E_S))
+( (SBAR-TMP until
+	    (S (NP-SBJ they)
+	       (VP get
+		   (PP over
+		       (NP (NP that hump)
+			   (PP of
+			       (SBAR-NOM (WHNP-1 (WHNP whatever)
+						 (SBAR *ICH*-3))
+					 (S (NP-SBJ it)
+					    (VP is
+						(NP-PRD *T*-1)
+						(SBAR-3 (WHNP-2 0)
+							(S (NP-SBJ they)
+							   (VP 're
+							       (VP dealing
+								   (PP with
+								       (NP *T*-2))))))))))))))
+	    .
+	    E_S))
+( (CODE SpeakerB17 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA18 .))
+( (CODE SpeakerB19 .))
+( (SBAR-PRP Because
+	    (S (ADVP-TMP too often)
+	       (NP-SBJ the acute hospitals)
+	       (EDITED (RM [)
+		       (VP-UNF will)
+		       ,
+		       (IP +))
+	       (VP are
+		   (VP sending
+		       (RS ])
+		       (NP them)
+		       (ADVP-DIR out)
+		       (ADVP (ADVP much faster)
+			     (PP than
+				 (SBAR (WHADVP-2 what)
+				       (S (NP-SBJ-1 they)
+					  (VP 're
+					      (ADVP really)
+					      (ADJP-PRD able
+							(S (NP-SBJ *-1)
+							   (VP to
+							       (VP *?*
+								   (ADVP-MNR *T*-2)))))))))))))
+	    .
+	    E_S))
+( (CODE SpeakerA20 .))
+( (INTJ Yes
+	.
+	E_S))
+( (CODE SpeakerB21 .))
+( (CODE SpeakerA22 .))
+( (S (NP-SBJ They)
+     (ADVP really)
+     (VP are
+	 (VP *?*))
+     .
+     E_S))
+( (S (NP-SBJ-1 They)
+     (VP do
+	 n't
+	 (VP like
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP keep
+			(NP them)
+			(ADVP-TMP (ADVP longer)
+				  (PP than
+				      (NP a week))))))))
+     .
+     E_S))
+( (CODE SpeakerB23 .))
+( (S (EDITED (RM [)
+	     So
+	     (IP +))
+     so
+     (RS ])
+     (NP-SBJ there)
+     (VP is
+	 (NP-PRD (NP some good)
+		 (PP to
+		     (NP it))))
+     .
+     E_S))
+( (CODE SpeakerA24 .))
+( (CODE SpeakerB25 .))
+( (CODE SpeakerA26 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB27 .))
+( (S (INTJ Uh)
+     ,
+     (ADVP-TMP sometimes)
+     (ADVP too)
+     ,
+     (NP-SBJ-1 it)
+     (VP 's
+	 (VP used
+	     (NP *-1)
+	     (PP as
+		 (NP a dumb job))))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know)))
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the fam-)
+	     ,
+	     (IP +))
+     (INTJ well)
+     (NP-SBJ the families)
+     (RS ])
+     (VP do
+	 not
+	 (ADVP necessarily)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP know
+	     (SBAR (WHNP-1 what)
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP do
+			      (NP *T*-1)
+			      (PP with
+				  (NP them))))))))
+     E_S))
+( (CODE SpeakerA28 .))
+( (SBARQ (WHNP-1 What)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP mean
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerB29 .))
+( (S and
+     (NP-SBJ-1 they)
+     (VP do
+	 n't
+	 (VP want
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP take
+			(NP the responsibility))))))
+     E_S))
+( (S so
+     (NP-SBJ they)
+     (VP will
+	 (VP put
+	     (NP them)
+	     (PP-PUT in
+		     (NP a nursing home))))
+     .
+     E_S))
+( (CODE SpeakerA30 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (CODE SpeakerB31 .))
+( (S So
+     (PRN (S (NP-SBJ you)
+	     (VP see))
+	  ,)
+     (INTJ uh)
+     ,
+     N_S
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP both sides)
+		 (PP to
+		     (NP it)))
+	 (ADVP too))
+     .
+     E_S))
+( (SBARQ (WHNP-1 What)
+	 (SQ do
+	     (NP-SBJ you)
+	     (VP think
+		 (NP *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA32 .))
+( (INTJ Yeah
+	E_S))
+( (S and
+     (NP-SBJ it)
+     (VP depends
+	 (PP on
+	     (SBAR (EDITED (RM [)
+			   (WHADJP-UNF how)
+			   ,
+			   (IP +))
+		   (WHADJP-1 how
+			     (RS ])
+			     sick)
+		   (S (NP-SBJ the person)
+		      (VP is
+			  (ADJP-PRD *T*-1)))))
+	 (ADVP too))
+     .))
+( (SBAR-NOM (WHNP-2 What)
+	    (S (NP-SBJ you)
+	       (VP 're
+		   (ADJP-PRD capable
+			     (PP of
+				 (NP *T*-2)))))
+	    ,))
+( (FRAG (INTJ like)
+	(SBAR-ADV if
+		  (S (NP-SBJ you)
+		     (VP have
+			 (NP (NP a family)
+			     (SBAR (WHNP-3 0)
+				   (S (NP-SBJ *)
+				      (VP to
+					  (VP take
+					      (NP care)
+					      (PP of
+						  (NP *T*-3))))))
+			     (PRN ,
+				  (S (NP-SBJ you)
+				     (VP know))
+				  ,)
+			     (PP of
+				 (NP your own))))))
+	.
+	E_S))
+( (CODE SpeakerB33 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA34 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP would
+	 (ADVP personally)
+	 (VP like
+	     (NP it)))
+     E_S))
+( (S (SBAR-ADV if
+	       (S (NP-SBJ-1 my parents)
+		  (VP were
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP get
+				 (ADJP-PRD ill)))))))
+     ,
+     (NP-SBJ-2 I)
+     (VP would
+	 (VP like
+	     (S (NP-SBJ *-2)
+		(VP to
+		    (VP take
+			(NP care)
+			(PP of
+			    (NP them))
+			(PP (PP-LOC at
+				    (NP home))
+			    and
+			    (PRN (SBAR-ADV if
+					   (S (NP-SBJ I)
+					      (VP had
+						  (NP the money)))))
+			    (PP with
+				(NP some help))))))))
+     .
+     E_S))
+( (S (NP-SBJ That)
+     (VP 's
+	 not
+	 (ADVP-TMP always)
+	 (ADJP-PRD possible))
+     .
+     E_S))
+( (CODE SpeakerB35 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (CODE SpeakerA36 .))
+( (S But
+     ,
+     (INTJ uh)
+     ,
+     (PP to
+	 (NP (NP the best)
+	     (PP of
+		 (NP my ability))))
+     ,
+     (NP-SBJ-1 I)
+     (VP 'd
+	 (VP like
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP do
+			(NP it)
+			(SBAR-TMP until
+				  (S (NP-SBJ it)
+				     (VP gets
+					 (ADJP-PRD impossible)))))))))
+     .
+     E_S))
+( (CODE SpeakerB37 .))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ that)
+		  (VP 's
+		      (ADVP also)
+		      (SBAR-LOC-PRD (WHADVP-4 where)
+				    (S (NP-SBJ-1 you)
+				       (VP 're
+					   (VP going
+					       (S (NP-SBJ *-1)
+						  (VP to
+						      (VP have
+							  (NP (NP a lot)
+							      (PP of
+								  (NP (NP people)
+								      (SBAR (WHNP-2 who)
+									    (S (NP-SBJ-3 *T*-2)
+									       (VP are
+										   (VP going
+										       (S (NP-SBJ *-3)
+											  (VP-UNF to)))))))))
+							  (ADVP *T*-4))))))))))))
+     ,
+     N_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     (IP +))
+     (NP-SBJ there)
+     (VP 's
+	 (RS ])
+	 not
+	 (NP-PRD a choice)
+	 ,
+	 (EDITED (RM [)
+		 (S (NP-SBJ it)
+		    (VP-UNF 's))
+		 (IP +))
+	 (SBAR-PRP because
+		   ,
+		   (S (NP-SBJ (NP it)
+			      (S *EXP*-1))
+		      (VP 's
+			  (RS ])
+			  not
+			  (ADJP-PRD economically feasible)
+			  (S-1 (ADVP even)
+			       (NP-SBJ *)
+			       (VP to
+				   (VP put
+				       (NP them)
+				       (PP-PUT in
+					       (NP a nursing home)))))))))
+     .
+     E_S))
+( (CODE SpeakerA38 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB39 .))
+( (CODE SpeakerA40 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB41 .))
+( (CODE SpeakerA42 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB43 .))
+( (S So
+     (EDITED (RM [)
+	     (NP-SBJ-UNF that)
+	     ,
+	     (IP +))
+     (NP-SBJ that
+	     (RS ])
+	     option)
+     (ADVP-TMP sometimes)
+     (VP is
+	 not
+	 (ADJP-PRD available)
+	 (SBAR-ADV if
+		   (S (NP-SBJ they)
+		      (VP do
+			  not
+			  (VP have
+			      (EDITED (RM [)
+				      (NP-UNF the)
+				      ,
+				      (IP +)
+				      (RS ]))
+			      (INTJ uh)
+			      ,
+			      (NP (NP either Medicare or insurance)
+				  (SBAR (WHNP-1 0)
+					(S (NP-SBJ *T*-1)
+					   (VP to
+					       (VP cover
+						   (NP it)))))))))))
+     .
+     E_S))
+( (CODE SpeakerA44 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD true))
+     .
+     E_S))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB45 .))
+( (INTJ So
+	,
+	N_S))
+( (CODE SpeakerA46 .))
+( (S But
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ nursing homes)
+		  (VP can
+		      (VP be
+			  (ADJP-PRD good))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (ADVP just)
+     (VP depends
+	 (PP on
+	     (SBAR-NOM (WHNP-1 what kind)
+		       (S (NP-SBJ they)
+			  (VP are
+			      (NP-PRD *T*-1))))))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ-1 you)
+     (VP need
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP check
+		    (NP them)
+		    (PRT out)
+		    (ADVP-TMP ahead
+			      (PP of
+				  (NP time)))))))
+     .
+     E_S))
+( (CODE SpeakerB47 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (CONJP and then)
+     (NP-SBJ there)
+     (VP 's
+	 (ADVP also)
+	 (NP-PRD (NP some)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ-2 *T*-1)
+			  (VP are
+			      (VP set
+				  (NP *-2)
+				  (PRT up)
+				  (PP for
+				      (NP specialties))))))))
+     E_S))
+( (CODE SpeakerA48 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB49 .))
+( (S (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP know
+	 (NP some))
+     .
+     E_S))
+( (S (ADVP Unfortunately)
+     ,
+     (NP-SBJ some elderly)
+     (EDITED (RM [)
+	     (VP have
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP go
+			    (PP-DIR-UNF to)))))
+	     (IP +)
+	     or)
+     (VP have
+	 ,
+	 (RS ])
+	 (PRN (S (NP-SBJ I)
+		 (VP guess
+		     (SBAR 0
+			   (S (NP-SBJ it)
+			      (VP 's
+				  (NP-PRD *RNR*-2)))))))
+	 (UCP (NP-2 Alzheimer 's)
+	      or
+	      (SBAR (WHADVP-1 where)
+		    (S (NP-SBJ they)
+		       (UCP-PRD (VP wonder)
+				(EDITED (RM [)
+					or
+					,
+					(IP +))
+				or
+				,
+				(RS ])
+				(INTJ uh)
+				,
+				(ADJP confused)
+				or
+				(VP have
+				    (NP some mental problem))
+				(ADVP *T*-1))))))
+     .
+     E_S))
+( (CODE SpeakerA50 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB51 .))
+( (CODE SpeakerA52 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (SBAR (X that) 
+        (S (NP-SBJ they)
+	   (VP-UNF 're))
+	,
+	N_S))
+( (CODE SpeakerB53 .))
+( (S And
+     (NP-SBJ you)
+     (VP need
+	 (NP a special nursing home)
+	 (PP for
+	     (NP that)))
+     .
+     E_S))
+( (S (NP-SBJ You)
+     (VP need
+	 (NP (NP one)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP has
+			  (NP (NP a unit)
+			      (SBAR (WHNP-2 that)
+				    (S (NP-SBJ-3 *T*-2)
+				       (VP 's
+					   (VP locked
+					       (NP *-3)))))
+			      (SBAR (WHADVP-5 where)
+				    (S (NP-SBJ-4 they)
+				       (VP are
+					   not
+					   (ADJP-PRD able
+						     (S (NP-SBJ *-4)
+							(VP to
+							    (VP (VP get
+								    (ADVP out))
+								and
+								(VP roam
+								    (ADVP around))))))
+					   (ADVP *T*-5))))))))))
+     E_S))
+( (CODE SpeakerA54 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB55 .))
+( (S and
+     (NP-SBJ you)
+     (VP need
+	 (NP (NP people)
+	     (SBAR (WHNP-1 who)
+		   (S (NP-SBJ-2 *T*-1)
+		      (VP are
+			  (VP trained
+			      (NP *-2)
+			      (PP for
+				  (NP (NP that type)
+				      (PP of
+					  (NP problem))))))))))
+     .
+     E_S))
+( (CODE SpeakerA56 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB57 .))
+( (CODE SpeakerA58 .))
+( (SBAR (WHNP-1 Who)
+	(S (NP-SBJ *T*-1)
+	   (VP know
+	       (SBAR (WHNP-2 what)
+		     (S (NP-SBJ they)
+			(VP 're
+			    (VP doing
+				(NP *T*-2)
+				(PP with
+				    (NP that))))))))
+	.
+	E_S))
+( (CODE SpeakerB59 .))
+( (INTJ Yeah
+	E_S))
+( (S (EDITED (RM [)
+	     so
+	     ,
+	     (IP +))
+     so
+     (RS ])
+     (S-TPC-1 (NP-SBJ there)
+	      (VP 's
+		  (NP-PRD (NP different types)
+			  (PP of
+			      (NP nursing homes)))))
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S *T*-1)))
+     .
+     E_S))
+( (CODE SpeakerA60 .))
+( (INTJ Yeah
+	E_S))
+( (S (INTJ well)
+     ,
+     (NP-SBJ my
+	     ,
+	     (INTJ uh)
+	     ,
+	     grandmother)
+     (VP 's
+	 not
+	 (ADVP really)
+	 (PP-LOC-PRD in
+		     (NP (NP a nursing home)
+			 ,
+			 but
+			 (NP (NP a retirement home)
+			     (SBAR (WHNP-1 that)
+				   (S (NP-SBJ *T*-1)
+				      (ADVP also)
+				      (VP has
+					  (NP (NP a nursing home)
+					      (VP (ADVP sort of)
+						  attached
+						  (NP *)
+						  (PP to
+						      (NP it)))))))))))
+     .
+     E_S))
+( (S And
+     (NP-SBJ she)
+     (ADVP really)
+     (VP liked
+	 (NP (NP the idea)
+	     (EDITED (RM [)
+		     (PP-UNF of)
+		     ,
+		     (IP +))
+	     (PP of
+		 (RS ])
+		 (S-NOM (NP-SBJ *)
+			(VP moving
+			    (ADVP-DIR there))))))
+     .
+     E_S))
+( (S (NP-SBJ She)
+     (VP 's
+	 not
+	 (ADJP-PRD ill)
+	 (ADVP-TMP yet))
+     E_S))
+( (CODE SpeakerB61 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA62 .))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ she)
+     (VP worked
+	 (ADVP-LOC there)
+	 (PP as
+	     (NP a volunteer))
+	 (PP-TMP for
+		 (NP (QP about ten) years)))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ she)
+     (VP decided
+	 (SBAR (EDITED (RM [)
+		       (SBAR-UNF that)
+		       ,
+		       (IP +))
+	       (INTJ uh)
+	       (PRN ,
+		    (S (NP-SBJ she)
+		       (VP 's
+			   (ADJP-PRD (NP-ADV (QP eighty five) 
+					     years) 
+				     old)))
+		    ,)
+	       that
+	       (RS ])
+	       (S (ADVP-TMP eventually)
+		  (PRN ,
+		       (S (NP-SBJ you)
+			  (VP know))
+		       ,)
+		  (EDITED (RM [)
+			  (NP-SBJ she)
+			  (IP +))
+		  (NP-SBJ-1 she)
+		  (RS ])
+		  (VP does
+		      n't
+		      (VP want
+			  (S (S (NP-SBJ her family)
+				(VP taking
+				    (NP care)
+				    (PP of
+					(NP her))))
+			     and
+			     (S (NP-SBJ *-1)
+				(VP being
+				    (NP-PRD a burden)))))))))
+     .
+     E_S))
+( (S (NP-SBJ She)
+     (VP 's
+	 (ADJP-PRD very independent))
+     .
+     E_S))
+( (S So
+     (NP-SBJ she)
+     (VP 's
+	 (PP-LOC-PRD in
+		     (NP this nursing home)))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP 's
+	 (PP-PRD-LOC out
+		     (PP in
+			 (NP the country))))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ she)
+     (ADVP really)
+     (VP enjoys
+	 (NP it)
+	 (ADVP-TMP right now)
+	 (SBAR-PRP because
+		   (S (NP-SBJ-1 she)
+		      (VP does
+			  n't
+			  (VP have
+			      (S (NP-SBJ *-1)
+				 (VP to
+				     (VP (VP wash
+					     (NP dishes))
+					 or
+					 (VP cook)))))))))
+     .
+     E_S))
+( (CODE SpeakerB63 .))
+( (S (NP-SBJ *)
+     (VP Gives
+	 (NP her)
+	 (NP (NP a little bit)
+	     (PP of
+		 (NP her own independence))))
+     E_S))
+( (CODE SpeakerA64 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB65 .))
+( (S but
+     (NP-SBJ she)
+     (ADVP-TMP still)
+     (VP has
+	 ,
+	 (INTJ uh)
+	 ,
+	 (NP a security)
+	 (ADVP-LOC there))
+     .
+     E_S))
+( (CODE SpeakerA66 .))
+( (INTJ Right
+	.
+	E_S))
+( (NP Some support
+      .
+      E_S))
+( (S (CONJP And then)
+     (NP-SBJ there)
+     (VP 's
+	 (ADVP also)
+	 ,
+	 (INTJ uh)
+	 ,
+	 (ADVP sort of)
+	 (NP-PRD (NP a wing)
+		 (PP for
+		     (NP (NP those people)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP do
+				      (VP get
+					  (ADJP-PRD sick)))))))))
+     E_S))
+( (S and
+     ,
+     (SBAR-NOM-SBJ (WHNP-1 what)
+		   (S (S (NP-SBJ I)
+			 (VP like
+			     (NP *T*-1)
+			     (PP about
+				 (NP it))))
+		      and
+		      (S (NP-SBJ I)
+			 (VP think
+			     (SBAR 0
+				   (S (NP-SBJ she)
+				      (VP likes
+					  (NP *T*-1)
+					  (PP about
+					      (NP it)))))))))
+     (VP is
+	 (SBAR-PRD that
+		   (S (NP-SBJ she)
+		      (VP knows
+			  (NP (NP everybody)
+			      (ADVP-LOC there))
+			  (ADVP-TMP now)))))
+     E_S))
+( (S (EDITED (CONJP and then)
+	     ,)
+     so
+     (SBAR-ADV if
+	       (S (NP-SBJ she)
+		  (ADVP-TMP ever)
+		  (VP does
+		      (VP become
+			  (ADJP-PRD ill)))))
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP will
+	 (VP be
+	     (PP-PRD like
+		     (NP (NP family)
+			 (PP-LOC around
+				 (NP her))))))
+     .
+     E_S))
+( (CODE SpeakerB67 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD right))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     (IP +))
+     (NP-SBJ I)
+     (VP 've
+	 (RS ])
+	 (VP seen
+	     (NP (NP some)
+		 (PP of
+		     (NP them))
+		 (PP like
+		     (NP that)))
+	     (ADVP too)))
+     E_S))
+( (CODE SpeakerA68 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB69 .))
+( (S and
+     (ADVP also)
+     (NP-SBJ they)
+     (VP have
+	 (NP (NP a lot)
+	     (PP of
+		 ,
+		 (INTJ uh)
+		 ,
+		 (NP (NP activities)
+		     (VP going
+			 (PRT on)))))
+	 (PP for
+	     (NP (NP the ones)
+		 (SBAR (WHNP-1 who)
+		       (S (NP-SBJ *T*-1)
+			  (VP are
+			      (ADJP-PRD more active)))))))
+     .
+     E_S))
+( (CODE SpeakerA70 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB71 .))
+( (CODE SpeakerA72 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (S (NP-SBJ-UNF Sh-)
+     ,
+     N_S))
+( (CODE SpeakerB73 .))
+( (S So
+     (NP-SBJ it)
+     (VP 's
+	 not
+	 (ADVP sort of)
+	 (PP-PRD like
+		 ,
+		 (INTJ uh)
+		 ,
+		 (INTJ uh)
+		 (NP a sick place)))
+     .
+     E_S))
+( (CODE SpeakerA74 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB75 .))
+( (CODE SpeakerA76 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ she)
+     (VP loves
+	 (NP it))
+     .
+     E_S))
+( (S (NP-SBJ She)
+     (VP has
+	 (NP a great social life))
+     E_S))
+( (S and
+     (NP-SBJ she)
+     (VP travels)
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (EDITED (RM [)
+		 (EDITED (RM [)
+			 (PP-LOC-PRD-UNF in)
+			 ,
+			 (IP +))
+		 (PP-LOC-PRD in
+			     (NP-UNF the very))
+		 (RS ])
+		 (IP +))
+	 (PP-LOC-PRD in
+		     (NP the
+			 (RS ])
+			 mountains)))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP 's
+	 (ADJP-PRD beautiful))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP hope
+	 (SBAR that
+	       (S (NP-SBJ I)
+		  (VP have
+		      (NP (NP something)
+			  (PP like
+			      (NP that)))
+		      (SBAR-TMP (WHADVP-1 when)
+				(S (NP-SBJ I)
+				   (VP get
+				       (ADJP-PRD older)
+				       (ADVP-TMP *T*-1))))))))
+     .
+     E_S))
+( (CODE SpeakerB77 .))
+( (INTJ Yeah
+	E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (EDITED (RM [)
+			     (NP-SBJ I)
+			     ,
+			     (IP +))
+		     (S (NP-SBJ I)
+			(VP-UNF think))
+		     ,
+		     (RS ])
+		     (IP +))
+	     (S (NP-SBJ I)
+		(VP think
+		    (SBAR 0
+			  (S (NP-SBJ-UNF the)))))
+	     ,
+	     (RS ])
+	     (IP +))
+     (INTJ uh)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (RS ])
+	       (S (NP-SBJ-5 (NP the decision)
+			    (SBAR (WHNP-1 that)
+				  (S (NP-SBJ-3 *T*-1)
+				     (VP needs
+					 (S (NP-SBJ-4 *-3)
+					    (VP to
+						(VP be
+						    (VP made
+							(NP *-4)
+							(ADVP though))))))))
+			    (PP on
+				(NP nursing home)))
+		  (VP has
+		      (S (NP-SBJ *-5)
+			 (VP to
+			     (VP be
+				 (NP-PRD (NP a joint one)
+					 (PP between
+					     (NP (NP (NP the
+							 ,
+							 (INTJ uh)
+							 ,
+							 elderly
+							 (INTJ uh)
+							 ,
+							 person)
+						     (SBAR (WHNP-2 who)
+							   (S (NP-SBJ *T*-2)
+							      (VP 's
+								  (VP going
+								      (ADVP-DIR in))))))
+						 and
+						 (NP (NP the family)
+						     (SBAR (WHNP-6 that)
+							   (S (NP-SBJ-7 *T*-6)
+							      (VP 's
+								  (VP going
+								      (S (NP-SBJ-8 *-7)
+									 (VP to
+									     (VP be
+										 ,
+										 (INTJ uh)
+										 ,
+										 (EDITED (RM [)
+											 (VP-UNF effec-)
+											 ,
+											 (IP +))
+										 (VP (TYPO effected) 
+										     (NP *-8)
+										     (RS ])
+										     (PP by
+											 (NP-LGS it)))))))))))))))))))))
+     E_S))
+( (CODE SpeakerA78 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB79 .))
+( (CODE SpeakerA80 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB81 .))
+( (CODE SpeakerA82 .))
+( (S (INTJ Oh)
+     (ADVP definitely)
+     (NP-SBJ it)
+     (VP-UNF 's)
+     ,
+     N_S))
+( (CODE SpeakerB83 .))
+( (S and
+     ,
+     (INTJ uh)
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (ADVP-TMP sometimes)
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF can))
+	     ,
+	     (IP +))
+     (EDITED (RM [)
+	     (NP-SBJ-UNF those choi-)
+	     ,
+	     (IP +))
+     (NP-SBJ-1 those choices)
+     (RS ])
+     (VP can
+	 (RS ])
+	 (VP be
+	     (VP made
+		 (NP *-1)
+		 (PP-TMP in
+			 (NP advance)))))
+     E_S))
+( (S-UNF and
+	 (ADVP-TMP sometimes)
+	 (NP-SBJ the choices) 
+	 (PP-PRP because of
+		 (NP (NP the nature)
+		     (PP of
+			 (NP the illness))))
+	 (SBAR-TMP (WHADVP when)
+		   (S (NP-SBJ they)
+		      (VP-UNF 're)))
+	 , 
+	 N_S))
+( (CODE SpeakerA84 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB85 .))

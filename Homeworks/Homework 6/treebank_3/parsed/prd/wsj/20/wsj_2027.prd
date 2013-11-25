@@ -1,0 +1,64 @@
+
+
+( (S (NP-SBJ-2 (NP Michael A. Gaskin)
+               ,
+               (ADJP (NP 55 years)
+                     old)
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-2)
+		(NP-PRD (NP (NP president)
+			    (PP *RNR*-1))
+			and
+			(NP (NP chief executive officer)
+			    (PP *RNR*-1))
+			(PP-1 of
+			      (NP (NP this manufacturer)
+				  (PP of
+				      (NP industrial robots))))))
+	     ,
+	     (S-ADV (NP-SBJ *-2)
+		    (VP succeeding
+			(NP Walter K. Weisel)))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP Mr. Weisel)
+			 ,
+			 (NP 49)
+			 ,)
+		 (VP (VP resigned
+			 (PP-CLR as
+				 (NP (NP president)
+				     and
+				     (NP chief executive))))
+		     and
+		     (VP will
+			 (VP work
+			     (PP-CLR on
+				     (NP special projects))))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-1)))
+	(NP-SBJ (NP John J. Wallace)
+		,
+		(NP chairman))
+	.))
+( (S (NP-SBJ Mr. Gaskin)
+     (VP (VP (ADVP-TMP formerly)
+             was
+             (NP-PRD (NP (NP president)
+                         (PP *RNR*-2))
+                     and
+                     (NP (NP chief executive)
+                         (PP *RNR*-2))
+                     (PP-2 of
+                           (NP Taylor & Gaskin Inc.))))
+         and
+         (VP was
+             (NP-PRD (NP a director)
+                     (PP of
+                         (NP Prab Robots)))
+             (PP-TMP since
+		     (NP 1985))))
+     .))

@@ -1,0 +1,37 @@
+
+
+( (S (NP-SBJ (NP The European Community 's)
+	     consumer price index)
+     (VP (VP rose
+	     (NP-EXT a provisional 0.6 %)
+	     (PP-TMP in
+		     (NP September))
+	     (PP-DIR from
+		     (NP-TMP August)))
+	 and
+	 (VP was
+	     (ADVP-PRD up
+		       (NP 5.3 %)
+		       (PP from
+			   (NP-TMP September 1988))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP Eurostat)
+		     ,
+		     (NP (NP the EC 's)
+			 statistical agency)))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP The month-to-month rise)
+		      (PP-LOC in
+			      (NP the index)))
+	      (VP was
+		  (NP-PRD (NP the largest)
+			  (PP-TMP since
+				  (NP April)))))
+     ,
+     (NP-SBJ Eurostat)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))

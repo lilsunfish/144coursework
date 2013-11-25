@@ -1,0 +1,76 @@
+
+
+( (S (NP-SBJ The Canadian government)
+     (VP announced
+         (NP (NP a new , 12-year Canada Savings Bond issue)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP will
+                          (VP yield
+                              (NP investors)
+                              (NP-EXT 10.5 %)
+                              (PP-TMP in
+				      (NP the first year))))))))
+     .))
+( (S (NP-SBJ-1 (NP The annual interest rate)
+               (PP for
+                   (NP (NP each)
+                       (PP of
+                           (NP the next 11 years)))))
+     (VP will
+         (VP be
+             (VP set
+                 (NP *-1)
+		 (NP-TMP-CLR (NP each fall)
+			     ,
+			     (SBAR (WHADVP-3 when)
+				   (S (NP-SBJ-2 (NP details)
+						(PP of
+						    (NP a new series)))
+				      (VP are
+					  (VP released
+					      (NP *-2)
+					      (ADVP-TMP *T*-3)))))))))
+     .))
+( (S (NP-SBJ Canada Savings Bonds)
+     (VP are
+         (NP-PRD (NP major government instruments)
+                 (PP for
+                     (S-NOM (NP-SBJ *)
+			    (VP meeting
+				(NP its financial requirements))))))
+     .))
+( (S (NP-SBJ The government)
+     (VP has
+         (NP (NP (NP (QP about 41.4 billion) Canadian dollars)
+		 (PRN -LRB-
+		      (NP (QP US$ 35.2 billion) *U*)
+		      -RRB-)
+		 (PP of
+		     (NP such bonds)))
+	     (ADJP currently outstanding)))
+     .))
+( (S (NP-SBJ-3 Only Canadian residents)
+     (VP are
+         (VP permitted
+             (S (NP-SBJ *-3)
+                (VP to
+                    (VP buy
+                        (NP (NP Canada Savings Bonds)
+                            ,
+                            (SBAR (WHNP-2 which)
+                                  (S (NP-SBJ-1 *T*-2)
+                                     (VP may
+                                         (VP be
+                                             (VP redeemed
+                                                 (NP *-1)
+                                                 (NP-TMP-CLR any time)
+                                                 (PP-CLR at
+							 (NP face value)))))))))))))
+     .))
+( (S (NP-SBJ The bonds)
+     (VP go
+         (PP-CLR on
+		 (NP sale))
+	 (NP-TMP Oct. 19))
+     .))

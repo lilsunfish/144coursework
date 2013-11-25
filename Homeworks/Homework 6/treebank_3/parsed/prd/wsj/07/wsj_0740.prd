@@ -1,0 +1,68 @@
+
+
+( (S (NP-SBJ-1 (NP Carl E. Pissocra)
+               ,
+               (NP (NP (NP president)
+		       and
+		       (NP chief executive officer)) 
+		   (PP of
+                       (NP (NP Bank One)
+                           ,
+                           (NP-LOC Dover))))
+               ,)
+     (VP has
+         (VP been
+             (VP named
+                 (S (NP-SBJ *-1)
+		    (NP-PRD (NP regional president)
+			    ,
+			    (NP (NP a new post)
+				(PP-LOC at
+					(NP the bank-holding company))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Pissocra)
+             ,
+             (ADJP (NP 56 years)
+                   old)
+             ,)
+     (VP will
+         (VP be
+             (ADJP-PRD responsible
+		       (PP for
+			   (NP (NP (NP the company 's)
+				   10 banks)
+			       (PP-LOC in
+				       (NP the Eastern region)))))))
+     .))
+( (S (NP-SBJ-1 (NP Dan J. Hartwell)
+               ,
+               (NP 41)
+               ,
+               (NP (NP executive vice president)
+                   (PP of
+                       (NP (NP Bank One)
+                           ,
+                           (NP-LOC Dover))))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP (NP president)
+			    and
+			    (NP chief executive)) 
+			(PP of
+			    (NP the Dover bank))))
+	     ,
+	     (S-ADV (NP-SBJ *-1)
+		    (VP succeeding
+			(NP Mr. Pissocra)))))
+     .))
+( (S (NP-SBJ-1 No one)
+     (VP was
+         (VP named
+	     (NP-SBJ-2 *-1)  
+	     (S-CLR (NP-SBJ *-2) 
+		    (VP to
+			(VP succeed
+			    (NP Mr. Hartwell))))))
+     .))

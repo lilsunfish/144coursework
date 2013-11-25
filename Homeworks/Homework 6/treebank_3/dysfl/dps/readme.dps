@@ -1,0 +1,14 @@
+README file for .dps files
+
+This directory contains files with part-of-speech tags and dysfluency
+annotation. In addition turns have been joined where in the original format
+they continued across the other speaker's turn. Thus in these files, any
+sentence uttered by one speaker but split over two turns is joined together
+and appears in its entirety in the first of the turns. For this reason
+there are some "empty" turns included in the files. 
+
+There are 1126 files organized in 12 directories numbered 00 to 12.  Note
+that only the first 639 files have a corresponding parsed file in this
+release. The files are created by automatically merging the
+dysfluency-annotated and part-of-speech tagged files and then automatically
+joining the turns.

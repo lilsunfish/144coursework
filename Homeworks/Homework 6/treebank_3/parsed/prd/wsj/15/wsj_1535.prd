@@ -1,0 +1,92 @@
+
+
+( (S (S-TPC-1 (NP-SBJ U.S. official reserve assets)
+	      (VP rose
+		  (NP-EXT (QP $ 6.05 billion) *U*)
+		  (PP-TMP in
+			  (NP September))
+		  ,
+		  (PP-DIR to
+			  (NP (QP $ 68.42 billion) *U*))))
+     ,
+     (NP-SBJ the Treasury Department)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-1 (NP-SBJ The gain)
+	      (VP compared
+		  (PP-CLR with
+			  (NP (NP a (ADJP (QP $ 1.10 billion) *U*) decline)
+			      (PP-LOC in
+				      (NP reserve assets))
+			      (PP-TMP in
+				      (NP August))
+			      (PP to
+				  (NP (QP $ 62.36 billion) *U*))))))
+     ,
+     (NP-SBJ the department)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ U.S. reserve assets)
+     (VP consist
+         (PP-CLR of
+		 (NP (NP foreign currencies)
+		     ,
+		     (NP gold)
+		     ,
+		     (NP (NP special drawing rights)
+			 (PP-LOC at
+				 (NP the International Monetary Fund)))
+		     and
+		     (NP (NP the U.S. reserve position)
+			 --
+			 (NP its ability
+			     (S (NP-SBJ *)
+				(VP to
+				    (VP draw
+					(NP foreign currencies)))))
+			 --
+			 (PP-LOC at
+				 (NP the IMF))))))
+     .))
+( (S (NP-SBJ (NP (NP The nation 's)
+		 holdings)
+             (PP of
+                 (NP foreign currencies)))
+     (VP increased
+         (NP-EXT (QP $ 5.67 billion) *U*)
+         (PP-TMP in
+		 (NP September))
+         (PP-DIR to
+		 (NP (QP $ 39.08 billion) *U*))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ its gold reserves)
+		      (VP were
+			  (ADJP-PRD virtually unchanged
+				    (PP at 
+					(NP (QP $ 11.07 billion) *U*)))))))
+     .))
+( (S (S (NP-SBJ (NP U.S. holdings)
+                (PP of
+                    (NP IMF special drawing rights)))
+        (NP-TMP last month)
+        (VP rose
+            (NP-EXT (QP $ 247 million) *U*)
+            ,
+            (PP-DIR to
+		    (NP (QP $ 9.49 billion) *U*))))
+     , 
+     and
+     (S (NP-SBJ (NP its reserve position)
+                (PP-LOC at
+			(NP the IMF)))
+        (VP increased
+            (NP-EXT (QP $ 142 million) *U*)
+            ,
+            (PP-DIR to
+		    (NP (QP $ 8.79 billion) *U*))))
+     .))

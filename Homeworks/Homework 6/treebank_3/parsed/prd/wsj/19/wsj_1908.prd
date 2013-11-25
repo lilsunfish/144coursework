@@ -1,0 +1,86 @@
+
+
+( (S (NP-SBJ (NP Hawker Siddeley Group PLC)
+             ,
+             (NP a U.K. engineering company)
+             ,)
+     (VP reported
+         (NP (NP a (ADJP 16 %) jump)
+             (PP-LOC in
+		     (NP pretax profit))
+             (PP for
+                 (NP (NP the six-month period)
+                     (VP ending
+                         (NP-TMP June 30))))))
+     .))
+( (S (NP-SBJ-2 Pretax profit)
+     (VP rose
+         (PP-DIR to
+		 (NP (NP (QP # 93.2 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 146.8 million) *U*)
+			  -RRB-)))
+         (PP-DIR from
+		 (NP (NP (QP # 80.6 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 127 million) *U*)
+			  -RRB-)))
+	 ,
+	 (S-ADV (NP-SBJ *-2)
+		(VP matching
+		    (NP (NP (NP analysts ')
+			    expectations)
+			,
+			(SBAR (WHNP-1 which)
+			      (S (NP-SBJ *T*-1)
+				 (VP ranged
+				     (PP-DIR (PP from
+						 (NP (QP # 90 million) *U*))
+					     (PP to
+						 (NP (QP # 95 million) *U*))))))))))
+     .))
+( (S (NP-SBJ (NP Profit)
+             (PP-TMP after
+		     (NP (NP taxes)
+			 and 
+			 (NP minority interests))))
+     (VP increased
+         (NP-EXT 16 %)
+         (PP-DIR to
+		 (NP (QP # 55.2 million) *U*))
+         (PP-DIR from
+		 (NP (QP # 47.6 million) *U*))
+         (PP-TMP in
+		 (NP the year-earlier period))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP earnings)
+			      (PP per
+				  (NP share)))
+		      (VP rose
+			  (NP-EXT 16 %)
+			  (PP-DIR to
+				  (NP (NP 27.9 pence)
+				      (PRN -LRB-
+					   (NP 44 cents)
+					   -RRB-)))
+			  (PP-DIR from
+				  (NP (NP 24.1 pence)
+				      (PRN -LRB-
+					   (NP 38 cents)
+					   -RRB-)))))))
+     .))
+( (S (NP-SBJ Hawker Siddeley)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its core electrical products division)
+                  (VP enjoyed
+                      (NP strong growth)
+		      ,
+		      (PP with
+			  (NP (NP a (ADJP 20 %) rise)
+			      (PP-LOC in
+				      (NP operating profit))
+			      (PP-TMP during
+				      (NP the period))))))))
+     .))

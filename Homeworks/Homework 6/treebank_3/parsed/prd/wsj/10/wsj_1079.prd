@@ -1,0 +1,283 @@
+
+
+( (S (NP-SBJ ITT Corp.)
+     ,
+     (S-ADV (NP-SBJ its insurance business)
+	    (VP hurt
+		(NP *)
+		(PP by
+		    (NP-LGS Hurricane Hugo))))
+     ,
+     (VP reported
+         (NP (NP a (ADJP 4 %) decline)
+             (PP-LOC in
+		     (NP third-quarter net income)))
+	 ,
+	 (PP despite
+	     (NP (NP a (ADJP 4.2 %) rise)
+		 (PP-LOC in
+			 (NP revenue)))))
+     .))
+( (S (NP-SBJ ITT)
+     (VP (ADVP also)
+         forecast
+         (NP (NP a fourth-quarter blow)
+             (PP to
+                 (NP earnings))
+             (PP from
+                 (NP the California earthquake))))
+     .))
+( (S (PP Except
+         (PP for
+             (NP insurance)))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ ITT)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP expects
+                      (NP (NP improved operating earnings)
+			  ``
+                          (PP-LOC in
+				  (NP (NP all)
+				      (PP of
+					  (NP our businesses))))
+			  (PP for
+			      (NP the full year)))))))
+     . ''))
+( (S (NP-SBJ Third-quarter net income)
+     (VP dropped
+         (PP-DIR to
+		 (NP (NP (QP $ 221 million) *U*)
+		     , or
+		     (NP (NP $ 1.55 *U*)
+			 (NP-ADV a share))
+		     ,))
+         (PP-DIR from
+		 (NP (NP (QP $ 230 million) *U*)
+		     , or
+		     (NP (NP $ 1.60 *U*)
+			 (NP-ADV a share)))
+		 ,
+		 (PP-TMP in
+			 (NP the year-earlier period))))
+     .))
+( (S (NP-SBJ ITT)
+     (VP bought
+         (PRT back)
+         (NP (NP (QP 8.8 million) shares)
+             (PP *ICH*-2))
+	 (NP-TMP this year)
+	 ,
+	 (PP-2 including
+	       (NP (NP 2.8 million)
+		   (PP-TMP during
+			   (NP the third quarter)))))
+     .))
+( (S (NP-SBJ Third-quarter revenue)
+     (VP rose
+         (PP-DIR to
+		 (NP (QP $ 4.9 billion) *U*))
+         (PP-DIR from
+		 (NP (QP $ 4.7 billion) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ-1 ITT common stock)
+     (VP fell
+         (NP-ADV 62.5 cents)
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-CLR at
+				(NP (NP $ 58.75 *U*)
+				    (NP-ADV a share)))))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP insurance and finance))))
+     ,
+     (NP-SBJ ITT)
+     (VP has
+         (NP (NP interests)
+	     (PP-LOC in
+		     (NP (NP electronic parts)
+			 ,
+			 (NP defense technology)
+			 ,
+			 (NP automotive parts)
+			 ,
+			 (NP fluid technology)
+			 ,
+			 (NP pulp and timber)
+			 , and
+			 (NP communications and information services)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ (NP Hurricane Hugo losses)
+			 and
+			 (NP (NP the continuing industrywide downturn)
+			     (PP in
+				 (NP the property and casualty insurance business))))
+		 (VP were
+		     (NP-PRD (NP the major factors)
+			     (VP affecting
+				 (NP quarterly comparisons)))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Rand V. Araskog)
+		,
+		(NP (NP chairman) and (NP chief executive officer))) 
+	.))
+( (S (S-TPC-1 (NP-SBJ (NP ITT 's)
+		      Hartford Insurance Group)
+	      (VP had
+		  (NP (NP a
+			  (ADJP (QP $ 53 million) *U*)
+			  quarterly pretax loss)
+		      (PP from
+			  (NP Hurricane Hugo)))))
+     ,
+     (NP-SBJ ITT)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 Hartford)
+	      (VP expects
+		  (S (NP-SBJ *-1)
+		     (VP to
+			 (VP report
+			     (NP (NP a further pretax loss)
+				 (PP of
+				     (NP (QP about $ 30 million) *U*))
+				 (PP for
+				     (NP the current quarter)))
+			     ,
+			     (PP as 
+				 (NP (NP a result)
+				     (PP of
+					 (NP (NP the California earthquake)
+					     (NP-TMP this month))))))))))
+     ,
+     (NP-SBJ ITT)
+     (VP added
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The company)
+     (ADVP also)
+     (VP disclosed
+         (SBAR 0
+               (S (NP-SBJ its financial operations)
+                  (VP had
+                      (VP increased
+                          (NP (NP reserves)
+                              (PP for
+                                  (NP bankrupt accounts)))
+			  ,
+			  (S-ADV (NP-SBJ *)
+				 (VP resulting
+				     (PP-CLR in
+					     (NP (NP a
+						     (ADJP (QP $ 40 million) *U*)
+						     pretax charge)
+						 (PP for
+						     (NP the third quarter)))))))))))
+     .))
+( (S (NP-SBJ-1 This charge)
+     (VP was
+         (ADVP partly)
+	 (VP offset
+	     (NP *-1)
+	     ,
+             (ADVP however)
+             ,
+             (PP by
+                 (NP-LGS (NP (QP $ 19 million) *U*)
+			 (PP in
+			     (NP pretax capital gains))))))
+     .))
+( (S (NP-SBJ ITT)
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 its consumer finance unit)
+                  (VP agreed
+                      (PP-TMP in
+			      (NP September))
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP settle
+                                 (NP (NP a civil suit)
+				     (PP *ICH*-2))
+				 (PP-CLR with
+					 (NP the California attorney general))
+				 (PP-2 over
+				       (NP alleged improper lending and sales practices)))))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Anticipating
+		(NP this settlement)))
+     ,
+     (NP-SBJ-1 the company)
+     (VP recorded
+	 (NP (NP a pretax charge)
+	     (PP of
+		 (NP (QP $ 24 million) *U*)))
+	 (PP-TMP during
+		 (NP (NP the fourth quarter)
+		     (PP of
+			 (NP 1988)))))
+     .))
+( (S (NP-SBJ An ITT spokesman)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the charge)
+                  (VP was n't
+                      (ADVP-MNR publicly)
+		      (VP reported
+			  (NP *-1)
+			  (PP-TMP at
+				  (NP the time)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ (NP The company 's)
+		      product businesses)
+	      ,
+	      (PP with
+		  (NP (NP the exception)
+		      (PP of
+			  (NP electronic components))))
+	      ,
+	      (VP had
+		  (NP higher operating earnings)
+		  (PP-TMP for
+			  (NP (NP the first nine months)
+			      (PP of
+				  (NP 1989))))))
+     , ''
+     (NP-SBJ the company)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Elaborating
+		(PP-CLR on
+			(NP the exception))))
+     ,
+     (NP-SBJ-1 it)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ volume and margins)
+		  (VP were
+		      (ADJP-PRD lower)
+		      (PP-LOC in
+			      (NP semiconductor and power systems operations))))))
+     .))

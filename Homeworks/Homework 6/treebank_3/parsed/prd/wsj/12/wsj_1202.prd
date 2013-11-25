@@ -1,0 +1,105 @@
+
+
+( (S (NP-SBJ Times Mirror Co.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ third-quarter net income)
+                  (VP fell
+                      (NP-EXT 13 %)
+                      (PP-DIR to
+			      (NP (NP (NP (QP $ 70.1 million) *U*)
+				      , or
+				      (NP (NP 54 cents)
+					  (NP-ADV a share)))
+				  ,
+				  (PP compared 
+				      (PP with
+					  (NP (NP net income)
+					      (PP of
+						  (NP (NP (QP $ 81 million) *U*)
+						      , or
+						      (NP (NP 62 cents)
+							  (NP-ADV a share))
+						      ,))
+					      (ADVP-TMP (NP a year)
+							earlier))))))))))
+     .))
+( (S (NP-SBJ The Los Angeles media concern)
+     (VP said
+         (SBAR that
+               (S (NP-SBJ the year-ago period)
+                  (VP included
+                      (NP (NP a (ADJP (QP $ 26.5 million) *U*) gain)
+                          (PP from
+                              (NP (NP the sale)
+                                  (PP of
+                                      (NP (NP assets)
+                                          ,
+                                          (NP primarily timberlands))))))))))
+     .))
+( (S (NP-SBJ Revenue)
+     (VP was
+         (NP-PRD (QP $ 873.9 million) *U*)
+         ,
+         (ADVP-CLR up
+		   (NP 7.3 %)
+		   (PP from
+		       (NP (QP $ 814.8 million) *U*))))
+     .))
+( (S (S-TPC-1 (NP-SBJ (NP (NP Stronger results)
+			  (PP from
+			      (NP (NP (NP the company 's)
+				      broadcast and cable television units)
+				  and
+				  (NP professional and textbook publishing divisions))))
+		      , plus
+		      (NP (NP increased advertising)
+			  (PP-LOC at
+				  (NP (NP (NP the company 's)
+					  largest newspaper)
+				      ,
+				      (NP the Los Angeles Times)
+				      ,))))
+	      (VP offset
+		  (NP (NP advertising declines)
+		      (PP-LOC in
+			      (NP (NP (NP the company 's)
+				      newspapers)
+				  (PP-LOC in
+					  (NP the Eastern U.S.)))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (SINV ``
+	(S-TPC-1 (S-ADV (NP-SBJ *)
+			(VP Looking
+			    (ADVP ahead)
+			    (PP-DIR to
+				    (NP the fourth quarter))))
+		 ,
+		 (NP-SBJ (NP the outlook)
+			 (PP for
+			     (NP the newspaper group)))
+		 (VP remains
+		     (ADJP-PRD guarded)
+		     ,
+		     (PP with
+			 (NP (NP no improvement)
+			     (VP (ADVP yet)
+				 seen
+				 (NP *)
+				 (PP-LOC in
+					 (NP (NP operating trends)
+					     (PP-LOC in
+						     (NP our Eastern markets)))))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Robert F. Erburu)
+		,
+		(NP (NP Times Mirror 's)
+		    chairman and chief executive))
+	.))

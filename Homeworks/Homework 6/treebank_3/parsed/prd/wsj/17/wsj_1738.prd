@@ -1,0 +1,175 @@
+
+
+( (S (NP-SBJ The Nuclear Regulatory Commission)
+     (VP ruled
+         (ADVP-MNR unanimously)
+         (SBAR that
+               (S (NP-SBJ (NP the financial troubles)
+                          (VP facing
+                              (NP the
+                                  (NAC-LOC Seabrook
+					   ,
+					   N.H.
+					   ,)
+                                  nuclear-power plant)))
+                  (VP have
+                      (NP (NP no impact)
+			  (PP on
+			      (SBAR whether
+				    (S (NP-SBJ the plant)
+				       (VP receives
+					   (NP a full-power license))))))))))
+     .))
+( (S (NP-SBJ-1 Massachusetts Attorney General
+	       James Shannon)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP opposing
+		(NP the license)))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP will
+                      (VP appeal
+                          (NP the ruling)
+                          (PP-LOC in
+				  (NP federal court)))))))
+     .))
+( (S (NP-SBJ Seabrook officials)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the plant)
+                  (VP could
+                      (VP receive
+                          (NP a full-power license)
+			  (PP-TMP by
+				  (NP (NP the end)
+				      (PP of
+					  (NP the year)))))))))
+     .))
+( (S (NP-SBJ The NRC)
+     (VP rejected
+         (NP (NP Mr. Shannon 's)
+             argument
+             (SBAR that
+                   (S (NP-SBJ-2 (NP (NP Public Service Co.)
+				    (PP of
+					(NP New Hampshire))
+				    ,
+				    (SBAR (WHNP-1 which)
+					  (S (NP-SBJ *T*-1)
+					     (VP owns
+						 (NP (NP the largest share)
+						     (PP of
+							 (NP Seabrook))))))
+				    ,)
+				and
+				(NP 11 other owners))
+                      (VP are
+                          (ADJP-PRD financially unable
+                                    (S (NP-SBJ *-2)
+                                       (VP to
+                                           (VP guarantee
+                                               (NP (NP the plant 's)
+                                                   safe operation))))))))))
+     .))
+( (S (NP-SBJ Mr. Shannon)
+     (VP was
+         (VP seeking
+             (NP (NP a waiver)
+                 (PP of
+                     (NP (NP NRC policy)
+                         (SBAR (WHNP-1 that)
+                               (S (NP-SBJ-2 *T*-1)
+                                  (VP ignores
+                                      (NP financial considerations)
+				      (PP in
+					  (S-NOM (NP-SBJ *-2)
+						 (VP making
+						     (NP licensing decisions))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP its ruling))
+     ,
+     (NP-SBJ the NRC)
+     (VP said
+         (SBAR that
+               (S (SBAR-PRP because
+			    (S (NP-SBJ-1 Seabrook)
+			       (VP will
+				   (VP be
+				       (VP allowed
+					   (S (NP-SBJ *-1)
+					      (VP to
+						  (VP charge
+						      (NP (NP rates)
+							  (ADJP sufficient
+								(S (NP-SBJ *)
+								   (VP to
+								       (VP (VP run
+									       (NP the plant))
+									   and
+									   (VP make
+									       (NP payments)
+									       (PP-CLR on
+										       (NP past construction costs))))))))))))))))
+                  ,
+                  (NP-SBJ (NP consideration)
+                          (PP of
+                              (NP (NP the owners ')
+                                  financial condition)))
+                  (VP is
+                      (ADJP-PRD pointless)))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ The commissioners)
+		 (VP found
+		     (SBAR 0
+			   (S (NP-SBJ (NP the circumstances)
+				      (PP of
+					  (NP the case)))
+			      (VP did n't
+				  (VP undercut
+				      (NP (NP the assurance)
+					  (PP from
+					      (NP government rate setters))
+					  (PP of
+					      (NP (NP available funds)
+						  (ADJP adequate
+							(PP for
+							    (NP safe operation))))))))))))
+	,
+	''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ a commission spokesman)
+	.))
+( (S (PP-TMP In
+	     (NP January 1988))
+     ,
+     (NP-SBJ the utility)
+     (VP filed
+         (PP-CLR for
+		 (NP protection))
+         (PP-LOC under
+		 (NP (NP Chapter 11)
+		     (PP of
+			 (NP the federal Bankruptcy Code))))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP allowing
+		    (S (NP-SBJ-1 it)
+		       (VP to
+			   (VP continue
+			       (S (NP-SBJ-3 *-1)
+				  (VP to
+				      (VP operate
+					  (SBAR-ADV while
+						    (S (NP-SBJ-2 *-3)
+						       (VP protected
+							   (NP *-2)
+							   (PP-CLR from
+								   (NP (NP creditors ')
+								       lawsuits))))))))))))))
+     .))

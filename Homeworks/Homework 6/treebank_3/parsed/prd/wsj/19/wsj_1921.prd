@@ -1,0 +1,81 @@
+
+
+( (S (NP-SBJ (NP Beazer PLC)
+             ,
+             (NP a major British building materials and construction concern)
+             ,)
+     (VP reported
+         (NP-1 (NP a (ADJP 24 %) jump)
+	       (PP-LOC in
+		       (NP pretax profit))
+	       (PP for
+		   (NP its latest financial year)))
+	 ,
+	 (S-ADV (NP-SBJ-2 *-1)
+		(VP helped
+		    (NP *-2)
+		    (PP (ADVP largely)
+			by
+			(NP-LGS (NP contributions)
+				(PP from
+				    (NP (NP its U.S. unit)
+					,
+					(NP Koppers Co))))))))
+     .))
+( (S (NP-SBJ-1 (NP Pretax profit)
+	       (PP for
+		   (NP (NP the year)
+		       (PP-TMP to
+			       (NP June 30)))))
+     (VP rose
+         (PP-DIR to
+		 (NP (NP (QP # 142.5 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 224.5 million) *U*)
+			  -RRB-)))
+         (PP-DIR from
+		 (NP (NP (QP # 114.7 million) *U*)
+		     (PRN -LRB-
+			  (NP (QP $ 180.7 million) *U*)
+			  -RRB-)))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP (ADVP-MNR broadly)
+		    matching
+		    (NP (NP analysts ')
+			expectations))))
+     .))
+( (S (NP-SBJ (NP Profit)
+             (PP-TMP (PP after
+			 (NP (NP taxes) 
+			     and 
+			     (NP minority interests)))
+		     but
+		     (PP before
+			 (NP extraordinary items))))
+     (VP increased
+         (NP-EXT 22 %)
+	 (PP-DIR to
+		 (NP (QP # 92.6 million) *U*))
+	 (PP-DIR from
+		 (NP (QP # 75.6 million) *U*)
+		 (ADVP-TMP (NP a year)
+			   earlier))
+	 ,
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP (ADJP fully diluted)
+				  earnings)
+			      (PP per
+				  (NP share)))
+		      (VP rose
+			  (PP-DIR to
+				  (NP (NP 29.90 pence)
+				      (PRN -LRB-
+					   (NP 47 cents)
+					   -RRB-)))
+			  (PP-DIR from
+				  (NP (NP 24.68 pence)
+				      (PRN -LRB-
+					   (NP 39 cents)
+					   -RRB-)))))))
+     .))

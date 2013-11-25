@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ Helionetics Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP agreed
+                      (S (NP-SBJ-2 *-1)
+                         (VP to
+                             (VP team
+                                 (PP-CLR with
+					 (NP (NP a unit)
+					     (PP of
+						 (NP Minneapolis-based Honeywell Inc.))))
+				 (S-PRP (NP-SBJ *-2)
+					(VP to
+					    (VP provide
+						(NP power amplifiers)
+						(PP-CLR for
+							(NP (NP a new military sonar system)
+							    (VP being
+								(VP proposed
+								    (NP *)
+								    (PP by
+									(NP-LGS Honeywell))))))))))))))))
+     .))
+( (S-2 (S (NP-SBJ (NP Total value)
+		  (PP of
+		      (NP the contract)))
+	  (VP could
+	      (VP be
+		  (NP-PRD (QP $ 100 million) *U*))))
+       (PRN ,
+	    (S (NP-SBJ Helionetics)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-2))))
+	    ,) 
+       and
+       (S (NP-SBJ (NP work)
+		  (PP on
+		      (NP the project)))
+	  (VP would
+	      (VP be
+		  (ADJP-PRD (ADVP about
+				  evenly)
+			    divided))))
+       .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ *)
+		  (VP (ADVP-TMP previously)
+		      reported)))
+     ,
+     (NP-SBJ Helionetics)
+     (VP emerged
+         (PP-CLR from
+		 (NP Chapter 11 bankruptcy-law protection))
+         (PP-TMP in
+		 (NP February)))
+     .))

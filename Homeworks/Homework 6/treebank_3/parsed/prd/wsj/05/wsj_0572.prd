@@ -1,0 +1,45 @@
+
+
+( (S (NP-SBJ (NP Joseph P. Jordan)
+             ,
+	     (ADJP (NP-ADV 52 years)
+		   old)
+             ,)
+     (VP becomes
+         (NP-PRD (NP (NP president)
+		     (PP *RNR*-1))
+		 ,
+		 (NP (NP chief executive officer)
+		     (PP *RNR*-1))
+		 and
+		 (NP (NP a director)
+		     (PP *RNR*-1))
+		 (PP-1 of
+		       (NP the bank company))))
+     .))
+( (S (NP-SBJ (NP Mr. Jordan)
+             , 
+	     (NP (ADVP-TMP formerly)
+		 (NP (NP president)
+		     (PP *RNR*-2)) 
+		 and 
+		 (NP (NP chief executive)
+		     (PP *RNR*-2))
+                 (PP-2 of
+		       (NP (NP Fishkill National Bank)
+			   (PP-LOC in
+				   (NP (NP Beacon)
+				       ,
+				       (NP N.Y.))))))
+             ,)
+     (VP succeeds
+         (NP (NP Donald Broderick)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP died
+                          (PP at
+			      (NP 52))
+                          (PP-MNR in
+				  (NP an automobile accident)))))))
+     .))

@@ -1,0 +1,58 @@
+
+
+( (S (NP-SBJ-1 (NP Charles S. Mitchell)
+               ,
+               (NP (NP a vice president)
+                   (PP with
+                       (NP (NP Homart Development Co.)
+                           ,
+                           (NP (NP the real estate development subsidiary)
+                               (PP of
+                                   (NP Sears , Roebuck & Co.))))))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP president)
+			(PP of
+			    (NP (NP Figgie Properties)
+				,
+				(NP a real estate development unit)))))))
+     .))
+( (S (NP-SBJ He)
+     (VP succeeds
+         (NP (NP William Kohut)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP resigned
+			  (NP-TMP earlier this year))))))
+     .))
+( (S (ADVP Also)
+     ,
+     (NP-SBJ-1 (NP Richard A. Barkley)
+               ,
+               (NP (NP a former marketing executive)
+                   (PP with
+                       (NP FMC Corp.)))
+               ,)
+     (VP was
+         (VP appointed
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP president)
+			(PP of
+			    (NP (NP Continental Container Systems)
+				,
+				(NP (NP a producer)
+				    (PP of
+					(NP can closing machinery))
+				    (SBAR (WHNP-2 that)
+					  (S (NP-SBJ Figgie)
+					     (VP acquired
+						 (NP *T*-2)
+						 (NP-TMP late last year)))))))))))
+     .))
+( (S (NP-SBJ Figgie)
+     (VP is
+         (NP-PRD a fire protection , electronics and industrial products concern))
+     .))

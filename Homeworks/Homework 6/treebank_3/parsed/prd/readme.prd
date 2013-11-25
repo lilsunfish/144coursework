@@ -1,0 +1,22 @@
+README file for parsed (.prd) files
+
+
+This directory contains files bracketed for syntactic structure. The input
+files are of the .dps type; that is, the turns are joined so that
+"sentences" are not split across turns.  POS tag information is not
+included in these files (see mrg/). The restart annotations of the
+dysluency files is passed through to these files, although syntactic
+annotators used their own judgement in bracketing the restarts. Because of
+time constraints, disagreements between the dysfluency and syntactic
+annotators were not resolved and thus there are some discrepancies between
+the dysfluency files and the parsed files in the interpretation of
+restarts. Bracketing policy is described in detail in the Bracketing
+Guidelines (parseguide1.ps) and Bracketing Switchboard (parseguide2.ps)
+in the docs/ directory).
+
+The files were created from input with the turns automatically joined, run
+through FIDDITCH (Don Hindle's deterministic parser), simplified by an
+emacs-lisp program called "crunch", and then corrected by a human
+annotator.
+
+

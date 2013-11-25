@@ -1,0 +1,110 @@
+
+
+( (S (NP-SBJ The Canadian government)
+     (VP introduced
+         (PP-LOC in
+		 (NP (NP the House)
+		     (PP of
+			 (NP Commons))))
+         (NP (NP legislation)
+             (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (VP to
+			  (VP extend
+			      (NP federal regulatory authority)
+			      (PP-DIR over
+				      (NP (NP provincial government-owned telephone utilities)
+					  (PP-LOC in
+						  (NP Alberta
+						      ,
+						      Saskatchewan
+						      and
+						      Manitoba))))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ The legislation)
+	      (VP would
+		  (VP open
+		      (NP (NP the way)
+			  (PP for
+			      (NP (NP (NP more telephone services)
+				      and
+				      (NP (NP more competition)
+					  (PP-LOC in
+						  (NP the telephone business))))
+				  (PP-LOC in
+					  (NP the three provinces))))))))
+     ,
+     (NP-SBJ federal officials)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The federal government initiative)
+     (VP follows
+         (NP (NP a recent Canadian Supreme Court decision)
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ *T*-1)
+                      (VP held
+                          (SBAR that
+                                (S (NP-SBJ (NP the major telephone companies)
+                                           (PP-LOC (PP in
+						       (NP Alberta
+							   ,
+							   Saskatchewan
+							   and
+							   Manitoba))
+						   and
+						   (PP in
+						       (NP the Atlantic coast provinces))))
+                                   (VP were
+				       (UCP-PRD (NP interprovincial undertakings)
+						and
+						(ADJP subject
+						      (PP to
+							  (NP federal legislative authority))))))))))))
+     .))
+( (S (ADVP-TMP Prior
+	       (PP to
+		   (NP the ruling)))
+     (NP-SBJ the federal government)
+     (VP had
+         (VP regulated
+             (NP (NP only the telephone companies)
+                 (PP-LOC in
+			 (NP (NP Quebec)
+			     ,
+			     (NP Ontario)
+			     ,
+			     (NP British Columbia)
+			     and
+			     (NP the Northwest Territories))))))
+     .))
+( (S (NP-SBJ (NP The governments)
+             (PP of
+                 (NP Alberta
+                     ,
+                     Saskatchewan
+                     and
+                     Manitoba)))
+     (VP have
+	 (VP (ADVP-MNR strongly)
+	     opposed
+             (NP (NP federal regulation)
+                 (PP of
+                     (NP their telephone companies)))))
+     .))
+( (S (NP-SBJ (NP The extension)
+             (PP of
+                 (NP federal regulatory authority))
+             (PP over
+                 (NP (NP telephone utilities)
+                     (PP-LOC in
+			     (NP the Atlantic provinces)))))
+     (VP has n't
+         (VP required
+             (NP special legislation)
+	     (SBAR-PRP because
+		       (S (NP-SBJ they)
+			  (VP are
+			      (ADJP-PRD investor-owned))))))
+     .))

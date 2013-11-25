@@ -1,0 +1,639 @@
+
+
+( (S (NP-SBJ The National Aeronautics and Space Administration)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ a computer virus)
+                  (VP (VP has
+			  (VP infected
+			      (NP (NP one)
+				  (PP of
+				      (NP its networks)))))
+		      and
+		      (VP is
+			  (VP spreading
+			      (NP (NP anti-nuclear messages)
+				  (VP related
+				      (NP *)
+				      (PP-CLR to
+					      (NP (NP its Galileo space probe)
+						  ,
+						  (SBAR (WHNP-2 which)
+							(S (NP-SBJ-3 *T*-2)
+							   (VP is
+							       (S (NP-SBJ-1 *-3)
+								  (VP to
+								      (VP be
+									  (VP launched
+									      (NP *-1)
+									      (NP-TMP today))))))))))))))))))
+     .))
+( (S (NP-SBJ (NP Charles Redmond)
+             ,
+             (NP a NASA spokesman)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the agency)
+                  (VP (VP discovered
+                          (NP the virus)
+                          (PP-TMP on
+				  (NP Monday))
+                          (PP-LOC-CLR on
+				      (NP (NP the collection)
+					  (PP of
+					      (NP (NP computer networks)
+						  (VP (ADVP-MNR collectively)
+						      called
+						      (S (NP-SBJ *) 
+							 (NP-PRD Internet))))))))
+                      and
+                      (VP expected
+			  (S (NP-SBJ-1 100 university centers)
+                             (VP to
+                                 (VP be
+                                     (VP infected
+                                         (NP *-1)
+					 (PP-TMP by
+						 (NP today)))))))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ the network)
+		  (VP is n't
+		      (VP connected
+			  (PP-CLR to
+				  (NP (NP the computer systems)
+				      (SBAR (WHNP-1 that)
+					    (S (NP-SBJ *T*-1)
+					       (VP operate
+						   (NP either
+						       (NP (NP Galileo)
+							   or
+							   (NP the shuttle))))))))))))
+     ,
+     (NP-SBJ (NP part)
+             (PP of
+                 (NP the network)))
+     (VP will
+         (VP carry
+             (NP (NP analyses)
+                 (PP of
+                     (NP Galileo data)))
+	     (SBAR-TMP once
+		       (S (NP-SBJ the craft)
+			  (VP gets
+			      (ADJP-PRD spaceborn))))))
+     .))
+( (S (NP-SBJ Mr. Redmond)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ the intruder)
+                     (VP had n't
+                         (ADVP-TMP yet)
+                         (VP done
+                             (NP any harm))))
+                  but
+                  (S (NP-SBJ the agency)
+                     (VP feared
+                         (SBAR 0 ``
+                               (S (NP-SBJ-1 garbage data)
+                                  (VP could
+                                      (VP be
+                                          (VP substituted
+                                              (NP *-1)
+                                              (PP-CLR for
+						      (NP real data))))))))))))
+     . ''))
+( (S (NP-SBJ He)
+     (VP estimated
+         (SBAR 0
+               (S (NP-SBJ (NP it)
+			  (SBAR *EXP*-1))
+                  (VP could
+                      (VP take
+                          (NP-TMP-CLR a day)
+			  (SBAR-1 for
+				  (S (NP-SBJ a computer security manager)
+				     (VP to
+					 (VP expunge
+					     (NP the virus)
+					     (PP-CLR from
+						     (NP a computer system)))))))))))
+     .))
+( (S (NP-SBJ-3 (NP The intruder)
+	       ,
+	       (PP-LOC among
+		       (NP (NP the broadest yet)
+			   (SBAR (WHNP-2 0)
+				 (S (NP-SBJ *T*-2)
+				    (VP to
+					(VP hit
+					    (NP a research network)))))))
+	       ,)
+     (VP appeared
+         (S (NP-SBJ *-3)
+            (VP to
+                (VP affect
+                    (NP (NP only Digital Equipment Corp. hardware)
+                        (SBAR (WHNP-1 that)
+                              (S (NP-SBJ *T*-1)
+                                 (VP uses
+                                     (NP (NP Digital 's)
+                                         VAX/VMS operating system)))))))))
+     .))
+( (S (NP-SBJ It)
+     (VP is
+         (ADJP-PRD unrelated
+                   (PP to
+                       (NP (NP the much-publicized virus)
+                           (SBAR (WHNP-1 that)
+                                 (S (NP-SBJ *T*-1)
+                                    (NP-TMP last year)
+                                    (VP infected
+                                        (NP (NP Arpanet)
+                                            ,
+                                            (NP (NP a
+                                                    (ADJP much larger)
+                                                    network)
+                                                (VP used
+                                                    (NP *)
+                                                    (PP by
+                                                        (NP-LGS (NP researchers)
+                                                                (PP-LOC at
+									(NP (NP (NP universities)
+										,
+										(NP laboratories)
+										and
+										(NP government agencies))
+									    (PP-LOC around
+										    (NP the world))))))))))))))))
+     .))
+( (S (S-TPC-1 (PP In
+		  (NP (NP the lingo)
+		      (PP of
+			  (NP computer security))))
+	      ,
+	      (NP-SBJ the NASA intruder)
+	      (VP is
+		  (ADVP technically)
+		  (NP-PRD a computer worm)))
+     ,
+     (NP-SBJ Mr. Redmond)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ A worm)
+     (VP (VP resides
+             (PP-LOC-CLR in
+			 (NP (NP the operating system)
+			     (PP of
+				 (NP a computer)))))
+         and
+         (VP spreads
+             (PP-MNR by
+		     (S-NOM (NP-SBJ *)
+			    (VP boring
+				(PP into
+				    (NP (NP other computers)
+					(VP contacted
+					    (NP *)
+					    (PP-MNR through
+						    (NP networks))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 The Galileo worm)
+	      (ADVP apparently)
+	      (VP was
+		  (VP hatched
+		      (NP *-1)
+		      (PP-LOC on
+			      (NP (NP (NP a computer)
+				      (PP-LOC in
+					      (NP France)))
+				  (VP hooked 
+				      (PRT up)
+				      (PP to
+					  (NP (NP NASA 's)
+					      Space Physics Analysis Network))))))))
+     ,
+     (NP-SBJ Mr. Redmond)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ NASA)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the Galileo worm)
+                  (VP had n't
+                      (VP affected
+                          (NP (NP its computers)
+                              or
+                              (NP (NP the computers)
+                                  (PP of
+                                      (NP other government agencies))))
+			  (SBAR-PRP because
+				    (S (NP-SBJ they)
+				       (VP had
+					   (VP modified
+					       (NP-1 their systems)
+					       (S-CLR (NP-SBJ *-1) 
+						      (VP to
+							  (VP reject
+							      (NP worms)))))))))))))
+     .))
+( (S But
+     (NP-SBJ Mr. Redmond)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the worm)
+                  (VP hit
+                      (NP (NP universities)
+                          (SBAR (WHNP-1 that)
+                                (S (NP-SBJ-2 *T*-1)
+                                   (VP had n't
+                                       (VP elected
+                                           (S (NP-SBJ *-2)
+                                              (VP to
+                                                  (VP make
+                                                      (NP the changes)))))))))))))
+     .))
+( (S (NP-SBJ (NP Michael Alexander)
+             ,
+             (NP (NP a senior editor)
+                 (PP-LOC at
+			 (NP (NP Computerworld)
+			     ,
+			     (NP a trade publication))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 he)
+                  (VP was
+                      (VP told
+                          (NP *-1)
+                          (SBAR that
+                                (S (NP-SBJ the worm)
+                                   (VP gets
+                                       (PP-CLR into
+					       (NP a computer center))
+                                       (PP-MNR by
+					       (S-NOM (NP-SBJ *)
+						      (VP looking
+							  (PP-CLR for
+								  (NP (NP obvious passwords)
+								      --
+								      (PP such as
+									  (NP (NP ones)
+									      (SBAR (WHNP-2 that)
+										    (S (NP-SBJ *T*-2)
+										       (VP are
+											   (NP-PRD the
+												   (ADJP same
+													 (PP as
+													     (NP (NP the user 's)
+														 name))))))))))))))))))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ it)
+		  (VP (VP finds
+			  (NP one))
+		      and
+		      (VP gets
+			  (PP-CLR into
+				  (NP the system))))))
+     ,
+     (NP-SBJ it)
+     (VP will
+         (VP display
+             (NP (NP a screen)
+                 (SBAR *ICH*-1))
+	     (SBAR-TMP (WHADVP-3 when)
+		       (S (NP-SBJ a user)
+			  (VP logs
+			      (PRT on)
+			      (ADVP-TMP *T*-3))))
+	     (SBAR-1 (WHNP-2 that)
+		     (S (NP-SBJ *T*-2)
+			(VP says , ``
+			    (NP (NP Worms)
+				(PP Against
+				    (NP Nuclear Killers))))))))
+     ... .))
+( (S (NP-SBJ You)
+     (VP (VP talk
+             (PP of
+                 (NP (NP times)
+                     (PP of
+                         (NP (NP peace)
+                             (PP for
+                                 (NP all)))))))
+         , and
+         (ADVP then)
+         (VP prepare
+             (PP-CLR for
+		     (NP war))))
+     . ''))
+( (S-1 (PP In
+	   (NP addition))
+       (PRN ,
+	    (NP-SBJ Mr. Alexander)
+	    (VP said
+		(SBAR 0
+		      (S *T*-1)))
+	    ,)
+       (NP-SBJ the worm)
+       (VP sends
+	   (NP (NP strange messages)
+	       (PP *ICH*-2))
+	   (PP-DTV to
+		   (NP (NP other machines)
+		       (PP at
+			   (NP the center))))
+	   --
+	   (PP-2 such as 
+		 , 
+		 ``
+		 (S (S (NP-SBJ George Orwell)
+		       (VP was
+			   (NP-PRD an optimist)))
+		    , 
+		    '' 
+		    or 
+		    ``
+		    (S (NP-SBJ *)
+		       (VP Do n't
+			   (VP feed
+			       (NP the bats)
+			       (NP-TMP tonight)))))))
+       . ''))
+( (S (NP-SBJ The worm)
+     (ADVP also)
+     (VP looks
+         (PP-CLR for
+		 (NP (NP elementary passwords)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP confer
+				  (NP more privileges)
+				  (PP-LOC-CLR on
+					      (NP the user))))))))
+     .))
+( (S (NP-SBJ-4 The passwords)
+     (VP (VP are
+	     (VP included
+		 (PP-LOC-CLR in
+			     (NP the system software))
+		 (SBAR-TMP (WHADVP-3 when)
+			   (S (NP-SBJ-1 it)
+			      (VP is
+				  (VP installed
+				      (NP *-1)
+				      (ADVP-TMP *T*-3)))))))
+	 but
+	 (VP are
+	     (VP supposed
+		 (S (NP-SBJ-2 *-4)
+		    (VP to
+			(VP be
+			    (VP replaced
+				(NP *-2)
+				(ADVP-TMP (ADVP as soon)
+					  (SBAR as
+						(S (NP-SBJ the system)
+						   (VP is
+						       (UCP-PRD (ADJP-PRD up)
+								and
+								(VP running)))))))))))))
+     .))
+( (S-1 (SBAR-ADV If
+		 (S (NP-SBJ it)
+		    (VP finds
+			(NP (NP one)
+			    (PP of
+				(NP those passwords))))))
+       (PRN ,
+	    (NP-SBJ Mr. Alexander)
+	    (VP said
+		(SBAR 0
+		      (S *T*-1)))
+	    ,)
+       (NP-SBJ-2 the worm)
+       (VP will
+	   (VP do
+	       (NP (NP such things)
+		   (PP as
+		       (S (NP-SBJ *-2)
+			  (VP change
+			      (NP (NP users ')
+				  passwords)
+			      (PP-CLR to
+				      (NP (NP a series)
+					  (PP of
+					      (NP random numbers))))
+			      ,
+			      (S-ADV (NP-SBJ *)
+				     (VP preventing
+					 (NP them)
+					 (PP-CLR from
+						 (S-NOM (NP-SBJ *)
+							(VP signing 
+							    (PRT on)
+							    (PP to
+								(NP the network)))))))))))))
+       .))
+( (S (NP-SBJ NASA)
+     (VP estimated
+         (SBAR that 
+	       ,
+               (S (PP-TMP on
+			  (NP Monday))
+                  ,
+                  (NP-SBJ-1 about four computer centers)
+                  (VP were
+                      (VP affected
+                          (NP *-1))))))
+     .))
+( (S (S (NP-TMP Yesterday)
+        ,
+        (NP-SBJ the number)
+        (VP grew
+            (PP-DIR to
+		    (NP 40))))
+     ;
+     (S (NP-TMP today)
+        (NP-SBJ-1 the number)
+        (VP is
+            (VP expected
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP grow
+                           (PP-DIR to
+				   (NP 100))))))))
+     .))
+( (S (NP-SBJ NASA)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP take
+                          (NP about a week)
+			  (SBAR-TMP before
+				    (S (NP-SBJ it)
+				       (VP knows
+					   (NP (NP (SBAR (WHNP-2 (NP exactly how many centers)
+								 (PP of
+								     (NP (NP the 6,000)
+									 (VP connected
+									     (NP *)
+									     (PP-CLR to
+										     (NP Internet))))))
+							 (S (NP-SBJ-1 *T*-2)
+							    (VP were
+								(VP affected
+								    (NP *-1))))))
+					       and
+					       (NP (NP the extent)
+						   (PP of
+						       (NP the damage))
+						   ,
+						   (SBAR if
+							 (FRAG (NP any)))))))))))))
+     .))
+( (S (NP-SBJ Anti-nuclear activists)
+     (VP have
+         (VP protested
+             (NP (NP the launch)
+                 (PP of
+                     (NP the Galileo space probe))
+                 (PP to
+                     (NP Jupiter)))
+	     (SBAR-PRP because
+		       (S (NP-SBJ it)
+			  (VP uses
+			      (NP plutonium)
+			      (S-CLR (NP-SBJ *)
+				     (VP to
+					 (VP generate
+					     (NP (NP the electricity)
+						 (VP needed
+						     (S (NP-SBJ *)
+							(VP to
+							    (VP run
+								(NP the craft))))))))))))))
+     .))
+( (S (NP-SBJ Activists)
+     (VP fear
+         (SBAR that
+               (S (SBAR-ADV (SBAR if
+				  (S (NP-SBJ (NP the shuttle)
+					     (VP carrying
+						 (NP Galileo)
+						 (PP-DIR into
+							 (NP orbit))))
+				     (VP should
+					 (VP explode))))
+			    , 
+			    or
+			    (SBAR if
+				  (S (NP-SBJ Galileo
+					     itself)
+				     (VP crashes
+					 (PP-DIR into
+						 (NP the Earth))
+					 (PP-TMP during
+						 (NP (NP the two times)
+						     (SBAR 0
+							   (S (NP-SBJ it)
+							      (VP flies
+								  (ADVP close
+									(PP to
+									    (NP the planet))))))))))))
+                  ,
+                  (NP-SBJ-1 (NP fatal levels)
+                            (PP of
+                                (NP plutonium)))
+                  (VP would
+                      (VP be
+                          (VP released
+                              (NP *-1)
+                              (PP-DIR into
+				      (NP the atmosphere))))))))
+     .))
+( (S (ADVP So far)
+     (NP-SBJ-1 Galileo)
+     (VP has
+	 (VP been
+	     (VP (VP delayed
+		     (NP *-1)
+		     (ADVP-TMP twice)
+		     ,
+		     (ADVP-TMP-3 once)
+		     (PP-PRP-2 because of
+			       (NP (NP a computer malfunction)
+				   (VP connected
+				       (NP *)
+				       (PP-CLR with
+					       (NP a space-shuttle engine))))))
+		 ,
+		 and
+		 (VP (NP-TMP=3 yesterday)
+		     (PP-PRP=2 because of
+			       (NP the weather))))))
+     .))
+( (S (NP-SBJ NASA)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the Galileo worm)
+                  (VP had
+                      (NP (NP nothing)
+                          (SBAR (WHNP-1 0)
+				(S (NP-SBJ *)
+				   (VP to
+				       (VP do
+					   (NP *T*-1)
+					   (PP-CLR with
+						   (NP either delay)))))))))))
+     .))
+( (S (NP-SBJ (NP Mr. Alexander)
+             (PP of
+                 (NP Computerworld)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ hackers)
+                  (VP have
+                      (VP gone
+                          (PP-DIR after
+				  (NP SPAN))
+			  (ADVP-TMP before))))))
+     .))
+( (S (NP-SBJ He)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP the Chaos Computer Club)
+			    ,
+			    (PP of
+				(NP West Germany))
+			    ,)
+                  (ADVP-TMP once)
+                  (VP managed
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP (VP invade
+                                     (NP SPAN))
+                                 and
+                                 (VP do
+                                     (NP (NP such things)
+                                         (PP as
+                                             (SBAR 0 
+						   (S (NP-SBJ *)
+						      (VP change
+							  (NP (NP the value)
+							      (PP of
+								  (NP pi)))
+							  ,
+							  (S-ADV (NP-SBJ *)
+								 (VP messing 
+								     (PRT up)
+								     (NP some calculations))))))))))))))))
+     .))

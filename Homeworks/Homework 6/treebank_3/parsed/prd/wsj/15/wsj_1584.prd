@@ -1,0 +1,44 @@
+
+
+( (S (NP-SBJ The British Petroleum Co. PLC)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its BP Exploration unit)
+                  (VP has
+                      (VP produced
+                          (NP (NP the first oil)
+                              (PP from
+                                  (NP (NP its Don oilfield)
+                                      (PP-LOC in
+					      (NP the North Sea))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP an official release))
+     ,
+     (NP-SBJ BP)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ (NP initial production)
+                                (PP from
+                                    (NP the field)))
+                        (VP was
+                            (NP-PRD (NP 11,000 barrels)
+                                    (NP-ADV a day)))))
+               , 
+	       and
+               (SBAR that
+                     (S (NP-SBJ it)
+                        (VP expects
+			    (S (NP-SBJ-2 (NP peak output)
+					 (PP from
+					     (NP the field))
+					 (PP of
+					     (NP (NP 15,000 barrels)
+						 (NP-ADV a day))))
+			       (VP to
+                                   (VP be
+                                       (VP reached
+                                           (NP *-2)
+                                           (PP-TMP in
+						   (NP 1990)))))))))))
+     .))

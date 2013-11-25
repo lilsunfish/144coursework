@@ -1,0 +1,44 @@
+
+
+( (S (NP-SBJ (NP AVX Corp.)
+             and
+             (NP Unitrode Corp.))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP completed
+                      (NP (NP the (ADJP previously reported) sale)
+                          (PP of
+                              (NP (NP Unitrode 's)
+                                  (ADJP San Diego-based)
+				  Passive Components division))
+                          (PP to
+                              (NP AVX)))))))
+     .))
+( (S (NP-SBJ (NP AVX)
+             ,
+             (NP (NP a (ADJP New York-based) maker)
+                 (PP of
+                     (NP passive electronic products)))
+             ,)
+     (VP paid
+         (NP (NP (QP $ 11 million) *U*)
+             (PP in
+                 (NP cash)))
+         (PP-DTV to
+		 (NP (NP Unitrode)
+		     ,
+		     (NP (NP a Lexington-based maker)
+			 (PP of
+			     (NP semiconductor products))))))
+     .))
+( (S (NP-SBJ Passive Components)
+     (VP makes
+         (NP (NP capacitors and filters)
+             (VP used
+		 (NP-1 *) 
+                 (S-CLR (NP-SBJ *-1)
+			(VP to
+			    (VP protect
+				(NP electronics)))))))
+     .))

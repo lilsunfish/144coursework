@@ -1,0 +1,381 @@
+
+
+( (S (NP-SBJ Southam Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP its unprofitable weekly newspaper)
+                          ,
+                          (NP (NP The Financial Times)
+			      (PP of
+				  (NP Canada)))
+                          ,)
+                  (VP is
+                      (PP-PRD up
+			      (PP for
+				  (NP sale)))))))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP the announcement)
+                            ,
+                            (NP (NP the latest)
+                                (PP in
+                                    (NP (NP a series)
+                                        (PP of
+                                            (NP (NP divestitures)
+                                                and
+                                                (NP restructuring moves))))))
+                            ,)
+                  (VP is
+                      (VP aimed
+                          (NP *-1)
+                          (PP-CLR at
+				  (S-NOM (NP-SBJ *)
+					 (VP improving
+					     (NP (NP Southam 's)
+						 earnings)
+					     (PP-TMP before
+						     (NP (NP (NP the expiration)
+							     (PP *ICH*-2))
+							 (PP-TMP in
+								 (NP June))
+							 (PP-2 of
+							       (NP (NP a standstill pact)
+								   (PP with
+								       (NP Torstar Corp))))))))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-1 When)
+	       (S (NP-SBJ that agreement)
+		  (VP expires
+		      (ADVP-TMP *T*-1))))
+     ,
+     (NP-SBJ-2 Torstar)
+     (VP will
+         (VP be
+             (ADJP-PRD free
+		       (S (S (NP-SBJ *-2)
+			     (VP to
+				 (VP increase
+				     (NP (NP its (ADJP 22.4 %) stake)
+					 (PP-LOC in
+						 (NP Southam))))))
+			  , or
+			  (S (NP-SBJ *-2)
+			     (VP to
+				 (VP make
+				     (NP (NP an offer)
+					 (PP for
+					     (NP the whole company))))))))))
+     .))
+( (S (NP-SBJ (NP Descendants)
+             (PP of
+                 (NP the Southam family)))
+     (VP hold
+         (NP (NP an additional (ADJP 22.6) % stake)
+             (PP in
+                 (NP (NP the Toronto-based company)
+                     ,
+                     (NP (NP Canada 's)
+                         largest newspaper publisher)))))
+     .))
+( (SINV (S-TPC-2 (NP-SBJ The newspaper)
+		 (VP could
+		     (VP fetch
+			 (NP (NP (QP between
+				     15 million
+				     and
+				     20 million)
+				 Canadian dollars)
+			     (PRN -LRB-
+				  (NP (QP US$ 12.8 million 
+					  to
+					  $ 17.1 million) *U*)
+				  -RRB-)))))
+	,
+	(VP said
+	    (SBAR 0
+		  (S *T*-2)))
+	(NP-SBJ (NP one analyst)
+		,
+		(SBAR (WHNP-1 who)
+		      (S (NP-SBJ-3 *T*-1)
+			 (VP asked
+			     (S not
+				(NP-SBJ-4 *-3)
+				(VP to
+				    (VP be
+					(VP identified
+					    (NP *-4)))))))))
+	.))
+( (S (NP-SBJ-3 (NP A spokesman)
+	       (PP for
+		   (NP Southam)))
+     (VP declined
+         (S (NP-SBJ *-3)
+            (VP to
+                (VP comment
+                    (PP-CLR (PP on
+				(NP (NP the price)
+				    (SBAR (WHNP-2 0)
+					  (S (NP-SBJ the company)
+					     (VP is
+						 (VP seeking
+						     (NP *T*-2)))))))
+			    or
+			    (PP on
+				(NP (NP estimates)
+				    (PP of
+					(NP (NP (NP the paper 's)
+						annual losses)
+					    ,
+					    (SBAR (WHNP-1 which)
+						  (S (NP-SBJ most analysts)
+						     (VP place
+							 (NP *T*-1)
+							 (PP-CLR at
+								 (NP (QP between
+									 C$ 4 million
+									 and
+									 C$ 7 million) *U*))))))))))))))
+     .))
+( (S (NP-TMP Yesterday)
+     ,
+     (NP-SBJ Southam)
+     (VP reported
+         (NP (NP (NP third-quarter earnings)
+		 (PP of
+		     (NP (QP C$ 10.8 million) *U*)))
+	     (PP on
+                 (NP (NP revenue)
+                     (PP of
+                         (NP (QP C$ 395.4 million) *U*))))
+             ,
+             (ADVP down
+                   (PP from
+                       (NP (NP (QP C$ 14.6 million) *U*)
+                           (PP on
+                               (NP (NP revenue)
+                                   (PP of
+                                       (NP (QP C$ 389.6 million) *U*))
+                                   (PP-TMP in
+					   (NP the year-ago quarter)))))))))
+     .))
+( (SINV (S-TPC-2 ``
+		 (S (S-PRP (NP-SBJ *-1)
+			   (VP To
+			       (VP be
+				   (ADJP-PRD profitable))))
+		    ,
+		    (NP-SBJ-1 the paper)
+		    (VP requires
+			(NP more circulation)))
+		 and
+		 (S (NP-SBJ building circulation)
+		    (VP is
+			(NP-PRD an expensive undertaking)))
+		 , '')
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP John Macfarlane)
+		,
+		(NP (NP the paper 's)
+		    publisher))
+	.))
+( (S (NP-SBJ Southam)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the level)
+                          (PP of
+                              (NP (NP future investment)
+                                  (VP required
+                                      (NP *)
+                                      (PP by
+                                          (NP-LGS the paper))))))
+                  (VP would
+                      (VP have
+                          (VP restricted
+                              (NP (NP its options)
+                                  (PP-LOC in
+					  (NP other areas)))))))))
+     .))
+( (SINV (S-TPC-1 (NP-SBJ (NP The acquisition)
+			 (PP of
+			     (NP (NP the Financial Times)
+				 (PP of
+				     (NP Canada)))))
+		 (VP is
+		     ``
+		     (PP-PRD (ADVP well)
+			     within
+			     (NP reach))
+		     (PP for
+			 (NP (NP any number)
+			     (PP of
+				 (NP (NP media companies)
+				     ,
+				     (ADJP both
+					   public and private))))))
+		 , '')
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP James Cole)
+		,
+		(NP (NP an analyst)
+		    (PP with
+			(NP Toronto-based BBN James Capel Inc))))
+	.))
+( (S (NP-SBJ Possible bidders)
+     (VP include
+         (NP (NP Christopher Ondaatje)
+             ,
+             (NP (NP a Toronto financier)
+                 and
+                 (NP (NP vice chairman)
+                     (PP of
+                         (NP (NP Hees International Bancorp Inc.)
+                             ,
+                             (NP (NP a holding company)
+                                 (VP controlled
+                                     (NP *)
+                                     (PP by
+                                         (NP-LGS (NP Toronto 's)
+                                                 Bronfman family))))))))))
+     .))
+( (S (NP-SBJ-1 Mr. Ondaatje)
+     (VP (VP sold
+	     (NP (NP his stake)
+		 (PP in
+		     (NP Pagurian Corp.)))
+	     (PP-CLR to
+		     (NP Hees))
+	     (ADVP-TMP earlier
+		       (NP this year)))
+	 and
+	 (VP is
+	     (VP said
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP be
+			    (VP seeking
+				(NP a media acquisition))))))))
+     .))
+( (S (S (NP-SBJ-1 Mr. Ondaatje)
+        (VP could n't
+            (VP be
+                (VP reached
+                    (NP *-1)
+                    (PP-CLR for
+			    (NP comment))))))
+     , but
+     (S (NP-SBJ (NP Roy Mac-Laren)
+                ,
+                (NP (NP chairman)
+                    (PP of
+                        (NP (NP CB Media)
+                            ,
+                            (NP (NP a
+                                    (ADJP closely
+					  held)
+                                    concern)
+                                (SBAR (WHNP-2 that)
+                                      (S (NP-SBJ *T*-2)
+                                         (VP publishes
+                                             (NP two business magazines))))))))
+                ,)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ his company)
+                     (VP would
+                         (VP take
+                             (NP (NP a close look)
+                                 (PP at
+                                     (NP the newspaper)))))))))
+     .))
+( (S (NP-SBJ Mr. Cole)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the sale)
+                          (PP of
+                              (NP (NP the 77-year Financial Times)
+                                  ,
+                                  (SBAR (WHNP-1 which)
+                                        (S (NP-SBJ Southam)
+                                           (VP has
+                                               (VP owned
+                                                   (NP *T*-1)
+						   (PP-TMP since
+							   (NP 1961))))))
+                                  ,)))
+                  (VP is
+                      (ADJP-PRD consistent
+				(PP with
+				    (NP (NP (NP Southam 's)
+					    strategy)
+					(PP of
+					    (S-NOM (NP-SBJ-2 *)
+						   (VP cutting
+						       (NP costs)
+						       (S-PRP (NP-SBJ-3 *-2)
+							      (VP to
+								  (VP obtain
+								      (NP maximum profits)
+								      (PP-CLR from
+									      (NP its operations))
+								      (SBAR-TMP while
+										(S (NP-SBJ *-3)
+										   (VP disposing
+										       (PP-CLR of
+											       (NP `` chronically under-performing '' assets))))))))))))))))))
+     .))
+( (S (NP-SBJ-1 Southam)
+     (VP agreed
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP sell
+                    (NP (NP its (ADJP 47 %) stake)
+                        (PP in
+                            (NP (NP Selkirk Communications Ltd.)
+                                ,
+                                (NP a broadcasting concern)
+                                ,)))
+                    (PP-CLR to
+			    (NP Maclean Hunter Ltd.))
+                    (PP-CLR for
+			    (NP (QP about
+				    C$ 285 million) *U*))
+		    (NP-TMP last year)))))
+     .))
+( (S (NP-TMP This year)
+     ,
+     (NP-SBJ-1 it)
+     (VP has
+         (VP moved
+             (S (NP-SBJ-2 *-1)
+                (VP to
+                    (VP cut
+                        (NP (NP costs)
+                            (PP in
+                                (NP its newspaper division)))
+                        (PP through
+                            (NP (NP layoffs)
+                                and
+                                (NP asset sales)))
+			,
+			(SBAR-TMP while
+				  (S (NP-SBJ *-2)
+				     (VP reaching
+					 (NP (NP joint venture and acquisition agreements)
+					     (PP-LOC in
+						     (NP other areas)))))))))))
+     .))
+( (S (NP-SBJ (NP The Financial Times)
+             (PP of
+                 (NP Canada)))
+     (VP has
+         (NP (NP no links)
+             (PP to
+                 (NP (NP the British daily newspaper)
+                     ,
+                     (NP The Financial Times)))))
+     .))

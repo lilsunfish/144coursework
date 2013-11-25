@@ -1,0 +1,46 @@
+
+
+( (S (NP-SBJ-1 (NP Sir Richard Butler)
+               ,
+               (NP (NP 60-year-old chairman)
+                   (PP of
+                       (NP Agricola 
+			   (PRN -LRB-
+				U.K . 
+				-RRB-) 
+			   Ltd.)))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP chairman)
+			(PP of
+			    (NP (NP County NatWest Investment Management Ltd.)
+				,
+				(NP (NP the investment management subsidiary)
+				    (PP of
+					(NP (NP County NatWest Ltd.)
+					    ,
+					    (NP (NP the investment banking arm)
+						(PP of
+						    (NP this British bank))))))))))))
+     .))
+( (S (NP-SBJ Sir Richard)
+     (VP succeeds
+         (NP (NP John Plastow)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP resigned
+			  (PP-TMP in
+				  (NP July)))))))
+     .))
+( (S (NP-SBJ Sir Richard)
+     (VP is
+         (ADVP also)
+         (NP-PRD (NP a non-executive director)
+		 (PP-LOC at
+			 (NP (NP National Westminister Bank)
+			     and
+			     (NP NatWest Investment Bank Ltd)))))
+     .))

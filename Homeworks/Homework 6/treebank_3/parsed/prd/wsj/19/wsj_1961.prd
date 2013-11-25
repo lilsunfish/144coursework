@@ -1,0 +1,36 @@
+
+
+( (S (NP-SBJ (NP THE STOCK)
+	     (PP of
+		 (NP Applied Power Inc.))
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ *T*-2)
+                      (VP split
+                          (ADVP-CLR 2-for-1)
+                          (PP-TMP in
+				  (NP May)))))
+             ,)
+     (VP has
+         (VP risen
+	     (PP-TMP since
+		     (NP August 1988))))
+     .))
+( (S (PP-LOC In
+	     (NP (NP yesterday 's)
+		 edition))
+     ,
+     (NP-SBJ-2 (NP it)
+	       (SBAR *EXP*-1))
+     (VP was
+	 (VP (ADVP-MNR incorrectly)
+	     stated
+	     (NP *-2)
+             (SBAR-1 that
+		     (S (NP-SBJ (NP the company 's)
+				share price)
+			(VP has
+			    (VP softened
+				(PP-TMP since
+					(NP August 1988))))))))
+     .))

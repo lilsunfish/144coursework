@@ -1,0 +1,33 @@
+
+
+( (S (NP-SBJ-1 (NP Hale Milgrim)
+               ,
+               (ADJP (NP 41 years)
+                     old)
+               ,
+               (NP (NP senior vice president)
+                   ,
+                   (NP marketing)
+                   (PP-LOC at
+			   (NP Elecktra Entertainment Inc.)))
+               ,)
+     (VP was
+         (VP named
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP president)
+			(PP of
+			    (NP (NP Capitol Records Inc.)
+				,
+				(NP (NP a unit)
+				    (PP of
+					(NP this entertainment concern)))))))))
+     .))
+( (S (NP-SBJ Mr. Milgrim)
+     (VP succeeds
+         (NP (NP David Berman)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP resigned
+                          (NP-TMP last month))))))
+     .))

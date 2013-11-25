@@ -1,0 +1,563 @@
+
+
+( (S (S-TPC-2 (NP-SBJ-1 (NP Lung-cancer mortality rates)
+			(PP for
+			    (NP (NP people)
+				(PP under
+				    (NP (NP 45 years)
+					(PP of
+					    (NP age)))))))
+	      (VP have
+		  (VP begun
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP decline))))))
+     ,
+     (NP-SBJ federal researchers)
+     (VP report
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (NP-SBJ The drop)
+     (VP is
+	 (ADJP-PRD particularly large
+		   (PP for
+		       (NP white males)))
+	 ,
+	 (SBAR-ADV although
+		   (S (NP-SBJ (NP black males)
+			      and
+			      (NP white and black women))
+		      (ADVP also)
+		      (VP show
+			  (NP lower mortality rates)))))
+     .))
+( (S (NP-SBJ (NP A report)
+             (PP-LOC in
+		     (NP (NP (NP this week 's)
+			     issue)
+			 (PP of
+			     (NP-TTL (NP the Journal)
+				     (PP of
+					 (NP the National Cancer Institute)))))))
+     (ADVP also)
+     (VP projects
+         (SBAR that
+               (S (NP-SBJ-1 (NP overall U.S. mortality rates)
+			    (PP from
+				(NP (NP lung cancer)
+				    ,
+				    (NP (NP the leading cause)
+					(PP of
+					    (NP cancer death))))))
+                  ,
+                  (VP should
+                      (VP begin
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP drop)))
+			  (PP-TMP in
+				  (NP several years))
+			  (SBAR-ADV if
+				    (S (NP-SBJ-2 cigarette smoking)
+				       (VP continues
+					   (S (NP-SBJ *-2)
+					      (VP to
+						  (VP abate)))))))))))
+     .))
+( (S (NP-SBJ (NP The report)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP comes
+			  (SBAR-TMP (NP 25 years)
+				    after
+				    (S (NP-SBJ the U.S. Surgeon General)
+				       (VP issued
+					   (NP (NP a report)
+					       (VP warning
+						   (PP-CLR against
+							   (NP (NP the dangers)
+							       (PP of
+								   (NP smoking))))))))))))
+             ,)
+     (VP is
+         (NP-PRD (NP the strongest indication)
+                 (PP-TMP to
+			 (NP date))
+                 (SBAR that
+                       (S (NP-SBJ (NP the reduction)
+                                  (PP-LOC in
+					  (NP smoking)))
+                          (VP is
+                              (VP leading
+                                  (PP-DIR to
+					  (NP (NP lower death rates)
+					      (PP from
+						  (NP lung cancer))))))))))
+     .))
+( (SINV ``
+	(S-TPC-2 (NP-SBJ (SBAR (WHNP-1 What)
+			       (S (NP-SBJ this)
+				  (VP is
+				      (VP saying
+					  (NP *T*-1))))))
+		 (VP is
+		     (SBAR-PRD that
+			       (S (NP-SBJ (NP the surgeon general 's)
+					  message)
+				  (VP is
+				      (VP having
+					  (NP an impact)))))))
+	, ''
+	(VP said
+	    (S *T*-2))
+	(NP-SBJ (NP Melvyn Tockman)
+		,
+		(NP (NP an epidemiologist)
+		    (PP-LOC at
+			    (NP (NP the Johns Hopkins School)
+				(PP of
+				    (NP (NP Hygiene)
+					and
+					(NP Public Health)))
+				(PP-LOC in
+					(NP Baltimore))))))
+	.))
+( (S (NP-SBJ The National Cancer Institute report)
+     (VP compares
+         (NP (NP mortality rates)
+             (PP of
+                 (NP (NP two groups)
+                     (PP of
+                         (NP (NP people)
+                             (PP between
+                                 (NP (NP the ages)
+                                     (PP of
+                                         (NP 35 and 44))))))
+		     (ADJP (NP a decade)
+			   apart)))))
+     .))
+( (S (S (NP-SBJ (NP The death rate)
+                (PP from
+                    (NP (NP lung cancer)
+                        (PP of
+                            (NP (NP white males)
+                                (VP aged
+                                    (NP *)
+                                    (NP (NP 35)
+                                        (PP to
+                                            (NP 44))))))))
+		(PP-TMP in
+			(NP the mid-1970s)))
+	(VP was
+            (NP-PRD (NP 13.4)
+                    (PP per
+                        (NP 100,000)))))
+     , but
+     (S (NP-SBJ (NP the mortality rate)
+                (PP of
+                    (NP the same age group))
+		(PP-TMP in
+			(NP the mid-1980s)))
+	(VP was
+            (NP-PRD (NP 9.6)
+                    ,
+                    (NP (NP a decline)
+                        (PP of
+                            (NP 28.7 %))))))
+     .))
+( (S (S-ADV (NP-SBJ *-1)
+	    (VP Measured
+		(NP the same way)))
+     ,
+     (NP-SBJ-1 (NP the decline)
+	       (PP for
+		   (NP black males)))
+     (VP was
+	 (NP-PRD 14.2 %))
+     .))
+( (S (NP-SBJ (NP The drop)
+             (PP-LOC in
+		     (NP (NP mortality rates)
+			 (PP for
+			     (NP women)))))
+     (VP was
+	 (UCP-PRD (ADJP less steep)
+		  --
+		  (NP (NP (NP 8.9 %)
+			  (PP for
+			      (NP blacks)))
+		      and
+		      (NP (NP 5.3 %)
+			  (PP for
+			      (NP whites))))))
+     .))
+( (S (NP-SBJ (NP The study) 
+	     ,
+             (PP by
+                 (NP (NP Susan Devesa)
+                     ,
+                     (NP William Blot)
+                     and
+                     (NP Joseph Fraumeni)))
+             (PP of
+                 (NP (NP the institute 's)
+                     staff))
+             ,)
+     (ADVP also)
+     (VP shows
+         (SBAR that
+               (S (NP-SBJ (NP (NP the incidence)
+                              (PP of
+                                  (NP lung cancer)))
+                          (CONJP as well as)
+                          (NP the death rate))
+                  (VP declined
+                      (PP-TMP over
+			      (NP the decade))
+                      (PP for
+                          (NP (NP all groups)
+                              (PP-LOC in
+				      (NP the 35-44 age bracket))
+                              ,
+                              (PP except
+                                  (NP black men))))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ lung-cancer mortality rates)
+		  (VP are
+		      (VP increasing
+			  (PP for
+			      (NP (NP the nation)
+				  (PP as
+				      (NP a whole))))))))
+     ,
+     (NP-SBJ the report)
+     (VP projects
+         (SBAR that
+               (S (NP-SBJ-1 death rates)
+		  (VP will
+		      (VP begin
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP (VP decline
+					 (PP-TMP-2 in
+						   (NP the 1990s))
+					 (PP-3 for
+					       (NP men)))
+				     and
+				     (VP (PP-TMP=2 after
+						   (NP the year 2000))
+					 (PP=3 for
+					       (NP women)))))))))))
+     .))
+( (S (NP-SBJ-1 Lung-cancer mortality rates)
+     (VP (VP increase
+	     (PP with
+		 (NP age)))
+	 and
+	 (VP are
+	     (VP continuing
+		 (S (NP-SBJ *-1)
+		    (VP to
+			(VP rise
+			    (PP for
+				(NP (NP all age groups)
+				    (PP over
+					(NP 55))))
+			    ,
+			    (PP with
+				(NP (NP sharp increases)
+				    (PP for
+					(NP (NP everybody)
+					    but
+					    (NP white men)))))))))))
+     .))
+( (S But
+     (NP-SBJ (NP Dr. Fraumeni)
+             ,
+             (NP (NP one)
+                 (PP of
+                     (NP (NP the authors)
+                         (PP of
+                             (NP the report)))))
+             ,)
+     (VP said
+	       ``
+	       (S (NP-TPC-1 (NP the declining rates)
+			    (SBAR (WHNP-3 0)
+				  (S (NP-SBJ we)
+				     (VP 're
+					 (VP seeing
+					     (NP *T*-3)
+					     (PP for
+						 (NP younger people)))))))
+                  (NP-SBJ we)
+		  (VP believe
+		      (S (NP-SBJ *T*-1) 
+			 (VP may
+			     (S (NP-SBJ *)
+				(VP be
+				    (NP-PRD (NP a harbinger)
+					    (PP of
+						(NP (NP declining mortality)
+						    (PP-TMP in
+							    (NP the future))))))))))))
+     . ''))
+( (S (ADVP However)
+     ,
+     (NP-SBJ he)
+     (VP stressed
+         (SBAR that
+               (S (NP-SBJ the improvement)
+                  (VP depends
+                      (PP-LOC-CLR on
+				  (NP (NP a continued reduction)
+				      (PP-LOC in
+					      (NP smoking))))))))
+     .))
+( (S ``
+     (S-TPC-2 (SBAR-ADV (ADVP Even)
+			though
+			(S (NP-SBJ (NP these favorable trends)
+				   (PP-LOC in
+					   (NP lung-cancer mortality)))
+			   (VP affect
+			       (NP all sex and race groups))))
+	      ,
+	      (NP-SBJ-1 they)
+	      (VP ca n't
+		  (VP be
+		      (VP taken
+			  (NP *-1) 
+			  (PP-CLR for
+				  (ADJP granted))))))
+     , ''
+     (NP-SBJ the report)
+     (VP says
+	 (S *T*-2))
+     .))
+( (S ``
+     (NP-SBJ Smoking prevention programs)
+     (VP should
+         (VP reach
+             (NP (NP (NP larger segments)
+                     (PP of
+                         (NP the population)))
+                 ,
+                 (NP especially children , adolescents and minorities))))
+     . ''))
+( (S (NP-SBJ (NP An editorial)
+             (PP-LOC in
+		     (NP the NCI Journal)))
+     (VP says
+         (SBAR 0
+               (S (NP-SBJ (NP the report)
+                          (PP of
+                              (NP (NP declining lung-cancer mortality ``)
+                                  (PP-LOC among
+					  (NP (NP young men and women)
+					      (PP-LOC in
+						      (NP the U.S.)))))))
+                  (VP indicates
+                      (SBAR that
+                            (S (NP-SBJ we)
+			       (ADVP finally)
+			       (VP may
+				   (VP be
+				       (VP winning
+					   (NP the battle)
+					   --
+					   (FRAG (NP this)
+						 (PP-LOC (ADVP even)
+							 in
+							 (NP (NP a country)
+							     (SBAR (WHADVP-1 where)
+								   (S (NP-SBJ the tobacco industry)
+								      (VP spends
+									  (NP (NP (QP over $ 2 billion) *U*)
+									      (NP-ADV a year))
+									  (PP for
+									      (NP (NP promotion)
+										  (PP of
+										      (NP (NP the addictive habit)
+											  (PP of
+											      (NP smoking))))))
+									  (ADVP-LOC *T*-1))))))))))))))))
+     . ''))
+( (S But
+     (NP-SBJ (NP the editorial)
+             ,
+             (PP by
+                 (NP (NP Jan Stjernsward)
+                     (PP of
+                         (NP the World Health Organization))))
+             ,)
+     (VP notes
+         (SBAR that
+               (S (NP-SBJ tobacco consumption 
+			  and 
+			  lung-cancer mortality 
+			  rates) 
+                  (VP are
+                      (VP rising
+                          (PP-LOC in
+				  (NP developing countries)))))))
+     .))
+( (S-3 ``
+       (NP-SBJ-1 Non-smoking)
+       (VP should
+	   (VP be
+	       (VP established
+		   (NP *-1)
+		   (PP-CLR as
+			   (NP (NP the norm)
+			       (PP of
+				   (NP social behavior))
+			       ''
+			       (PP-LOC around
+				       (NP the world)))))))
+       (PRN ,
+	    (S (NP-SBJ the editorial)
+	       (VP says
+		   (SBAR 0
+			 (S *T*-3))))
+	    ,)
+       (PP through
+	   (NP (NP the enactment)
+	       (PP of
+		   (NP (NP laws)
+		       (SBAR (WHNP-2 that)
+			     (S (NP-SBJ *T*-2)
+				(VP (VP limit
+					(NP advertising))
+				    ,
+				    (VP boost
+					(NP tobacco prices))
+				    and
+				    (VP promote
+					(NP anti-smoking education)))))))))
+       .))
+( (S (S (NP-SBJ-1 *-2)
+	(VP Asked
+	    (NP *-1)
+	    (PP for
+		(NP comment))))
+     ,
+     (NP-SBJ-2 (NP Walker Merryman)
+	       ,
+	       (NP (NP a vice president)
+		   (PP of
+		       (NP the Tobacco Institute))))
+     ,
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ new efforts
+			  (S (NP-SBJ *)
+			     (VP to
+				 (VP restrict
+				     (NP tobacco advertising)
+				     (PP-LOC in
+					     (NP the U.S.))))))
+		  (VP could
+		      (VP violate
+			  (NP (NP the First Amendment protection)
+			      (PP of
+				  (NP free speech))))))))
+     .))
+( (S (PP According
+         (PP to
+             (NP the American Cancer Society)))
+     ,
+     (NP-SBJ smoking)
+     (VP is
+	 (ADJP-PRD responsible
+		   (PP for
+		       (NP (NP (NP 85 %)
+			       (PP of
+				   (NP (NP the lung-cancer cases)
+				       (PP among
+					   (NP men)))))
+			   and
+			   (NP (NP 75 %)
+			       (PP among
+				   (NP women)))))))
+     .))
+( (S (NP-SBJ The NCI report)
+     (VP attributes
+         (NP (NP the differences)
+             (PP-LOC in
+		     (NP mortality rates))
+             (PP by
+                 (NP race)))
+         (PP-CLR to
+		 (NP different smoking patterns)))
+     .))
+( (S (NP-SBJ (NP A higher proportion)
+             (PP of
+                 (NP black men))
+             (PP *ICH*-3))
+     (VP smoke
+	 (PP-3 than
+	       (NP white men))) 
+     .))
+( (S (SBAR-ADV While 
+	       (S (NP-SBJ (NP (ADJP nearly equal)
+			      percentages)
+			  (PP of
+			      (NP black and white women)))
+		  (ADVP-TMP currently)
+		  (VP smoke)))
+     ,
+     (PP-LOC in
+	     (NP both sexes))
+     (NP-SBJ (NP more whites)
+	     (PP *ICH*-4))
+     (VP have
+	 (VP given (PRT up)
+	     (NP smoking)
+	     (PP-4 than
+		   (NP blacks))))
+     .))
+( (S (PP In
+         (S-NOM (NP-SBJ *)
+		(VP comparing
+		    (NP (NP changes)
+			(PP-LOC in
+				(NP mortality rates))
+			(PP-TMP over
+				(NP the past decade))))))
+     ,
+     (NP-SBJ the NCI study)
+     (VP looked
+         (ADVP only)
+         (PP-CLR at
+		 (NP blacks and whites)))
+     .))
+( (S (S (NP-SBJ-2 (NP Asians)
+		  and
+		  (NP native Americans))
+        (VP were n't
+            (VP studied
+		(NP *-2))))
+     ;
+     (S (NP-SBJ-1 Hispanics)
+        (VP were
+            (VP included
+                (NP *-1)
+                (PP-CLR with
+			(NP whites)))))
+     .))
+( (NP (NP Recent changes)
+      (PP-LOC in
+	      (NP (NP average annual age-specific lung-cancer rates)
+		  (PP per
+		      (NP 100,000 population))
+		  (PP by
+		      (NP race and sex))))
+      .))
+( (NP-HLN White Males))
+( (NP-HLN White Females))
+( (NP-HLN Black Males))
+( (NP-HLN Black Females))

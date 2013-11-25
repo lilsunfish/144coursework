@@ -1,0 +1,113 @@
+
+
+( (S (NP-SBJ-1 Granges Inc.)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP citing
+		(NP depressed gold prices)))
+     ,
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 it)
+                  (VP plans
+                      (S (NP-SBJ *-2)
+                         (VP to
+                             (VP suspend
+                                 (NP operations)
+				 (PP-TMP for
+					 (NP an indefinite period))
+				 (PP-LOC at
+					 (NP (NP its Tartan gold mine)
+					     (PP-LOC in
+						     (NP Manitoba)))))))))))
+     .))
+( (S (NP-SBJ Granges)
+     (VP said
+         (PP-LOC in
+		 (NP (NP Vancouver)
+		     ,
+		     (NP British Columbia)
+		     ,))
+         (SBAR that
+               (S (NP-SBJ-1 the production halt)
+                  (VP will
+                      (VP be
+                          (VP phased
+                              (NP *-1)
+                              (ADVP-CLR in)
+			      (PP-TMP over
+				      (NP a 10-week period))))))))
+     .))
+( (S (NP-SBJ Tartan)
+     (ADVP-TMP currently)
+     (VP produces
+         (NP gold)
+         (PP at
+             (NP (NP a cash operating cost)
+                 (PP of
+                     (NP (NP (NP $ 393 *U*)
+                             (NP-ADV an ounce))
+                         ,
+                         (SBAR (WHNP-1 which)
+                               (S (NP-SBJ *T*-1)
+                                  (VP (VP is
+					  (ADJP-PRD-2 high)
+					  (PP by
+					      (NP industry standards)))
+				      and
+				      (VP (PP-PRD=2 (NP $ 25 *U* 
+							(QP or so))
+						    above
+						    (NP the current spot price)))))))))))
+     .))
+( (S (NP-SBJ Granges)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (ADVP also)
+                  (VP plans
+		      (S (NP-SBJ *-1)
+			 (PP-TMP in
+				 (NP the third quarter))
+			 (VP (VP to
+				 (VP write
+				     (PRT down)
+				     (NP (NP the carrying value)
+					 (PP of
+					     (NP the Tartan mine)))
+				     (PP-EXT by
+					     (NP (NP (QP 2.5 million) Canadian dollars)
+						 (PRN -LRB-
+						      (NP (QP US$ 2.12 million) *U*)
+						      -RRB-)))))
+			     , 
+			     and
+			     (VP to
+				 (VP write
+				     (PRT off)
+				     (NP (NP most)
+					 (PP of
+					     (NP (NP the (ADJP (QP C$ 6.3 million) *U*) carrying value)
+						 (PP of
+						     (NP (NP its Windflower gold property)
+							 (PP-LOC in
+								 (NP British Columbia)))))))))))))))
+     .))
+( (S (S (NP-SBJ Granges)
+        (VP did n't
+            (VP say
+                (SBAR (WHNP-1 what impact)
+                      (S (NP-SBJ the moves)
+                         (VP would
+                             (VP have
+                                 (NP *T*-1)
+				 (PP on
+				     (NP (NP total gold output)
+					 or
+					 (NP earnings))))))))))
+     ,
+     and
+     (S (NP-SBJ company officials)
+        (VP were n't
+            (ADJP-PRD available)))
+     .))

@@ -1,0 +1,2384 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (INTJ Hi
+	,
+	E_S))
+( (S (NP-SBJ my last
+	     ,
+	     (INTJ uh)
+	     ,
+	     auto repair)
+     (VP was
+	 (S-PRD (EDITED (RM [)
+			(NP-SBJ-UNF my)
+			,
+			(IP +))
+		(NP-SBJ my
+			,
+			(RS ])
+			(INTJ uh)
+			,
+			alternator)
+		(VP went
+		    (ADVP out))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP have
+	 (NP a nineteen eighty-six Toyota)
+	 ,
+	 (INTJ uh))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (NP-PRD a little Tercel))
+     .
+     E_S))
+( (CODE SpeakerB2 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA3 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP have
+	 (EDITED (RM [)
+		 (NP-UNF a fri-)
+		 ,
+		 (IP +))
+	 (NP (NP a friend)
+	     (RS ])
+	     (SBAR (WHNP-1 who) 
+		   (S (NP-SBJ *T*-1)
+		      (VP 's
+			  (ADJP-PRD real good
+				    (PP with
+					,
+					(INTJ uh)
+					,
+					(S-NOM (NP-SBJ *)
+					       (VP repairing
+						   (NP cars))))))))))
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (VP got
+	 (S (NP-SBJ him)
+	    (VP to
+		(VP (VP take
+			(NP the alternator)
+			(PRT off))
+		    and
+		    (VP take
+			(NP it))
+		    and
+		    ,
+		    (INTJ uh)
+		    (PRN ,
+			 (S (NP-SBJ you)
+			    (VP know))
+			 ,)
+		    (VP get
+			(NP a replacement part))))))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA5 .))
+( (S So
+     (NP-SBJ we)
+     (VP went
+	 (PP-DIR to
+		 (EDITED (RM [)
+			 (EDITED (RM [)
+				 (NP-UNF a)
+				 ,
+				 (IP +))
+			 (INTJ uh)
+			 ,
+			 (NP-UNF a)
+			 ,
+			 (RS ])
+			 (IP +))
+		 (NP (NP a
+			 (RS ])
+			 place)
+		     (VP called
+			 (S (NP-SBJ *)
+			    (NP-PRD Quality Auto Parts))))))
+     E_S))
+( (S (EDITED (RM [)
+	     an
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ-1 their parts)
+     (VP are
+	 (VP supposed
+	     (S (NP-SBJ-2 *-1)
+		(VP to 
+		    (VP be
+			(VP (VP guaranteed
+				(NP *-2))
+			    (EDITED (RM [)
+				    and
+				    ,
+				    (IP +))
+			    and
+			    (RS ])
+			    (NP-ETC everything)))))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ they)
+		(VP-UNF 're))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP 're
+	 ,
+	 (RS ])
+	 (INTJ uh)
+	 ,
+	 (ADJP-PRD very reasonable))
+     .
+     E_S))
+( (S So
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP bought
+	 (NP the alternator))
+     ,
+     E_S))
+( (S (NP-SBJ we)
+     (EDITED (RM [)
+	     (VP-UNF p-)
+	     ,
+	     (IP +))
+     (VP put
+	 (RS ])
+	 (NP it)
+	 (PP-PUT on
+		 (NP the car)))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ it)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP did
+	 n't
+	 (VP work))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (VP blew
+	 (PRT out)
+	 (NP all the fuses))
+     .
+     E_S))
+( (CODE SpeakerB6 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ no)
+	.
+	E_S))
+( (CODE SpeakerA7 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB8 .))
+( (SBARQ (WHNP-1 (WHADJP How much))
+	 (SQ was
+	     (NP-SBJ the alternator)
+	     (NP-PRD *T*-1))
+	 ?
+	 E_S))
+( (CODE SpeakerA9 .))
+( (FRAG (INTJ Uh)
+	(PRN ,
+	     (S (NP-SBJ I)
+		(VP-UNF bel-))
+	     ,)
+	(NP (NP (NP something)
+		(PP like
+		    (NP sixty-nine dollars)))
+	    ,
+	    (EDITED (RM [)
+		    (NP-UNF som-)
+		    ,
+		    (IP +))
+	    (NP (NP something)
+		(RS ])
+		(PP on
+		    (NP that order))))
+	.
+	E_S))
+( (CODE SpeakerB10 .))
+( (SQ (EDITED (RM [)
+	      (SQ-UNF Did
+		      (NP-SBJ he))
+	      ,
+	      (IP +))
+      did
+      (NP-SBJ he)
+      (RS ])
+      (VP hook
+	  (PRT up)
+	  (NP the
+	      (EDITED (RM [)
+		      wir-
+		      ,
+		      (IP +))
+	      wiring)
+	  (RS ])
+	  (ADVP-MNR wrong))
+      ?
+      E_S))
+( (CODE SpeakerA11 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ he)
+     (VP hooked
+	 (NP it)
+	 (PRT up)
+	 (ADVP-MNR right))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ It)
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (RS ])
+     (VP was
+	 (ADVP just)
+	 (SBAR-PRD that
+		   (S (EDITED (RM [)
+			      (NP-SBJ-UNF the)
+			      ,
+			      (IP +))
+		      (NP-SBJ the
+			      (RS ])
+			      part)
+		      (EDITED (RM [)
+			      (ADVP just)
+			      ,
+			      (IP +))
+		      (ADVP just)
+		      (RS ])
+		      (VP did
+			  n't
+			  (VP fit
+			      (NP the car))))))
+     ,
+     E_S))
+( (S so
+     .
+     (NP-SBJ I)
+     (VP took
+	 (NP it)
+	 (ADVP back))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (EDITED (RM [)
+		     (NP-SBJ he)
+		     ,
+		     (IP +))
+	     (S (NP-SBJ he)
+		(RS ])
+		(VP took
+		    (NP-UNF the alter-)))
+	     ,
+	     (IP +))
+     (NP-SBJ (NP the guy)
+	     (EDITED (RM [)
+		     (PP-LOC-UNF in)
+		     ,
+		     (IP +))
+	     (PP-LOC in
+		     (RS ])
+		     (NP the parts shop)))
+     (VP took
+	 (NP the alternator))
+     (RS ])
+     E_S))
+( (S and
+     (NP-SBJ he)
+     (VP put
+	 (NP it)
+	 (PP-PUT on
+		 (NP (NP the little thing)
+		     (SBAR (WHNP-1 0)
+			   (S (NP-SBJ he)
+			      (VP has
+				  (NP *T*-1)
+				  (PP-LOC in
+					  (ADVP there)))))
+		     (SBAR-PRP (WHNP-2 0)
+			       (S (NP-SBJ *T*-2)
+				  (VP to
+				      (VP test
+					  (NP them))))))))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ there)
+		  (VP was
+		      (NP-PRD (NP nothing)
+			      (ADJP wrong
+				    (PP with
+					(NP the alternator))))))))
+     E_S))
+( (S so
+     (EDITED (RM [)
+	     (NP-SBJ we)
+	     ,
+	     (IP +))
+     (NP-SBJ we)
+     (RS ])
+     (VP (VP went
+	     (ADVP back))
+	 and
+	 (VP (VP tried
+		 (NP it)
+		 (ADVP again))
+	     ,
+	     (VP put
+		 (NP it)
+		 (PRT on)
+		 (ADVP again))))
+     E_S))
+( (S and
+     (NP-SBJ it)
+     (ADVP-TMP still)
+     (VP did
+	 n't
+	 (VP work))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ we)
+     (VP took
+	 (NP the car)
+	 (PP-DIR up
+		 (PP to
+		     ,
+		     (INTJ um)
+		     ,
+		     (NP (NP a little place)
+			 (VP called
+			     (S (NP-SBJ *)
+				(NP-PRD Pep Boys)))))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ you)
+		      (VP have
+			  (NP them)
+			  (PP-LOC in
+				  (NP your area)))))))
+     E_S))
+( (CODE SpeakerB12 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA13 .))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ they)
+		(VP-UNF 're))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP 're
+	 (RS ])
+	 (NP-PRD (ADJP pretty reasonable)
+		 ,
+		 (INTJ uh)
+		 ,
+		 car repair place)
+	 (ADVP also))
+     .
+     E_S))
+( (S So
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ *)
+     (EDITED (RM [)
+	     (VP took
+		 (NP it)
+		 (PP-DIR up
+			 (ADVP there)))
+	     ,
+	     (IP +))
+     (VP towed
+	 (NP it)
+	 (PP-DIR up
+		 (ADVP there))
+	 (RS ])
+	 (SBAR-PRP because
+		   (S (NP-SBJ it)
+		      (PRN ,
+			   (S (NP-SBJ you)
+			      (VP know))
+			   ,)
+		      (VP would
+			  n't
+			  (VP (VP start)
+			      or
+			      (NP-ETC anything))))))
+     E_S))
+( (S and
+     (NP-SBJ-1 this thing)
+     (ADVP just)
+     (VP kept
+	 (S (NP-SBJ *-1)
+	    (VP blowing
+		(PRT out)
+		(NP the fuses))))))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ *)
+     (VP took
+	 (NP-2 them)
+	 (NP (QP about
+		 (EDITED (RM [)
+			 an
+			 ,
+			 (IP +))
+		 an
+		 (RS ]))
+	     hour)
+	 (S (NP-SBJ *-2)
+	    (VP to
+		,
+		(INTJ um)
+		,
+		(VP figure
+		    (PRT out)
+		    (SBAR (EDITED (RM [)
+				  (SBAR (WHNP-3 what)
+					(S (NP-SBJ *T*-3)
+					   (VP-UNF was)))
+				  ,
+				  (IP +))
+			  (WHNP-4 what)
+			  (S (NP-SBJ *T*-4)
+			     (VP was
+				 (RS ])
+				 (VP blowing
+				     (NP the fuse)))))))))
+     ,
+     E_S))
+( (S-CLF and
+	 (EDITED (RM [)
+		 (S (NP-SBJ it)
+		    (VP-UNF was))
+		 ,
+		 (IP +))
+	 (NP-SBJ it)
+	 (VP was
+	     (RS ])
+	     (NP-PRD the alternator)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP was
+			  (VP blowing
+			      (NP the fuse))))))
+	 .
+	 E_S))
+( (S (ADVP Anyway)
+     ,
+     (NP-SBJ-1 *)
+     (VP ended
+	 (PRT up)
+	 (S (NP-SBJ *-1)
+	    (VP taking
+		(NP it)
+		(PP-DIR to
+			(NP the Toyota dealer)))))
+     E_S))
+( (S and
+     (NP-SBJ the only problem)
+     (VP was
+	 (SBAR-PRD that
+		   ,
+		   (INTJ uh)
+		   ,
+		   (S (NP-SBJ-1 it)
+		      (VP had
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP be
+				     (NP-PRD a genuine Toyota , (INTJ uh) , alternator))))
+			  (SBAR-PRP because
+				    (S (NP-TPC (NP most)
+					       (PP of
+						   (NP (NP the other ones)
+						       (SBAR (WHNP-2 that)
+							     (S (NP-SBJ they)
+								(VP say
+								    (SBAR 0
+									  (S (NP-SBJ *T*-2)
+									     (VP will
+										 (VP fit
+										     (NP it))))))))
+						       ,
+						       (EDITED (SBAR-UNF (EDITED (RM [)
+										 (SBAR-UNF that)
+										 ,
+										 (IP +))
+									 (SBAR-UNF that))))))
+				       (PRN ,
+					    (RS ])
+					    (S (NP-SBJ you)
+					       (VP know))
+					    ,)
+				       (NP-SBJ they)
+				       (VP (VP sit
+					       (PP-LOC in
+						       (ADVP there)))
+					   and
+					   (NP-ETC everything))))))))
+     E_S))
+( (S but
+     (NP-SBJ there)
+     (VP 's
+	 (ADVP just)
+	 (NP-PRD (NP some little difference)
+		 (SBAR (WHNP-1 that)
+		       ,
+		       (INTJ um)
+		       ,
+		       (S (NP-SBJ *T*-1)
+			  (VP causes
+			      (S (NP-SBJ it)
+				 not
+				 (VP to
+				     (VP work
+					 (X an i-)))))))))
+     ,
+     N_S))
+( (CODE SpeakerB14 .))
+( (INTJ Uh-huh
+	,
+	E_S))
+( (S (NP-SBJ they)
+     (ADVP probably)
+     (VP built
+	 (NP that)
+	 (PRT in)
+	 (SBAR-PRP so
+		   (S (NP-SBJ they)
+		      (VP could
+			  (VP make
+			      (NP money))))))
+     .
+     E_S))
+( (CODE SpeakerA15 .))
+( (INTJ (EDITED (RM [)
+		(INTJ-UNF Ye-)
+		,
+		(IP +))
+	yeah
+	,
+	(RS ])
+	E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (ADVP so))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ that)
+		(VP was
+		    (NP-PRD-UNF my)))
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP was
+	 (NP-PRD my
+		 (RS ])
+		 last experience))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (S (INTJ Well)
+     (NP-SBJ I)
+     (VP had
+	 (NP-UNF a weird))
+     ,
+     N_S))
+( (S (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP a little sensing device)
+		 ,
+		 (INTJ uh)
+		 ,
+		 (EDITED (RM [)
+			 (PP-LOC in
+				 (NP (NP front)
+				     (PP of
+					 (NP-UNF my))))
+			 ,
+			 (IP +))
+		 (INTJ uh)
+		 ,
+		 (INTJ um)
+		 (PRN ,
+		      (S (NP-SBJ I)
+			 (VP 'm
+			     not
+			     (ADJP-PRD sure)))
+		      ,)
+		 (PP-LOC (ADVP right)
+			 in
+			 (NP (NP front)
+			     (PP of
+				 (RS ])
+				 (NP the
+				     (EDITED (RM [)
+					     f-
+					     ,
+					     (IP +))
+				     fan))))))
+     ,
+     (RS ])
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP 's
+		    (NP-PRD-UNF a)))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP 's
+	 (NP-PRD an
+		 (RS ])
+		 air conditioner sensing device))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (ADVP why)))
+     ,
+     E_S))
+( (S-UNF (NP-SBJ it)
+	 (ADVP actually)
+	 ,
+	 N_S))
+( (S (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP a metal piece)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP fits
+			      (PP through
+				  (NP the belts))))))
+	 ,
+	 (INTJ uh))
+     ,
+     E_S))
+( (S and
+     (ADVP-MNR somehow)
+     (NP-SBJ that)
+     (VP broke
+	 (PRT off))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (ADVP-TMP still)
+     (VP ca
+	 n't
+	 (VP figure
+	     (PRT out)
+	     (SBAR (WHADVP-1 how)
+		   (S (NP-SBJ it)
+		      (VP broke
+			  (ADVP-MNR *T*-1))))))
+     ,
+     E_S))
+( (S-UNF and
+	 ,
+	 (INTJ uh)
+	 ,
+	 (ADVP anyway)
+	 ,
+	 so
+	 (EDITED (RM [)
+		 (X a-)
+		 ,
+		 (IP +)
+		 (RS ]))
+	 (NP-SBJ this piece)
+	 (ADVP obviously)
+	 ,
+	 (INTJ um)
+	 ,
+	 N_S))
+( (S (NP-SBJ I)
+     (VP have
+	 (NP a Subaru))
+     ,
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ you)
+		  (VP can
+		      (VP (VP (ADVP only)
+			      get
+			      (NP it)
+			      (PP through
+				  (NP Subaru dealer)))
+			  ,
+			  (NP-ETC etcetera))))))
+     ,
+     E_S))
+( (S-UNF so
+	 .
+	 N_S))
+( (CODE SpeakerA17 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB18 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ this little sensing device)
+     (VP costed
+	 (INTJ like)
+	 (NP sixty bucks))
+     .
+     E_S))
+( (CODE SpeakerA19 .))
+( (INTJ Goodness
+	,
+	E_S))
+( (SQ are
+      (NP-SBJ you)
+      (ADJP-PRD-UNF able)
+      ,
+      N_S))
+( (CODE SpeakerB20 .))
+( (S (EDITED (RM [)
+	     And
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP had
+	     (NP (NP (ADJP too many) problems)
+		 (PP with
+		     (NP my car)))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP got
+	 (NP a eighty-eight Subaru
+	     ,
+	     G L X T))
+     E_S))
+( (S-UNF and
+	 (NP-SBJ it)
+	 ,
+	 N_S))
+( (CODE SpeakerA21 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB22 .))
+( (FRAG (INTJ uh)
+	,
+	(CONJP and then)
+	(PRN ,
+	     (S (NP-SBJ you)
+		(VP know)))
+	(ADVP just)
+	(NP (NP basic maintenance) 
+	    and 
+	    (NP oil changes))
+	E_S))
+( (S (EDITED (RM [)
+	     (S-UNF (TYPO an) 
+		    (NP-SBJ I))
+	     ,
+	     (IP +))
+     and
+     (NP-SBJ I)
+     (RS ])
+     (VP do
+	 not
+	 (VP do
+	     (NP my oil changes)))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP will
+	 not
+	 (VP do
+	     (NP my oil changes)))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 've))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP think
+	 (RS ])
+	 (SBAR 0
+	       (S (NP-TMP the first time)
+		  (NP-SBJ-1 I)
+		  (VP (VP tried
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP do
+				     (NP one)))))
+		      and
+		      (VP ended
+			  (PRT up)
+			  ,
+			  (INTJ um)
+			  ,
+			  (S (NP-SBJ-2 *-1)
+			     (VP trying
+				 (S (NP-SBJ *-2)
+				    (VP to
+					(VP-UNF ge-
+						,
+						(INTJ uh)))))))))))
+     ,
+     N_S))
+( (S (X yo-)
+     ,
+     (NP-SBJ *)
+     (VP borrowed
+	 (NP (NP (NP somebody)
+		 (ADVP else)
+		 's)
+	     jack))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP did
+	 (NP this))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP (VP went)
+	 and
+	 (VP bought
+	     (NP everything)))
+     ,
+     E_S))
+( (CODE SpeakerA23 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB24 .))
+( (S so
+     (PP-TMP after
+	     (S-NOM (NP-SBJ *-1)
+		    (VP buying
+			(NP (NP the filter)
+			    and
+			    (NP all the oil)))))
+     ,
+     (NP-SBJ-1 you)
+     (VP 're
+	 (VP looking
+	     (PP at
+		 (UCP (NP (NP ten bucks)
+			  (ADVP at least))
+		      ,
+		      or
+		      (ADVP somewhere
+			    (PP in
+				(ADVP there)))))))))
+( (S (EDITED (RM [)
+	     (TYPO an) 
+	     ,
+	     (IP +))
+     (EDITED (RM [)
+	     and
+	     , 
+	     (IP +))
+     (INTJ uh)
+     ,
+     (CONJP and (RS ]) (RS ]) then)
+     (NP-SBJ *)
+     (VP to
+	 (VP go
+	     (PP to
+		 (NP the trouble))))
+     ,))
+( (SBAR that
+	(S (NP-SBJ I)
+	   (VP figured
+	       (SBAR 0
+		     (S (NP-SBJ (NP it)
+				(S *EXP*-1))
+			(VP 's
+			    (ADJP-PRD easier)
+			    (S-1 (NP-SBJ *) 
+				 (VP spending
+				     (NP eighteen bucks)
+				     (PP-LOC at
+					     (NP Jiffy Lube)))))))))
+	.
+	E_S))
+( (CODE SpeakerA25 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB26 .))
+( (CODE SpeakerA27 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB28 .))
+( (S So
+     (EDITED (RM [)
+	     (NP-SBJ that)
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP-UNF 's
+	     ,
+	     (RS ])
+	     (INTJ um)
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know))))
+     ,
+     N_S))
+( (S (ADVP (ADVP as far)
+	   (PP as
+	       (NP (NP any maintenance)
+		   (PP on
+		       (NP my car)))))
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP shy
+	 (ADVP away)
+	 (PP from
+	     (NP the oil changes)))
+     ,
+     E_S))
+( (S (NP-SBJ that)
+     (VP 's
+	 (PP-PRD for
+		 (ADJP sure)))
+     .
+     E_S))
+( (CODE SpeakerA29 .))
+( (INTJ Uh-huh
+	,
+	E_S))
+( (S (INTJ well)
+     (NP-TPC my car)
+     (EDITED (RM [)
+	     (VP-UNF is)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (NP-PRD an eighty-six))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (ADVP really)
+     (VP had
+	 n't
+	 (VP had
+	     (EDITED (RM [)
+		     (NP-UNF any)
+		     ,
+		     (IP +))
+	     (NP (NP any
+		     (RS ])
+		     trouble)
+		 (PP with
+		     (NP it)))
+	     (EDITED (RM [)
+		     (PP-TMP-UNF un-)
+		     ,
+		     (IP +))
+	     (PP-TMP until
+		     (RS ])
+		     (NP that))))
+     E_S))
+( (S and
+     (NP-SBJ the car)
+     (ADVP-TMP now)
+     (VP has
+	 (NP (NP (QP a hundred and thirty something thousand)
+		 miles)
+	     (PP on
+		 (NP it))))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     and
+     (RS ])
+     (NP-SBJ this)
+     (VP was
+	 (ADJP-PRD just recent))
+     ,
+     E_S))
+( (S so
+     (NP-SBJ I)
+     (ADVP really)
+     (VP ca
+	 n't
+	 (VP complain
+	     (PP about
+		 (NP this one))))
+     .
+     E_S))
+( (CODE SpeakerB30 .))
+( (SBARQ (WHADVP-1 How)
+	 (SQ did
+	     (NP-SBJ you)
+	     (VP put
+		 (NP (ADJP that many)
+		     miles)
+		 (PP-PUT on
+			 (NP it))
+		 ,
+		 (PP-TMP in
+			 ,
+			 (NP (QP four or five)
+			     years))
+		 (ADVP-MNR *T*-1)))
+	 ?
+	 E_S))
+( (CODE SpeakerA31 .))
+( (S (INTJ Um)
+     ,
+     (INTJ well)
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF used))
+	     ,
+	     (IP +))
+     (NP-SBJ-1 I)
+     (VP used
+	 (RS ])
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP-UNF work
+			,
+			(INTJ uh)))))
+     ,
+     N_S))
+( (CODE SpeakerB32 .))
+( (CODE SpeakerA33 .))
+( (S (NP-SBJ it)
+     (VP was
+	 (NP-PRD (NP a seventy mile trip)
+		 (NP-TMP everyday))
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))))
+     ,))
+( (S (NP-SBJ two ways)
+     (VP was
+	 (NP-PRD seventy miles))
+     .
+     E_S))
+( (CODE SpeakerB34 .))
+( (FRAG (INTJ Oh)
+	,
+	(NP a
+	    (QP hundred and forty) 
+	    mile trip)
+	?
+	E_S))
+( (CODE SpeakerA35 .))
+( (INTJ No
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF was))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (VP was
+	 (RS ])
+	 (ADVP just)
+	 (NP-PRD seventy miles))
+     .
+     E_S))
+( (CODE SpeakerB36 .))
+( (FRAG (INTJ Oh)
+	,
+	(NP thirty-five miles)
+	(NP-ADV each way)
+	.
+	E_S))
+( (CODE SpeakerA37 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB38 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA39 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP did
+	 (NP that)
+	 (PP-TMP for
+		 (NP (QP about three) years)))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S-UNF (NP-SBJ it)
+		    (ADVP really))
+	     ,
+	     (IP +))
+     (NP-SBJ it)
+     (ADVP really)
+     (RS ])
+     (VP added
+	 (PRT up))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 (ADVP only)
+	 (VP taken
+	     ,
+	     (INTJ uh)
+	     ,
+	     (NP (NP (QP maybe two)
+		     trips)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ *T*-1)
+			  (VP were
+			      (ADJP-PRD (NP-ADV (QP about four)
+						hours)
+					long))))
+		 (EDITED (RM [)
+			 (PP-UNF dow-)
+			 ,
+			 (IP +))
+		 (INTJ uh)
+		 ,
+		 (PP down
+		     (RS ])
+		     (PP to
+			 (NP Shreveport))))))
+     .
+     E_S))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-TPC (NP the rest)
+	     (PP of
+		 (NP it)))
+     (EDITED (RM [)
+	     (VP-UNF was)
+	     ,
+	     (IP +))
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (ADVP just)
+	 (ADVP basically)
+	 (S-PRD (NP-SBJ *)
+		(VP driving
+		    (NP (NP a long ways)
+			(PP to
+			    (NP work))))))
+     .
+     E_S))
+( (S And
+     (ADVP-TMP now)
+     (NP-SBJ I)
+     (VP drive
+	 (INTJ like)
+	 (EDITED (RM [)
+		 (NP-UNF twenty)
+		 ,
+		 (IP +))
+	 (NP twenty-three
+	     (RS ])
+	     miles)
+	 (NP-ADV each way))
+     ,
+     E_S))
+( (S so
+     ,
+     (NP-SBJ I)
+     (VP 'm
+	 (VP getting
+	     (EDITED (RM [)
+		     (EDITED (RM [)
+			     (NP-UNF a little)
+			     ,
+			     (IP +))
+		     (NP-UNF a little)
+		     ,
+		     (RS ])
+		     (IP +))
+	     (INTJ uh)
+	     ,
+	     (NP little 
+		 (RS ])
+		 relief)))
+     ,
+     E_S))
+( (S but
+     (ADVP-TMP still)
+     (NP-SBJ I)
+     (VP drive
+	 (NP a long ways))
+     .
+     E_S))
+( (CODE SpeakerB40 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA41 .))
+( (S But
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (SBAR-PRP because
+			    (S (NP-SBJ they)
+			       (VP 're
+				   (NP-PRD highway miles))))
+		  (PRN ,
+		       (S (NP-SBJ you)
+			  (VP know))
+		       ,)
+		  (NP-SBJ it)
+		  (VP 's
+		      not
+		      (ADJP-PRD (ADJP so bad
+				      (PP on
+					  (NP your car)))
+				(EDITED (RM [)
+					(PP-UNF as)
+					,
+					(IP +))
+				(PP as
+				    (RS ])
+				    (SBAR if
+					  (S (NP-SBJ it)
+					     (PRN ,
+						  (S (NP-SBJ you)
+						     (VP know))
+						  ,)
+					     (VP were
+						 (ADVP-PRD just)
+						 (NP-UNF regular street
+							 (PRN ,
+							      (S (NP-SBJ you)
+								 (VP know)))))))))))))
+     .
+     E_S))
+( (CODE SpeakerB42 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (SQ Do
+      (NP-SBJ you)
+      (VP work
+	  (PP for
+	      (NP T I)))
+      ?
+      E_S))
+( (CODE SpeakerA43 .))
+( (INTJ Yes
+	E_S))
+( (S (NP-SBJ I)
+     (VP do)
+     .
+     E_S))
+( (CODE SpeakerB44 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA45 .))
+( (SQ Do
+      (NP-SBJ you)
+      ?
+      E_S))
+( (CODE SpeakerB46 .))
+( (S (NP-SBJ-1 I)
+     (VP was
+	 (VP going
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP ask
+			(NP you)
+			(PRN ,
+			     (S (NP-SBJ you)
+				(VP know))
+			     ,)
+			(ADVP (ADVP as far)
+			      (PP as
+				  (SBAR (WHADVP-3 how)
+					(S (NP-SBJ-2 we)
+					   (VP 're
+					       (VP getting
+						   (VP compensated
+						       (NP *-2)
+						       (PP for
+							   (SBAR-NOM (WHNP-4 what)
+								     (S (NP-SBJ we)
+									(VP 're
+									    (VP doing
+										(NP *T*-4)
+										(ADVP-TMP right now))))))
+						       (ADVP-MNR *T*-3)))))))))))
+	     ,
+	     (INTJ um)))
+     ,
+     N_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP work
+	     (PP for
+		 (NP T I))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF 'm
+			(ADVP just)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP get
+	 (RS ])
+	 (NP-UNF these green))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR (WHNP-2 what)
+		   (S (NP-SBJ-1 you)
+		      (VP want
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP call
+				     (S (NP-SBJ them)
+					(NP-PRD *T*-2))))))))))
+     ,))
+( (NP fake point things
+      ,
+      E_S))
+( (CODE SpeakerA47 .))
+( (NP Points
+      .
+      E_S))
+( (CODE SpeakerB48 .))
+( (CODE SpeakerA49 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB50 .))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (ADVP just)
+     (VP wondering
+	 (SBAR (WHADVP-2 how)
+	       (S (NP-SBJ-1 I)
+		  (VP go
+		      (PRT about)
+		      (S (NP-SBJ *-1)
+			 (VP getting
+			     (NP the cash)))
+		      (ADVP-MNR *T*-2)))))
+     .
+     E_S))
+( (CODE SpeakerA51 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP a number)
+		 (SBAR (WHNP-1 that)
+		       (S (NP-SBJ you)
+			  (VP call
+			      (NP *T*-1))))))
+     ,
+     E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (NP-PRD (NP the same number)
+		 (SBAR (EDITED (RM [)
+			       (SBAR (WHNP that)
+				     (S-UNF (NP-SBJ you)))
+			       ,
+			       (IP +))
+		       (WHNP-1 that)
+		       (S (NP-SBJ-2 you)
+			  (RS ])
+			  (VP call
+			      (NP *T*-1)
+			      (S-PRP (NP-SBJ *-2)
+				     (VP to
+					 (VP make
+					     (NP a call)))))))))
+     .
+     E_S))
+( (CODE SpeakerB52 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ okay)
+	.
+	E_S))
+( (CODE SpeakerA53 .))
+( (S (EDITED (RM [)
+	     (NP-SBJ You)
+	     ,
+	     (IP +))
+     (NP-SBJ you)
+     (RS ])
+     (VP call
+	 (NP that number))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     ,
+     (RS ])
+     (INTJ uh)
+     ,
+     (UCP-MNR (ADVP somehow)
+	      or
+	      (NP another))
+     (NP-SBJ they)
+     (VP 'll
+	 (VP give
+	     (NP you)
+	     (NP an option
+		 (S (NP-SBJ *)
+		    (VP to
+			(VP leave
+			    (NP a message)))))))
+     E_S))
+( (S and
+     (NP-SBJ you)
+     (VP can
+	 (VP leave
+	     (NP a message)))
+     .
+     E_S))
+( (CODE SpeakerB54 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA55 .))
+( (S (NP-SBJ I)
+     (VP know
+	 (NP (NP someone)
+	     (SBAR (WHNP-1 that)
+		   (S (NP-SBJ *T*-1)
+		      (VP did
+			  (NP that))))))
+     ,
+     E_S))
+( (S (NP-SBJ you)
+     (VP leave
+	 (NP a message))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (S (NP-SBJ they)
+		(VP-UNF 'll))
+	     ,
+	     (IP +))
+     (NP-SBJ they)
+     (VP 'll
+	 (RS ])
+	 (VP call
+	     (NP you)
+	     (ADVP back)))
+     .
+     E_S))
+( (CODE SpeakerB56 .))
+( (INTJ Okay
+	,
+	E_S))
+( (INTJ all right
+	,
+	E_S))
+( (S (INTJ well)
+     (NP-SBJ that)
+     (VP 's
+	 (ADJP-PRD good
+		   (SBAR (WHNP-1 0)
+			 (S (NP-SBJ *)
+			    (VP to
+				(VP know
+				    (NP *T*-1)))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP been
+	     (VP-UNF doing)))
+     N_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ-UNF th-)
+	     ,
+	     (IP +))
+     (NP-SBJ this)
+     (RS ])
+     (VP is
+	 (NP-PRD (NP the first time)
+		 (SBAR (WHADVP-1 0)
+		       (S (NP-SBJ-2 I)
+			  (VP 've
+			      (VP been
+				  (VP called
+				      (NP *-2)
+				      (ADVP-TMP *T*-1))))))
+		 (PP-TMP in
+			 (NP a long time))))
+     E_S))
+( (S and
+     (NP-SBJ I)
+     (VP have
+	 n't
+	 (VP been
+	     (VP doing
+		 (NP it))))
+     E_S))
+( (S-UNF so
+	 ,
+	 N_S))
+( (CODE SpeakerA57 .))
+( (INTJ (INTJ Oh)
+	(INTJ really)
+	.
+	E_S))
+( (CODE SpeakerB58 .))
+( (S And
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ I)
+     (VP 've
+	 (VP done
+	     (NP it)
+	     (NP-TMP (QP maybe twelve)
+		     times)))
+     .
+     E_S))
+( (CODE SpeakerA59 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB60 .))
+( (S (INTJ Well)
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ I)
+		      (VP 've
+			  (VP done
+			      (NP it)
+			      (ADVP quite that much)))))))
+     ,
+     E_S))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ mine)
+     (VP is
+	 (ADJP-PRD mixed up)
+	 (ADVP too))
+     ,
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP (VP call)
+		    and
+		    (VP get
+			(S (NP-SBJ-2 it)
+			   (VP fixed
+			       (NP *-2))))))))
+     .
+     E_S))
+( (CODE SpeakerA61 .))
+( (S-IMP (INTJ Uh)
+	 ,
+	 (NP-SBJ *)
+	 (VP let
+	     (S (NP-SBJ 's)
+		(VP see)))))
+( (S (SBAR-TMP before
+	       (S (NP-SBJ I)
+		  (VP had
+		      (NP this car))))
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP had
+		    (NP-UNF a)))
+	     ,
+	     (IP +))
+     (INTJ um)
+     ,
+     (NP-SBJ I)
+     (VP bought
+	 (NP an
+	     (RS ])
+	     Audi five thousand))
+     E_S))
+( (CODE SpeakerB62 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerA63 .))
+( (S but
+     (EDITED (RM [)
+	     (S (NP-SBJ I)
+		(VP-UNF bought
+			(NP it)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP bought
+	 (NP-1 it)
+	 (RS ])
+	 (S-ADV (NP-SBJ *-1)
+		(ADJP-PRD used)))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (ADVP just)
+     (VP bought
+	 (NP it)
+	 (PP from
+	     (NP (NP a friend)
+		 (SBAR (EDITED (RM [)
+			       (SBAR (WHNP-1 who)
+				     (S (NP-SBJ-2 *T*-1)
+					(VP was
+					    (VP going
+						(S (NP-SBJ *-2)
+						   (VP-UNF to))))))
+			       ,
+			       (IP +))
+		       (WHNP-3 who)
+		       (S (NP-SBJ *T*-3)
+			  (ADVP just)
+			  (RS ])
+			  (VP charged
+			      (NP me)
+			      (SBAR-NOM (WHNP-5 what)
+					(S (NP-SBJ-4 the dealer)
+					   (VP was
+					       (VP going
+						   (S (NP-SBJ *-4)
+						      (VP to
+							  (EDITED (RM [)
+								  (VP-UNF give)
+								  ,
+								  (IP +))
+							  (VP give
+							      (RS ])
+							      (NP him)
+							      (NP *T*-5)
+							      (PP for
+								  (NP it))
+							      (PP for
+								  (NP a trade-in)))))))))))))))
+     ,
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP had
+	 (NP (NP a whole lot)
+	     (PP of
+		 (NP miles))
+	     (PP on
+		 (NP it))))
+     .
+     E_S))
+( (S (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (RS ])
+     (VP figured
+	 (SBAR 0
+	       (S (ADVP maybe)
+		  (NP-SBJ I)
+		  (VP 'd
+		      (VP get
+			  (NP (QP one or two)
+			      years)
+			  (PP out
+			      (PP of
+				  (NP it))))))))
+     ,
+     E_S))
+( (S (EDITED (RM [)
+	     (S-UNF (TYPO an) 
+		    (NP-SBJ I))
+	     ,
+	     (IP +))
+     (TYPO an) 
+     (NP-SBJ I)
+     (RS ])
+     (VP did
+	 (VP get
+	     (NP (NP a couple)
+		 (PP of
+		     (NP good years)))
+	     (PP out
+		 (PP of
+		     (NP it)))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ the
+	     (RS ])
+	     engine)
+     (VP messed
+	 (PRT up)
+	 (PP on
+	     (NP me)))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ I)
+     (VP gave
+	 (NP it)
+	 (PP-DTV to
+		 (NP-4 (NP a guy)
+		       (SBAR *ICH*-3)))
+	 (S-PRP (NP-SBJ *-4)
+		(VP to
+		    (VP repair)))
+	 (SBAR-3 (WHNP-1 who)
+		 (S (NP-SBJ *T*-1)
+		    (VP works
+			(EDITED (RM [)
+				(PP for
+				    (NP-UNF the aut-))
+				,
+				(IP +))
+			(PP for
+			    (NP the Audi
+				(RS ])
+				dealer))))))
+     E_S))
+( (S and
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ he)
+     (VP took
+	 (NP the engine)
+	 (ADVP apart))
+     E_S))
+( (S and
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ he)
+     (ADVP just)
+     (VP said
+	 (SBAR 0
+	       (S (NP-SBJ he)
+		  (VP could
+		      n't
+		      (VP fix
+			  (NP it))))))
+     E_S))
+( (S so
+     (NP-SBJ-1 the engine)
+     (ADVP-TMP never)
+     (VP got
+	 (VP put
+	     (NP *-1)
+	     (ADVP back together)
+	     (ADVP again)))
+     .
+     E_S))
+( (CODE SpeakerB64 .))
+( (INTJ (INTJ Huh)
+	,
+	(INTJ oh)
+	(INTJ well)
+	.
+	E_S))
+( (CODE SpeakerA65 .))
+( (S-UNF (NP-SBJ I)
+	 ,
+	 N_S))
+( (CODE SpeakerB66 .))
+( (S (NP-SBJ I)
+     (VP was
+	 (VP driving
+	     (NP a sixty-six Plymouth Fury)))
+     .
+     E_S))
+( (CODE SpeakerA67 .))
+( (INTJ Wow
+	.
+	E_S))
+( (S (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ those old cars)
+		  (EDITED (RM [)
+			  (VP might)
+			  ,
+			  (IP +))
+		  (VP might
+		      (RS ])
+		      (VP be
+			  (NP-PRD a (ADJP pretty good) bet)))))
+	 (SBAR-PRP because
+		   (S-UNF (NP-SBJ you))))
+     ,
+     N_S))
+( (CODE SpeakerB68 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (INTJ yeah
+	,
+	E_S))
+( (S and
+     ,
+     (INTJ Oh)
+     ,
+     (EDITED (RM [)
+	     (NP-SBJ-UNF tha-)
+	     ,
+	     (IP +))
+     (NP-SBJ that)
+     (VP 's
+	 (RS ])
+	 (SBAR-TMP-PRD (WHADVP-1 when)
+		       (S (NP-SBJ they)
+			  (VP-UNF made
+				  (NP cars)
+				  (ADVP-TMP *T*-1)
+				  ,
+				  (ADVP though)))))
+     ,
+     N_S))
+( (CODE SpeakerA69 .))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     ,))
+( (X i-
+     ,
+     N_S))
+( (CODE SpeakerB70 .))
+( (S (EDITED (RM [)
+	     (S (NP-SBJ this things)
+		(VP-UNF was))
+	     ,
+	     (IP +))
+     (NP-SBJ the body)
+     (VP was
+	 (RS ])
+	 (PP-PRD in
+		 (NP good condition)))
+     E_S))
+( (S and
+     (X MUMBLEx)
+     (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ it)
+     (VP ran
+	 (ADVP-MNR fine))
+     .
+     E_S))
+( (S (NP-SBJ-1 It)
+     (VP was
+	 (VP starting
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP burn
+			(NP some oil))))))
+     .
+     E_S))
+( (CODE SpeakerA71 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (INTJ (INTJ Um)
+	.
+	(INTJ Uh-huh)
+	,
+	E_S))
+( (CODE SpeakerB72 .))
+( (S (EDITED (RM [)
+	     And
+	     ,
+	     (IP +))
+     (INTJ um)
+     ,
+     but
+     (RS ])
+     (NP-SBJ-1 I)
+     (VP had
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(PRN ,
+		     (S (NP-SBJ you)
+			(VP know))
+		     ,)
+		(VP-UNF ge-))))
+     ,
+     N_S))
+( (S (PRN (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (EDITED (RM [)
+	     (NP-SBJ I)
+	     ,
+	     (IP +))
+     (X MUMBLEx)
+     (EDITED (RM [)
+	     (PP-TMP-UNF after)
+	     (IP +))
+     (SBAR-TMP (NP-ADV (NP (QP about
+			       (EDITED (RM [)
+				       thr-
+				       ,
+				       (IP +))
+			       couple))
+		       (RS ])
+		       (PP of
+			   (NP months)))
+	       after
+	       (RS ])
+	       (S (NP-SBJ I)
+		  (RS ])
+		  (VP was
+		      (PP-PRD out
+			      (PP of
+				  (NP college))))))
+     (NP-SBJ I)
+     (ADVP-TMP finally)
+     (VP (VP splurged)
+	 and
+	 (VP bought
+	     (NP my car)))
+     E_S))
+( (S-UNF so
+	 .
+	 N_S))
+( (CODE SpeakerA73 .))
+( (S (NP-SBJ I)
+     (VP read
+	 (NP (NP a book)
+	     (SBAR *ICH*-3))
+	 (NP-TMP one time)
+	 (SBAR-3 (WHNP-1 that)
+		 (S (NP-SBJ *T*-1)
+		    (VP said
+			(SBAR that
+			      (S (NP-SBJ-2 the best cars)
+				 (VP were
+				     (VP made
+					 (NP *-2)
+					 (PP-TMP before
+						 (NP seventy-four))))))))))
+     .
+     E_S))
+( (CODE SpeakerB74 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S-UNF (INTJ well)
+	 (PRN ,
+	      (S (NP-SBJ you)
+		 (VP know))
+	      ,)
+	 (EDITED (RM [)
+		 (NP-SBJ-UNF these)
+		 ,
+		 (IP +))
+	 (NP-SBJ (NP these
+		     (RS ])
+		     cars)
+		 (VP made
+		     (NP *)
+		     (PP-TMP in
+			     (NP the sixties and stuff))))
+	 ,
+	 N_S))
+( (S-UNF (PRN (S (NP-SBJ I)
+		 (VP mean)))
+	 (EDITED (RM [)
+		 (NP-SBJ the steel)
+		 ,
+		 (IP +))
+	 (PRN (S (NP-SBJ I)
+		 (VP mean))
+	      ,)
+	 (NP-SBJ the thickness)
+	 ,
+	 (RS ])
+	 N_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (EDITED (RM [)
+	     (X i-)
+	     ,
+	     (IP +))
+     (EDITED (X those thin-)
+	     ,)
+     (RS ])
+     (NP-SBJ they)
+     (VP-UNF 're
+	     (ADVP just)
+	     ,
+	     (EDITED (RM [)
+		     (X th-)
+		     ,
+		     (IP +)))
+     (RS ])
+     N_S))
+( (S (NP-SBJ you)
+     (ADVP just)
+     (VP do
+	 n't
+	 (VP see
+	     (NP (NP cars)
+		 (PP like
+		     (NP that)))))
+     .
+     E_S))
+( (CODE SpeakerA75 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB76 .))
+( (S And
+     (NP-SBJ they)
+     (VP last
+	 (NP-TMP a long time))
+     .
+     E_S))
+( (S And
+     (NP-SBJ they)
+     (VP were
+	 (ADJP-PRD simple)
+	 (ADVP too))
+     ,
+     E_S))
+( (S (NP-SBJ the engines)
+     (VP were
+	 (ADJP-PRD simple and durable))
+     E_S))
+( (S and
+     (NP-SBJ some people)
+     (VP will
+	 (ADVP-TMP still)
+	 (VP buy
+	     (NP them)
+	     (PRN ,
+		  (S (NP-SBJ you)
+		     (VP know)))))
+     ,
+     E_S))
+( (CODE SpeakerA77 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerB78 .))
+( (S (NP-SBJ they)
+     (VP-UNF 'll)
+     ,
+     N_S))
+( (CODE SpeakerA79 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (EDITED (RM [)
+	     (EDITED (RM [)
+		     (S (NP-SBJ (NP it)
+				(S *EXP*-1))
+			(VP 's
+			    (ADJP-PRD easy)
+			    (S-1 (NP-SBJ *)
+				 (VP-UNF to))))
+		     ,
+		     (IP +))
+	     (S (NP-SBJ it)
+		(VP-UNF 's
+			(ADJP-PRD easy)))
+	     ,
+	     (RS ])
+	     (IP +))
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ (NP it)
+			  (S *EXP*-2))
+		  (VP 's
+		      (ADVP-TMP still)
+		      (ADJP-PRD easy)
+		      (RS ])
+		      (S-2 (NP-SBJ *)
+			   (VP to
+			       (VP find
+				   (NP (NP (NP engines)
+					   (PP for
+					       (NP those cars)))
+				       ,
+				       (NP engines and transmissions)))))))))
+     E_S))
+( (S and
+     (EDITED (RM [)
+	     (SBAR-ADV if
+		       (S-UNF (NP-SBJ you)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (SBAR-ADV if
+			    (S (NP-SBJ-1 you)
+			       (RS ])
+			       (VP keep
+				   (S (NP-SBJ *-1)
+				      (EDITED (RM [)
+					      (VP-UNF trad-)
+					      ,
+					      (IP +))
+				      (VP changing
+					  (RS ])
+					  (NP them)
+					  (PRT out))))))
+		  (NP-SBJ you)
+		  (VP can
+		      (VP keep
+			  (NP a car)
+			  (PP-TMP for
+				  (NP a long time)))))))
+     .
+     E_S))
+( (S (NP-ADV Course)
+     (NP-SBJ I)
+     (VP guess
+	 (SBAR 0
+	       (S (NP-SBJ I)
+		  (VP could
+		      (VP do
+			  (NP the same thing)
+			  (PP with
+			      (EDITED (RM [)
+				      (NP-UNF the)
+				      ,
+				      (IP +))
+			      (NP (NP the
+				      (RS ])
+				      Toyota)
+				  (SBAR (WHNP-1 that)
+					(S (NP-SBJ I)
+					   (VP have
+					       (NP *T*-1)))))))))))
+     ,
+     E_S))
+( (S (NP-SBJ I)
+     (ADVP just)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR (WHNP-2 (WHADJP how much))
+		   (S (NP-SBJ-1 they)
+		      (VP 'll
+			  (VP want
+			      (S (NP-SBJ-3 *-1)
+				 (VP to
+				     (VP charge
+					 (NP me)
+					 (NP *T*-2)
+					 (S-PRP (NP-SBJ *-3)
+						(VP-UNF to)))))))))))
+     ,
+     N_S))
+( (CODE SpeakerB80 .))
+( (S (NP-SBJ It)
+     (ADVP almost)
+     (VP costs
+	 (NP (NP (ADJP so much))
+	     (SBAR *ICH*-2))
+	 (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP (VP fix
+			    (NP anything))
+			or
+			(VP do
+			    (NP anything)
+			    (PP with
+				(NP it))))))
+	 ,
+	 E_S
+	 (SBAR-2 0
+		 (S (NP-SBJ-1 you)
+		    (VP 're
+			(ADVP just)
+			(ADJP-PRD better off)
+			(S-ADV (NP-SBJ *-1)
+			       (VP buying
+				   (NP another car)))))))
+     .
+     E_S))
+( (CODE SpeakerA81 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP guess
+	 (ADVP so))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ I)
+     (ADVP just)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ they)
+		  (VP cost
+		      (NP too much)
+		      (EDITED (RM [)
+			      (PP in
+				  (NP-UNF the))
+			      ,
+			      (IP +))
+		      (PP in
+			  (NP the
+			      (RS ])
+			      first place))
+		      ,
+		      (ADVP-TMP (TYPO now a days))))))
+     .
+     E_S))

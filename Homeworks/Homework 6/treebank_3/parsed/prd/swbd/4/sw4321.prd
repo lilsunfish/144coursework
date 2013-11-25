@@ -1,0 +1,1062 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (SQ (INTJ Well)
+      ,
+      have
+      (NP-SBJ you)
+      (ADVP-TMP ever)
+      (VP served
+	  (PP on
+	      (NP a jury)))
+      ?
+      E_S))
+( (CODE SpeakerB2 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP 've
+	 not
+	 (VP *?*))
+     .
+     E_S))
+( (S (NP-SBJ-1 I)
+     (VP 've
+	 (VP been
+	     (VP called
+		 (NP *-1))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ-1 I)
+     (VP had
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP beg
+		    (PRT off)
+		    (PP from
+			(NP the duty))))))
+     .
+     E_S))
+( (FRAG And
+	(NP you)
+	?
+	E_S))
+( (CODE SpeakerA3 .))
+( (S (INTJ Well)
+     ,
+     (NP-SBJ-1 I)
+     (VP was
+	 (VP called
+	     (NP *-1)))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ-1 I)
+     (VP was
+	 not
+	 (VP chosen
+	     (NP *-1)))
+     .
+     E_S))
+( (CODE SpeakerB4 .))
+( (INTJ Um
+	.
+	E_S))
+( (S-2 (INTJ Well)
+       ,
+       (EDITED (RM [)
+	       (S (NP-SBJ I)
+		  (VP-UNF was))
+	       ,
+	       (IP +))
+       (NP-SBJ-1 I)
+       (VP was
+	   ,
+	   (RS ])
+	   (INTJ uh)
+	   ,
+	   (ADVP originally)
+	   (VP chosen
+	       (NP *-1)
+	       (ADVP primarily)
+	       (PRN ,
+		    (S (NP-SBJ I)
+		       (VP think
+			   (SBAR 0
+				 (S *T*-2))))
+		    ,)
+	       (SBAR-PRP because
+			 (S (NP-SBJ I)
+			    (VP was
+				(NP-PRD a young fellow))))))
+       E_S))
+( (S and
+     (NP-SBJ-1 they)
+     (VP tend
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP view
+		    (NP the younger fellows)
+		    (PP as
+			(ADJP more likely
+			      (S (NP-SBJ *)
+				 (VP to
+				     (VP hand
+					 (PRT down)
+					 (NP a guilty verdict))))))))))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (ADVP why)))
+     .
+     E_S))
+( (NP (NP Something)
+      (SBAR (WHNP-1 0)
+	    (S (NP-SBJ I)
+	       (VP picked
+		   (NP *T*-1)
+		   (PRT up)
+		   (PP in
+		       (NP a psychology class))
+		   (ADVP-TMP (NP some time) 
+			     ago))))
+      .
+      E_S))
+( (CODE SpeakerA5 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ really)
+	?
+	E_S))
+( (CODE SpeakerB6 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (NP-SBJ it)
+     (VP 's
+	 (SBAR-PRD that
+		   (S (S-ADV (NP-SBJ *)
+			     (ADJP-PRD (ADJP the younger)
+				       (SBAR (WHADJP-2 0)
+					     (S (NP-SBJ they)
+						(VP are
+						    (ADJP-PRD *T*-2))))))
+		      ,
+		      (NP-SBJ-1 they)
+		      (VP tend
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP be
+				     (ADJP-PRD more conservative)
+				     (PP-PRP for
+					     (NP some statistical oddball reason)))))))))
+     ,
+     E_S))
+( (S and
+     (NP-SBJ they)
+     (ADVP kind of)
+     (VP liked
+	 (NP me))
+     .
+     E_S))
+( (S (NP-SBJ I)
+     (VP (VP looked
+	     (ADJP-PRD-UNF conser-))
+	 ,
+	 and
+	 (NP-ETC all that stuff))
+     E_S))
+( (S-UNF and
+	 (NP-SBJ they)
+	 ,
+	 N_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR (WHNP-1 what)
+		   (S (NP-SBJ they)
+		      (VP saw
+			  (NP *T*-1)
+			  (PP in
+			      (NP me)))))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ they)
+     (VP saw
+	 (NP it))
+     .
+     E_S))
+( (FRAG But
+	,
+	(INTJ uh)
+	,
+	(ADVP back)
+	(PP to
+	    (NP the issue))
+	,))
+( (SQ-UNF (RM [)
+	  is
+	  ,
+	  (IP +)
+	  (RS ])
+	  (INTJ uh)
+	  ,
+	  N_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know))
+     ,
+     E_S))
+( (S (PP-TMP at
+	     (NP times))
+     (NP-SBJ I)
+     (VP feel
+	 (SBAR that
+	       (S (NP-SBJ a unanimous decision)
+		  (VP is
+		      (ADJP-PRD warranted)
+		      ,
+		      (PP (ADVP especially)
+			  in
+			  (NP (NP cases)
+			      (SBAR (WHPP-1 in
+					    (WHNP which))
+				    (S (NP-SBJ there)
+				       (VP 's
+					   (NP-PRD no smoking gun)
+					   (PP *T*-1))))))))))
+     .
+     E_S))
+( (S But
+     ,
+     (ADVP-LOC there)
+     ,
+     (ADVP too)
+     ,
+     (NP-SBJ there)
+     (VP are
+	 (ADVP also)
+	 (NP-PRD (NP cases)
+		 (SBAR (WHPP-1 in
+			       (WHNP which))
+		       (S (NP-SBJ I)
+			  (VP feel
+			      (SBAR 0
+				    (S (NP-SBJ a majority rule)
+				       (VP might
+					   (VP be
+					       (ADJP-PRD acceptable)
+					       (PP *T*-1)
+					       ,
+					       (PP (ADVP particularly)
+						   (PRN ,
+							(S (NP-SBJ I)
+							   (VP think)))
+						   in
+						   (NP civil cases)))))))))))
+     .
+     E_S))
+( (S (PP In
+	 (NP criminal cases))
+     ,
+     (NP-SBJ-1 I)
+     (VP 'd
+	 (VP like
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP see
+			(S (NP-SBJ the
+				   (EDITED (RM [)
+					   unani-
+					   ,
+					   (IP +))
+				   unanimity)
+			   (RS ])
+			   (VP remain)))))))
+     ,
+     E_S))
+( (S but
+     (PP in
+	 (NP civil cases))
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ (NP a majority rule)
+			  (EDITED (RM [)
+				  (PP-UNF by)
+				  ,
+				  (IP +))
+			  (PP by
+			      (RS ])
+			      (NP jury)))
+		  (VP would
+		      (VP be
+			  (ADJP-PRD sufficient))))))
+     .
+     E_S))
+( (CODE SpeakerA7 .))
+( (SQ (INTJ Well)
+      ,
+      (INTJ uh)
+      ,
+      could
+      (NP-SBJ you)
+      (VP give
+	  (NP me)
+	  (NP (NP an example)
+	      (PP of
+		  (NP (NP a case)
+		      (SBAR (WHADVP-1 where)
+			    (S (NP-SBJ you)
+			       (VP think
+				   (NP that)
+				   (ADVP *T*-1))))))))
+      ?
+      E_S))
+( (CODE SpeakerB8 .))
+( (S (INTJ Well)
+     ,
+     (PP in
+	 (NP (NP a criminal case)
+	     ,
+	     (INTJ say)
+	     (NP (NP one)
+		 (SBAR (WHPP-1 in
+			       (WHNP which))
+		       (PRN ,
+			    (S (NP-SBJ you)
+			       (VP know))
+			    ,)
+		       (S (NP-SBJ there)
+			  (VP is
+			      ,
+			      (INTJ like)
+			      ,
+			      (INTJ say)
+			      (NP-PRD (NP assault)
+				      or
+				      (NP some such))
+			      (PP *T*-1)))))))
+     .
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ-2 there)
+		  (VP ought
+		      (S (NP-SBJ *-2)
+			 (VP to
+			     (VP be
+				 (NP-PRD a unanimous
+					 ,
+					 (INTJ uh)
+					 ,
+					 vote)))))))
+	 (SBAR-PRP because
+		   (S (PP (PP by
+			      (NP law))
+			  and
+			  (PP by
+			      (NP constitution)))
+		      (NP-SBJ there)
+		      (VP must
+			  (VP be
+			      (VP proven
+				  (PP beyond
+				      (NP (NP a shadow)
+					  (PP of
+					      (NP a reasonable doubt))))
+				  (SBAR that
+					(S (NP-SBJ (NP the person)
+						   (PP in
+						       (NP question)))
+					   (VP did
+					       (NP this))))))))))
+     .
+     E_S))
+( (S And
+     (PP in
+	 (NP civil law))
+     (NP-SBJ there)
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (VP is
+	 (NP-PRD (NP such a thing)
+		 (PP as
+		     (INTJ like)
+		     (PRN ,
+			  (S-IMP (NP-SBJ *)
+				 (VP let
+				     (S (NP-SBJ 's)
+					(VP say))))
+			  ,)
+		     (INTJ uh)
+		     ,
+		     (NP (NP (NP misappropriations or misuse)
+			     (PP of
+				 (NP financial instruments)))
+			 or
+			 (NP (NP something)
+			     (PP like
+				 (NP that)))))))
+     .
+     E_S))
+( (S-1 (NP-SBJ A majority rule)
+       (PRN ,
+	    (S (NP-SBJ I)
+	       (VP think
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (VP would
+	   (VP be
+	       (PP-PRD (ADVP more)
+		       in
+		       (NP line))
+	       (SBAR-PRP as
+			 (S (NP-SBJ there)
+			    (VP is
+				(NP-PRD no real smoking gun)
+				(PP in
+				    (NP the civil cases)))))))
+       .
+       E_S))
+( (S (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (SBAR if
+		   (S (NP-SBJ I)
+		      (VP 'm
+			  (VP (VP making
+				  (NP any sense))
+			      or
+			      (VP (FRAG not))))))))
+     .
+     E_S))
+( (CODE SpeakerA9 .))
+( (S (INTJ Well)
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ I)
+     (VP-UNF think)
+     ,
+     N_S))
+( (SQ are
+      (NP-SBJ-1 you)
+      (ADVP just)
+      (VP trying
+	  (S (NP-SBJ *-1)
+	     (VP to
+		 (VP say
+		     (SBAR that
+			   (S (NP-SBJ criminal cases)
+			      (VP are
+				  (ADJP-PRD more
+					    ,
+					    (INTJ uh)
+					    ,
+					    tangible))))))))
+      E_S))
+( (S-UNF or
+	 ,
+	 N_S))
+( (CODE SpeakerB10 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (S (ADVP-TMP often)
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD more incriminating evidence))
+     .
+     E_S))
+( (S-UNF (INTJ Like)
+	 ,
+	 (PP for
+	     (NP instance))
+	 ,
+	 (INTJ say)
+	 ,
+	 (INTJ uh)
+	 ,))
+( (S and
+     (ADVP also)
+     ,
+     (ADVP too)
+     ,
+     N_S
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (EDITED (RM [)
+			  (S (NP-SBJ I)
+			     (VP-UNF 'm))
+			  ,
+			  (IP +))
+		  (NP-SBJ I)
+		  (VP 'm
+		      (RS ])
+		      (VP tempering
+			  (NP (NP this)
+			      and
+			      (NP the fact
+				  (SBAR that
+					(S (NP-SBJ the consequences)
+					   (VP are
+					       (ADJP-PRD (ADVP much more)
+							 ,
+							 (INTJ uh)
+							 ,
+							 serious)
+					       (PP in
+						   (NP a criminal case))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA11 .))
+( (SQ (INTJ Well)
+      ,
+      do
+      (NP-SBJ you)
+      (VP think
+	  (SBAR (EDITED (RM [)
+			(SBAR-UNF that)
+			,
+			(IP +))
+		that
+		(RS ])
+		(SBAR-ADV (PP in
+			      (NP a civil case))
+			  ,
+			  if
+			  (S (NP-SBJ there)
+			     (VP was
+				 (NP-PRD majority rule))))
+		,
+		(SBAR that
+		      (S (NP-SBJ (NP it)
+				 (SBAR *EXP*-2))
+			 (VP would
+			     (VP be
+				 (ADJP-PRD easy)
+				 (SBAR-2 for
+					 (S (NP-SBJ-1 someone)
+					    (VP to
+						(VP be
+						    (VP set
+							(NP *-1)
+							(PRT up))))))))))))
+      ?
+      E_S))
+( (CODE SpeakerB12 .))
+( (S (INTJ Um)
+     ,
+     (INTJ well)
+     ,
+     (NP-SBJ I)
+     (ADVP really)
+     (VP ca
+	 n't
+	 (VP say
+	     (PP for
+		 (NP certain))
+	     ,
+	     (S-ADV (NP-SBJ-1 truth)
+		    (VP be
+			(VP known
+			    (NP *-1))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (SBAR-ADV as
+	       (S (NP-SBJ it)
+		  (VP stands)))
+     ,
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP many ways and means)
+		 (SBAR (WHPP-2 by
+			       (WHNP which))
+		       (S (NP-SBJ-1 a person)
+			  (VP can
+			      (VP be
+				  (VP set
+				      (NP *-1)
+				      (PRT up)
+				      (PP-MNR *T*-2)
+				      ,
+				      (PP both
+					  ,
+					  (INTJ uh)
+					  ,
+					  in
+					  (NP a
+					      (EDITED (RM [)
+						      (ADJP-UNF civil)
+						      ,
+						      (IP +))
+					      (INTJ uh)
+					      ,
+					      (ADJP civil
+						    (RS ])
+						    and criminal)
+					      case)))))))))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ (NP the
+		 ,
+		 (INTJ uh)
+		 ,
+		 documentary)
+	     ,
+	     (NP-TTL the THIN BLUE LINE))
+     (ADVP pretty much)
+     (VP demonstrated
+	 (NP that))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ I)
+     (VP do
+	 n't
+	 (VP know
+	     (EDITED (RM [)
+		     (PP-UNF for)
+		     ,
+		     (IP +))
+	     (SBAR if
+		   (RS ])
+		   (S (NP-SBJ you)
+		      (VP (VP 're
+			      (ADJP-PRD familiar
+					(PP with
+					    (NP that))))
+			  or
+			  (VP (FRAG not)))))))
+     .
+     E_S))
+( (CODE SpeakerA13 .))
+( (INTJ No
+	,
+	E_S))
+( (S (NP-SBJ I)
+     (VP 'm
+	 not
+	 (ADJP-PRD *?*))
+     .
+     E_S))
+( (CODE SpeakerB14 .))
+( (S (NP-SBJ-1 A
+	       ,
+	       (INTJ uh)
+	       ,
+	       fellow)
+     (SBAR-TMP (WHADVP-2 when)
+	       (S (NP-SBJ he)
+		  (VP was
+		      (ADJP-PRD much younger)
+		      (ADVP-TMP *T*-2))))
+     ,
+     (INTJ uh)
+     ,
+     (VP was
+	 (VP (VP tried
+		 (NP *-1))
+	     and
+	     (VP convicted
+		 (NP *-1))
+	     and
+	     (VP sentenced
+		 (NP *-1)
+		 (PP to
+		     (NP death)))))
+     .
+     E_S))
+( (S (ADVP Fortunately)
+     ,
+     (PP in
+	 (NP his case))
+     ,
+     (NP-SBJ-1 the death penalty)
+     (VP was
+	 (VP revoked
+	     (NP *-1)))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     so
+     (RS ])
+     (NP-SBJ he)
+     (VP served
+	 (PRT out)
+	 (EDITED (RM [)
+		 (NP-UNF his)
+		 ,
+		 (IP +))
+	 (NP his
+	     (RS ])
+	     sentence)
+	 (SBAR-TMP until
+		   (S (NP-SBJ it)
+		      (VP was
+			  (VP discovered 
+			      (PP by
+				  (NP-LGS (NP a fellow)
+					  (SBAR (WHNP-1 who)
+						(S (NP-SBJ *T*-1)
+						   (VP was
+						       (VP making
+							   (NP (NP a documentary)
+							       (VP called
+								   (S (NP-SBJ *)
+								      (NP-TTL-PRD the THIN BLUE LINE))))))))))
+			      (SBAR that
+				    (S (NP-SBJ-2 this guy)
+				       (VP had
+					   (ADVP basically)
+					   (VP gotten
+					       (VP railroaded
+						   (NP *-2)
+						   (PP through
+						       (NP the judicial system))))))))))))
+     .
+     E_S))
+( (S (NP-SBJ-1 The case)
+     (VP was
+	 (VP reopened
+	     (NP *-1)))
+     E_S))
+( (S and
+     (NP-SBJ-1 he)
+     (VP was
+	 (VP exonerated
+	     (NP *-1)))
+     .
+     E_S))
+( (CODE SpeakerA15 .))
+( (S (INTJ Well)
+     (PRN ,
+	  (S (NP-SBJ I)
+	     (VP mean))
+	  ,)
+     (NP-SBJ I)
+     (VP think
+	 (SBAR that
+	       (S (NP-SBJ there)
+		  (VP are
+		      (NP-PRD (NP many cases)
+			      (PP in
+				  (NP our judicial system))
+			      (SBAR (WHADVP-1 where)
+				    (S (NP-SBJ-2 justice)
+				       (VP is
+					   not
+					   (VP served
+					       (NP *-2)
+					       (ADVP *T*-1))))))))))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (INTJ Yeah
+	,
+	E_S))
+( (NP (NP many laws)
+      ,
+      but
+      (NP little justice)
+      .
+      E_S))
+( (CODE SpeakerA17 .))
+( (INTJ Say
+	,
+	N_S))
+( (S-UNF but
+	 ,
+	 (INTJ uh)
+	 ,
+	 N_S))
+( (S and
+     (NP-SBJ I)
+     (ADVP also)
+     (VP think
+	 ,
+	 (SBAR-ADV just like
+		   (S (NP-SBJ you)
+		      (VP were
+			  (VP talking
+			      (PP about
+				  (SBAR *ICH*-1))
+			      (ADVP-TMP before)
+			      ,
+			      (SBAR-1 (WHADVP-2 why)
+				      (S (NP-SBJ-3 you)
+					 (VP were
+					     (VP chosen
+						 (S (NP-SBJ *-3)
+						    (VP to
+							(VP be
+							    (PP-PRD on
+								    (NP a jury)))))
+						 (ADVP-PRP *T*-2)))))))))
+	 (SBAR that
+	       ,
+	       (INTJ uh)
+	       ,
+	       (S (RM [)
+		  (EDITED (RM [)
+			  (NP-SBJ-UNF the)
+			  ,
+			  (IP +))
+		  (NP-SBJ (NP just
+			      ,
+			      (RS ])
+			      (IP +)
+			      the
+			      (RS ])
+			      process)
+			  (PP of
+			      (S-NOM (NP-SBJ *)
+				     (VP picking
+					 (NP jurors)))))
+		  (VP is
+		      not
+		      (ADVP-TMP always)
+		      (ADJP-PRD objective)))))
+     .
+     E_S))
+( (CODE SpeakerB18 .))
+( (FRAG (INTJ Oh)
+	,
+	(ADVP certainly not)
+	,
+	E_S))
+( (ADVP certainly not
+	.
+	E_S))
+( (S And
+     (PRN ,
+	  (S (NP-SBJ you)
+	     (VP know))
+	  ,)
+     (NP-SBJ-1 they)
+     (VP like
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP think
+		    (SBAR that
+			  (S (NP-SBJ they)
+			     (VP 're
+				 (VP getting
+				     (NP (NP someone)
+					 (SBAR (WHNP-2 who)
+					       (S (NP-SBJ *T*-2)
+						  (VP 's 
+						      (ADJP-PRD objective)
+						      (PP in
+							  (NP all this))))))))))))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ they)
+     (VP 're
+	 (ADVP really)
+	 (VP looking
+	     (PP for
+		 (NP (NP someone)
+		     (SBAR (WHNP-1 who)
+			   (S (NP-SBJ *T*-1)
+			      (VP will
+				  (ADVP pretty much)
+				  (VP fulfill
+				      (NP (NP the lawyers ')
+					  desires)))))))))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know))
+	  ,)
+     (NP-SBJ-UNF the)
+     ,
+     N_S))
+( (SBAR-PRP because
+	    (S (NP-SBJ you)
+	       (VP get
+		   (PRT up)))
+	    E_S))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ they)
+     (VP ask
+	 (NP you)
+	 (NP a few questions))
+     ,
+     E_S))
+( (S (NP-SBJ both sides)
+     (VP do)
+     ,
+     E_S))
+( (S (CONJP and then)
+     (EDITED (RM [)
+	     (NP-SBJ you)
+	     ,
+	     (IP +))
+     (NP-SBJ-2 you)
+     (VP 're
+	 (RS ])
+	 (ADVP either)
+	 (VP (VP challenged
+		 (NP *-2))
+	     (SBAR (WHNP-1 which)
+		   (S (NP-SBJ *T*-1)
+		      (VP-UNF is
+			      ,
+			      N_S
+			      (PRN (S (NP-SBJ you)
+				      (VP know))))))))
+     ,))
+( (S (NP-SBJ each attorney)
+     (VP can
+	 (VP use
+	     (NP that)
+	     (NP-ADV (NP as much)
+		     (SBAR as
+			   (S (NP-SBJ they)
+			      (VP like 
+				  (S *?*)))))))
+     E_S))
+( (S or
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (NP-PRD a limit)
+		      (ADVP-TMP now)))))
+     ,
+     E_S))
+( (S (NP-SBJ they)
+     (ADVP probably)
+     (VP have
+	 (NP a limit)
+	 (ADVP-TMP now))
+     ,
+     E_S))
+( (S but
+     ,
+     (NP-SBJ they)
+     (ADVP pretty much)
+     (VP go
+	 (PP through
+	     (NP that)))
+     ,
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ-1 you)
+     (VP have
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP give
+		    (NP (NP a reason)
+			(SBAR *ICH*-2))
+		    (PP-DTV to
+			    (NP the court))
+		    (SBAR-2 (WHADVP-3 why)
+			    (S (NP-SBJ you)
+			       (VP ca
+				   n't
+				   (VP serve
+				       (ADVP-PRP *T*-3)))))))))
+     .
+     E_S))
+( (S (PP For
+	 (NP me))
+     ,
+     (NP-SBJ it)
+     (VP was
+	 (NP-PRD financial hardship))
+     ,
+     E_S))
+( (FRAG (EDITED (RM [)
+		so
+		.
+		(IP +))
+	But
+	,
+	(RS ])
+	(PP onto
+	    (NP the thing))
+	,
+	(INTJ uh)
+	,))
+( (S (NP-SBJ I)
+     (VP was
+	 (ADVP-TMP never)
+	 (ADJP-PRD aware
+		   (SBAR that
+			 (S (NP-SBJ juries)
+			    (VP had
+				(NP any say)
+				(PP on
+				    (S-NOM (NP-SBJ *)
+					   (VP recommending
+					       (NP sentencing)))))))))
+     .
+     E_S))
+( (S (NP-SBJ It)
+     (VP was
+	 (ADVP-TMP always)
+	 (NP-PRD my impression
+		 (SBAR that
+		       (S (NP-SBJ (NP the Justice)
+				  (NP himself
+				      ,
+				      or herself))
+			  ,
+			  (VP had
+			      (NP the final say))))))
+     .
+     E_S))

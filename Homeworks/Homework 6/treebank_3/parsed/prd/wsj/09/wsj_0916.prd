@@ -1,0 +1,58 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Canadian manufacturers)
+	      (VP recorded
+		  (NP (NP a (ADJP 0.8 %) decline)
+		      (PP-TMP in
+			      (NP August))
+		      (PP in
+			  (NP (NP their backlog)
+			      (PP of
+				  (NP unfilled orders)))))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The August drop)
+     (VP was
+         (NP-PRD (NP the fourth decline)
+		 (PP-TMP in
+			 (NP five months))))
+     .))
+( (S (NP-SBJ-1 (NP Most)
+	       (PP of
+		   (NP the August decrease)))
+     (VP was
+         (VP attributed
+             (NP *-1)
+             (PP-CLR to
+		     (NP (NP lower order backlogs)
+			 (PP-LOC in
+				 (NP the 
+				     (ADJP (ADJP primary metal)
+					   and
+					   (ADJP electric and electronics-product)) 
+				     industries))))))
+     .))
+( (S (NP-SBJ (NP Manufacturers ')
+             shipments)
+     (VP rose
+         (NP-EXT 0.3 %)
+         (PP-TMP in
+		 (NP August))
+	 (PP-TMP following
+		 (NP (NP two months)
+		     (PP of
+			 (NP declines)))))
+     .))
+( (S (NP-SBJ Inventories)
+     (VP fell
+         (NP-EXT 0.3 %)
+         (PP-TMP in
+		 (NP August)))
+     .))

@@ -1,0 +1,70 @@
+
+
+( (S (NP-SBJ (NP Honeywell Inc.)
+             and
+             (NP International Business Machines Corp.))
+     (VP received
+         (NP (NP Air Force
+		 contracts)
+             (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (VP to
+			  (VP develop
+			      (NP (NP integrated circuits)
+				  (PP for
+				      (NP (NP use)
+					  (PP-LOC in
+						  (NP space)))))))))))
+     .))
+( (S (S (NP-SBJ-1 (NP Honeywell 's)
+		  contract)
+        (VP totaled
+            (NP-2 (QP $ 69.7 million) *U*)))
+     , 
+     and
+     (S (NP-SBJ=1 IBM 's)
+        (NP=2 (QP $ 68.8 million) *U*))
+     .))
+( (S (NP-SBJ-1 Boeing Co.)
+     (VP received
+         (NP (NP a 
+		 (ADJP (QP $ 46.7 million) *U*)
+		 Air Force
+		 contract)
+             (PP for
+                 (S-NOM (NP-SBJ *-1)
+			(VP developing
+			    (NP (NP cable systems)
+				(PP for
+				    (NP the Minuteman Missile))))))))
+     .))
+( (S (NP-SBJ General Dynamics Corp.)
+     (VP received
+         (NP (NP a 
+		 (ADJP (QP $ 29 million) *U*)
+		 Air Force
+		 contract)
+             (PP for
+                 (NP electronic-warfare training sets))))
+     .))
+( (S (NP-SBJ Grumman Corp.)
+     (VP received
+         (NP (NP an 
+		 (ADJP (QP $ 18.1 million) *U*)
+		 Navy
+		 contract)
+	     (SBAR (WHNP-1 0)
+		   (S (NP-SBJ *T*-1)
+		      (VP to
+			  (VP upgrade
+			      (NP aircraft electronics)))))))
+     .))
+( (S (NP-SBJ Avco Corp.)
+     (VP received
+         (NP (NP an 
+		 (ADJP (QP $ 11.8 million) *U*)
+		 Army
+		 contract)
+             (PP for
+                 (NP helicopter engines))))
+     .))

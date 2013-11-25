@@ -1,0 +1,42 @@
+
+
+( (S (PP As
+         (NP (NP part)
+             (PP of
+                 (NP a
+                     (ADJP previously
+			   announced)
+                     transaction))))
+     ,
+     (NP-SBJ Federal Mogul Corp.)
+     (VP has
+         (VP bought
+             (NP (NP (QP approximately 565,000) shares)
+                 (PP of
+                     (NP its common stock)))
+             (PP-CLR from
+		     (NP Nortek Inc.))
+             (PP-CLR at
+		     (NP (NP $ 23.50 *U*)
+			 (NP-ADV a share)))))
+     .))
+( (S (NP-SBJ-1 Nortek)
+     (VP has
+         (VP agreed
+             (S (NP-SBJ *-1)
+		(VP (VP not
+			to
+			(VP acquire
+			    (NP (NP any securities)
+				(PP of
+				    (NP Federal-Mogul)))
+			    (PP-TMP for
+				    (NP 10 years))))
+		    and
+		    (VP not
+			to
+			(VP influence
+			    (NP company affairs)
+			    (PP-TMP during
+				    (NP that period))))))))
+     .))

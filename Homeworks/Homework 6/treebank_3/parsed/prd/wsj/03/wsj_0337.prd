@@ -1,0 +1,87 @@
+
+
+( (S (NP-SBJ-1 The Treasury)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP raise
+                    (NP (NP (QP $ 2.3 billion) *U*)
+                        (PP in
+                            (NP new cash)))
+                    (PP with
+                        (NP (NP the sale)
+                            (NP-TMP Monday)
+                            (PP of 
+                                (NP (NP (QP about $ 16 billion) *U*)
+                                    (PP in
+                                        (NP short-term bills))))))
+                    (S-PRP (NP-SBJ *)
+			   (VP to
+			       (VP redeem
+				   (NP (NP (QP $ 13.71 billion) *U*)
+				       (PP in
+					   (NP maturing bills))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ the Treasury)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP postpone
+                          (NP the auction)
+                          (SBAR-ADV unless
+				    (S (NP-SBJ it)
+				       (VP has
+					   (NP (NP assurances)
+					       (PP of
+						   (NP (NP enactment)
+						       (PP of
+							   (NP (NP legislation)
+							       (SBAR (WHNP-1 0)
+								     (S (NP-SBJ *T*-1)
+									(VP to
+									    (VP raise
+										(NP the statutory debt limit))))))))))
+					   (PP-TMP before
+						   (NP the scheduled auction date))))))))))
+     .))
+( (S (NP-SBJ-1 The offering)
+     (VP will
+	 (VP be
+	     (VP divided
+		 (NP *-1)
+		 (ADVP-MNR evenly)
+		 (PP between
+		     (NP (NP (ADJP 13-week and 26-week) bills)
+			 (VP maturing
+			     (PP-TMP-CLR on
+					 (NP (NP Feb. 8 , 1990)
+					     , 
+					     and
+					     (NP May 10 , 1990)
+					     , 
+					     (ADVP respectively)))))))))
+     .))
+( (S (NP-SBJ-1 (NP (NP Tenders)
+		   (PP for
+		       (NP the bills)))
+	       ,
+	       (ADJP available
+		     (PP in
+			 (NP minimum (ADJP $ 10,000 *U*) denominations )))
+	       ,)
+     (VP must
+	 (VP be
+	     (VP received
+		 (NP *-1)
+		 (PP-TMP by
+			 (NP (NP 1 p.m. EST) 
+			     (NP Monday)))
+		 (PP-LOC (PP at
+			     (NP the Treasury))
+			 or
+			 (PP at
+			     (NP Federal Reserve banks or branches))))))
+     .))

@@ -1,0 +1,93 @@
+
+
+( (S (NP-SBJ Control Data Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP licensed
+                      (NP its airline yield-management software)
+                      (PP-CLR to
+			      (NP the International Air Transport Association))))))
+     .))
+( (S (S (NP-SBJ Terms)
+        (VP include
+            (NP a royalty arrangement)))
+     , 
+     but
+     (S (NP-SBJ-1 details)
+        (VP were n't
+            (VP disclosed
+		(NP *-1))))
+     .))
+( (S (NP-SBJ The 
+	     computer equipment and financial services 
+	     company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP IATA)
+                          ,
+                          (NP a trade group)
+                          ,)
+                  (VP will
+                      (VP sell
+                          (NP (NP access)
+                              (PP to
+                                  (NP the package)))
+                          (PP-DTV to
+				  (NP (NP its 180 airline members)
+				      (ADVP-LOC world-wide))))))))
+     .))
+( (S (S-TPC-1 (NP-SBJ Control Data)
+	      (VP will
+		  (VP receive
+		      (NP (NP revenue)
+			  (VP linked
+			      (NP *)
+			      (PP-CLR to
+				      (NP (NP the number)
+					  (PP of
+					      (NP (NP passengers)
+						  (VP served
+						      (NP *)
+						      (PP by
+							  (NP-LGS the software))))))))))))
+     ,
+     (NP-SBJ IATA)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The package)
+     (VP helps
+         (S (NP-SBJ carriers)
+	    (VP solve
+		(NP (NP pricing problems)
+		    ,
+		    (PP such as
+			(SBAR-NOM (SBAR (WHADVP-2 how)
+					(S (NP-SBJ *)
+					   (VP to
+					       (VP react
+						   (PP-CLR to
+							   (NP (NP discounts)
+							       (VP offered
+								   (NP *)
+								   (PP by
+								       (NP-LGS competitors)))))
+						   (ADVP-MNR *T*-2)))))
+				  or
+				  (SBAR (WHNP-1 what)
+					(S (NP-SBJ *T*-1)
+					   (VP would
+					       (VP be
+						   (NP-PRD (NP the optimum number)
+							   (PP of
+							       (NP seats))
+							   (SBAR (WHNP-3 0)
+								 (S (NP-SBJ *)
+								    (VP to
+									(VP offer
+									    (NP *T*-3)
+									    (PP at
+										(NP a given price)))))))))))))))))
+     .))

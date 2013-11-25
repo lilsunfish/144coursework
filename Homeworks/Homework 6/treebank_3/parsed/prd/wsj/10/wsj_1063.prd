@@ -1,0 +1,42 @@
+
+
+( (S (NP-SBJ Toshiba Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-2 its new French marketing concern)
+                  (VP has
+                      (VP started
+                          (S (NP-SBJ *-2)
+			     (VP operating
+				 (PP-MNR under
+					 (NP (NP the aegis)
+					     (PP of
+						 (NP (NP (NP the company 's)
+							 (ADJP West German)
+							 subsidiary)
+						     ,
+						     (SBAR (WHNP-1 which)
+							   (S (NP-SBJ *T*-1)
+							      (ADVP-TMP formerly)
+							      (VP handled
+								  (NP (NP all sales)
+								      (PP of
+									  (NP Toshiba electronic products))
+								      (PP-LOC in
+									      (NP France)))))))))))))))))
+     .))
+( (S (NP-SBJ (NP A recent change)
+             (PP-LOC in
+		     (NP French law)))
+     ,
+     (PP according
+         (PP to
+             (NP Toshiba)))
+     ,
+     (VP permitted
+         (NP (NP formation)
+             (PP of
+                 (NP the semiconductor marketing arm))
+             (PP-LOC in
+		     (NP Paris))))
+     .))

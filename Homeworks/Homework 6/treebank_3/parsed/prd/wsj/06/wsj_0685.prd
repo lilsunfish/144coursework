@@ -1,0 +1,54 @@
+
+
+( (S (NP-SBJ CNW Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 (NP the final step)
+			    (PP-LOC in
+				    (NP (NP the acquisition)
+					(PP of
+					    (NP the company)))))
+		  (VP has
+		      (VP been
+			  (VP completed
+			      (NP *-1)
+			      (PP with
+				  (NP (NP the merger)
+				      (PP of
+					  (NP CNW))
+				      (PP with
+					  (NP (NP a subsidiary)
+					      (PP of
+						  (NP Chicago
+						      &
+						      North Western Holdings Corp))))))))))))
+     .))
+( (S (SBAR-ADV As
+	       (S (NP-SBJ-2 *)
+		  (VP reported
+		      (NP *-2))))
+     ,
+     (NP-SBJ-3 CNW)
+     (VP agreed
+         (S (NP-SBJ-1 *-3)
+            (VP to
+		(VP be
+		    (VP acquired
+			(NP *-1)
+			(PP by
+			    (NP-LGS (NP a group)
+				    (PP of
+					(NP (NP investors)
+					    (VP led
+						(NP *)
+						(PP by
+						    (NP-LGS Blackstone Capital Partners 
+							    Limited Partnership)))))))
+			(PP-CLR for
+				(NP (NP (NP $ 50 *U*)
+					(NP-ADV a share))
+				    , 
+				    or
+				    (NP (QP about $ 950 million)
+					*U*))))))))
+     .))

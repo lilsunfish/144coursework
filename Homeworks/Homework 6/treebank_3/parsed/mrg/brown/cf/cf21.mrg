@@ -1,0 +1,2292 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( (S 
+    (NP-SBJ-1 (DT A) (NN tsunami) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (VP (VBN started) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT a) (NN sea) (NN bottom) (NN slide) )
+              (, ,) 
+              (NP (DT an) (NN earthquake) )
+              (CC or) 
+              (NP (DT a) (JJ volcanic) (NN eruption) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT The) 
+          (ADJP (RBS most) (JJ infamous) ))
+        (PP (IN of) 
+          (NP (DT all) )))
+      (VP (VBD was) 
+        (VP (VBN launched) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (DT the) (NN explosion) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN island) )
+                  (PP (IN of) 
+                    (NP (NNP Krakatoa) ))))
+              (PP-TMP (IN in) 
+                (NP (CD 1883) )))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP it) )
+      (VP 
+        (VP (VBD raced) 
+          (PP-DIR (IN across) 
+            (NP (DT the) (NNP Pacific) ))
+          (PP (IN at) 
+            (NP 
+              (NP (CD 300) (NNS miles) )
+              (NP-ADV (DT an) (NN hour) ))))
+        (, ,) 
+        (VP 
+          (VP (VBD devastated) 
+            (NP 
+              (NP (DT the) (NNS coasts) )
+              (PP (IN of) 
+                (NP (NNP Java) 
+                  (CC and)
+                  (NNP Sumatra) )))
+            (PP (IN with) 
+              (NP 
+                (NP (NNS waves) )
+                (ADJP 
+                  (NP-ADV 
+                    (QP (CD 100) (TO to) (CD 130) )
+                    (NNS feet) )
+                  (JJ high) ))))
+          (, ,) 
+          (CC and)
+          (VP (VBD pounded) 
+            (NP (DT the) (NN shore) )
+            (ADVP-LOC 
+              (ADVP 
+                (ADVP (IN as) (RB far) )
+                (RB away) )
+              (PP (IN as) 
+                (NP (NNP San) (NNP Francisco) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ ancient) (NNS Greeks) )
+    (VP (VBD recorded) 
+      (NP 
+        (NP (JJ several) (JJ catastrophic) (NNS inundations) )
+        (PP (IN by) 
+          (NP (JJ huge) (NNS waves) ))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN Whether) (CC or) (RB not) 
+      (S 
+        (NP-SBJ 
+          (NP 
+            (NP (NNP Plato) (POS 's) )
+            (NN tale) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (VBN lost) (NN continent) )
+              (PP (IN of) 
+                (NP (NNS Atlantis) )))))
+        (VP (VBZ is) 
+          (ADJP-PRD (JJ true) ))))
+    (, ,) 
+    (NP-SBJ (NNS skeptics) )
+    (VP (VBP concede) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NN myth) )
+          (VP (MD may) 
+            (VP (VB have) 
+              (NP 
+                (NP (DT some) (NN foundation) )
+                (PP (IN in) 
+                  (NP 
+                    (NP (DT a) (JJ great) (NN tsunami) )
+                    (PP (IN of) 
+                      (NP (JJ ancient) (NNS times) ))))))))))
+    (. .) ))
+( (S 
+    (ADVP (RB Indeed) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) 
+        (ADJP (RB tremendously) (JJ destructive) )
+        (NN tsunami) )
+      (SBAR 
+        (WHNP-1 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD arose) 
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP Arabian) (NNP Sea) ))
+            (PP-TMP (IN in) 
+              (NP (CD 1945) ))))))
+    (VP (VBZ has) 
+      (ADVP (RB even) )
+      (VP (VBN revived) 
+        (NP 
+          (NP (DT the) (NN interest) )
+          (PP (IN of) 
+            (NP (NNS geologists) 
+              (CC and)
+              (NNS archaeologists) ))
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (JJ Biblical) (NN story) )
+              (PP (IN of) 
+                (NP (DT the) (NNP Flood) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (CD One) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (RBS most) (JJ damaging) )
+              (NNS tsunami) )
+            (PP (IN on) 
+              (NP (NN record) )))))
+      (VP (VBD followed) 
+        (NP 
+          (NP (DT the) (JJ famous) (NNP Lisbon) (NN earthquake) )
+          (PP (IN of) 
+            (NP (NNP November) (CD 1) 
+              (, ,)
+              (CD 1755) )))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ-1 (PRP$ its) (NNS waves) )
+      (VP 
+        (VP (VBD persisted) 
+          (PP-TMP (IN for) 
+            (NP (DT a) (NN week) )))
+        (CC and) 
+        (VP (VBD were) 
+          (VP (VBN felt) 
+            (NP (-NONE- *-1) )
+            (ADVP-LOC 
+              (ADVP 
+                (ADVP (IN as) (RB far) )
+                (RB away) )
+              (PP (IN as) 
+                (NP (DT the) (JJ English) (NN coast) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Tsunami) )
+      (VP (VBP are) 
+        (ADJP-PRD (JJ rare) )
+        (, ,) 
+        (ADVP (RB however) )
+        (, ,) 
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP Atlantic) (NNP Ocean) ))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP (VBP are) 
+        (ADJP-PRD 
+          (ADVP (RB far) (RBR more) )
+          (JJ common) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP Pacific) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNP Japan) )
+    (VP (VBZ has) 
+      (VP (VBD had) 
+        (NP 
+          (NP (CD 15) (JJ destructive) (NNS ones) )
+          (PRN 
+            (-LRB- -LRB-)
+            (NP 
+              (NP (CD eight) )
+              (PP (IN of) 
+                (NP (PRP them) ))
+              (ADJP (JJ disastrous) ))
+            (-RRB- -RRB-) ))
+        (PP-TMP (IN since) 
+          (NP (CD 1596) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNP Hawaiian) (NNP Islands) )
+    (VP (VBP are) 
+      (VP (VBN struck) 
+        (NP (-NONE- *-1) )
+        (ADVP-MNR (RB severely) )
+        (NP-TMP 
+          (NP (DT an) (NN average) )
+          (PP (IN of) 
+            (ADVP (RB once) 
+              (NP (DT every) (CD 25) (NNS years) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-TMP (IN In) 
+        (NP (CD 1707) ))
+      (NP-SBJ 
+        (NP (DT an) (NN earthquake) )
+        (PP-LOC (IN in) 
+          (NP (NNP Japan) )))
+      (VP (VBD generated) 
+        (NP 
+          (NP (NNS waves) )
+          (ADJP 
+            (ADJP (RB so) (JJ huge) )
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBD piled) 
+                  (PP-DIR (IN into) 
+                    (NP (DT the) (NNP Inland) (NNP Sea) )))))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (CD one) (NN wave) )
+      (VP (VBD swamped) 
+        (NP 
+          (NP 
+            (QP (JJR more) (IN than) (CD 1,000) )
+            (NNS ships) 
+            (CC and)
+            (NNS boats) )
+          (PP-LOC (IN in) 
+            (NP (NNP Osaka) (NNP Bay) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT A) (NN tsunami) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (NNP Hawaiian) (NNP Islands) ))
+      (PP-TMP (IN in) 
+        (NP (CD 1869) )))
+    (VP (VBD washed) 
+      (ADVP (RB away) )
+      (NP 
+        (NP (DT an) (JJ entire) (NN town) )
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP Ponoluu) )
+          (-RRB- -RRB-) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG leaving) 
+          (NP 
+            (NP 
+              (QP (RB only) (CD two) )
+              (JJ forlorn) (NNS trees) )
+            (VP (VBG standing) 
+              (SBAR-LOC 
+                (WHADVP-2 (WRB where) )
+                (S 
+                  (NP-SBJ (DT the) (NN community) )
+                  (VP (VBD had) 
+                    (VP (VBN been) 
+                      (ADVP-LOC-PRD (-NONE- *T*-2) ))))))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1896) ))
+    (NP-SBJ (DT a) (JJ Japanese) (NN tsunami) )
+    (VP 
+      (VP (VBD killed) 
+        (NP (CD 27,000) (NNS people) ))
+      (CC and) 
+      (VP (VBD swept) 
+        (ADVP (RP away) )
+        (NP (CD 10,000) (NNS homes) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS dimensions) )
+      (PP (IN of) 
+        (NP (DT these) (NNS waves) )))
+    (VP (VBP dwarf) 
+      (NP 
+        (NP (DT all) (PRP$ our) (JJ usual) (NNS standards) )
+        (PP (IN of) 
+          (NP (NN measurement) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-3 (DT An) (JJ ordinary) (NN sea) (NN wave) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB rarely) )
+      (ADJP-PRD 
+        (NP-ADV 
+          (QP (JJR more) (IN than) (DT a) (JJ few) (CD hundred) )
+          (NNS feet) )
+        (RB long) )
+      (PP 
+        (PP (IN from) 
+          (NP (NN crest) ))
+        (PP (TO to) 
+          (NP (NN crest) )))
+      (: --) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (ADJP-PRD 
+          (ADJP 
+            (ADJP (RB no) (RB longer) )
+            (PP (IN than) 
+              (NP-1 (CD 320) (NNS feet) ))
+            (PP-LOC-2 (IN in) 
+              (NP (DT the) (NNP Atlantic) )))
+          (CC or) 
+          (ADJP 
+            (NP=1 (CD 1,000) (NNS feet) )
+            (PP-LOC=2 (IN in) 
+              (NP (DT the) (NNP Pacific) ))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ (DT a) (NN tsunami) )
+    (ADVP-TMP (RB often) )
+    (VP (VBZ extends) 
+      (NP-EXT 
+        (NP 
+          (QP (RBR more) (IN than) (CD 100) )
+          (NNS miles) )
+        (CC and) 
+        (ADVP-TMP (RB sometimes) )
+        (NP 
+          (QP (RB as) (JJ much) (IN as) (CD 600) )
+          (NNS miles) ))
+      (PP 
+        (PP (IN from) 
+          (NP (NN crest) ))
+        (PP (TO to) 
+          (NP (NN crest) ))))
+    (. .) ))
+( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (DT a) (NN wind) (NN wave) )
+        (ADVP-TMP (RB never) )
+        (VP (VBZ travels) 
+          (PP (IN at) 
+            (NP 
+              (NP 
+                (QP (RBR more) (IN than) (CD 60) )
+                (NNS miles) )
+              (PP (IN per) 
+                (NP (NN hour) )))))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN velocity) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT a) (NN tsunami) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (JJ open) (NN sea) )))))
+    (VP (MD must) 
+      (VP (VB be) 
+        (VP (VBN reckoned) 
+          (NP (-NONE- *-1) )
+          (PP (IN in) 
+            (NP 
+              (NP (NNS hundreds) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS miles) )
+                  (PP (IN per) 
+                    (NP (NN hour) )))))))))
+    (. .) ))
+( (S 
+    (SINV 
+      (S-ADV 
+        (NP-SBJ (-NONE- *) )
+        (ADJP-PRD 
+          (ADJP (DT The) (JJR greater) )
+          (SBAR 
+            (WHADJP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ 
+                (NP (DT the) (NN depth) )
+                (PP (IN of) 
+                  (NP (DT the) (NN water) )))
+              (ADJP-PRD (-NONE- *T*-1) )))))
+      (, ,) 
+      (ADJP-PRD-TPC-2 (DT the) (JJR greater) )
+      (VP (VBZ is) 
+        (ADJP-PRD (-NONE- *T*-2) ))
+      (NP-SBJ 
+        (NP (DT the) (NN speed) )
+        (PP (IN of) 
+          (NP (DT the) (NN wave) ))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (NNP Lagrange) (POS 's) )
+        (NN law) )
+      (VP (VBZ says) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP$ its) (NN velocity) )
+            (VP (VBZ is) 
+              (ADJP-PRD (JJ equal) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (JJ square) (NN root) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN product) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT the) (NN depth) )
+                            (VBZ times) 
+                            (NP 
+                              (NP (DT the) (NN acceleration) )
+                              (PP (JJ due) 
+                                (PP (TO to) 
+                                  (NP (NN gravity) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT the) (JJ deep) (NNS waters) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Pacific) ))))
+    (NP-SBJ (DT these) (NNS waves) )
+    (VP (VBP reach) 
+      (NP 
+        (NP (DT a) (NN speed) )
+        (PP (IN of) 
+          (NP 
+            (NP (CD 500) (NNS miles) )
+            (PP (IN per) 
+              (NP (NN hour) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Tsunami) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (ADJP (RB so) (JJ shallow) )
+        (PP (IN in) 
+          (NP 
+            (NP (NN comparison) )
+            (PP (IN with) 
+              (NP (PRP$ their) (NN length) ))))
+        (SBAR (IN that) 
+          (S 
+            (PP-LOC (IN in) 
+              (NP (DT the) (JJ open) (NN ocean) ))
+            (NP-SBJ (PRP they) )
+            (VP (VBP are) 
+              (ADJP-PRD (RB hardly) (JJ detectable) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Their) (NN amplitude) )
+    (ADVP-TMP (RB sometimes) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP 
+          (QP (RB as) (JJ little) (IN as) (CD two) )
+          (NNS feet) )
+        (PP 
+          (PP (IN from) 
+            (NP (NN trough) ))
+          (PP (TO to) 
+            (NP (NN crest) )))))
+    (. .) ))
+( (S-CLF 
+    (ADVP-TMP (RB Usually) )
+    (NP-SBJ (PRP it) )
+    (VP (VBZ is) 
+      (SBAR-TMP-PRD 
+        (ADVP (RB only) )
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP approach) 
+            (NP 
+              (NP (JJ shallow) (NN water) )
+              (PP-LOC (IN on) 
+                (NP (DT the) (NN shore) )))
+            (ADVP-TMP (-NONE- *T*-1) ))))
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP build) 
+            (PRT (RP up) )
+            (PP (TO to) 
+              (NP (PRP$ their) (VBG terrifying) (NNS heights) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP 
+        (NP (DT the) (JJ fateful) (NN day) )
+        (PP-TMP (IN in) 
+          (NP (CD 1896) ))
+        (SBAR 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (DT the) (JJ great) (NNS waves) )
+            (VP (VBD approached) 
+              (NP (NNP Japan) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNS fishermen) )
+      (PP-LOC (IN at) 
+        (NP (NN sea) )))
+    (VP (VBD noticed) 
+      (NP (DT no) (JJ unusual) (NNS swells) ))
+    (. .) ))
+( (SINV (RB Not) 
+    (SBAR-TMP (IN until) 
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBD sailed) 
+          (ADVP-DIR (NN home) )
+          (PP-TMP (IN at) 
+            (NP 
+              (NP (DT the) (NN end) )
+              (PP (IN of) 
+                (NP (DT the) (NN day) ))))
+          (, ,) 
+          (PP (IN through) 
+            (NP 
+              (NP (DT a) (NN sea) )
+              (VP (VBN strewn) 
+                (NP (-NONE- *) )
+                (PP (IN with) 
+                  (NP 
+                    (NP (NNS bodies) )
+                    (CC and) 
+                    (NP 
+                      (NP (DT the) (NN wreckage) )
+                      (PP (IN of) 
+                        (NP (NNS houses) )))))))))))
+    (, ,) (VBD were) 
+    (NP-SBJ (PRP they) )
+    (ADJP-PRD (JJ aware) 
+      (PP (IN of) 
+        (SBAR-NOM 
+          (WHNP-1 (WP what) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBD had) 
+              (VP (VBN happened) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) 
+      (ADJP (RB seemingly) (JJ quiet) )
+      (NN ocean) )
+    (VP (VBD had) 
+      (VP (VBN crashed) 
+        (NP 
+          (NP (DT a) (NN wall) )
+          (PP (IN of) 
+            (NP (NN water) ))
+          (ADJP 
+            (NP-ADV 
+              (QP (IN from) (CD 10) (TO to) (CD 100) )
+              (NNS feet) )
+            (JJ high) ))
+        (PP-LOC (IN upon) 
+          (NP 
+            (NP (NNS beaches) )
+            (VP (VBN crowded) 
+              (NP (-NONE- *) )
+              (PP (IN with) 
+                (NP (NNS bathers) )))))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP 
+            (VP (VBG drowning) 
+              (NP 
+                (NP (NNS thousands) )
+                (PP (IN of) 
+                  (NP (PRP them) ))))
+            (CC and) 
+            (VP (VBG flattening) 
+              (NP 
+                (NP (NNS villages) )
+                (PP-LOC (IN along) 
+                  (NP (DT the) (NN shore) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (JJ giant) (NNS waves) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (ADJP (RBR more) (JJ dangerous) )
+        (PP (-NONE- *ICH*-1) ))
+      (PP-LOC (IN on) 
+        (NP (JJ flat) (NNS shores) ))
+      (PP-1 (IN than) 
+        (PP (IN on) 
+          (NP (JJ steep) (NNS ones) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP They) )
+      (ADVP-TMP (RB usually) )
+      (VP (VBP range) 
+        (PP 
+          (PP (IN from) 
+            (NP (CD 20) ))
+          (PP (TO to) 
+            (NP (CD 60) (NNS feet) )))
+        (PP (IN in) 
+          (NP (NN height) ))))
+    (, ,) (CC but) 
+    (S 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBP pour) 
+            (PP-DIR (IN into) 
+              (NP (DT a) (JJ V-shaped) (NN inlet) (CC or) (NN harbor) ))
+            (ADVP-TMP (-NONE- *T*-1) ))))
+      (NP-SBJ (PRP they) )
+      (VP (MD may) 
+        (VP (VB rise) 
+          (PP (TO to) 
+            (NP (JJ mountainous) (NNS proportions) )))))
+    (. .) ))
+( (S 
+    (ADVP (RB Generally) )
+    (NP-SBJ 
+      (NP (DT the) (JJ first) (NN salvo) )
+      (PP (IN of) 
+        (NP (DT a) (NN tsunami) )))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP (RB rather) (JJ sharp) )
+          (NN swell) )
+        (, ,) 
+        (ADJP (RB not) (JJ different) (RB enough) 
+          (PP (IN from) 
+            (NP (DT an) (JJ ordinary) (NN wave) ))
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB alarm) 
+                (NP (JJ casual) (NNS observers) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT This) )
+    (VP (VBZ is) 
+      (VP (VBN followed) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT a) (JJ tremendous) (NN suck) )
+            (PP (IN of) 
+              (NP (NN water) ))
+            (PP (RB away) 
+              (PP (IN from) 
+                (NP (DT the) (NN shore) )))))
+        (SBAR-TMP (IN as) 
+          (S 
+            (NP-SBJ (DT the) (JJ first) (JJ great) (NN trough) )
+            (VP (VBZ arrives) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (NNS Reefs) )
+      (VP (VBP are) 
+        (VP (VBN left) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (ADJP-PRD (JJ high) 
+              (CC and)
+              (JJ dry) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (DT the) (NNS beaches) )
+      (VP (VBP are) 
+        (VP (VBN covered) 
+          (NP (-NONE- *-2) )
+          (PP (IN with) 
+            (NP (VBN stranded) (NN fish) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN At) 
+      (NP (NNP Hilo) ))
+    (NP-SBJ-1 
+      (NP (JJ large) (NNS numbers) )
+      (PP (IN of) 
+        (NP (NNS people) )))
+    (VP (VBD ran) 
+      (ADVP-DIR (RB out) )
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB inspect) 
+            (NP 
+              (NP (DT the) (JJ amazing) (NN spectacle) )
+              (PP (IN of) 
+                (NP (DT the) (VBN denuded) (NN beach) )))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (JJ Many) )
+      (PP (IN of) 
+        (NP (PRP them) )))
+    (VP (VBN paid) 
+      (PP (IN for) 
+        (NP (PRP$ their) (NN curiosity) ))
+      (PP (IN with) 
+        (NP (PRP$ their) (NNS lives) ))
+      (, ,) 
+      (SBAR-PRP (IN for) 
+        (S 
+          (ADVP-TMP 
+            (NP (DT some) (NNS minutes) )
+            (RB later) )
+          (NP-SBJ (DT the) (JJ first) (JJ giant) (NN wave) )
+          (VP (VBD roared) 
+            (PP-DIR (IN over) 
+              (NP (DT the) (NN shore) ))))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN After) 
+      (NP 
+        (NP (DT an) (NN earthquake) )
+        (PP-LOC (IN in) 
+          (NP (NNP Japan) ))
+        (PP-TMP (IN in) 
+          (NP (CD 1793) ))))
+    (NP-SBJ 
+      (NP (NNS people) )
+      (PP-LOC (IN on) 
+        (NP (DT the) (NN coast) ))
+      (PP-LOC (IN at) 
+        (NP (NN Tugaru) )))
+    (VP (VBD were) 
+      (ADJP-PRD 
+        (ADJP (RB so) (VBN terrified) 
+          (PP (IN by) 
+            (NP 
+              (NP (DT the) (JJ extraordinary) (VBG ebbing) )
+              (PP (IN of) 
+                (NP (DT the) (NN sea) )))))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD scurried) 
+              (PP-DIR (TO to) 
+                (NP (JJR higher) (NN ground) )))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (WHADVP-2 (WRB When) )
+      (S 
+        (NP-SBJ (DT a) (JJ second) (NN quake) )
+        (VP (VBD came) 
+          (ADVP-TMP (-NONE- *T*-2) ))))
+    (, ,) 
+    (NP-SBJ-3 (PRP they) )
+    (VP (VBD dashed) 
+      (ADVP-DIR (RB back) )
+      (PP-DIR (TO to) 
+        (NP (DT the) (NN beach) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG fearing) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-1 (PRP they) )
+              (VP (MD might) 
+                (VP (VB be) 
+                  (VP (VBN buried) 
+                    (NP (-NONE- *-1) )
+                    (PP-LOC (IN under) 
+                      (NP (NNS landslides) ))))))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP 
+      (ADVP (RB Just) )
+      (IN as) 
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBD reached) 
+          (NP (DT the) (NN shore) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (RB first) (JJ huge) (NN wave) )
+    (VP (VBD crashed) 
+      (PP-LOC (IN upon) 
+        (NP (PRP them) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT A) (NN tsunami) )
+    (VP (VBZ is) 
+      (NP-PRD (RB not) 
+        (NP (DT a) (JJ single) (NN wave) )
+        (CC but) 
+        (NP (DT a) (NN series) )))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) (NNS waves) )
+      (VP (VBP are) 
+        (VP (VBN separated) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNS intervals) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD 15) (NNS minutes) )
+                  (TO to) 
+                  (NP (DT an) (NN hour) 
+                    (QP (CC or) (JJR more) ))))))
+          (PRN 
+            (-LRB- -LRB-)
+            (PP-PRP (IN because) (IN of) 
+              (NP (PRP$ their) (JJ great) (NN length) ))
+            (-RRB- -RRB-) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT this) )
+      (VP (VBZ has) 
+        (ADVP-TMP (RB often) )
+        (VP (VBN lulled) 
+          (NP-2 (NNS people) )
+          (PP (IN into) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG thinking) 
+                (SBAR-TMP (IN after) 
+                  (S 
+                    (NP-SBJ (DT the) (JJ first) (JJ great) (NN wave) )
+                    (VP (VBZ has) 
+                      (VP (VBN crashed) ))))
+                (SBAR (IN that) 
+                  (S 
+                    (NP-SBJ (PRP it) )
+                    (VP (VBZ is) 
+                      (ADVP-PRD (DT all) (RB over) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) (NNS waves) )
+    (VP (MD may) 
+      (VP (VB keep) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG coming) ))
+        (PP-TMP (IN for) 
+          (NP (JJ many) (NNS hours) ))))
+    (. .) ))
+( (S 
+    (ADVP-TMP (RB Usually) )
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (NN third) )
+        (TO to) 
+        (NP (DT the) (JJ eighth) (NNS waves) ))
+      (PP (IN in) 
+        (NP (DT the) (NN series) )))
+    (VP (VBP are) 
+      (NP-PRD (DT the) (JJS biggest) ))
+    (. .) ))
+( (SINV 
+    (PP-LOC-PRD-TPC-1 (IN Among) 
+      (NP 
+        (NP (DT the) (NNS observers) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (CD 1946) (NN tsunami) )
+            (PP-LOC (IN at) 
+              (NP (NNP Hilo) ))))))
+    (VP (VBD was) 
+      (PP-LOC-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Francis) (NNP P.) (NNP Shepard) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Scripps) (NNP Institution) )
+            (PP (IN of) 
+              (NP (NNP Oceanography) )))))
+      (, ,) 
+      (NP 
+        (NP (CD one) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN world) (POS 's) )
+            (JJ foremost) (JJ marine) (NNS geologists) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ able) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB make) 
+              (NP 
+                (NP (DT a) (JJ detailed) (NN inspection) )
+                (PP (IN of) 
+                  (NP (DT the) (NNS waves) ))))))))
+    (. .) ))
+( (S-2 
+    (NP-SBJ-1 (PRP$ Their) (NN onrush) 
+      (CC and)
+      (NN retreat) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD reported) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN accompanied) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT a) (JJ great) (NN hissing) 
+            (, ,)
+            (NN roaring) 
+            (CC and)
+            (NN rattling) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT The) 
+      (ADJP (JJ third) 
+        (CC and)
+        (JJ fourth) )
+      (NNS waves) )
+    (VP (VBD seemed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (NP-PRD (DT the) (JJS highest) )))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-LOC (IN On) 
+        (NP 
+          (NP (DT some) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNS islands) (POS ') )
+              (NNS beaches) ))))
+      (NP-SBJ (DT the) (NNS waves) )
+      (VP (VBD came) 
+        (ADVP-DIR (RB in) )
+        (ADVP-MNR (RB gently) )))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP (VBD were) 
+        (ADJP-PRD (JJS steepest) )
+        (PP-LOC (IN on) 
+          (NP 
+            (NP (DT the) (NNS shores) )
+            (VP (VBG facing) 
+              (NP 
+                (NP (DT the) (NN direction) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NN seaquake) )
+                    (SBAR 
+                      (WHPP-1 (IN from) 
+                        (WHNP (WDT which) ))
+                      (S 
+                        (NP-SBJ (DT the) (NNS waves) )
+                        (VP (VBD had) 
+                          (VP (VBN come) 
+                            (PP-DIR (-NONE- *T*-1) )))))))))))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Hilo) (NNP Bay) ))
+    (NP-SBJ (PRP they) )
+    (VP (VBD were) 
+      (ADJP-PRD 
+        (NP-ADV 
+          (QP (IN from) (CD 21) (TO to) (CD 26) )
+          (NNS feet) )
+        (JJ high) ))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJS highest) (NNS waves) )
+      (, ,) 
+      (NP (CD 55) (NNS feet) ))
+    (, ,) 
+    (VP (VBD occurred) 
+      (PP-LOC (IN at) 
+        (NP (NNP Pololu) (NNP Valley) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Scientists) 
+      (CC and)
+      (NNS fishermen) )
+    (VP (VBP have) 
+      (ADVP-TMP (RB occasionally) )
+      (VP (VBN seen) 
+        (NP 
+          (NP (JJ strange) (NNS by-products) )
+          (PP (IN of) 
+            (NP (DT the) (NN phenomenon) )))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN During) 
+      (NP 
+        (NP (DT a) (CD 1933) (NN tsunami) )
+        (PP-LOC (IN in) 
+          (NP (NNP Japan) ))))
+    (NP-SBJ (DT the) (NN sea) )
+    (VP (VBD glowed) 
+      (ADVP-MNR (RB brilliantly) )
+      (PP-TMP (IN at) 
+        (NP (NN night) )))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN luminosity) )
+      (PP (IN of) 
+        (NP (DT the) (NN water) )))
+    (VP (VBZ is) 
+      (ADVP-TMP (RB now) )
+      (VP (VBN believed) 
+        (S 
+          (NP-SBJ-2 (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB have) 
+              (VP (VBN been) 
+                (VP (VBN caused) 
+                  (NP (-NONE- *-2) )
+                  (PP (IN by) 
+                    (NP-LGS 
+                      (NP (DT the) (NN stimulation) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (JJ vast) (NNS numbers) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (DT the) (JJ luminescent) (NN organism) )
+                              (NP (NN Noctiluca) (NN miliaris) )))))
+                      (PP (IN by) 
+                        (NP 
+                          (NP (DT the) (NN turbulence) )
+                          (PP (IN of) 
+                            (NP (DT the) (NN sea) )))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (JJ Japanese) (NNS fishermen) )
+      (VP (VBP have) 
+        (ADVP-TMP (RB sometimes) )
+        (VP (VBN observed) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (NNS sardines) )
+                (VP (VBD hauled) 
+                  (NP (-NONE- *) )
+                  (ADVP (RB up) )
+                  (PP-LOC (IN in) 
+                    (NP (PRP$ their) (NNS nets) ))
+                  (PP-TMP (IN during) 
+                    (NP (DT a) (NNS tsunami) ))))
+              (VP (VBP have) 
+                (NP 
+                  (ADJP (RB enormously) (JJ swollen) )
+                  (NNS stomachs) )))))))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (DT the) (NN fish) )
+      (VP (VBP have) 
+        (VP (VBN swallowed) 
+          (NP 
+            (NP (JJ vast) (NNS numbers) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ bottom-living) (NNS diatoms) )
+                (, ,) 
+                (VP (VBN raised) 
+                  (NP (-NONE- *) )
+                  (PP-DIR (TO to) 
+                    (NP (DT the) (NN surface) ))
+                  (PP (IN by) 
+                    (NP-LGS (DT the) (NN disturbance) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS waves) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT a) (CD 1923) (NN tsunami) )
+          (PP-LOC (IN in) 
+            (NP (NNP Sagami) (NNP Bay) )))))
+    (VP 
+      (VP (VBD brought) 
+        (PP-DIR (TO to) 
+          (NP (DT the) (NN surface) ))
+        (NP (-NONE- *RNR*-1) ))
+      (CC and) 
+      (VP (VBD battered) 
+        (PP (TO to) 
+          (NP (NN death) ))
+        (NP (-NONE- *RNR*-1) ))
+      (NP-1 
+        (NP (JJ huge) (NNS numbers) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS fishes) )
+            (SBAR 
+              (WHNP-2 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (ADVP (RB normally) )
+                (VP (VB live) 
+                  (PP-LOC (IN at) 
+                    (NP 
+                      (NP (DT a) (NN depth) )
+                      (PP (IN of) 
+                        (NP (CD 3,000) (NNS feet) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (JJ Gratified) (NNS fishermen) )
+    (VP (VBD hauled) 
+      (NP (PRP them) )
+      (ADVP (IN in) )
+      (PP (IN by) 
+        (NP (DT the) (NNS thousands) )))
+    (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ tsunami-warning) (NN system) )
+      (VP (VBN developed) 
+        (NP (-NONE- *) )
+        (PP-TMP (IN since) 
+          (NP 
+            (NP (DT the) (CD 1946) (NN disaster) )
+            (PP-LOC (IN in) 
+              (NP (NNP Hawaii) ))))))
+    (VP (VBZ relies) 
+      (PP 
+        (ADVP (RB mainly) )
+        (IN on) 
+        (NP 
+          (NP (DT a) 
+            (ADJP (JJ simple) 
+              (CC and)
+              (JJ ingenious) )
+            (NN instrument) )
+          (VP (VBN devised) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP Commander) (NNP C.K.) (NNP Green) )
+                (PP (IN of) 
+                  (NP (DT the) 
+                    (UCP (NNP Coast) 
+                      (CC and)
+                      (NNP Geodetic) )
+                    (NNP Survey) (NN staff) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ consists) 
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (NP 
+              (NP (DT a) (NN series) )
+              (PP (IN of) 
+                (NP (NNS pipes) )))
+            (CC and) 
+            (NP (DT a) (JJ pressure-measuring) (NN chamber) ))
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (NN record) 
+                (NP 
+                  (NP (DT the) (NN rise) 
+                    (CC and)
+                    (NN fall) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN water) (NN surface) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (JJ Ordinary) (NN water) (NNS tides) )
+    (VP (VBP are) 
+      (VP (VBN disregarded) 
+        (NP (-NONE- *-1) )))
+    (. .) ))
+( (S (CC But) 
+    (SBAR-TMP 
+      (WHADVP-3 (WRB when) )
+      (S 
+        (NP-SBJ-2 
+          (NP (NNS waves) )
+          (PP (IN with) 
+            (NP 
+              (NP (DT a) (NN period) )
+              (PP (IN of) 
+                (NP 
+                  (QP (IN between) (CD 10) 
+                    (CC and)
+                    (CD 40) )
+                  (NNS minutes) )))))
+        (VP (VB begin) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB roll) 
+                (PP-DIR (IN over) 
+                  (NP (DT the) (NN ocean) )))))
+          (ADVP-TMP (-NONE- *T*-3) ))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VB set) 
+      (PP (IN in) 
+        (NP (NN motion) ))
+      (NP 
+        (NP (DT a) (JJ corresponding) (NN oscillation) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT a) (NN column) )
+            (PP (IN of) 
+              (NP (NN mercury) ))))
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ closes) 
+              (NP (DT an) (JJ electric) (NN circuit) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT This) )
+    (PP (IN in) 
+      (NP (NN turn) ))
+    (VP (NNS sets) 
+      (PRT (RP off) )
+      (NP (DT an) (NN alarm) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG notifying) 
+          (NP 
+            (NP (DT the) (NNS observers) )
+            (PP-LOC (IN at) 
+              (NP (DT the) (NN station) )))
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (DT a) (NN tsunami) )
+              (VP (VBZ is) 
+                (PP-PRD (IN in) 
+                  (NP (NN progress) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT Such) (NN equipment) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN installed) 
+          (NP (-NONE- *-1) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (NNP Hilo) )
+              (, ,) 
+              (NP (NNP Midway) )
+              (, ,) 
+              (NP (NNP Attu) )
+              (CC and) 
+              (NP (NNP Dutch) (NNP Harbor) ))))))
+    (. .) ))
+( (S 
+    (NP-TMP 
+      (NP (DT The) (NN moment) )
+      (SBAR 
+        (WHADVP-3 (-NONE- 0) )
+        (S 
+          (NP-SBJ (DT the) (NN alarm) )
+          (VP (VBZ goes) 
+            (PRT (RP off) )
+            (ADVP-TMP (-NONE- *T*-3) )))))
+    (, ,) 
+    (NP-SBJ-1 (NN information) )
+    (VP (VBZ is) 
+      (ADVP (RB immediately) )
+      (VP (VBN forwarded) 
+        (NP (-NONE- *-1) )
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (NNP Honolulu) )
+            (, ,) 
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (VBZ is) 
+                  (NP-PRD 
+                    (NP (DT the) (NN center) )
+                    (PP (IN of) 
+                      (NP (DT the) (VBG warning) (NN system) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT This) (NN center) )
+    (ADVP (RB also) )
+    (VP (VBZ receives) 
+      (NP 
+        (NP (JJ prompt) (NNS reports) )
+        (PP (IN on) 
+          (NP (NNS earthquakes) ))
+        (PP (IN from) 
+          (NP 
+            (NP (CD four) (NNP Coast) (NNP Survey) (NNS stations) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NNP Pacific) ))
+            (SBAR 
+              (WHNP-2 (WDT which) )
+              (S 
+                (NP-SBJ-1 (-NONE- *T*-2) )
+                (VP (VBP are) 
+                  (VP (VBN equipped) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN with) 
+                      (NP (NNS seismographs) ))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP$ Its) (NN staff) )
+    (VP 
+      (VP (VBZ makes) 
+        (NP 
+          (NP (DT a) (JJ preliminary) (NN determination) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN epicenter) )
+              (PP (IN of) 
+                (NP (DT the) (NN quake) ))))))
+      (CC and) 
+      (VP (VBZ alerts) 
+        (NP 
+          (NP (NN tide) (NNS stations) )
+          (ADVP-LOC (IN near) 
+            (NP 
+              (NP (DT the) (NN epicenter) )
+              (PP (IN for) 
+                (NP (DT a) (NN tsunami) )))))))
+    (. .) ))
+( (S 
+    (PP (IN By) 
+      (NP 
+        (NP (NNS means) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS charts) )
+            (VP (VBG showing) 
+              (NP 
+                (NP (JJ wave-travel) (NNS times) )
+                (CC and) 
+                (NP 
+                  (NP (NNS depths) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN ocean) ))
+                  (PP-LOC (IN at) 
+                    (NP (JJ various) (NNS locations) )))))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (PRP it) )
+      (S (-NONE- *EXP*-2) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ possible) )
+      (S-2 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB estimate) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN rate) )
+                (PP (IN of) 
+                  (NP (NN approach) ))
+                (PP (-NONE- *RNR*-3) ))
+              (CC and) 
+              (NP 
+                (NP (JJ probable) (NN time) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN arrival) )
+                    (PP-LOC (IN at) 
+                      (NP (NNP Hawaii) ))))
+                (PP (-NONE- *RNR*-3) ))
+              (PP-3 (IN of) 
+                (NP 
+                  (NP (DT a) (NN tsunami) )
+                  (VP (VBG getting) 
+                    (PP (IN under) 
+                      (NP (NN way) ))
+                    (PP-LOC (IN at) 
+                      (NP 
+                        (NP (DT any) (NN spot) )
+                        (PP-LOC (IN in) 
+                          (NP (DT the) (NNP Pacific) ))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 (DT The) 
+        (ADJP (JJ civil) 
+          (CC and)
+          (JJ military) )
+        (NNS authorities) )
+      (VP (VBP are) 
+        (ADVP (RB then) )
+        (VP (VBN advised) 
+          (NP (-NONE- *-1) )
+          (PP (IN of) 
+            (NP (DT the) (NN danger) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP 
+        (VP (VBP issue) 
+          (NP (NNS warnings) ))
+        (CC and) 
+        (VP (VBP take) 
+          (NP (DT all) (JJ necessary) (JJ protective) (NNS steps) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ-1 
+        (NP (DT All) )
+        (PP (IN of) 
+          (NP (DT these) (NNS activities) )))
+      (VP (VBP are) 
+        (VP (VBN geared) 
+          (NP (-NONE- *-1) )
+          (PP (TO to) 
+            (NP (DT a) (JJ top-priority) (NN communication) (NN system) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (NN practice) (NNS tests) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (VP (VBN held) 
+            (NP (-NONE- *-2) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB assure) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ (NN everything) )
+                      (VP (MD will) 
+                        (VP (VB work) 
+                          (ADVP-MNR (RB smoothly) ))))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (PP-TMP (IN Since) 
+        (NP (DT the) (CD 1946) (NN disaster) ))
+      (NP-SBJ (EX there) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (NP-PRD (CD 15) (NNS tsunami) )
+          (PP-LOC (IN in) 
+            (NP (DT the) (NNP Pacific) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (QP (RB only) (CD one) ))
+      (VP (VBD was) 
+        (PP-PRD (IN of) 
+          (NP (DT any) (NN consequence) ))))
+    (. .) ))
+( (S 
+    (PP-TMP (IN On) 
+      (NP (NNP November) (CD 4) 
+        (, ,)
+        (CD 1952) ))
+    (, ,) 
+    (NP-SBJ (DT an) (NN earthquake) )
+    (VP (VBD occurred) 
+      (PP-LOC (IN under) 
+        (NP (DT the) (NN sea) ))
+      (PP-LOC (IN off) 
+        (NP (DT the) (NNP Kamchatka) (NNP Peninsula) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN At) 
+      (NP 
+        (NP 
+          (NP (CD 17:07) )
+          (NP (DT that) (NN afternoon) ))
+        (PRN 
+          (-LRB- -LRB-)
+          (NP (NNP Greenwich) (NN time) )
+          (-RRB- -RRB-) )))
+    (NP-SBJ-1 (DT the) (NN shock) )
+    (VP (VBD was) 
+      (VP (VBN recorded) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT the) (NN seismograph) (NN alarm) )
+            (PP-LOC (IN in) 
+              (NP (NNP Honolulu) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT The) (NN warning) (NN system) )
+    (ADVP (RB immediately) )
+    (VP (VBD went) 
+      (PP (IN into) 
+        (NP (NN action) )))
+    (. .) ))
+( (S 
+    (PP-TMP (IN Within) 
+      (NP 
+        (QP (IN about) (DT an) )
+        (NN hour) ))
+    (PP (IN with) 
+      (NP 
+        (NP (DT the) (NN help) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS reports) )
+            (PP (IN from) 
+              (NP 
+                (NP (JJ seismic) (NNS stations) )
+                (PP-LOC (IN in) 
+                  (NP (NNP Alaska) 
+                    (, ,)
+                    (NNP Arizona) 
+                    (CC and)
+                    (NNP California) ))))))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NN quake) (POS 's) )
+      (NN epicenter) )
+    (VP (VBD was) 
+      (VP (VBN placed) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN at) 
+          (NP 
+            (NP 
+              (NP (CD 51) (NNS degrees) )
+              (NP (NN North) (NN latitude) ))
+            (CC and) 
+            (NP 
+              (NP (CD 158) (NNS degrees) )
+              (NP (NN East) (NN longitude) ))))))
+    (. .) ))
+( (S 
+    (SBAR-TMP (IN While) 
+      (S 
+        (S 
+          (NP-SBJ 
+            (NP (NNS accounts) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN progress) )
+                (PP (IN of) 
+                  (NP (DT the) (NN tsunami) )))))
+          (VP (VBD came) 
+            (ADVP (IN in) )
+            (PP (IN from) 
+              (NP 
+                (NP (JJ various) (NNS points) )
+                (PP-LOC (IN in) 
+                  (NP (DT the) (NNP Pacific) ))))))
+        (PRN 
+          (-LRB- -LRB-)
+          (S 
+            (NP-SBJ (NNP Midway) )
+            (VP (VBD reported) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ-1 (PRP it) )
+                  (VP (VBD was) 
+                    (VP (VBN covered) 
+                      (NP (-NONE- *-1) )
+                      (PP (IN with) 
+                        (NP 
+                          (NP (CD nine) (NNS feet) )
+                          (PP (IN of) 
+                            (NP (NN water) ))))))))))
+          (-RRB- -RRB-) )))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ Hawaiian) (NN station) )
+    (VP 
+      (VP (VBD made) 
+        (NP (PRP$ its) (NNS calculations) ))
+      (CC and) 
+      (VP (VBD notified) 
+        (NP 
+          (NP (DT the) (JJ military) (NNS services) )
+          (CC and) 
+          (NP (DT the) (NN police) ))
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (JJ first) (JJ big) (NN wave) )
+            (VP (MD would) 
+              (VP (VB arrive) 
+                (PP-LOC (IN at) 
+                  (NP (NNP Honolulu) ))
+                (PP-TMP (IN at) 
+                  (NP 
+                    (NP (CD 23:30) )
+                    (NP (NNP Greenwich) (NN time) )))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD turned) 
+      (PRT (RP out) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNS waves) )
+          (VP (VBD were) (RB not) 
+            (ADJP-PRD 
+              (ADJP (RB so) (JJ high) )
+              (PP (IN as) 
+                (PP (IN in) 
+                  (NP (CD 1946) ))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP They) )
+    (VP 
+      (VP (VBD hurled) 
+        (NP (DT a) (NN cement) (NN barge) )
+        (PP-DIR (IN against) 
+          (NP (DT a) (NN freighter) ))
+        (PP-LOC (IN in) 
+          (NP (NNP Honolulu) (NNP Harbor) )))
+      (, ,) 
+      (VP (VBD knocked) 
+        (PRT (RP down) )
+        (NP (NN telephone) (NNS lines) ))
+      (, ,) 
+      (VP (VBD marooned) 
+        (NP (NNS automobiles) ))
+      (, ,) 
+      (VP (VBD flooded) 
+        (NP (NNS lawns) ))
+      (, ,) 
+      (VP (VBD killed) 
+        (NP (CD six) (NNS cows) )))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP-SBJ-1 (RB not) (DT a) (JJ single) (JJ human) (NN life) )
+      (VP (VBD was) 
+        (VP (VBN lost) 
+          (NP (-NONE- *-1) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NN property) (NN damage) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNPS Hawaiian) (NNPS Islands) )))
+      (VP (VBD did) (RB not) 
+        (VP (VB exceed) 
+          (NP ($ $) (CD 800,000) (-NONE- *U*) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBZ is) 
+      (NP-PRD (JJ little) (NN doubt) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (NN warning) (NN system) )
+            (VP 
+              (VP (VBD saved) 
+                (NP (NNS lives) ))
+              (CC and) 
+              (VP (VBD reduced) 
+                (NP (DT the) (NN damage) )))))))
+    (. .) ))
+( (S (CC But) 
+    (NP-SBJ 
+      (NP (PRP it) )
+      (SBAR (-NONE- *EXP*-4) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ plain) )
+      (SBAR-4 (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT a) (NN warning) (NN system) )
+            (, ,) 
+            (ADJP (RB however) (JJ efficient) ))
+          (, ,) 
+          (VP (VBZ is) (RB not) 
+            (ADJP-PRD (RB enough) )))))
+    (. .) ))
+( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT the) (JJ vulnerable) (NNS areas) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Pacific) ))))
+    (NP-SBJ (EX there) )
+    (VP (MD should) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP 
+            (NP (NNS restrictions) )
+            (PP (IN against) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG building) 
+                  (NP (NNS homes) )
+                  (PP-LOC (IN on) 
+                    (NP (JJ exposed) (NNS coasts) ))))))
+          (, ,) (CC or) 
+          (ADVP (IN at) (RBS least) )
+          (NP (DT a) (NN requirement) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-1 (PRP they) )
+                (VP (VB be) 
+                  (VP (RB either) 
+                    (VP (VBN raised) 
+                      (NP (-NONE- *-1) )
+                      (PP-LOC (IN off) 
+                        (NP (DT the) (NN ground) )))
+                    (CC or) 
+                    (VP (VBN anchored) 
+                      (NP (-NONE- *-1) )
+                      (ADVP-MNR (RB strongly) )
+                      (PP (IN against) 
+                        (NP (NNS waves) )))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN key) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NN world) )
+            (PP (IN of) 
+              (NP (NN geology) )))))
+      (VP (VBZ is) 
+        (NP-PRD (NN change) )))
+    (: ;) (: ;) 
+    (S 
+      (NP-SBJ (NN nothing) )
+      (VP (VBZ remains) 
+        (NP-PRD (DT the) (JJ same) )))
+    (. .) ))
+( (S 
+    (NP-SBJ (NN Life) )
+    (VP (VBZ has) 
+      (VP (VBN evolved) 
+        (PP (IN from) 
+          (NP 
+            (NP (JJ simple) (NNS combinations) )
+            (PP (IN of) 
+              (NP (NNS molecules) ))
+            (PP-LOC (IN in) 
+              (NP (DT the) (NN sea) ))))
+        (PP (TO to) 
+          (NP 
+            (NP (JJ complex) (NNS combinations) )
+            (PP-LOC (IN in) 
+              (NP (NN man) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN land) 
+          (, ,)
+          )
+        (ADVP (RB too) ))
+      (, ,) 
+      (VP (VBZ is) 
+        (VP (VBG changing) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (NNS earthquakes) )
+      (VP (VBP are) 
+        (NP-PRD 
+          (NP (JJ daily) (NNS reminders) )
+          (PP (IN of) 
+            (NP (DT this) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ (NNS Earthquakes) )
+    (VP (VBP result) 
+      (SBAR-TMP 
+        (WHADVP-1 (WRB when) )
+        (S 
+          (NP-SBJ 
+            (NP (NNS movements) )
+            (PP-LOC (IN in) 
+              (NP (DT the) (NN earth) )))
+          (VP (VBP twist) 
+            (NP (NNS rocks) )
+            (SBAR-TMP (IN until) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP break) )))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) ))
+( (S 
+    (S 
+      (ADVP-TMP (RB Sometimes) )
+      (NP-SBJ-1 (DT this) )
+      (VP (VBZ is) 
+        (VP (VBN accompanied) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (JJ visible) (NNS shifts) )
+              (PP (IN of) 
+                (NP (DT the) (NN ground) (NN surface) )))))))
+    (: ;) (: ;) 
+    (S 
+      (S 
+        (ADVP-TMP (RB often) )
+        (NP-SBJ-2 (DT the) (NNS shifts) )
+        (VP (MD can) (RB not) 
+          (VP (VB be) 
+            (VP (VBN seen) 
+              (NP (-NONE- *-2) )))))
+      (, ,) (CC but) 
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBP are) 
+          (ADVP-LOC-PRD (RB there) ))))
+    (: ;) (: ;) 
+    (CC and)
+    (SINV 
+      (ADVP-LOC (RB everywhere) )
+      (MD can) 
+      (VP (VB be) 
+        (VP (VBN found) 
+          (NP (-NONE- *-3) )))
+      (NP-SBJ-3 
+        (NP (NNS scars) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJR earlier) (NNS breaks) )
+            (VP 
+              (ADVP-TMP (RB once) )
+              (ADVP-MNR (RB deeply) )
+              (VBN buried) 
+              (NP (-NONE- *) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NN Today) (POS 's) )
+        (NNS earthquakes) )
+      (VP (VBP are) 
+        (ADJP-PRD (RBS most) (JJ numerous) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNS belts) )
+            (SBAR 
+              (WHADVP-3 (WRB where) )
+              (S 
+                (NP-SBJ-1 
+                  (NP (DT the) (NN earth) (POS 's) )
+                  (NN restlessness) )
+                (VP (VBZ is) 
+                  (ADVP (RB presently) )
+                  (VP (VBN concentrated) 
+                    (NP (-NONE- *-1) )
+                    (ADVP-LOC (-NONE- *T*-3) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS scars) )
+        (PP (IN of) 
+          (NP (DT the) (JJ past) )))
+      (VP (NN show) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBZ is) 
+              (NP-PRD 
+                (NP (DT no) (NN part) )
+                (PP (IN of) 
+                  (NP (DT the) (NN earth) ))
+                (SBAR 
+                  (WHNP-2 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (VBZ has) (RB not) 
+                      (VP (VBD had) 
+                        (NP (PRP them) )))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NNS effects) )
+      (PP (IN of) 
+        (NP (NNS earthquakes) ))
+      (PP (IN on) 
+        (NP (NN civilization) )))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP 
+          (VP 
+            (ADVP (RB widely) )
+            (VBN publicized) 
+            (NP (-NONE- *-1) ))
+          (, ,) 
+          (ADVP (RB even) )
+          (VP (VBN overemphasized) 
+            (NP (-NONE- *-1) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN role) )
+        (PP (IN of) 
+          (NP (DT an) (NN earthquake) ))
+        (PP (IN in) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG starting) 
+              (NP 
+                (NP (DT the) (NN destruction) )
+                (PP (IN of) 
+                  (NP (JJ whole) (NNS cities) )))))))
+      (VP (VBZ is) 
+        (ADJP-PRD (RB tremendously) (JJ frightening) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (NN fire) )
+      (VP (MD may) 
+        (ADVP (RB actually) )
+        (VP (VB be) 
+          (NP-PRD 
+            (NP (DT the) (JJ principal) (NN agent) )
+            (PP (IN in) 
+              (NP (DT a) (JJ particular) (NN disaster) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (NN Superstition) )
+    (VP (VBZ has) 
+      (ADVP-TMP (RB often) )
+      (VP (VBN blended) 
+        (PP (IN with) 
+          (NP (NN fact) ))
+        (S-PRP 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB color) 
+              (NP (NNS reports) ))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (PRP We) )
+      (VP (VBP have) 
+        (VP (VBN learned) 
+          (PP (IN from) 
+            (NP (NNS earthquakes) ))
+          (NP 
+            (NP (RB much) )
+            (PP (IN of) 
+              (SBAR-NOM 
+                (WHNP-2 (WP what) )
+                (S 
+                  (NP-SBJ (PRP we) )
+                  (ADVP-TMP (RB now) )
+                  (VP (VBP know) 
+                    (NP (-NONE- *T*-2) )
+                    (PP (IN about) 
+                      (NP 
+                        (NP (DT the) (NN earth) (POS 's) )
+                        (NN interior) )))))))
+          (, ,) 
+          (SBAR-PRP (IN for) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBP send) 
+                (NP 
+                  (NP (NNS waves) )
+                  (SBAR (-NONE- *ICH*-3) ))
+                (PP-DIR (IN through) 
+                  (NP (DT the) (NN earth) ))
+                (SBAR-3 
+                  (WHNP-1 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBP emerge) 
+                      (PP (IN with) 
+                        (NP 
+                          (NP (NN information) )
+                          (PP (IN about) 
+                            (NP 
+                              (NP (DT the) (NNS materials) )
+                              (SBAR 
+                                (WHPP-4 (IN through) 
+                                  (WHNP (WDT which) ))
+                                (S 
+                                  (NP-SBJ (PRP they) )
+                                  (VP (VBP have) 
+                                    (VP (VBN traveled) 
+                                      (PP-DIR (-NONE- *T*-4) ))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (DT These) (NNS waves) )
+    (VP (VBP have) 
+      (VP (VBN shown) 
+        (SBAR 
+          (SBAR (IN that) 
+            (S 
+              (PP-LOC 
+                (NP-ADV (CD 1,800) (NNS miles) )
+                (IN below) 
+                (NP (DT the) (NN surface) ))
+              (NP-SBJ (DT a) (JJ liquid) (NN core) )
+              (VP (VBZ begins) )))
+          (, ,) 
+          (CC and)
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (, ,) 
+              (PP (IN in) 
+                (NP (NN turn) ))
+              (, ,) 
+              (VP (VBZ has) 
+                (NP (DT a) (JJ solid) (JJ inner) (NN core) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP-SBJ (NNS Earthquakes) )
+      (VP (VBP originate) 
+        (ADVP-LOC 
+          (ADVP (RB as) (RB far) )
+          (PP (IN as) 
+            (NP 
+              (NP (CD 400) (NNS miles) )
+              (PP-LOC (IN below) 
+                (NP (DT the) (NN surface) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP (VBP do) (RB not) 
+        (VP (VB occur) 
+          (PP-LOC (IN at) 
+            (NP (JJR greater) (NNS depths) )))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (CD Two) (JJ unsolved) (NNS mysteries) )
+    (VP (VBP are) 
+      (VP (VBN based) 
+        (NP (-NONE- *-1) )
+        (PP (IN on) 
+          (NP (DT these) (NNS facts) ))))
+    (. .) ))
+( (S 
+    (LST 
+      (-LRB- -LRB-)
+      (LS 1) 
+      (-RRB- -RRB-)
+      )
+    (ADVP-LOC 
+      (ADVP (RB As) (RB far) (RB down) )
+      (PP (IN as) 
+        (NP 
+          (NP (CD 400) (NNS miles) )
+          (PP-LOC (IN below) 
+            (NP (DT the) (NN surface) )))))
+    (NP-SBJ (DT the) (NN material) )
+    (VP (MD should) 
+      (VP (VB be) 
+        (ADJP-PRD (JJ hot) (RB enough) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ plastic) ))
+                (CC and) 
+                (VP (VB adjust) 
+                  (NP (PRP itself) )
+                  (PP (TO to) 
+                    (NP (VBG twisting) (NNS forces) ))
+                  (PP 
+                    (PP (IN by) 
+                      (NP (JJ sluggish) (NN flow) ))
+                    (CONJP (RB rather) (IN than) )
+                    (PP (IN by) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG breaking) 
+                          (, ,)
+                          (SBAR-ADV (IN as) 
+                            (S 
+                              (NP-SBJ (JJ rigid) (NN surface) (NNS rocks) )
+                              (VP (VBP do) ))))))))))))))
+    (. .) ))
+( (FRAG 
+    (LST 
+      (-LRB- -LRB-)
+      (LS 2) 
+      (-RRB- -RRB-)
+      )
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (NNS earthquakes) )
+        (VP (VBP do) 
+          (VP (VB occur) 
+            (PP-LOC (IN at) 
+              (NP (DT such) (NNS depths) ))))))
+    (, ,) 
+    (WHADVP (WRB why) )
+    (RB not) 
+    (ADVP (JJR deeper) )
+    (. ?) (. ?) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (NN Knowledge) )
+      (VP (VBN gained) 
+        (NP (-NONE- *) )
+        (PP (IN from) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG studying) 
+              (NP (NN earthquake) (NNS waves) ))))))
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN applied) 
+          (NP (-NONE- *-1) )
+          (PP (IN in) 
+            (NP (JJ various) (NNS fields) )))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (DT the) (NN search) )
+        (PP (IN for) 
+          (NP (NN oil) 
+            (CC and)
+            (NN gas) ))))
+    (, ,) 
+    (NP-SBJ (PRP we) )
+    (VP 
+      (VP (VBP make) 
+        (NP (JJ similar) (NNS waves) )
+        (PP (IN under) 
+          (NP (JJ controlled) (NNS conditions) ))
+        (PP (IN with) 
+          (NP (NN dynamite) )))
+      (CC and) 
+      (VP (VB learn) 
+        (PP (IN from) 
+          (NP (PRP them) ))
+        (SBAR 
+          (WHADVP-1 (WRB where) )
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBP are) 
+              (NP 
+                (NP (JJ buried) (NN rock) (NNS structures) )
+                (ADJP (JJ favorable) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (DT the) (NN accumulation) )
+                      (PP (IN of) 
+                        (NP (DT these) (NNS resources) ))))))
+              (ADVP-LOC (-NONE- *T*-1) ))))))
+    (. .) ))
+( (S 
+    (NP-SBJ (PRP We) )
+    (VP (VBP have) 
+      (ADVP (RB also) )
+      (VP (VBN developed) 
+        (NP 
+          (NP (NNS techniques) )
+          (PP (IN for) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG recognizing) 
+                (CC and)
+                (VBG locating) 
+                (NP (JJ underground) (JJ nuclear) (NNS tests) )
+                (PP (IN through) 
+                  (NP 
+                    (NP (DT the) (NNS waves) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN ground) ))
+                    (SBAR 
+                      (WHNP-1 (WDT which) )
+                      (S 
+                        (NP-SBJ (PRP they) )
+                        (VP (VBP generate) 
+                          (NP (-NONE- *T*-1) ))))))))))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (VBG following) (NN discussion) )
+      (PP (IN of) 
+        (NP (DT this) (NN subject) )))
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN adapted) 
+          (NP (-NONE- *-1) )
+          (PP (IN from) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN book) )
+                (NP-TTL 
+                  (NP (NNP Causes) )
+                  (PP (IN Of) 
+                    (NP (NNP Catastrophe) ))))
+              (PP (IN by) 
+                (NP (NNP L.) (NNP Don) (NNP Leet) )))))))
+    (. .) ))
+( (NP 
+    (NP (DT The) (JJ restless) (NN earth) )
+    (CC and) 
+    (NP (PRP$ its) (NN interior) )))
+( (S 
+    (PP-TMP (IN At) 
+      (NP 
+        (NP (CD twelve) (NNS minutes) )
+        (PP (IN after) 
+          (NP (CD five) ))))
+    (PP-TMP (IN on) 
+      (NP 
+        (NP (DT the) (NN morning) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Wednesday) )
+            (, ,) 
+            (NP (NNP April) (CD 18) 
+              (, ,)
+              (CD 1906) )))))
+    (, ,) 
+    (NP-SBJ-1 (NNP San) (NNP Francisco) )
+    (VP (VBD was) 
+      (VP (VBN shaken) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT a) (JJ severe) (NN earthquake) ))))
+    (. .) ))
+( (S 
+    (NP-SBJ-1 (DT A) (JJ sharp) (NN tremor) )
+    (VP (VBD was) 
+      (VP (VBN followed) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT a) (JJ jerky) (NN roll) ))))
+    (. .) ))

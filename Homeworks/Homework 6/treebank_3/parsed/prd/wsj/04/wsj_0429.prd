@@ -1,0 +1,193 @@
+
+
+( (S (NP-SBJ Lone Star Technologies Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 its Lone Star Steel Co. unit)
+                  (VP sued
+                      (NP it)
+		      (PP-LOC in
+			      (NP (NP federal court)
+				  (ADVP-LOC here)))
+		      ,
+		      (S-ADV (NP-SBJ-2 *-1)
+			     (VP seeking
+				 (S (NP-SBJ *-2)
+				    (VP to
+					(VP recover
+					    (NP (NP an intercompany receivable)
+						(VP valued
+						    (NP *)
+						    (PP-CLR at
+							    (NP (NP a minimum)
+								(PP of
+								    (NP (QP $ 23 million) *U*)))))))))))))))
+     .))
+( (S (NP-SBJ-1 The lawsuit)
+     (VP was
+         (VP filed
+             (NP *-1)
+             (PP by
+                 (NP-LGS (NP (NP Lone Star Steel 's)
+			     unsecured creditors ')
+			 committee))
+	     (PP on
+		 (NP (NP behalf)
+		     (PP of
+			 (NP (NP Lone Star Steel)
+			     ,
+			     (SBAR (WHNP-2 which)
+				   (S (NP-SBJ *T*-2)
+				      (VP has
+					  (VP been
+					      (VP operating
+						  (PP-LOC under
+							  (NP (NP Chapter 11)
+							      (PP of
+								  (NP the federal Bankruptcy Code))))
+						  (PP-TMP since
+							  (NP June 30)))))))))))))
+     .))
+( (S (NP-SBJ Lone Star Technologies)
+     (VP said
+         (SBAR 0
+               (S (S (NP-SBJ (NP it)
+                             and
+                             (NP (NP its subsidiary 's)
+                                 creditors))
+                     (VP agree
+                         (SBAR that
+                               (S (NP-SBJ the parent company)
+                                  (VP owes
+                                      (NP the unit money))))))
+                  , but
+                  (S (NP-SBJ-1 they)
+                     (VP have n't
+                         (VP been
+                             (ADJP-PRD able
+				       (S (NP-SBJ *-1)
+					  (VP to
+					      (VP reach
+						  (NP (NP agreement)
+						      (PP on
+							  (NP the amount)))))))))))))
+     .))
+( (S (NP-SBJ (NP Judith Elkin)
+             ,
+             (NP (NP lawyer)
+                 (PP for
+                     (NP the creditors)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the creditors group)
+                  (VP (VP is
+			  (VP challenging
+			      (NP (NP certain accounting entries)
+				  (PP on
+				      (NP (NP the parent company 's)
+					  books)))))
+		      and
+		      (VP estimates
+			  (SBAR that
+				(S (NP-SBJ (NP the receivable)
+					   (VP owed
+					       (NP the steel company)
+					       (NP *)))
+				   (VP could
+				       (VP be
+					   (NP-PRD (QP as much
+						       as
+						       $ 40 million)
+						   *U*))))))))))
+     .))
+( (S (NP-SBJ The Lone Star Steel lawsuit)
+     (ADVP also)
+     (VP asks
+	 (NP-2 the court)
+	 (S (NP-SBJ *-2)
+            (VP to
+                (VP rule
+                    (SBAR (SBAR that
+                                (S (NP-SBJ Lone Star Technologies)
+                                   (VP is
+                                       (ADJP-PRD jointly responsible
+						 (PP for
+						     (NP (NP a (ADJP (QP $ 4.5 million) *U*) Lone Star Steel pension payment )
+							 (SBAR (WHNP-1 that)
+							       (S (NP-SBJ-3 *T*-1)
+								  (VP (VP was
+									  (ADJP-PRD due))
+								      , but
+								      (VP was n't
+									  (VP paid
+									      (NP *-3)))
+								      ,
+								      (PP-TMP in
+									      (NP September)))))))))))
+                          and
+                          (SBAR that
+                                (S (NP-SBJ the parent company)
+                                   (VP ca n't
+                                       (VP recover
+                                           (NP the amount)
+                                           (PP-CLR from
+						   (NP its subsidiary))
+					   (SBAR-ADV if
+						     (S (NP-SBJ the parent company)
+							(VP makes
+							    (NP the payment)))))))))))))
+     .))
+( (S (ADVP Separately)
+     ,
+     (NP-SBJ Lone Star Technologies)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the bankruptcy court)
+                  (VP granted
+                      (NP Lone Star Steel)
+                      (NP (NP an extension)
+                          (PP until
+			      (NP year end))
+                          (PP on
+                              (NP (NP its exclusive period)
+                                  (SBAR (WHADVP-1 0)
+					(S (NP-SBJ *)
+					   (VP to
+					       (VP present
+						   (NP a reorganization plan)
+						   (ADVP-TMP *T*-1))))))))))))
+     .))
+( (S (NP-SBJ-1 The 120-day exclusivity period)
+     (VP was
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP expire
+		    (NP-TMP yesterday)))))
+     .))
+( (S (PP-LOC Under
+	     (NP Chapter 11))
+     ,
+     (NP-SBJ-1 a company)
+     (VP (VP continues
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP operate))))
+	 , but
+	 (VP is
+	     (VP protected
+		 (PP-CLR from
+			 (NP creditor lawsuits))
+		 (SBAR-TMP while
+			   (S (NP-SBJ-2 it)
+			      (VP tries
+				  (S (NP-SBJ *-2)
+				     (VP to
+					 (VP work
+					     (PRT out)
+					     (NP a plan
+						 (S (NP-SBJ *)
+						    (VP to
+							(VP pay
+							    (NP its debt))))))))))))))
+     .))

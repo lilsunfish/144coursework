@@ -1,0 +1,91 @@
+
+
+( (S (S-TPC-1 (NP-SBJ (NP Japan 's)
+		      steel exports)
+	      (VP (VP fell
+		      (NP-EXT 12.2 %)
+		      (PP-TMP in
+			      (NP September))
+		      (PP from
+			  (NP-TMP a year earlier)))
+		  and
+		  (VP were
+		      (ADVP-PRD down
+				(NP 1.1 %)
+				(PP from
+				    (NP-TMP the previous month))))))
+     ,
+     (NP-SBJ the Japan Iron and Steel Federation)
+     (VP reported
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ September)
+     (VP was
+         (NP-PRD (NP the 10th consecutive month)
+		 (SBAR (WHPP-1 in
+			       (WHNP which))
+		       (S (NP-SBJ-2 steel exports)
+			  (VP failed
+			      (S (NP-SBJ *-2)
+				 (VP to
+				     (VP reach
+					 (NP the year-earlier level)
+					 (PP-TMP *T*-1)))))))))
+     .))
+( (S (NP-SBJ A federation official)
+     (VP attributed
+         (NP the decline)
+         (PP-CLR to
+		 (NP (NP brisk demand)
+		     (PP-DIR from
+			     (NP domestic industries))
+		     (VP backed
+			 (NP *)
+			 (PP by
+			     (NP-LGS (NP continuing
+					 economic expansion)
+				     (PP-LOC in
+					     (NP Japan))))))))
+     .))
+( (S (S (NP-SBJ Japanese steel companies)
+        (VP are
+            (ADVP apparently)
+            (VP focusing
+                (PP-LOC-CLR on
+			    (NP domestic sales)))))
+     , 
+     but
+     (S (NP-SBJ the official)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ it)
+                     (VP does n't
+                         (ADVP necessarily)
+                         (VP mean
+                             (SBAR that
+                                   (S (NP-SBJ local sales contracts)
+                                      (VP are
+                                          (VP increasing
+                                              (ADVP that markedly)))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ They)
+	      (VP (VP are
+		      (ADJP-PRD just too busy
+				(SBAR (WHNP-2 0)
+				      (S (NP-SBJ *T*-2)
+					 (VP to
+					     (VP meet
+						 (NP domestic demand)))))))
+		  and
+		  (VP have
+		      (NP (NP little room)
+			  (PP for
+			      (NP overseas shipments))))))
+     ,
+     ''
+     (NP-SBJ the official)
+     (VP said
+	 (S *T*-1))
+     .))

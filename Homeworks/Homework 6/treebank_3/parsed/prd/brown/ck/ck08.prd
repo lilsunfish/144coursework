@@ -1,0 +1,2057 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (S (NP-SBJ Rousseau)
+     (VP is
+         (ADJP-PRD (ADJP so persuasive)
+                   (SBAR that
+                         (S (NP-SBJ-1 Voltaire)
+                            (VP is
+                                (ADVP almost)
+				(VP convinced
+                                    (NP *-1)
+                                    (SBAR that
+                                          (S (NP-SBJ he)
+                                             (VP should
+                                                 (VP burn
+                                                     (NP his books)
+						     ,
+						     (ADVP too)))))))))))
+     .))
+( (S But
+     (SBAR-TMP while
+	       (S (NP-SBJ the two men)
+		  (VP are
+		      (VP riding
+			  (PP-DIR into
+				  (NP (NP the country)
+				      ,
+				      (SBAR (WHADVP-3 where)
+					    (S (NP-SBJ they)
+					       (VP are
+						   (VP going
+						       (PP to
+							   (NP dinner))
+						       (ADVP-LOC *T*-3)))))))))))
+     ,
+     (NP-SBJ-1 they)
+     (VP are
+         (VP attacked
+             (NP *-1)
+             (PP-LOC in
+		     (NP (NP the dark)
+			 (PP of
+			     (NP the forest))))
+             (PP by
+                 (NP-LGS (NP a band)
+			 (PP of
+			     (NP (NP thieves)
+				 ,
+				 (SBAR (WHNP-2 who)
+				       (S (NP-SBJ *T*-2)
+					  (VP strip
+					      (NP them)
+					      (PP of
+						  (NP (NP everything)
+						      ,
+						      (PP including
+							  (NP (NP most)
+							      (PP of
+								  (NP their clothes)))))))))))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ You)
+	      (VP must
+		  (VP be
+		      (NP-PRD a
+			      (ADJP very learned)
+			      man))))
+     '' ,
+     (SINV (VP says
+	       (S *T*-1))
+           (NP-SBJ Voltaire)
+           (PP to
+               (NP (NP one)
+                   (PP of
+                       (NP the bandits)))))
+     .))
+( (NP `` A learned man '' ? ?))
+( (S (NP-SBJ The bandit)
+     (VP laughs
+         (PP in
+             (NP his face)))
+     .))
+( (S But
+     (NP-SBJ Voltaire)
+     (VP perseveres)
+     .))
+( (S (NP-SBJ He)
+     (VP goes
+         (PP to
+	     (NP (NP the chief)
+		 (NP himself))))
+     .))
+( (S (SBARQ-TPC-2 ``
+		  (WHPP-1 At
+			  (WHNP what university))
+		  (SQ did
+		      (NP-SBJ you)
+		      (VP study
+			  (PP *T*-1)))
+		  '' ? ?)
+     (NP-SBJ He)
+     (VP asks
+	 (SBARQ *T*-2))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP refuses
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP believe
+                    (SBAR that
+                          (S (NP-SBJ the bandit chief)
+                             (ADVP-TMP never)
+			     (VP attended
+                                 (NP a higher institution))))))))
+     .))
+( (S-1 ``
+       (S-PRP (NP-SBJ *)
+	      (VP To
+		  (VP have
+		      (VP become
+			  (ADJP-PRD so corrupt)))))
+       '' ,
+       (PRN (S (NP-SBJ he)
+	       (VP says
+		   (S *T*-1))))
+       , ``
+       (ADVP surely)
+       (NP-SBJ you)
+       (VP must
+	   (VP have
+	       (VP studied
+		   (NP many arts and sciences))))
+       '' .))
+( (S (NP-SBJ (NP The chief)
+             ,
+             (VP annoyed
+                 (NP *)
+                 (PP by
+                     (NP-LGS these questions)))
+             ,)
+     (VP (VP knocks
+             (NP Voltaire)
+             (PRT down))
+         and
+         (VP shouts
+             (PP at
+                 (NP him))
+             (SBAR that
+                   (S (NP-SBJ he)
+                      (VP (CONJP not only)
+                          (VP (ADVP-TMP never) 
+			      went
+                              (PP to
+                                  (NP any school)))
+                          , but
+			  (VP (ADVP-TMP never)
+			      (ADVP even)
+			      learned
+                              (SBAR (WHADVP-1 how)
+                                    (S (NP-SBJ *)
+                                       (VP to
+                                           (VP read
+					       (ADVP *T*-1)))))))))))
+     .))
+( (S (SBAR-TMP (WHADVP-2 When)
+	       (S (ADVP-TMP finally)
+		  (NP-SBJ the two bedraggled men)
+		  (VP reach
+		      (NP (NP their friend 's)
+			  home)
+		      (ADVP-TMP *T*-2))))
+     ,
+     (NP-SBJ-1 (NP Voltaire 's)
+               fears)
+     (VP are
+         (ADVP-TMP once again)
+         (VP aroused
+             (NP *-1)))
+     .))
+( (S For
+     (S (NP-SBJ it)
+	(VP is
+	    (NP-PRD (NP such a distinguished place)
+		    ,
+		    (PP with
+			(NP (NP (NP such fine works)
+				(PP of
+				    (NP art)))
+			    and
+			    (NP such a big library)))
+		    ,
+		    (SBAR that
+			  (S (NP-SBJ there)
+			     (VP can
+				 (VP be
+				     (NP-PRD little doubt)
+				     (PP but
+					 (SBAR that
+					       (S (NP-SBJ the owner)
+						  (VP has
+						      (VP become
+							  (ADJP-PRD depraved)
+							  (PP by
+							      (NP all this culture))))))))))))))
+     .))
+( (S (PP To
+         (NP (NP Voltaire 's)
+             surprise))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ their host)
+     (VP (VP gives
+             (NP them)
+             (NP (NP fresh clothes)
+                 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *)
+			  (VP to
+			      (VP put
+				  (NP *T*-1)
+				  (PRT on)))))))
+         ,
+         (VP opens
+             (NP his purse)
+             (S-PRP (NP-SBJ *)
+		    (VP to
+			(VP lend
+			    (NP them)
+			    (NP money)))))
+         and
+         (VP sits
+             (NP them)
+             (PRT down)
+             (PP-LOC before
+		     (NP a good dinner))))
+     .))
+( (S (PP-TMP (ADVP Immediately)
+	     after
+	     (NP dinner))
+     ,
+     (ADVP however)
+     ,
+     (NP-SBJ Rousseau)
+     (VP asks
+         (PP for
+             (NP still another favor)))
+     .))
+( (SQ Could
+      (NP-SBJ he)
+      (VP have
+          (NP pen and paper)
+	  ,
+	  (INTJ please))
+      ? ?))
+( (S (NP-SBJ-1 He)
+     (VP is
+         (PP-PRD in
+                 (NP a hurry))
+	 (S (NP-SBJ *-1) 
+	    (VP to
+		(VP write
+		    (NP (NP another essay)
+			(PP against
+			    (NP culture)))))))
+     .))
+( (S (NP-SBJ Such)
+     (VP was
+	 (NP-PRD (NP the impromptu)
+		 (SBAR (SBAR (WHNP-2 that)
+			     (S (NP-SBJ Voltaire)
+				(VP gave
+				    (NP *T*-2)
+				    (PP to
+					(NP (NP howls)
+					    (PP of
+						(NP laughter))))
+				    (PP-LOC at
+					    (NP Sans Souci)))))
+		       and
+		       (SBAR (WHNP-3 that)
+			     (S (NP-SBJ-4 *T*-3)
+				(VP was
+				    (ADVP-TMP soon)
+				    (VP circulated
+					(NP *-4)
+					(PP in
+					    (NP manuscript))
+					(PP throughout
+					    (NP (NP the literary circles)
+						(PP of
+						    (NP Europe))))
+					,
+					(S-ADV (NP-SBJ-1 *)
+					       (VP to
+						   (VP be
+						       (VP printed
+							   (NP *-1)
+							   (ADVP-TMP sometime later)))))
+					,
+					(NAC but 
+					     (PP with
+						 (S (NP-SBJ (NP the name)
+							    (PP of
+								(NP (NP (NP Timon)
+									(PP of
+									    (NP Athens)))
+								    ,
+								    (NP the famous misanthrope)
+								    ,)))
+						    (VP substituted
+							(PP for
+							    (NP (NP that)
+								(PP of
+								    (NP Rousseau)))))))))))))))
+     .))
+( (WHADJP How cruel ! !))
+( (FRAG But
+	(PP-TMP at
+		(NP the same time))
+	(WHADJP how understandable)
+	.))
+( (SBARQ (WHADVP How)
+         (SQ could
+             (NP-SBJ (NP the rich)
+                     ,
+                     (SBAR (WHPP-4 for
+				   (WHNP whom))
+                           (S (NP-SBJ-1 life)
+                              (VP was
+                                  (VP made
+                                      (S (NP-SBJ *-1)
+					 (ADJP-PRD so simple))
+				      (PP *T*-4)))))
+                     ,)
+             (ADVP-TMP ever)
+             (VP understand
+                 (NP (NP (NP the subterfuges)
+                         ,
+                         (NP the lies)
+                         ,
+                         (NP the frauds)
+                         ,
+                         (NP the 
+			     (NX (NX errors)
+				 ,
+				 (NX sins)
+				 and
+				 (NX even crimes))))
+                     (SBAR (WHPP-6 to
+				   (WHNP which))
+                           (S (NP-SBJ-2 the poor)
+                              (VP were
+                                  (VP driven
+                                      (NP *-2)
+				      (PP *T*-6)
+                                      (PP in
+                                          (NP (NP their efforts)
+                                              (SBAR (WHADVP-5 0)
+						    (S (NP-SBJ *)
+						       (VP to
+							   (VP overcome
+							       (NP (NP the great advantages)
+								   (SBAR (WHNP-3 0)
+									 (S (NP-SBJ the rich)
+									    (VP had
+										(NP *T*-3)
+										(PP in
+										    (NP (NP the race)
+											(PP of
+											    (NP life))))))))
+							       (ADVP *T*-5))))))))))))))
+	 ? ?))
+( (SBARQ (WHADVP-3 How)
+         ,
+         (PP for
+             (NP example))
+         ,
+         (SQ could
+             (NP-SBJ a Voltaire)
+             (VP understand
+                 (NP (NP the strange predicament)
+                     (SBAR (WHPP-1 in
+				   (WHNP which))
+                           (S (NP-SBJ a Rousseau)
+                              (VP would
+                                  (VP find
+                                      (NP himself)
+				      (PP *T*-1)
+                                      (SBAR-TMP (WHADVP-2 when)
+						,
+						(S (PP-TMP (ADVP soon) 
+							   after
+							   (NP (NP the furor)
+							       (PP of
+								   (NP his first Discourse))))
+						   ,
+						   (NP-SBJ he)
+						   (VP acquired
+						       (NP (NP still another title)
+							   (PP to
+							       (NP fame)))
+						       (ADVP-TMP *T*-2)))))))))
+		 (ADVP-MNR *T*-3)))
+	 ? ?))
+( (FRAG (NP This time)
+	(PP as
+	    (NP a musician))
+	.))
+( (PP As
+      (NP a composer)
+      .))
+( (S (SBAR-TMP Ever since
+	       (S (NP-SBJ-1 he)
+		  (VP had
+		      (ADVP-TMP first)
+		      (VP begun
+			  (S (NP-SBJ *-1)
+			     (VP (VP to
+				     (VP study
+					 (NP music)))
+				 and
+				 (VP to
+				     (VP teach
+					 (NP it)))))))))
+     ,
+     (NP-SBJ Rousseau)
+     (VP had
+         (VP dreamed
+             (PP of
+                 (S-NOM (NP-SBJ *)
+			(VP piercing
+			    (PP through
+				(PP to
+				    (NP fame)))
+			    (PP as
+				(NP (NP the result)
+				    (PP of
+					(NP a successful opera)))))))))
+     .))
+( (S But
+     (NP-SBJ (NP his facility)
+             (PP in
+                 (NP this genre)))
+     (VP was
+	 not
+	 (ADJP-PRD great))
+     .))
+( (S And
+     (NP-SBJ (NP his efforts) 
+             (SBAR (WHADVP-1 0)
+		   (S (NP-SBJ *)
+		      (VP to
+			  (VP get
+			      (NP a performance)
+			      (PP for
+				  (NP his Gallant Muses))
+			      (ADVP *T*-1))))))
+     (ADVP invariably)
+     (VP failed)
+     .))
+( (FRAG And
+	(PP for
+	    (NP good reasons))
+	.))
+( (S (NP-SBJ His operatic music)
+     (VP had
+         (NP little merit))
+     .))
+( (S (CONJP But then)
+     (NP-TMP one day)
+     ,
+     (SBAR-TMP while
+	       (PP on
+		   (NP (NP (NP a week 's)
+			   visit)
+		       (PP to
+			   (NP (NP the country home)
+			       (PP of
+				   (NP a retired Swiss jeweler)))))))
+     ,
+     (NP-SBJ Rousseau)
+     (VP amused
+         (NP the company)
+         (PP with
+             (NP (NP a few little melodies)
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ he)
+                          (VP had
+                              (VP written
+                                  (NP *T*-1)))))
+                 ,
+                 (SBAR (WHPP-2 to
+			       (WHNP which))
+                       (S (NP-SBJ he)
+                          (VP attached
+                              (NP no great importance)
+			      (PP *T*-2)))))))
+     .))
+( (S (NP-SBJ-1 He)
+     (VP was
+         (ADVP really)
+	 (VP amazed
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP discover
+                        (S (NP-SBJ the other guests)
+			   (ADJP-PRD so excited
+				     (PP about
+					 (NP these delicate little songs)))))))))
+     .))
+( (S ``
+     (S-IMP-TPC-1 (NP-SBJ *)
+		  (VP Put
+		      (NP a few such songs)
+		      (ADVP together)))
+     '' ,
+     (NP-SBJ they)
+     (VP urged
+	 (NP him)
+	 (S-IMP *T*-1))
+     .))
+( (S ``
+     (S-IMP (NP-SBJ *)
+	    (VP String
+		(NP them)
+		(PP onto
+		    (NP (NP some sort)
+			(PP of
+			    (NP little plot))))))
+     , and
+     (S (NP-SBJ you)
+        (VP 'll
+            (VP have
+                (NP a delightful operetta))))
+     '' .))
+( (S (NP-SBJ He)
+     (VP did n't
+         (VP believe
+             (NP them)))
+     .))
+( (S ``
+     (NP-TPC-1 Nonsense)
+     ''
+     ,
+     (NP-SBJ he)
+     (VP said
+	 (NP *T*-1))
+     .))
+( (S ``
+     (NP-SBJ This)
+     (VP is
+         (NP-PRD (NP the sort)
+		 (PP of
+		     (NP stuff))
+                 (SBAR (WHNP-1 0)
+                       (S (NP-SBJ I)
+                          (VP (VP write
+				  (NP *T*-1)) 
+			      (CONJP and then)
+                              (VP throw
+				  (NP *T*-1)
+                                  (ADVP away)))))))
+     '' ! !))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ Heaven)
+		 (VP forbid))
+	'' ! !
+	(VP Cried
+	    (S *T*-1))
+	(NP-SBJ (NP the ladies)
+		,
+		(VP enchanted
+		    (NP *)
+		    (PP by
+			(NP-LGS his music))))
+	.))
+( (S ``
+     (NP-SBJ You)
+     (VP must
+         (VP make
+             (NP an opera)
+             (PP out
+                 (PP of
+                     (NP this material)))))
+     '' .))
+( (S And
+     (NP-SBJ-1 they)
+     (VP would
+         n't
+         (VP leave
+             (PRT off)
+             (S (NP-SBJ *-1)
+		(VP arguing and pleading))
+	     (PP-TMP until
+		     (S (NP-SBJ he)
+			(VP had
+			    (VP promised))))))
+     .))
+( (FRAG (INTJ Oh)
+	,
+	(NP (NP (NP the irony)
+		and
+		(NP the bitterness))
+	    (PP of
+		(NP it)))
+	! !))
+( (SBAR That
+	(PP-TMP after
+		(NP (NP all his years)
+		    (PP of
+			(NP (NP effort)
+			    (SBAR (WHADVP-1 0)
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP become
+					     (NP-PRD a composer)
+					     (ADVP *T*-1)))))))))
+	,
+	(S (NP-SBJ-2 he)
+	   (VP should
+	       (ADVP-TMP now)
+	       ,
+	       (ADVP-TMP (ADVP now)
+			 (SBAR (WHADVP-3 when)
+			       (S (NP-SBJ he)
+				  (VP was
+				      (ADVP-TMP still)
+				      (ADVP stoutly)
+				      (VP replying
+					  (PP to
+					      (NP (NP the critics)
+						  (PP of
+						      (NP his 
+							  (NX-TTL (NX Discourse)
+								  (PP on
+								      (NP the Arts and Sciences)))))))
+					  (ADVP-TMP *T*-3))))))
+	       ,
+	       (VP (VP be
+		       (ADJP-PRD so close
+				 (PP to
+				     (NP (NP a success)
+					 (PP in
+					     (NP music))))))
+		   and
+		   (VP have
+		       (S (NP-SBJ *-2)
+			  (VP to
+			      (VP reject
+				  (NP it))))))))
+	.))
+( (S Or
+     (ADVP at least)
+     (NP-SBJ-1 *)
+     (VP appear
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP reject
+                    (NP it)))))
+     ! !))
+( (SBARQ But
+	 (WHNP-1 what else)
+	 (SQ could
+	     (NP-SBJ he)
+	     (VP do
+		 (NP *T*-1)))
+	 ? ?))
+( (S (S (NP-SBJ You)
+        (VP could n't
+            (VP (VP (PP on
+			(NP the one hand))
+		    decry
+                    (NP the arts))
+                and
+		(VP (PP at
+			(NP the same time))
+		    practice
+                    (NP them)))))
+     ,
+     (SQ could
+         (NP-SBJ you))
+     ? ?))
+( (FRAG (INTJ Well)
+	,
+	(INTJ yes)
+	,
+	(ADVP perhaps)
+	(PP in
+	    (NP literature))
+	,
+	(SBAR-PRP since
+		  (S (NP-SBJ you)
+		     (VP could
+			 (VP argue
+			     (SBAR that
+				   (S (NP-SBJ you)
+				      (VP (VP could n't
+					      (VP keep
+						  (ADJP-PRD silent)
+						  (PP about
+						      (NP (NP your feelings)
+							  (PP against
+							      (NP literature))))))
+					  (CONJP and so)
+					  (VP were
+					      (VP involved
+						  (PP in
+						      (NP (NP spite)
+							  (PP of
+							      (NP yourself)))))))))))))
+	.))
+( (FRAG But
+	(ADVP-TMP now)
+	(NP music)
+	(ADVP too)
+	? ?))
+( (INTJ No .))
+( (S (NP-SBJ That)
+     (VP would
+         (VP be
+             (NP-PRD too much)))
+     ! !))
+( (S And
+     (NP-SBJ the fault)
+     ,
+     (PP of
+         (NP course))
+     ,
+     (VP was
+         (NP-PRD Rameau 's))
+     .))
+( (S (NP-SBJ The fault)
+     (VP was
+         (NP-PRD (NP Rameau 's)
+                 and
+                 (NP (NP that) 
+                     (PP of
+                         (NP (NP the whole culture)
+                             (PP of
+                                 (NP this Parisian age)))))))
+     .))
+( (S For
+     (NP-SBJ it)
+     (VP was
+         (NP-PRD (NP (NP Rameau 's)
+                     type)
+		 (PP of
+		     (NP music))
+                 (SBAR (SBAR (WHNP-3 that)
+			     (S (NP-SBJ-2 he)
+				(VP had
+				    (VP been
+					(VP trying
+					    (S (NP-SBJ *-2)
+					       (VP to
+						   (VP write
+						       (NP *T*-3)))))))))
+		       ,
+		       and
+		       (SBAR (WHNP-1 that)
+			     (S (NP-SBJ he)
+				(VP could n't
+				    (VP write
+					(NP *T*-1))))))))
+     .))
+( (S (NP-SBJ These little songs)
+     ,
+     (ADVP however)
+     ,
+     (VP were
+         (NP-PRD (NP (NP sweet nothings)
+                     (PP from
+                         (NP the heart)))
+                 ,
+                 (NP (NP tender memories)
+                     (PP of
+                         (NP his childhood)))
+                 ,
+                 (NP (NP little melodies)
+                     (SBAR (SBAR (WHNP-2 that)
+				 (S (NP-SBJ anyone)
+				    (VP could
+					(VP hum
+					    (NP *T*-2)))))
+			   and
+			   (SBAR (WHNP-1 that)
+				 (S (NP-SBJ *T*-1)
+				    (VP would
+					(VP make
+					    (S (NP-SBJ-3 one)
+					       (VP want
+						   (S (NP-SBJ *-3)
+						      (VP to
+							  (VP weep)))))))))))))
+     .))
+( (FRAG But
+	(INTJ no)
+	.))
+( (S (NP-SBJ He)
+     (VP could n't
+         (VP appear
+             (PP as
+                 (NP a composer))
+	     (ADVP-TMP now)))
+     .))
+( (S (NP-SBJ-1 (NP That glory)
+               ,
+               (VP craved
+                   (NP *)
+                   (PP-TMP for
+			   (ADJP so long)))
+               ,)
+     (VP was
+         (ADVP-TMP now)
+         (VP forbidden
+             (NP *-1)
+             (PP to
+                 (NP him))))
+     .))
+( (S (ADVP Still)
+     ,
+     (PP just for
+         (NP the ladies))
+     , and
+     (PP (ADVP just) 
+	 for
+         (NP this once))
+     ,
+     (PP for
+         (NP (NP this one weekend)
+             (PP in
+                 (NP the country))))
+     ,
+     (NP-SBJ he)
+     (VP would
+         (VP make
+             (NP a little piece)
+             (PP out
+                 (PP of
+                     (NP his melodies)))))
+     .))
+( (S (S (NP-SBJ-1 The ladies)
+        (VP were
+            (VP delighted
+                (NP *-1))))
+     and
+     (S (NP-SBJ-2 Jean Jacques)
+        (VP was
+            (VP applauded
+                (NP *-2))))
+     .))
+( (S And
+     (NP-SBJ-2 everyone)
+     (VP went
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP work)))
+	 (S-PRP (NP-SBJ *)
+		(VP to
+		    (VP learn
+			(NP (NP the parts)
+			    (SBAR (WHNP-1 which)
+				  (S (NP-SBJ he)
+				     (VP wrote
+					 (NP *T*-1)))))))))
+     .))
+( (S (CONJP But then)
+     ,
+     (PP after
+         (S (NP-SBJ-1 the little operetta)
+            (VP had
+                (VP been
+                    (VP given
+                        (NP *-1)
+                        (NP its feeble amateur rendering))))))
+     ,
+     (NP-SBJ everyone)
+     (VP insisted
+         (SBAR (SBAR that
+		     (S (NP-SBJ it)
+			(VP was
+			    (ADJP-PRD too good
+				      (SBAR (WHNP-3 0)
+					    (S (NP-SBJ *T*-3)
+					       (VP to
+						   (VP be
+						       (ADJP-PRD lost)
+						       (ADVP-TMP forever)))))))))
+	       ,
+	       and
+	       (SBAR that
+		     (S (NP-SBJ (NP the Royal Academy)
+				(PP of
+				    (NP Music)))
+			(VP must
+			    (ADVP-TMP now)
+			    (VP have
+				(NP the manuscript)
+				(SBAR-PRP in order
+					  (S (NP-SBJ *)
+					     (VP to
+						 (VP give
+						     (NP it)
+						     (NP (NP the
+							     (ADJP really first-rate)
+							     performance)
+							 (SBAR (WHNP-2 0)
+							       (S (NP-SBJ it)
+								  (VP merited
+								      (NP *T*-2)))))))))))))))
+     .))
+( (S (NP-SBJ Rousseau)
+     (VP was
+         (ADJP-PRD aware
+                   (SBAR that
+                         (S (NP-SBJ-1 he)
+                            (VP must
+                                (VP seem
+                                    (PP like
+                                        (NP a hypocrite))
+				    ,
+				    (S-ADV (NP-SBJ *-1)
+					   (VP (VP standing
+						   (ADVP-LOC there))
+					       and
+					       (VP arguing
+						   (SBAR that
+							 (S (NP-SBJ he)
+							    (VP could not
+								(ADVP possibly)
+								(VP permit
+								    (NP a public performance))))))))))))))
+     .))
+( (S (NP-SBJ The ladies)
+     (ADVP especially)
+     (VP could n't
+         (VP understand
+             (SBAR (WHNP-1 what)
+                   (S (NP-SBJ *T*-1)
+                      (VP troubled
+                          (NP him))))))
+     .))
+( (NP A contradiction ? ?))
+( (SBARQ (INTJ Bah)
+	 ,
+	 (WHNP-1 what)
+	 (S (NP-SBJ *T*-1)
+	    (VP was
+		(NP-PRD (NP a contradiction)
+			(PP in
+			    (NP (NP one 's)
+				life))))))
+  ? ?)
+( (S (NP-SBJ Every woman)
+     (VP has
+         (VP had
+             (NP (NP the experience)
+                 (PP of
+                     (S-NOM (NP-SBJ *)
+			    (VP (VP saying 
+				    (NP no)
+				    (SBAR-TMP (WHADVP-1 when)
+					      (S (NP-SBJ she)
+						 (VP meant
+						     (NP yes)
+						     (ADVP-TMP *T*-1)))))
+				, and
+				(VP saying
+				    (NP yes)
+				    (SBAR-TMP (WHADVP-2 when)
+					      (S (NP-SBJ she)
+						 (VP meant 
+						     (NP no))
+						 (ADVP *T*-2))))))))))
+     .))
+( (S (NP-SBJ-1 Rousseau)
+     (VP had
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP admit
+                    (SBAR that
+                          (S (SBAR-ADV though
+				       (S (NP-SBJ he)
+					  (VP could n't
+					      (VP agree
+						  (PP to
+						      (NP a public performance))))))
+                             ,
+                             (NP-SBJ-2 he)
+                             (VP would
+                                 (ADVP indeed)
+                                 ,
+                                 (PP just for
+                                     (NP his own private satisfaction))
+                                 ,
+                                 (ADVP dearly)
+				 (VP love
+                                     (S (NP-SBJ *-2)
+                                        (VP to
+                                            (VP know
+                                                (SBAR (WHADVP-3 how)
+                                                      (S (NP-SBJ his work)
+                                                         (VP would
+                                                             (VP sound
+								 (ADVP-MNR *T*-3)))
+                                                         (SBAR-TMP (WHADVP-5 when)
+								   (S (NP-SBJ-4 *)
+								      (VP done
+									  (NP *-4)
+									  (PP (PP by
+										  (NP-LGS professional musicians))
+									      and
+									      (PP by
+										  (NP-LGS trained voices)))
+									  (ADVP-TMP *T*-5)))))))))))))))))
+     .))
+( (S ``
+     (S-TPC-3 (NP-SBJ-1 I)
+	      (VP 'd
+		  (ADVP simply)
+		  (VP like
+		      (S (NP-SBJ *-1)
+			 (VP to
+			     (VP know
+				 (SBAR if
+				       (S (NP-SBJ it)
+					  (VP is
+					      (ADJP-PRD (ADJP as good)
+							(PP as
+							    (S (NP-SBJ-2 you kind people)
+							       (VP seem
+								   (S (NP-SBJ *-2)
+								      (VP to
+									  (VP think))))))))))))))))
+     '' ,
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-3))
+     .))
+( (S (NP-SBJ (NP Duclos)
+             ,
+             (NP the historian)
+             ,)
+     (VP pointed
+         (PRT out)
+         (PP to
+             (NP Jean Jacques))
+         (SBAR that
+               (S (NP-SBJ this)
+                  (VP was
+                      (ADJP-PRD impossible)))))
+     .))
+( (S (NP-SBJ (NP The musicians)
+             (PP of
+                 (NP the Royal Opera)))
+     (VP would not
+         (VP rehearse
+             (NP a work)
+             (S-PRP (NP-SBJ *)
+		    (ADVP merely)
+		    (VP to
+			(VP see
+			    (SBAR (WHADVP-1 how)
+				  (S (NP-SBJ it)
+				     (VP would
+					 (VP sound
+					     (ADVP-MNR *T*-1))))))))))
+     .))
+( (S (NP-SBJ *)
+     (ADVP Merely)
+     (VP to
+         (VP satisfy
+             (NP (NP the author 's)
+                 curiosity)))
+     .))
+( (S (NP-SBJ Rousseau)
+     (VP agreed)
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP recalled
+         (SBAR that
+               (S (NP-SBJ Rameau)
+                  (VP had
+                      (ADVP-TMP once)
+                      (VP had
+                          (NP (NP a private performance)
+                              (PP of
+                                  (NP his opera Armide)))
+                          ,
+                          (PP-LOC behind
+				  (NP closed doors))
+                          ,
+                          (PP (ADVP just) 
+			      for
+                              (NP (NP himself) 
+				  (ADJP alone))))))))
+     .))
+( (S (NP-SBJ Duclos)
+     (VP understood
+         (SBAR (WHNP-1 what)
+               (S (NP-SBJ *T*-1)
+                  (VP was
+                      (VP bothering
+                          (NP Rousseau)))))
+	 :
+	 (SBAR-TPC that
+		   (S (NP-SBJ (NP the writer)
+			      (PP of
+				  (NP-TTL (NP the Prosopopoeia)
+					  (PP of
+					      (NP Fabricius)))))
+		      (VP should
+			  (ADVP-TMP now)
+			  (VP become
+			      (ADJP-PRD known)
+			      (PP as
+				  (NP (NP the writer)
+				      (PP of
+					  (NP an amusing little operetta)))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP would
+         (ADVP certainly)
+         (VP be
+             (ADJP-PRD paradoxical)))
+     .))
+( (S But
+     (NP-SBJ Duclos)
+     (VP thought
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP saw
+                      (NP (NP a way out))))))
+     .))
+( (S ``
+     (S-IMP-TPC-1 (NP-SBJ *)
+		  (VP Let
+		      (S (NP-SBJ me)
+			 (VP do
+			     (NP (NP the submitting)
+				 (PP to
+				     (NP the Royal Academy)))))))
+     '' ,
+     (NP-SBJ he)
+     (VP suggested
+	 (S-IMP *T*-1))
+     .))
+( (S ``
+     (NP-SBJ Your name)
+     (VP will
+         (ADVP-TMP never)
+         (VP appear))
+     .))
+( (S (NP-SBJ No one)
+     (VP will
+         (ADVP even)
+	 (VP suspect
+             (SBAR that
+                   (S (NP-SBJ it)
+                      (VP is
+                          (NP-PRD your work))))))
+     '' .))
+( (S (PP To
+         (NP that))
+     (NP-SBJ Rousseau)
+     (VP could
+         (VP agree))
+     .))
+( (FRAG But
+	(ADVP-TMP now)
+	(NP (NP what crazy twists and turns)
+	    (PP of
+		(NP his emotions)))
+	! !))
+( (FRAG (ADJP Afraid
+	      (SBAR *ICH*-5))
+	(PP at
+	    (NP one and the same time))
+	(SBAR-5 (SBAR that
+		      (S (NP-SBJ-3 his work)
+			 (VP might
+			     (VP be
+				 (VP (VP turned
+					 (NP *-3)
+					 (PRT down))
+				     --
+				     (SBAR (WHNP-2 which)
+					   (S (NP-SBJ *T*-2)
+					      (VP would
+						  (VP be
+						      (NP-PRD (NP a blow)
+							      (PP to
+								  (NP his pride)))
+						      (SBAR-ADV even though
+								(S (NP-SBJ no one)
+								   (VP knew
+								       (SBAR 0
+									     (S (NP-SBJ he)
+										(VP was
+										    (NP-PRD the author)))))))))))
+				     --)))))
+		and
+		(SBAR (SBAR that
+			    (S (NP-SBJ-1 the work)
+			       (VP would
+				   (VP be
+				       (VP accepted
+					   (NP *-1))))))
+		      ,
+		      (CONJP and then)
+		      (SBAR that
+			    (S (NP-SBJ (NP his violent feelings)
+				       (PP in
+					   (NP the matter)))
+			       (VP would
+				   (ADVP certainly)
+				   (VP betray
+				       (SBAR (WHADJP-4 (ADVP how deeply) concerned)
+					     (S (NP-SBJ he)
+						(VP was
+						    (ADJP-PRD *T*-4)
+						    (PP in
+							(NP (NP spite)
+							    (PP of
+								(NP himself)))))))))))))
+	.))
+( (SBAR And
+	(WHADJP-2 how anxious
+		  (PP *ICH*-1))
+	(S (NP-SBJ (NP this lover)
+		   (PP of
+		       (NP obscurity)))
+	   (VP was
+	       (ADJP-PRD *T*-2)
+	       (PP-1 for
+		     (NP applause))))
+	! !))
+( (S And
+     (ADVP thus)
+     (S-ADV (NP-SBJ-2 *-3)
+	    (VP torn
+		(NP *-2)
+		(PP between
+		    (NP (NP his desire
+			    (S (NP-SBJ-1 *)
+			       (VP to
+				   (VP be
+				       (VP known
+					   (NP *-1)
+					   (PP as
+					       (NP (NP the composer)
+						   (PP of
+						       (NP a successful opera)))))))))
+			and
+			(NP (NP the necessity)
+			    (PP of
+				(S-NOM (NP-SBJ *)
+				       (VP remaining
+					   (ADJP-PRD true
+						     (PP to
+							 (NP (NP his proclaimed desire)
+							     (PP for
+								 (NP anonymity)))))))))))))
+     ,
+     (NP-SBJ-3 Rousseau)
+     (VP suffered
+	 (PP through
+	     (NP several painful weeks)))
+     .))
+( (S (NP-SBJ-1 All these emotions)
+     (VP were
+         (VP screwed
+             (NP *-1)
+             (PP up
+                 (PP to
+                     (NP new heights)))
+	     (SBAR-TMP (WHADVP when)
+		       ,
+		       (S (PP-TMP after
+				  (NP (NP acceptance)
+				      and
+				      (NP the first rehearsals)))
+			  ,
+			  (NP-SBJ there)
+			  (VP ensued
+			      (NP (NP such a buzz)
+				  (PP of
+				      (NP excitement))
+				  (PP among
+				      (NP Parisian music lovers))
+				  (SBAR that
+					(S (NP-SBJ-3 Duclos)
+					   (VP had
+					       (S (NP-SBJ-4 *-3)
+						  (VP to
+						      (VP come
+							  (S (NP-SBJ *-4)
+							     (VP running
+								 (PP to
+								     (NP Rousseau))
+								 (S-PRP (NP-SBJ *)
+									(VP to
+									    (VP inform
+										(NP him)
+										(SBAR (SBAR that
+											    (S (NP-SBJ the news)
+											       (VP had
+												   (VP reached
+												       (NP (NP the superintendent)
+													   (PP of
+													       (NP (NP the King 's)
+														   amusements)))))))
+										      , and
+										      (SBAR that
+											    (S (NP-SBJ he)
+											       (VP was
+												   (ADVP-TMP now)
+												   (VP demanding
+												       (SBAR that
+													     (S (NP-SBJ-2 the work)
+														(VP be
+														    (VP offered
+															(NP *-2)
+															(ADVP-TMP first)
+															(PP at
+															    (NP (NP the royal summer palace)
+																(PP of
+																    (NP Fontainebleau))))))))))))))))))))))))))))))
+     .))
+( (S-IMP (NP-SBJ *)
+	 (VP Imagine
+	     (NP the honor
+		 (PP of
+		     (NP it))))
+	 ! !))
+( (S ``
+     (SBARQ-TPC-1 (WHNP-3 What)
+		  (S (NP-SBJ *T*-3)
+		     (VP was
+			 (NP-PRD your answer))))
+     '' ? ?
+     (NP-SBJ-2 Jean Jacques)
+     (VP asked
+	 (SBARQ *T*-1)
+	 ,
+	 (S-ADV (NP-SBJ-4 *-2)
+		(VP striving
+		    (S (NP-SBJ *-4)
+		       (VP to
+			   (VP appear
+			       (ADJP-PRD unimpressed)))))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ I)
+	      (VP refused))
+     '' ,
+     (S (NP-SBJ Duclos)
+        (VP said
+	    (S *T*-1)))
+     .))
+( (SBARQ ``
+         (WHNP-1 What else)
+         (SQ (AUX could)
+             (NP-SBJ I)
+             (VP do
+                 (NP *T*-1)))
+         ? ?))
+( (S (NP-SBJ-1 Monsieur De Cury)
+     (VP was
+         (VP incensed
+             (NP *-1)
+	     ,
+	     (PP of
+		 (NP course))))
+     .))
+( (S But
+     (NP-SBJ I)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 I)
+                  (VP would
+                      (ADVP-TMP first)
+                      (VP have
+                          (S (NP-SBJ *-1)
+                             (VP to
+                                 (VP get
+                                     (NP (NP the author 's)
+                                         permission)))))))))
+     .))
+( (S And
+     (NP-SBJ I)
+     (VP was
+         (ADJP-PRD certain
+                   (SBAR 0
+                         (S (NP-SBJ he)
+                            (VP would
+                                (VP refuse))))))
+     '' .))
+( (SBAR (WHADJP-1 How infuriating)
+	(S (NP-SBJ all this)
+	   (VP was
+	       (ADJP-PRD *T*-1)))
+	! !))
+( (SBARQ (WHADVP-1 Why)
+         (SQ had
+             not
+             (NP-SBJ this success)
+             (VP come
+                 (PP to
+                     (NP him))
+		 (SBAR-TMP (SBAR before
+				 (S (NP-SBJ he)
+				    (VP had
+					(VP plunged
+					    (PP into
+						(NP his Discourse))))))
+			   ,
+			   and
+			   (SBAR before
+				 (S (NP-SBJ he)
+				    (VP had
+					(VP committed
+					    (NP himself)
+					    (PP to
+						(NP (NP a life)
+						    (PP of
+							(NP austerity and denial)))))))))
+		 (ADVP-PRP *T*-1)))
+	 ? ?))
+( (S (ADVP-TMP Now)
+     ,
+     (SBAR-TMP (WHADVP-2 when)
+	       (S (NP-SBJ (NP everything)
+			  (NP *ICH*-1))
+		  (VP was
+		      (VP opening
+			  (PRT up)
+			  (PP to
+			      (NP him))
+			  --
+			  (NP-1 (NP even the court)
+				(PP of
+				    (NP Louis 15)))
+			  (ADVP *T*-2)
+			  ! ! 
+			  --))))
+     (NP-SBJ-3 he)
+     (VP had
+	 (S (NP-SBJ *-3)
+	    (VP to
+                (VP play
+                    (NP (NP a role)
+                        (PP of
+                            (NP self-effacement)))))))
+     .))
+( (S (ADVP Back and forth)
+     (NP-SBJ-1 Duclos)
+     (VP had
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP go ,
+                    (PP (PP between
+                            (NP (NP M. De Cury)
+                                and
+                                (NP Jean Jacques)))
+                        and
+                        (PP between
+                            (NP (NP the Duke D'Aumont)
+                                and
+                                (NP Jean Jacques))))
+		    (ADVP again))))
+	 ,
+	 (SBAR-ADV as
+		   (S (NP-SBJ (NP his little operetta)
+			      ,
+			      (NP The Village Soothsayer))
+		      ,
+		      (SBAR-ADV though
+				(FRAG (ADJP still unperformed)))
+		      ,
+		      (VP took
+			  (PRT on)
+			  (ADVP-TMP ever)
+			  (NP more importance)))))
+     .))
+( (S And
+     (PP of
+         (NP course))
+     (NP-SBJ-2 (NP the news)
+	       (PP of
+		   (SBAR-NOM (WHNP-1 who)
+			     (S (NP-SBJ the composer)
+				(VP was
+				    (NP-PRD *T*-1))))))
+     (VP did
+         (ADVP-TMP finally)
+         (VP begin
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP get
+                        (ADVP around)
+			(PP among
+			    (NP his closest friends)))))))
+     .))
+( (S But
+     (S (NP-SBJ they)
+        ,
+        (ADVP naturally)
+        ,
+        (VP kept
+            (NP his secret)
+            (ADVP-MNR well)))
+     , and
+     (S (NP-SBJ (NP the public)
+                (PP at
+                    (ADJP large)))
+        (VP knew
+            (ADVP only)
+            (PP of
+                (NP (NP a great excitement)
+                    (PP in
+                        (NP (UCP musical and court) 
+			    circles))))))
+     .))
+( (SBAR (WHADJP-3 How titillating)
+	(S (NP-SBJ (NP it)
+		   (S *EXP*-4))
+	   (VP was
+	       (ADJP *T*-3)
+	       (S-4 (NP-SBJ *)
+		    (VP to
+			(VP go
+			    (PP among
+				(NP (NP people)
+				    (SBAR (SBAR (WHNP-1 who)
+						(S (NP-SBJ *T*-1)
+						   (VP did not
+						       (VP know
+							   (NP him)
+							   (PP as
+							       (NP the composer))))))
+					  ,
+					  but
+					  (SBAR (WHNP-2 who)
+						(S (NP-SBJ *T*-2)
+						   (VP talked
+						       (PP in
+							   (NP the
+							       (ADJP most glowing)
+							       terms))
+						       (PP of
+							   (NP (NP the promise)
+							       (PP of
+								   (NP the piece))))
+						       (PP-TMP after
+							       (S-NOM (NP-SBJ *)
+								      (VP having
+									  (VP heard
+									      (NP the first rehearsals))))))))))))))))
+	.))
+( (S (NP-SBJ The furor)
+     (VP was
+         (ADJP-PRD such
+		   (SBAR that
+			 (S (NP-SBJ (NP people)
+				    (SBAR (WHNP-1 who)
+					  (S (NP-SBJ *T*-1)
+					     (VP could not
+						 (ADVP possibly)
+						 (VP have
+						     (VP squirmed
+							 (NP their way)
+							 (PP-DIR into
+								 (NP the rehearsals))))))))
+			    (VP were
+				(VP pretending
+				    (SBAR (SBAR that
+						(S (NP-SBJ they)
+						   (VP were
+						       (ADJP-PRD intimate
+								 (PP with
+								     (NP the whole affair))))))
+					  and
+					  (SBAR that
+						(S (NP-SBJ it)
+						   (VP would
+						       (VP be
+							   (ADJP-PRD sensational))))))))))))
+     .))
+( (S And
+     (S-ADV (NP-SBJ *-1)
+	    (VP listening
+		(PP to
+		    (NP such a conversation)))
+	    (NP-TMP one morning)
+	    (SBAR-TMP while
+		      (S (NP-SBJ *)
+			 (VP taking
+			     (NP (NP a cup)
+				 (PP of
+				     (NP chocolate)))
+			     (PP-LOC in
+				     (NP a cafe))))))
+     ,
+     (NP-SBJ-1 Rousseau)
+     (VP found
+	 (NP (NP himself)
+	     (VP bathed
+		 (NP *)
+		 (PP in
+		     (NP perspiration))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP (VP trembling
+			(SBAR lest
+			      (S (NP-SBJ his authorship)
+				 (VP become
+				     (ADJP-PRD known)))))
+		    , and
+		    (VP (PP at
+			    (NP the same time))
+			dreaming
+			(PP of
+			    (NP (NP the startling effect)
+				(SBAR (WHNP-3 0)
+				      (S (NP-SBJ he)
+					 (VP would
+					     (VP make
+						 (NP *T*-3)
+						 (SBAR-ADV if
+							   (S (NP-SBJ he)
+							      (VP should
+								  (VP proclaim
+								      (NP himself)
+								      (ADVP-TMP suddenly)
+								      (PP as
+									  (NP the composer))))))))))))))))
+     .))
+( (S (NP-SBJ He)
+     (VP felt
+         (NP himself) 
+         (ADVP-TMP now)
+         ,
+         (SBAR-ADV as
+		   (S (NP-SBJ (NP he)
+			      (NP himself))
+		      (VP says
+			  (PP in
+			      (NP his Confessions)))))
+         ,
+         (PP at
+	     (NP (NP a crucial point)
+		 (PP of
+		     (NP his life)))))
+     .))
+( (S And
+     (NP-SBJ that)
+     (VP was
+         (SBAR-PRP-PRD (WHADVP why)
+		       ,
+		       (S (PP-TMP on
+				  (NP (NP the day)
+				      (PP of
+					  (NP the performance))))
+			  ,
+			  (SBAR-TMP (WHADVP-1 when)
+				    (S (NP-SBJ (NP a carriage)
+					       (PP from
+						   (NP the royal stables)))
+				       (VP called
+					   (S-PRP (NP-SBJ *)
+						  (VP to
+						      (VP take
+							  (NP him)
+							  (PP-DIR to
+								  (NP the palace)))))
+					   (ADVP-TMP *T*-1))))
+			  ,
+			  (NP-SBJ-2 he)
+			  (VP did
+			      not
+			      (VP bother
+				  (S (NP-SBJ *-2)
+				     (VP to
+					 (VP shave))))))))
+     .))
+( (S (PP On
+         (NP the contrary))
+     ,
+     (NP-SBJ-1 he)
+     (VP was
+         (VP pleased
+             (NP *-1)
+             (SBAR that
+                   (S (NP-SBJ his face)
+                      (VP showed
+                          (NP (NP a neglect)
+                              (PP of
+                                  (NP several days))))))))
+     .))
+( (S (S-ADV (NP-SBJ *)
+	    (VP Seeing
+		(S (NP-SBJ him) 
+		   (UCP-PRD (PP in
+				(NP that condition))
+			    ,
+			    and
+			    (ADJP about
+				  (S (NP-SBJ *)
+				     (VP to
+					 (VP enter
+					     (NP (NP the hall)
+						 (SBAR (WHADVP-1 where)
+						       (S (NP-SBJ (NP the King)
+								  ,
+								  (NP the Queen)
+								  ,
+								  (NP the whole royal family)
+								  and
+								  (NP (NP all the members)
+								      (PP of
+									  (NP the highest aristocracy))))
+							  (VP would
+							      (VP be
+								  (ADJP-PRD present)
+								  (ADVP-LOC *T*-1))))))))))))))
+     ,
+     (NP-SBJ-2 (NP Grimm)
+	       and
+	       (NP the Abbe Raynal)
+	       and
+	       (NP others))
+     (VP tried
+	 (S (NP-SBJ *-2)
+	    (VP to
+		(VP stop
+		    (NP him)))))
+     .))
+( (S ``
+     (S-TPC-1 (NP-SBJ You)
+	      (VP ca n't
+		  (VP go
+		      (ADVP-DIR in)
+		      (NP-MNR that way))))
+     '' ! !
+     (NP-SBJ They)
+     (VP cried
+	 (S *T*-1))
+     .))
+( (S ``
+     (FRAG-TPC-1 (WHADVP Why)
+		 not)
+     '' ? ?
+     (NP-SBJ Jean Jacques)
+     (VP asked
+	 (FRAG *T*-1))
+     .))
+( (SBARQ ``
+         (WHNP-1 Who)
+         (S (NP-SBJ-2 *T*-1)
+            (VP is
+                (VP going
+                    (S (NP-SBJ *-2)
+                       (VP to
+                           (VP stop
+                               (NP me)))))))
+         '' ? ?))
+( (S (S-TPC-1 ``
+	      (NP-SBJ You)
+	      (VP have n't
+		  (VP dressed
+		      (PP for
+			  (NP the occasion))))
+	      '' ! !)
+     (NP-SBJ They)
+     (VP pointed
+         (PRT out)
+	 (S *T*-1)
+         (PP to
+             (NP him)))
+     .))
+( (S ``
+     (S-TPC-2 (NP-SBJ-1 I)
+	      (VP 'm
+		  (VP dressed
+		      (NP *-1)
+		      (SBAR-ADV as
+				(S (NP-SBJ I)
+				   (ADVP-TMP always)
+				   (VP am
+				       (VP *?*)))))))
+     '' ,
+     (S (NP-SBJ Rousseau)
+        (VP said
+	    (S *T*-2)))
+     .))
+( (ADVP-MNR `` Neither better nor worse '' .))
+( (S ``
+     (FRAG-TPC-1 (PP-LOC At
+			 (NP home))
+		 ,
+		 (INTJ yes))
+     '' ,
+     (S (NP-SBJ they)
+        (VP argued
+	    (FRAG *T*-1)))
+     .))
+( (S `` But
+     (ADVP-LOC here)
+     (NP-SBJ you)
+     (VP are
+	 (PP-LOC-PRD in
+		     (NP the palace)))
+     .))
+( (S (NP-SBJ There)
+     (VP 's
+         (NP-PRD the King))
+     .))
+( (FRAG And
+	(NP Madame De Pompadour)
+	'' .))
+( (S ``
+     (S-TPC-2 (SBAR-ADV If
+			(S (NP-SBJ they)
+			   (VP are
+			       (ADVP-PRD here))))
+	      ,
+	      (ADVP then)
+	      (ADVP surely)
+	      (NP-SBJ I)
+	      (VP have
+		  (NP (NP the right)
+		      (SBAR (WHADVP-1 0)
+			    (S (NP-SBJ *)
+			       (VP to
+				   (VP be
+				       (ADVP-PRD here)
+				       (ADVP *T*-1))))))))
+     '' ,
+     (NP-SBJ Rousseau)
+     (VP said
+	 (S *T*-2))
+     .))
+( (FRAG `` 
+	And
+	(NP (ADJP even more)
+	    right)
+	.))
+( (SBAR-PRP Since
+	    (S (NP-SBJ I)
+	       (VP am
+		   (NP-PRD the composer)))
+	    '' ! !))
+( (FRAG `` But
+	(PP in
+	    (NP such a slovenly condition))
+	'' .))
+( (S ``
+     (SBARQ-TPC-2 (WHNP-1 What)
+		  (S (NP-SBJ *T*-1)
+		     (VP is
+			 (ADJP-PRD slovenly)
+			 (PP about
+			     (NP me)))))
+     '' ? ?
+     (NP-SBJ Rousseau)
+     (VP asked
+	 (SBARQ *T*-2))
+     .))
+( (SQ ``
+      Is
+      (NP-SBJ (NP it)
+	      (SBAR *ICH*-1))
+      (PP-PRP-PRD because of
+		  (NP my slovenliness))
+      (SBAR-1 that
+	      (S (NP-SBJ hair)
+		 (VP grows
+		     (PP-LOC on
+			     (NP my face)))))
+      ? ?))
+( (S (ADVP Surely)
+     (NP-SBJ it)
+     (VP would
+         (VP grow
+             (ADVP-LOC there)
+             (SBAR whether
+                   (S (NP-SBJ I)
+                      (VP (VP washed
+			      (NP myself))
+			  or
+			  (VP (FRAG not)))))))
+     .))
+( (S (ADVP-TMP (NP A hundred years)
+	       ago)
+     (NP-SBJ I)
+     (VP would
+         (VP have
+             (VP worn
+                 (NP a beard)
+                 (PP with
+                     (NP pride)))))
+     .))
+( (S And
+     (NP-SBJ (NP those)
+             (PP without
+                 (NP beards)))
+     (VP would
+         (VP have
+             (VP stood
+                 (PRT out)
+                 (SBAR-ADV as 
+			   (S (NP-SBJ *)
+			      not
+			      (VP dressed
+				  (NP *)
+				  (PP for
+				      (NP the occasion))))))))
+     .))
+( (S (ADVP-TMP Now)
+     (S (NP-SBJ times)
+	(VP have
+	    (VP changed)))
+     , and
+     (S (NP-SBJ I)
+        (VP must
+            (VP pretend
+		(SBAR that
+		      (S (NP-SBJ hair)
+			 (VP does n't
+			     (VP grow
+				 (PP-LOC on
+					 (NP my face)))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP 's
+         (NP-PRD the fashion))
+     .))
+( (S And
+     (NP-SBJ fashion)
+     (VP is
+         (NP-PRD the real king)
+	 (ADVP-LOC here))
+     .))
+( (FRAG Not
+	(NP Louis 15)
+	, ,
+	(SBAR-PRP since
+		  (S (NP-SBJ even he)
+		     (VP obeys))))
+  .)
+( (S (ADVP-TMP Now)
+     ,
+     (SBAR-ADV if
+	       (S (NP-SBJ you)
+		  (VP do n't
+		      (VP mind))))
+     ,
+     (NP-SBJ-1 I)
+     (VP should
+         (VP like
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP hear
+                        (S (NP-SBJ my own piece)
+			   (VP performed
+			       (NP *))))))))
+     '' .))
+( (S But
+     (PP of
+         (NP course))
+     (PP behind
+         (NP his boldness))
+     (NP-SBJ he)
+     (VP did
+         n't
+         (VP feel
+             (ADJP-PRD bold)
+             (ADVP at all)))
+     .))
+( (S (NP-SBJ He)
+     (VP trembled
+         (SBAR lest
+               (S (NP-SBJ his piece)
+                  (VP should
+                      (VP fail)))))
+     .))
+( (FRAG And
+	(NP this)
+	(PP in
+	    (NP (NP addition)
+		(PP to
+		    (NP (NP (NP his usual fear)
+			    (PP of
+				(S-NOM (NP-SBJ *)
+				       (VP being
+					   (PP-PRD among
+						   (NP (NP people)
+						       (PP of
+							   (NP high society))))))))
+			,
+			(NP (NP his fear)
+			    (PP of
+				(S-NOM (NP-SBJ *)
+				       (VP making
+					   (NP some 
+					       (ADJP inane or inappropriate) 
+					       remark)))))))))
+	.))
+( (FRAG And
+	(ADJP (ADJP even deeper)
+	      (PP than
+		  (NP that)))
+	:
+	(NP his fear
+	    (SBAR lest
+		  (S (PP-LOC in
+			     (NP this closed hall))
+		     (NP-SBJ he)
+		     (VP should
+			 (ADVP-TMP suddenly)
+			 (VP itch
+			     (S-PRP (NP-SBJ *)
+				    (VP to
+					(VP relieve
+					    (NP himself))))))))))
+  .)
+( (SQ Could
+      (NP-SBJ he)
+      (VP walk
+          (ADVP-DIR out)
+	  (PP in
+	      (NP (NP the midst)
+		  (PP of
+		      (NP his piece)))))
+      ? ?))
+( (FRAG (ADVP-LOC Here)
+	,
+	(PP before
+	    (NP the court))
+	? ?))
+( (PP Before
+      (NP the King)
+      ? ?))

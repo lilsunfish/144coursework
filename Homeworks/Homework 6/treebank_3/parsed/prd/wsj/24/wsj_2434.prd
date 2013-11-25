@@ -1,0 +1,89 @@
+
+
+( (S (NP-SBJ Apple Computer Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP offer
+                          (NP (NP cash rebates)
+                              (PP-LOC on
+				      (NP (NP several)
+					  (PP of
+					      (NP its machines)))))
+			  (PP-TMP (PP from
+				      (NP Oct. 14))
+				  (PP to
+				      (NP Dec. 31.)))
+			  ,
+			  (PP as
+			      (NP (NP part)
+				  (PP of
+				      (NP a holiday-season sales promotion)))))))))
+     .))
+( (S (NP-SBJ Apple)
+     (VP will
+         (VP offer
+             (NP (NP (NP a (ADJP $ 150 *U*) rebate)
+                     (PP on
+                         (NP (NP its Apple IIGS)
+                             (PP with
+                                 (NP any Apple Monitor and disk drive)))))
+                 ;
+                 (NP (NP $ 200 *U*)
+                     (PP on
+                         (NP the basic Macintosh Plus central processing unit)))
+                 ;
+                 (NP (NP $ 250 *U*)
+                     (PP on
+                         (NP the Macintosh SE central processing unit)))
+                 ;
+                 (NP (NP $ 250 *U*)
+                     (PP on
+                         (NP the Macintosh SE/30 cpu)))
+                 , and
+                 (NP (NP $ 300 *U*)
+                     (PP on
+                         (NP (NP a Macintosh IIcx)
+                             (PP with
+                                 (NP any 
+				     (NX (NX Apple video card) 
+					 and
+					 (NX Apple monitor))))))))))
+     .))
+( (S (NP-SBJ (NP The rebates)
+             ,
+             (PP as
+                 (NP (NP a percentage)
+                     (PP of
+                         (NP (NP the retail cost)
+                             (PP of
+                                 (NP (NP the cpu)
+                                     (PP of
+                                         (NP each system))))))))
+             ,)
+     (VP amount
+         (PP-CLR to
+		 (NP (QP 6 %
+			 to
+			 13 %)
+		     *U*)))
+     .))
+( (S (NP-SBJ The company)
+     (VP is
+         (ADVP also)
+         (VP offering
+             (NP (NP a free trial)
+                 (PP of
+                     (NP its computers)))
+             (PP-DTV to
+		     (NP (NP consumers)
+			 (SBAR (WHNP-1 who)
+			       (S (NP-SBJ *T*-1)
+				  (VP qualify
+				      (PP-CLR for
+					      (NP its 
+						  (NX (NX credit cards) 
+						      or 
+						      (NX leases)))))))))))
+     .))

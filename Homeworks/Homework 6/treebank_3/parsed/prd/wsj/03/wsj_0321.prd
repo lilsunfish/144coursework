@@ -1,0 +1,134 @@
+
+
+( (S (NP-SBJ (NP StatesWest Airlines)
+             ,
+             (NP (NP Phoenix)
+                 ,
+                 (NP Ariz.)
+                 ,))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP withdrew
+                      (NP its offer
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP acquire
+                                     (NP Mesa Airlines)))))
+		      (SBAR-PRP because
+				(S (NP-SBJ the Farmington , N.M. , carrier)
+				   (VP did n't
+				       (VP respond
+					   (PP-CLR to
+						   (NP its offer))
+					   (PP-TMP by
+						   (NP (NP (NP (NP the close)
+							       (PP of
+								   (NP business)))
+							   (NP-TMP yesterday))
+						       ,
+						       (NP (NP a deadline)
+							   (SBAR (WHNP-1 0)
+								 (S (NP-SBJ StatesWest)
+								    (VP had
+									(VP set
+									    (NP *T*-1)
+									    (PP-PRP for
+										    (NP a response)))))))))))))))))
+     .))
+( (S (ADVP However)
+     ,
+     (NP-SBJ StatesWest)
+     (VP is n't
+         (VP abandoning
+             (NP (NP its pursuit)
+                 (PP of
+                     (NP the much-larger Mesa)))))
+     .))
+( (S (NP-SBJ (NP StatesWest)
+             ,
+             (SBAR (WHNP-52 which)
+                   (S (NP-SBJ *T*-52)
+                      (VP has
+                          (NP (NP a (ADJP 7.25 %) stake)
+                              (PP-LOC in
+				      (NP Mesa))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP may
+                      (VP (VP purchase
+                              (NP more Mesa stock))
+                          or
+                          (VP make
+                              (NP a tender offer)
+			      (PP-DTV (ADVP directly) 
+				      to
+				      (NP Mesa shareholders))))))))
+     .))
+( (S (NP-SBJ-1 StatesWest)
+     (VP had
+         (VP proposed
+             (S (NP-SBJ *)
+		(VP acquiring
+		    (NP Mesa)
+		    (PP-CLR for
+			    (NP (NP (NP $ 7 *U*)
+				    (NP-ADV a share))
+				and
+				(NP (NP one share)
+				    (PP of
+					(NP (NP a new series)
+					    (PP of
+						(NP StatesWest (ADJP 6 %)
+						    convertible preferred stock))
+					    (SBAR (WHNP-2 0)
+						  (S (NP-SBJ it)
+						     (VP values
+							 (NP *T*-2)
+							 (PP-CLR at
+								 (NP (NP $ 3 *U*)
+								     (NP-ADV a share)))))))))))))))
+     .))
+( (S (ADVP-TMP Earlier)
+     ,
+     (NP-SBJ Mesa)
+     (VP had
+	 (VP rejected
+	     (NP (NP a general proposal
+		     (S *ICH*-1))
+		 (PP from
+		     (NP StatesWest))
+		 (S-1 (NP-SBJ *)
+		      (VP to
+			  (VP combine
+			      (NP the two carriers)
+			      (PP-MNR in
+				      (NP some way))))))))
+     .))
+( (S (NP-SBJ StatesWest)
+     (VP serves
+         (NP (NP 10 cities)
+             (PP-LOC in
+		     (NP California
+			 ,
+			 Arizona
+			 and
+			 Nevada))))
+     .))
+( (S (NP-SBJ Mesa)
+     (VP flies
+         (PP-DIR to
+		 (NP (NP 42 cities)
+		     (PP-LOC in
+			     (NP (NP New Mexico)
+				 ,
+				 (NP Arizona)
+				 ,
+				 (NP Wyoming)
+				 ,
+				 (NP Colorado)
+				 and
+				 (NP Texas))))))
+     .))

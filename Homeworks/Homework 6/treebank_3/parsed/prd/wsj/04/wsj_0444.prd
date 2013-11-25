@@ -1,0 +1,288 @@
+
+
+( (S (NP-SBJ Bargain hunters)
+     (VP helped
+	 (S (NP-SBJ stock prices)
+	    (VP break
+		(NP a weeklong losing streak)))
+	 (SBAR-ADV while
+		   (S (NP-SBJ (NP bond prices)
+			      and
+			      (NP the dollar))
+		      (VP inched
+			  (ADVP-DIR higher)))))
+     .))
+( (S (NP-SBJ-1 The Dow Jones Industrial Average)
+     (VP gained
+         (NP 6.76 points)
+         (PP-DIR to
+		 (NP 2603.48))
+         (PP-LOC in
+		 (NP light trading))
+         (PP-TMP after
+		 (S-NOM (NP-SBJ *-1)
+			(VP losing
+			    (NP (QP more than 92)
+				points)
+			    (NP-TMP last week)))))
+     .))
+( (S (NP-SBJ-1 Bond prices)
+     (VP continued
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP edge
+		    (ADVP-DIR higher))))
+         (PP-LOC in
+		 (NP (NP anticipation)
+		     (PP of
+			 (NP (NP more news)
+			     (VP showing
+				 (NP a slower economy)))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ the dollar)
+		  (VP rose
+		      (ADVP slightly)
+		      (PP-CLR against
+			      (NP most major currencies)))))
+     ,
+     (NP-SBJ (NP the focus)
+             (PP-LOC in
+		     (NP currency markets)))
+     (VP was
+         (PP-PRD on
+		 (NP (NP the beleaguered British pound)
+		     ,
+		     (SBAR (WHNP-1 which)
+			   (S (NP-SBJ *T*-1)
+			      (VP gained
+				  (ADVP slightly)
+				  (PP-CLR against
+					  (NP the dollar))))))))
+     .))
+( (S (NP-SBJ (NP Trading volume)
+	     (PP-LOC on
+		     (NP the New York Stock Exchange)))
+     (VP dwindled
+	 (PP-DIR to
+		 (NP (QP only 126.6 million) shares))
+	 (NP-TMP yesterday)
+	 (SBAR-ADV as
+		   (S (NP-SBJ-1 major brokerage firms)
+		      (VP continued
+			  (S (NP-SBJ *-1)
+			     (VP to
+				 (VP throw
+				     (PRT in)
+				     (NP the towel)
+				     (PP-CLR on
+					     (NP program trading)))))))))
+     .))
+( (S (S (NP-SBJ Kidder Peabody)
+        (VP became
+	    (NP (NP the
+		    (ADJP most recent)
+		    firm)
+		(SBAR (WHNP-1 0)
+		      (S (NP-SBJ *T*-1)
+			 (VP to
+			     (VP swear
+				 (PRT off)
+				 (NP (NP stock-index arbitrage trading)
+				     (PP for
+					 (NP its own account))))))))))
+     , and
+     (S (NP-SBJ Merrill Lynch)
+        (NP-TMP late yesterday)
+        (VP took
+            (NP (NP the major step)
+                (PP of
+                    (S-NOM (NP-SBJ *)
+			   (VP renouncing
+			       (NP the trading strategy)
+			       (PP even for
+				   (NP its clients))))))))
+     .))
+( (S Yet
+     (NP-SBJ that)
+     (VP did n't
+         (VP eliminate
+             (NP program trading)
+             (PP-CLR from
+		     (NP the market))))
+     .))
+( (S (NP-SBJ The Dow industrials)
+     (VP shot
+         (ADVP-DIR up)
+         (NP 23 points)
+         (PP-TMP in
+		 (NP the opening hour))
+         ,
+         (PP-PRP (PP (ADVP at least) 
+		     in
+		     (NP part))
+		 because of
+		 (NP (NP buy programs)
+		     (VP generated
+			 (NP *)
+			 (PP by
+			     (NP-HLN (NP stock-index arbitrage)
+				     ,
+				     (NP (NP a form)
+					 (PP of
+					     (NP program trading))
+					 (PP involving
+					     (NP futures contracts)))))))))
+     .))
+( (S But
+     (NP-SBJ interest)
+     (VP waned
+	 (SBAR-ADV as
+		   (S (S (NP-SBJ the day)
+			 (VP wore
+			     (PRT on)))
+		      and
+		      (S (NP-SBJ investors)
+			 (VP looked
+			     (ADVP-CLR ahead)
+			     (PP-CLR to
+				     (NP (NP the release)
+					 (NP-TMP later this week)
+					 (PP of
+					     (NP two important economic reports)))))))))
+     .))
+( (S (NP-SBJ The first)
+     (VP is
+         (NP-PRD (NP (NP Wednesday 's)
+		     survey)
+		 (PP of
+		     (NP purchasing managers))
+		 ,
+		 (VP considered
+		     (NP (NP a good indicator)
+			 (PP of
+			     (SBAR (WHADVP-1 how)
+				   (S (NP-SBJ (NP the nation 's)
+					      manufacturing sector)
+				      (VP fared
+					  (PP-TMP in
+						  (NP October))
+					  (ADVP-MNR *T*-1)))))))))
+     .))
+( (S (NP-SBJ The other)
+     (VP is
+         (NP-PRD (NP (NP (NP Friday 's)
+			 measure)
+		     (PP of
+			 (NP October employment)))
+		 ,
+		 (NP (NP an indicator)
+		     (PP of
+			 (NP (NP the broader economy 's)
+			     health)))))
+     .))
+( (S (NP-SBJ-2 Both)
+     (VP are
+         (VP expected
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP show
+                        (NP (NP continued sluggishness)
+                            ,
+                            (SBAR (WHNP-1 which)
+                                  (S (NP-SBJ *T*-1)
+                                     (VP would
+                                         (VP be
+                                             (ADJP-PRD (ADJP good
+							     (PP for
+								 (NP bonds)))
+						       and
+						       (ADJP bad
+							     (PP for
+								 (NP stocks))))))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP major market activity))
+     :
+     (NP-SBJ Stock prices)
+     (VP rose
+         (PP-LOC in
+		 (NP light trading)))
+     .))
+( (S But
+     (S (NP-SBJ (NP declining issues)
+                (PP-LOC on
+			(NP the New York Stock Exchange)))
+        (VP outnumbered
+            (NP gainers)
+            (NP-ADV (NP 774)
+		    (PP to
+			(NP 684)))))
+     , and
+     (S (NP-SBJ broader market indexes)
+        (VP were
+            (ADJP-PRD virtually unchanged)))
+     .))
+( (S (NP-SBJ Bond prices)
+     (VP crept
+	 (ADVP-DIR higher))
+     .))
+( (S (NP-SBJ (NP The Treasury 's)
+             benchmark 30-year bond)
+     (VP gained
+         (NP (NP (NP (QP about an eighth))
+		 (PP of
+		     (NP a point)))
+	     , or
+             (NP (NP (QP about $ 1.25) *U*)
+                 (PP for
+                     (NP each (ADJP (QP $ 1,000) *U*) face amount )))))
+     .))
+( (S (NP-SBJ (NP The yield)
+             (PP on
+                 (NP the issue)))
+     (VP slipped
+         (PP-DIR to
+		 (NP 7.92 %)))
+     .))
+( (S (NP-SBJ The dollar)
+     (VP gained)
+     .))
+( (S (PP-LOC In
+	     (NP late New York trading))
+     (NP-SBJ-1 the dollar)
+     (VP was
+         (VP quoted
+             (NP *-1)
+             (PP-CLR at
+		     (NP (NP 1.8340 marks)
+			 and
+			 (NP 141.90 yen)))
+             ,
+             (PP compared
+                 (PP with
+                     (NP (NP (NP 1.8300 marks)
+			     and
+			     (NP 141.65 yen))
+			 (NP-TMP Friday))))))
+     .))
+( (S (NP-SBJ-1 The British pound)
+     ,
+     (S-ADV (NP-SBJ *-1)
+	    (VP pressured
+		(NP *)
+		(PP by
+		    (NP-LGS (NP (NP last week 's)
+				resignations)
+			    (PP of
+				(NP key Thatcher administration officials))))))
+     ,
+     (ADVP nevertheless)
+     (VP rose
+         (NP-TMP Monday)
+         (PP-DIR to
+		 (NP $ 1.5820 *U*))
+         (PP-DIR from
+		 (NP (NP Friday 's)
+		     $ 1.5795 *U*)))
+     .))

@@ -1,0 +1,40 @@
+
+
+( (S (NP-SBJ The National Aeronautics and Space Administration)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP awarded
+                      (NP General Dynamics Corp.)
+                      (NP a (ADJP (QP $ 64 million) *U*) contract
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP launch
+                                     (NP the Combined Release and Radiation Effects Satellite)
+                                     (PP-TMP in
+					     (NP June 1990))))))))))
+     .))
+( (S (NP-SBJ CRRES)
+     (VP is
+         (NP-PRD (NP a joint NASA-Air Force satellite)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *T*-1)
+			  (VP to
+			      (VP study
+				  (NP (NP the effects)
+				      (PP of
+					  (NP space radiation))
+				      (PP on
+					  (NP micro-electronic components)))))))))
+     .))
+( (S (NP-SBJ NASA)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 General Dynamics)
+                  (VP will
+                      (VP launch
+                          (NP CRRES)
+                          (S-MNR (NP-SBJ *-1)
+				 (VP using
+				     (NP an Atlas 1 rocket))))))))
+     .))

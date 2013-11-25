@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ-1 (NP The board)
+	       (PP of
+		   (NP this
+		       (NAC-LOC Ponce
+				,
+				Puerto Rico)
+		       concern)))
+     (VP voted
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP suspend
+                    (NP (NP payment)
+                        (PP of
+                            (NP (NP its quarterly)
+                                (PP of
+                                    (NP (NP 11 cents)
+                                        (NP-ADV a share)))
+				(PP for
+				    (NP the third quarter)))))))))
+     .))
+( (S (NP-SBJ (NP The third-largest thrift institution)
+             (PP-LOC in
+		     (NP Puerto Rico)))
+     (ADVP also)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP expects
+                      (NP (NP a return)
+                          (PP to
+                              (NP profitability))
+			  (PP-TMP in
+				  (NP (NP the third quarter)
+				      (SBAR (WHADVP-1 when)
+					    (S (NP-SBJ it)
+					       (VP reports
+						   (NP operating results)
+						   (ADVP-TMP *T*-1)
+						   (NP-TMP this week)))))))))))
+     .))
+( (S (NP-SBJ Ponce Federal)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the dividend)
+                  (VP was
+                      (VP suspended
+                          (NP *-1)
+                          (PP in
+                              (NP (NP anticipation)
+                                  (PP of
+                                      (NP (NP (ADJP more stringent)
+					      capital requirements)
+                                          (PP-LOC under
+						  (NP (NP the Financial Institutions
+							  Reform , Recovery , and Enforcement Act)
+						      (PP of
+							  (NP 1989)))))))))))))
+     .))

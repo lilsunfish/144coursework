@@ -1,0 +1,45 @@
+
+
+( (S (NP-SBJ The New York Stock Exchange)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ a seat)
+                  (VP sold
+                      (PP-CLR for
+			      (NP $ 436,000 *U*))
+                      ,
+                      (ADVP down
+                            (NP $ 39,000 *U*)
+                            (PP from
+                                (NP (NP the previous sale)
+				    (NP-TMP Oct. 4))))))))
+     .))
+( (S (NP-SBJ-1 Seats)
+     (VP are
+         (ADVP-TMP currently)
+         (VP quoted
+	     (NP *-1)
+             (PP-CLR at
+		     (NP (NP (NP $ 425,000 *U*)
+			     (VP bid
+				 (NP *)))
+			 and
+			 (NP (NP $ 475,000 *U*)
+			     (VP offered
+				 (NP *)))))))
+     .))
+( (S (NP-SBJ (NP The (ADJP $ 475,000 *U*) sale price)
+	     (NP-TMP earlier this month))
+     (VP was
+         (NP-PRD (NP the lowest)
+                 (PP-TMP in
+			 (NP (QP nearly three) years))))
+     .))
+( (S (NP-SBJ Exchange seats)
+     (VP hit
+         (NP (NP a peak)
+             (PP of
+                 (NP $ 1,150,000 *U*)))
+         (PP-TMP in
+		 (NP September 1987)))
+     .))

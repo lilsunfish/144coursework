@@ -1,0 +1,33 @@
+
+
+( (S (NP-SBJ-1 (NP Alvin W. Trivelpiece)
+               ,
+               (NP (NP director)
+                   (PP of
+                       (NP (NP Oak Ridge National Laboratory)
+                           ,
+                           (NP-LOC (NP Oak Ridge)
+				   ,
+				   (NP Tenn.)))))
+	       ,)
+     (VP was
+         (VP elected
+             (S (NP-SBJ *-1)
+		(NP-PRD (NP a director)
+			(PP of
+			    (NP this optical-products concern))))))
+     .))
+( (S (NP-SBJ (NP Mr. Trivelpiece)
+             ,
+             (ADJP (NP 58 years)
+                   old)
+             ,)
+     (VP succeeds
+         (NP (NP William Bolger)
+             ,
+             (SBAR (WHNP-1 who)
+                   (S (NP-SBJ *T*-1)
+                      (VP died
+                          (PP-TMP in
+				  (NP August)))))))
+     .))

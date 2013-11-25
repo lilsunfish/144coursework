@@ -1,0 +1,43 @@
+
+
+( (S (NP-SBJ (NP New Brunswick Scientific Co.)
+             ,
+             (NP (NP a maker)
+                 (PP of
+                     (NP biotechnology instrumentation and equipment)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP adopted
+                      (NP (NP an anti-takeover plan)
+                          (VP giving
+                              (NP shareholders)
+                              (NP the right
+                                  (S (NP-SBJ *)
+                                     (VP to
+                                         (VP purchase
+                                             (NP shares)
+                                             (PP at
+						 (NP half price))
+					     (PP-TMP under
+						     (NP certain conditions))))))))))))
+     .))
+( (S (NP-SBJ The company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the plan)
+		  ,
+		  (S-ADV (NP-SBJ *-1)
+			 (PP-PRD under
+				 (NP review))
+			 (PP-TMP for
+				 (NP some time)))
+		  ,
+                  (VP will
+                      (VP protect
+                          (NP shareholders)
+                          (PP-CLR against
+				  ``
+				  (NP abusive takeover tactics)))))))
+     .))

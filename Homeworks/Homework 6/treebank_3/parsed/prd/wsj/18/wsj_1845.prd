@@ -1,0 +1,70 @@
+
+
+( (S (NP-SBJ (NP Diamond-Star Motors Corp.)
+             ,
+             (NP (NP a joint venture)
+                 (PP of
+                     (NP (NP Chrysler Corp.)
+                         and
+                         (NP Mitsubishi Motors Corp.)))))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP will
+                      (VP begin
+                          (S (NP-SBJ *-1)
+                             (VP shipping
+                                 (NP Mitsubishi Eclipse cars)
+                                 (PP-DIR to
+					 (NP Japan))))
+			  (NP-TMP next week)
+			  ,
+			  (S-ADV (NP-SBJ *-1)
+				 (VP emulating
+				     (NP (NP other Japanese auto ventures)
+					 (VP shipping
+					     (NP U.S.-built vehicles)
+					     (ADVP-DIR back)
+					     (PP-DIR to
+						     (NP Japan)))))))))))
+     .))
+( (S (NP-SBJ Diamond-Star)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP will
+                      (VP export
+                          (NP (QP about 1,500) Eclipse cars)
+                          (PP-DIR to
+				  (NP Japan))
+			  (PP-TMP by
+				  (NP (NP year 's)
+				      end)))))))
+     .))
+( (S (NP-SBJ (NP Honda Motor Co.)
+             ,
+             (NP (NP-SBJ the first Japanese auto maker)
+		 (SBAR (WHNP-1 0)
+		       (S (NP-SBJ *T*-1)
+			  (VP to
+			      (VP ship
+				  (NP cars)
+				  (PP-DIR to
+					  (NP Japan))
+				  (PP-DIR from
+					  (NP the U.S.)))))))
+	     ,)
+     (VP is
+         (ADVP-TMP now)
+         (VP exporting
+             (NP (NP (QP more than 5,000)
+                     Accord Coupes)
+                 (NP-ADV a year))
+             (PP-DIR from
+		     (NP its
+			 (NAC-LOC Marysville
+				  ,
+				  Ohio
+				  ,)
+			 factory))))
+     .))

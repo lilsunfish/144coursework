@@ -1,0 +1,58 @@
+
+
+( (S (NP-SBJ MEDICINE SHOPPE INTERNATIONAL Inc.)
+     (VP (VP declared
+             (NP a 3-for-2 stock split))
+         , 
+	 and
+         (VP (ADVP-MNR substantially)
+             boosted
+             (NP the dividend payout)))
+     .))
+( (S (NP-SBJ (NP The franchiser)
+             (PP of
+                 (NP pharmacies)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 the added shares)
+                  (VP will
+		      (VP be
+			  (VP distributed
+			      (NP *-1)
+			      (NP-TMP Dec. 4)
+			      (PP-CLR to
+				      (NP (NP stock)
+					  (PP of
+					      (NP record))
+					  (NP-TMP Nov. 13)))))))))
+     .))
+( (S (NP-SBJ-4 The company)
+     (ADVP also)
+     (VP changed
+         (NP (NP its dividend policy) 
+	     ,
+             (SBAR (WHPP-2 under
+			   (WHNP which))
+                   (S (NP-SBJ holders)
+                      (VP had
+                          (VP received
+                              (NP an annual 
+				  (ADJP 10 cents-a-share)
+				  payment)
+			      (PP-LOC *T*-2)))))
+             ,)
+         (PP-MNR by
+		 (S-NOM (NP-SBJ *-4)
+			(VP declaring
+			    (NP (NP a four-cents-a-share dividend)
+				,
+				(SBAR (WHNP-3 0)
+				      (S (NP-SBJ-1 *T*-3)
+					 (VP to
+					     (VP be
+						 (VP paid
+						     (NP *-1)
+						     (ADVP-TMP quarterly)
+						     (PP on
+							 (NP post-split shares))))))))))))
+     .))

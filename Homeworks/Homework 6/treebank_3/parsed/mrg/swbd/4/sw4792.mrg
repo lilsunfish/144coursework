@@ -1,0 +1,1769 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( (CODE (SYM SpeakerA1) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) 
+      (NP-PRD 
+        (NP (NNP Nevin) )
+        (PP (IN from) 
+          (NP 
+            (NP (NNP Sunnyvale) )
+            (, ,) 
+            (NP (NNP California) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB2) (. .) ))
+( (INTJ (UH Hi) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (DT this) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (NNP Jim) (NNP Bliss) )
+        (PP (IN from) 
+          (NP 
+            (NP (NNP Minneapolis) )
+            (, ,) 
+            (NP (NNP Minnesota) )))))
+    (. .) (-DFL- E_S) ))
+( (SBARQ 
+    (WHADVP-1 (WRB How) )
+    (SQ 
+      (NP-SBJ (PRP you) )
+      (VP (VBG doing) 
+        (ADVP-MNR (-NONE- *T*-1) )))
+    (. ?) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA3) (. .) ))
+( (ADVP-MNR (RB Pretty) (JJ good) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB4) (. .) ))
+( (INTJ (UH Good) (. .) (-DFL- E_S) ))
+( (S 
+    (INTJ (UH Uh) )
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP guess) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN topic) )
+          (VP (VBZ is) 
+            (UCP-PRD 
+              (NP 
+                (NP (NN trial) )
+                (PP (IN by) 
+                  (NP (NN jury) )))
+              (CC and) 
+              (SBAR 
+                (SBAR 
+                  (WHADVP-2 (WRB how) )
+                  (S 
+                    (NP-SBJ (PRP we) )
+                    (VP (MD should) 
+                      (VP (VB change) 
+                        (NP (DT that) )
+                        (ADVP-MNR (-NONE- *T*-2) )))))
+                (CC or) 
+                (SBAR 
+                  (WHADVP-1 (WRB how) )
+                  (S 
+                    (NP-SBJ (PRP we) )
+                    (VP (MD would) 
+                      (VP (VB change) 
+                        (NP (PRP it) )
+                        (ADVP-MNR (-NONE- *T*-1) )))))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA5) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB6) (. .) ))
+( (S 
+    (INTJ (UH Uh) )
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) 
+      (ADJP-PRD (JJ ready) )
+      (SBAR-TMP 
+        (WHADVP-1 (WRB whenever) )
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP are) 
+            (ADJP-PRD (-NONE- *?*) )
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA7) (. .) ))
+( (INTJ (UH Okay) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB8) (. .) ))
+( (SBARQ 
+    (INTJ (UH So) )
+    (, ,) 
+    (INTJ (UH uh) )
+    (, ,) 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (SBARQ 
+        (WHNP (WP what) )
+        (SQ-UNF (VBP are) 
+          (NP-SBJ-UNF (PRP$ your) )))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (WHNP-1 (WP what) )
+    (SQ (VBP are) 
+      (NP-SBJ 
+        (NP (PRP$ your) 
+          (RS (-DFL- \]) )
+          (NNS thoughts) )
+        (PP (IN on) 
+          (NP (DT the) (NN subject) )))
+      (NP-PRD (-NONE- *T*-1) )
+      (ADVP (RB there) ))
+    (. ?) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA9) (. .) ))
+( (S 
+    (INTJ (UH Well) )
+    (NP-SBJ (PRP I) )
+    (ADVP (RB definitely) )
+    (VP (VBP think) 
+      (, ,)
+      (INTJ (UH like) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNS decisions) )
+          (VP (VBP have) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB be) 
+                  (ADJP-PRD (JJ unanimous) ))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB10) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP think) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT that) )
+          (VP (BES 's) 
+            (ADVP (RB probably) )
+            (NP-PRD (DT a) (JJ good) (NN thing) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA11) (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP (BES 's) 
+      (ADVP (RB probably) )
+      (NP-PRD (DT the) (JJS safest) (NN thing) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB12) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (PRN 
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP mean) ))
+      (, ,) )
+    (NP-SBJ 
+      (NP (PRP it) )
+      (S (-NONE- *EXP*-1) ))
+    (VP (BES 's) 
+      (ADJP-PRD 
+        (TYPO (^RB to) )
+        (JJ easy) )
+      (S-1 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB get) 
+            (NP (DT a) (NN quorum) )))))
+    (-DFL- E_S) ))
+( (CODE (SYM SpeakerA13) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB14) (. .) ))
+( (S 
+    (CC and)
+    (NP-SBJ (JJ simple) (NN majority) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB do) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA15) (. .) ))
+( (INTJ (UH No) (. .) (-DFL- E_S) ))
+( (S (CC And) 
+    (ADVP (RB even) )
+    (INTJ (UH like) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP know) ))
+      (, ,) )
+    (NP-TPC (NNS two-thirds) (NN majority) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP mean) ))
+      (, ,) )
+    (NP-SBJ (PRP it) )
+    (VP-UNF (BES 's) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB16) (. .) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (DT that) )
+    (VP-UNF (BES 's) )
+    (, ,) (-DFL- N_S) ))
+( (INTJ (UH yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (NNS quorums) )
+    (VP (VBP are) 
+      (ADJP-PRD 
+        (TYPO (^RB to) )
+        (JJ easy) 
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB get) 
+                (NP (-NONE- *T*-1) )))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA17) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB18) (. .) ))
+( (S (CC And) 
+    (NP-SBJ (EX there) )
+    (VP (BES 's) 
+      (ADVP-TMP (RB always) )
+      (EDITED 
+        (RM (-DFL- \[) )
+        (NP-PRD-UNF (DT that) )
+        (, ,) 
+        (IP (-DFL- \+) ))
+      (NP-PRD (DT that) 
+        (RS (-DFL- \]) )
+        (JJ chance) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (QP (CD one) (CC or) (CD two) )
+              (NNS people) )
+            (VP (MD could) 
+              (VP (VB be) 
+                (VP (VBG playing) 
+                  (NP 
+                    (NP (NN devil) (POS 's) )
+                    (NN advocate) )
+                  (PP-PRP (IN for) 
+                    (NP (DT a) (JJ good) (NN reason) ))))))))
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP know) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA19) (. .) ))
+( (CODE (SYM SpeakerB20) (. .) ))
+( (S (RB So) 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP-UNF (BES 's) ))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP it) )
+    (VP-UNF (BES 's) )
+    (RS (-DFL- \]) )
+    (-DFL- N_S) ))
+( (CODE (SYM SpeakerA21) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB22) (. .) ))
+( (ADVP (RB definitely) (-DFL- E_S) ))
+( (S (CC but) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB know) ))
+    (. .) (-DFL- E_S) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP-UNF (MD could) ))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP I) )
+    (VP (MD could) (RB n't) 
+      (RS (-DFL- \]) )
+      (VP (VB believe) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBD suggested) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ (NNS judges) )
+                  (VP (MD should) 
+                    (VP (VB be) 
+                      (VP (VBG doing) 
+                        (NP (DT the) (NN sentencing) )))))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA23) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (-NONE- *) )
+    (INTJ (UH Like) )
+    (VP (VBZ Gives) 
+      (NP (PRP them) )
+      (NP 
+        (ADJP 
+          (NP-ADV (DT a) (RB little) )
+          (RB too) (JJ much) )
+        (NN power) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB24) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ-UNF (XX Tha-) )
+    (, ,) (-DFL- N_S) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (NP-SBJ (PRP I) )
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP I) )
+    (RS (-DFL- \]) )
+    (VP (VBP know) 
+      (PP (IN of) 
+        (NP 
+          (NP (DT a) (NN couple) )
+          (PP (IN of) 
+            (NP (NNS people) ))
+          (PRN 
+            (ADVP (IN at) (JJS least) ))
+          (SBAR 
+            (WHNP-1 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (MD would) 
+                (VP (VB be) 
+                  (VP 
+                    (VP (VBG arguing) 
+                      (PP (IN with) 
+                        (NP (DT that) )))
+                    (. .) (CC Or) 
+                    (VP (VBG arguing) 
+                      (PP (IN against) 
+                        (NP (DT that) )))
+                    (ADVP-MNR (RB pretty) (RB vehemently) )))))))))
+    (. .) (-DFL- E_S) ))
+( (S-UNF (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA25) (. .) ))
+( (S (CC Plus) 
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP know) ))
+      (, ,) )
+    (NP-SBJ (PRP you) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (PRN 
+          (, ,)
+          (S 
+            (NP-SBJ (PRP you) )
+            (VP (VBP know) ))
+          (, ,) )
+        (VP (VBG doing) 
+          (PRN 
+            (, ,)
+            (S 
+              (NP-SBJ (PRP you) )
+              (VP (VBP know) ))
+            (, ,) )
+          (EDITED 
+            (RM (-DFL- \[) )
+            (NP-UNF (DT a) )
+            (, ,) 
+            (IP (-DFL- \+) ))
+          (NP (DT a) 
+            (RS (-DFL- \]) )
+            (JJ guilty) (NN verdict) ))))
+    (-DFL- E_S) ))
+( (S (CC but) 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (MD may) (RB not) 
+          (VP-UNF (VB be) )))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (PRN 
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP know) ))
+      (, ,) )
+    (NP-SBJ (PRP it) )
+    (VP (MD may) 
+      (VP (VB be) 
+        (RS (-DFL- \]) )
+        (PP-PRP-PRD (IN for) 
+          (NP (JJ technical) (NNS reasons) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB26) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ 
+      (NP (RB About) (DT the) (JJ only) (JJ good) (NN thing) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (PRP I) )
+          (VP (MD would) 
+            (VP (VB say) 
+              (NP (-NONE- *T*-1) )))))
+      (PP (IN about) 
+        (NP (DT that) )))
+    (VP (VBZ is) 
+      (SBAR-PRD 
+        (EDITED 
+          (RM (-DFL- \[) )
+          (SBAR-PRD (-NONE- 0) 
+            (S 
+              (NP-SBJ (PRP it) )
+              (VP-UNF (XX w-) )))
+          (, ,) 
+          (IP (-DFL- \+) ))
+        (IN that) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (, ,)
+            (RS (-DFL- \]) )
+            (INTJ (UH uh) )
+            (, ,) 
+            (VP (VB hurry) 
+              (NP (DT the) (NN process) )
+              (PRT (RP up) )
+              (NP-ADV (DT a) (NN bit) ))))))
+    (-DFL- E_S) ))
+( (CODE (SYM SpeakerA27) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB28) (. .) ))
+( (S (CC but) 
+    (PRN 
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP mean) )))
+    (ADVP-TMP (RB even) (RB now) )
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP we) )
+        (VP (VBP 've) 
+          (VP-UNF (VBN got) )))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP I) )
+    (VP (VBP know) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP we) )
+          (VP (VBP 've) 
+            (VP (VBN got) 
+              (RS (-DFL- \]) )
+              (NP 
+                (NP (NN plenty) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS cases) )
+                    (PP (IN out) 
+                      (ADVP (RB there) ))
+                    (SBAR 
+                      (WHADVP-2 (WRB where) )
+                      (S 
+                        (NP-SBJ-1 (NNS people) )
+                        (VP (VBP have) 
+                          (VP (VBN been) 
+                            (VP 
+                              (VP 
+                                (ADVP-MNR (RB wrongly) )
+                                (VBN convicted) 
+                                (NP (-NONE- *-1) ))
+                              (CC and) 
+                              (NP-ETC 
+                                (NP (NNS things) )
+                                (PP (IN like) 
+                                  (NP (DT that) )))
+                              (ADVP (-NONE- *T*-2) ))))))))))))))
+    (-DFL- E_S) ))
+( (S 
+    (CC and)
+    (NP-SBJ (DT that) )
+    (VP (BES 's) 
+      (SBAR-NOM-PRD 
+        (WHNP (WP what) )
+        (S-UNF 
+          (NP-SBJ 
+            (NP (DT the) (NN trial) )
+            (PP (IN by) 
+              (NP (NN jury) ))))))
+    (. .) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA29) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP-UNF (VBP know) 
+      (X (XX MUMBLEx) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB30) (. .) ))
+( (FRAG 
+    (PRN 
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP (VBP mean) ))
+      (, ,) )
+    (INTJ (UH jeez) )))
+( (SBARQ 
+    (SBAR-ADV 
+      (EDITED 
+        (RM (-DFL- \[) )
+        (SBAR-ADV-UNF (IN if) )
+        (, ,) 
+        (IP (-DFL- \+) ))
+      (IN if) 
+      (RS (-DFL- \]) )
+      (S 
+        (NP-SBJ (DT the) (NN judge) )
+        (VP (VBD was) 
+          (VP (VBG doing) 
+            (NP (PRP it) )
+            (NP-ADV (PRP himself) )
+            (, ,) 
+            (PP (IN without) 
+              (NP (DT any) (NNS checks) 
+                (CC and)
+                (NNS balances) ))))))
+    (WHNP-1 (WP who) )
+    (S 
+      (NP-SBJ-2 (-NONE- *T*-1) )
+      (VP (BES 's) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB say) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA31) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB32) (. .) ))
+( (CODE (SYM SpeakerA33) (. .) ))
+( (S-UNF 
+    (NP-SBJ (PRP It) )
+    (, ,) (-DFL- N_S) ))
+( (S 
+    (NP-SBJ (EX there) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP 
+            (ADJP (RB much) (JJR more) ))
+          (PP (IN of) 
+            (NP (DT that) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB34) (. .) ))
+( (INTJ (UH Yeah) (-DFL- E_S) ))
+( (NP-ADV (DT no) (NN doubt) (. .) (-DFL- E_S) ))
+( (SQ (VBP Are) 
+    (NP-SBJ (PRP you) )
+    (ADJP-PRD (JJ involved) 
+      (PP (IN in) 
+        (NP (DT the) (JJ legal) (NN system) ))
+      (ADVP (IN at) 
+        (NP (DT all) )))
+    (. ?) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA35) (. .) ))
+( (INTJ (UH No) (. .) (-DFL- E_S) ))
+( (S (CC But) 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (NP-SBJ (PRP I) )
+      (IP (-DFL- \+) )
+      (. .) )
+    (NP-SBJ-1 (PRP I) )
+    (RS (-DFL- \]) )
+    (VP (VBP tend) 
+      (S 
+        (NP-SBJ-3 (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB follow) 
+            (NP (PRP it) )
+            (S-PRP 
+              (NP-SBJ (-NONE- *-3) )
+              (EDITED 
+                (RM (-DFL- \[) )
+                (ADVP (RB just) )
+                (VP-UNF (TO to) )
+                (, ,) 
+                (IP (-DFL- \+) ))
+              (ADVP (RB just) )
+              (VP (TO to) 
+                (RS (-DFL- \]) )
+                (VP (VB know) 
+                  (SBAR 
+                    (WHNP-2 (WP what) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-2) )
+                      (VP (BES 's) 
+                        (VP (VBG going) 
+                          (PRT (RP on) ))))))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB36) (. .) ))
+( (INTJ (UH Okay) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA37) (. .) ))
+( (CODE (SYM SpeakerB38) (. .) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (INTJ (UH yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 've) 
+      (VP (VBN got) 
+        (NP 
+          (NP (DT some) (NNS friends) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-1) )
+              (VP (VBP are) 
+                (NP-PRD (NNS lawyers) )))))))
+    (-DFL- E_S) ))
+( (S-UNF (RB so) (. .) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA39) (. .) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP do) 
+      (ADVP (RB too) ))
+    (-DFL- E_S) ))
+( (S-UNF (RB so) (. .) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB40) (. .) ))
+( (S 
+    (NP-SBJ 
+      (NP (CD One) )
+      (PP (IN of) 
+        (NP (PRP them) )))
+    (ADVP (RB just) )
+    (VP (VBD got) 
+      (NP (PRP$ his) (NN law) (NN degree) ))
+    (. .) (-DFL- E_S) ))
+( (S (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO to) 
+        (VP (VB tell) 
+          (NP (PRP you) )
+          (NP (DT the) (NN truth) ))))
+    (, ,) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) (RB not) 
+      (ADJP-PRD (RB real) (JJ familiar) 
+        (PP (IN with) 
+          (, ,)
+          (INTJ (UH uh) )
+          (, ,) 
+          (NP 
+            (NP 
+              (NP (DT the) (NN system) )
+              (PP (IN of) 
+                (EDITED 
+                  (RM (-DFL- \[) )
+                  (NP-UNF (NN juris-) )
+                  (, ,) 
+                  (IP (-DFL- \+) ))
+                (NP (NN jurisprudence) )))
+            (RS (-DFL- \]) )
+            (NP 
+              (NP (DT the) (NN way) )
+              (SBAR 
+                (WHADVP-1 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ is) 
+                    (ADVP-MNR-PRD (-NONE- *T*-1) )
+                    (ADVP-TMP (RB right) (RB now) )))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA41) (. .) ))
+( (INTJ (UH No) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB42) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (ADVP (RB really) )
+    (VP (VBP have) (RB n't) 
+      (VP (VBN studied) 
+        (NP (PRP it) )
+        (PP (IN in) 
+          (NP (NN depth) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA43) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP 
+      (VP (VBP know) 
+        (NP 
+          (NP 
+            (ADJP 
+              (NP-ADV (DT a) (RB little) )
+              (JJR more) ))
+          (PP (IN about) 
+            (NP 
+              (NP (JJ civil) (NNS cases) )
+              (EDITED 
+                (RM (-DFL- \[) )
+                (WHADVP (WRB when) )
+                (, ,) 
+                (IP (-DFL- \+) ))
+              (PP (IN than) 
+                (RS (-DFL- \]) )
+                (NP (JJ criminal) (NNS cases) ))))))
+      (. .) 
+      (SBAR 
+        (WHNP-1 (WDT Which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP-UNF (VBZ is) ))))
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB44) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA45) (. .) ))
+( (S 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (ADVP (JJR more) )
+      (PP-PRD (IN in) 
+        (SBAR 
+          (SBAR 
+            (WHADVP-1 (WRB how) )
+            (S 
+              (NP-SBJ (PRP you) )
+              (VP (VBP present) 
+                (NP (PRP it) )
+                (ADVP-MNR (-NONE- *T*-1) ))))
+          (PP (IN versus) 
+            (PRN 
+              (, ,)
+              (S 
+                (NP-SBJ (PRP you) )
+                (VP (VBP know) ))
+              (, ,) )
+            (SBAR-NOM 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (BES 's) 
+                  (ADJP-PRD (JJ right) ))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB46) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) 
+      (ADJP-PRD (JJ sure) 
+        (PP (IN of) 
+          (NP (PRP it) ))))
+    (. .) (-DFL- E_S) ))
+( (SBAR-PRP (IN Because) 
+    (S 
+      (NP-ADV 
+        (NP (DT a) (NN lot) )
+        (PP (IN of) 
+          (NP (DT those) (NNS things) )))
+      (, ,) 
+      (EDITED 
+        (RM (-DFL- \[) )
+        (EDITED 
+          (RM (-DFL- \[) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP-UNF (BES 's) (DT all) ))
+          (, ,) 
+          (IP (-DFL- \+) ))
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (BES 's) 
+            (PP-PRD-UNF (IN in) )))
+        (, ,) 
+        (RS (-DFL- \]) )
+        (IP (-DFL- \+) ))
+      (NP-SBJ (PRP it) )
+      (VP (BES 's) 
+        (RS (-DFL- \]) )
+        (ADVP (RB largely) )
+        (NP-PRD 
+          (NP (DT a) (NN matter) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN viewpoint) )
+              (. .) (CC And) 
+              (SBAR-NOM 
+                (WHNP-1 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-1) )
+                  (VP (MD can) 
+                    (VP (VB argue) 
+                      (NP (PRP$ their) (NN case) )
+                      (ADVP-MNR (RBR better) ))))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA47) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB48) (. .) ))
+( (CODE (SYM SpeakerA49) (. .) ))
+( (CODE (SYM SpeakerB50) (. .) ))
+( (S 
+    (INTJ (UH Uh) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (ADJP-PRD 
+        (ADVP (RB kind) (RB of) )
+        (JJ weird) ))
+    (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB know) ))
+    (, ,) (-DFL- E_S) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (NP-SBJ (PRP you) )
+      (IP (-DFL- \+) ))
+    (NP-SBJ-1 (PRP I) )
+    (RS (-DFL- \]) )
+    (ADVP-TMP (RB always) )
+    (VP (VBP think) 
+      (PP (IN about) 
+        (UCP 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG watching) 
+              (NP 
+                (NP-TTL 
+                  (NP (DT the) (NNS PEOPLE) (POS 'S) )
+                  (NN COURT) )
+                (CC or) 
+                (NP (NN something) ))))
+          (. .) (CC And) 
+          (SBAR 
+            (WHADJP-2 (WRB how) (JJ weird) )
+            (S 
+              (NP-SBJ (DT those) (NNS cases) )
+              (VP (VBP get) 
+                (ADJP-PRD (-NONE- *T*-2) )))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA51) (. .) ))
+( (CODE (SYM SpeakerB52) (. .) ))
+( (CODE (SYM SpeakerA53) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP know) )
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB54) (. .) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP-UNF (BES 's) 
+      (ADVP (RB just) ))
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA55) (. .) ))
+( (SBAR-TMP 
+    (WHADVP-1 (WRB When) )
+    (S 
+      (NP-SBJ (PRP I) )
+      (VP (VBD was) 
+        (, ,)
+        (ADVP-TMP 
+          (NP 
+            (NP (DT a) (NN couple) )
+            (PP (IN of) 
+              (NP (NNS years) )))
+          (RB ago) )
+        (, ,) 
+        (ADJP-PRD (JJ involved) 
+          (PP (IN in) 
+            (NP (DT some) (JJ pretrial) (NN stuff) )))
+        (ADVP-TMP (-NONE- *T*-1) )
+        (X 
+          (CC and)
+          )))
+    (-DFL- N_S) ))
+( (CODE (SYM SpeakerB56) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA57) (. .) ))
+( (S 
+    (INTJ (UH like) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (VBP know) ))
+      (, ,) )
+    (NP-SBJ (PRP you) )
+    (EDITED 
+      (RM (-DFL- \[) )
+      (VP-UNF (VBP go) )
+      (IP (-DFL- \+) ))
+    (VP (VB say) 
+      (RS (-DFL- \]) )
+      (S-SEZ 
+        (INTJ (UH okay) )
+        (, ,) 
+        (NP-SBJ (PRP we) )
+        (VP (MD ca) (RB n't) 
+          (VP (VB bring) 
+            (PRT (RP up) )
+            (NP (DT this) (NN point) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (ADVP (RB then) )
+                (NP-SBJ-1 (PRP they) )
+                (VP (VBP 're) 
+                  (VP (VBG going) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP-UNF (IN to) 
+                        (PRN 
+                          (, ,)
+                          (S 
+                            (NP-SBJ (PRP you) )
+                            (VP (VBP know) )))))))))))))
+    (, ,) (-DFL- N_S) ))
+( (S 
+    (NP-SBJ (DT the) (NN opposition) )
+    (VP (MD will) 
+      (VP (VB say) 
+        (FRAG 
+          (NP-UNF (DT this) 
+            (, ,)
+            (DT this) 
+            (CC and)
+            (DT this) 
+            (CC and)
+            ))))
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB58) (. .) ))
+( (INTJ (UH Uh-huh) (. .) (-DFL- E_S) ))
+( (S (CC And) 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (INTJ (IN like) )
+      (, ,) 
+      (S-SEZ 
+        (INTJ (UH boy) )
+        (, ,) 
+        (NP-SBJ 
+          (NP (DT the) (NN stuff) )
+          (SBAR 
+            (WHNP-1 (WDT that) )
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (MD can) 
+                (VP (VB twist) 
+                  (NP (-NONE- *T*-1) )
+                  (ADVP (RB around) ))))))
+        (VP-UNF (VBZ is) )))
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA59) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB60) (. .) ))
+( (S 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (ADJP-PRD (RB pretty) (JJ amazing) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA61) (. .) ))
+( (S (CC And) 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (SBAR-PRD (IN like) 
+        (S 
+          (EDITED 
+            (RM (-DFL- \[) )
+            (NP-SBJ-UNF (DT the) )
+            (, ,) 
+            (IP (-DFL- \+) ))
+          (NP-SBJ (DT the) 
+            (RS (-DFL- \]) )
+            (NN truth) )
+          (VP (VBZ is) (RB n't) 
+            (ADVP (RB really) )
+            (ADJP-PRD (JJ important) )
+            (ADVP-TMP (RB anymore) )))))
+    (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP-UNF (BES 's) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB62) (. .) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP it) )
+    (VP-UNF (BES 's) (RB not) )
+    (. .) (-DFL- E_S) ))
+( (S 
+    (CONJP (CC And) (RB then) )
+    (NP-SBJ (PRP you) )
+    (VP (VBP get) 
+      (NP 
+        (NP (NNS people) )
+        (SBAR 
+          (EDITED 
+            (RM (-DFL- \[) )
+            (WHNP (WP who) )
+            (, ,) 
+            (IP (-DFL- \+) ))
+          (WHNP-1 (WP who) )
+          (RS (-DFL- \]) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBP bring) 
+              (ADVP (IN in) )
+              (NP (NNS cases) )
+              (SBAR-PRP (RB just) (IN because) 
+                (S 
+                  (NP-SBJ-2 (PRP they) )
+                  (VP (VBP want) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB bring) 
+                          (NP (PRP them) )
+                          (PRT (RP up) )))))))
+              (SBAR-PRP-UNF (RB just) (RB because) ))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA63) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB64) (. .) ))
+( (S 
+    (INTJ (UH Like) )
+    (EDITED 
+      (RM (-DFL- \[) )
+      (NP-UNF (DT this) )
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ 
+      (NP (DT this) 
+        (RS (-DFL- \]) )
+        (NN friend) )
+      (PP (IN of) 
+        (NP (PRP mine) )))
+    (VP (BES 's) 
+      (ADJP-PRD (RB pretty) (JJ obnoxious) ))
+    (-DFL- E_S) ))
+( (S 
+    (CC and)
+    (NP-SBJ-1 (PRP he) )
+    (ADVP (RB really) )
+    (VP (VBZ gets) 
+      (PP (IN into) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG suing) 
+            (NP (NNS people) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA65) (. .) ))
+( (CODE (SYM SpeakerB66) (. .) ))
+( (S 
+    (CONJP (CC And) (RB so) )
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP-UNF (MD 'll) ))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP he) )
+    (VP (MD 'll) 
+      (RS (-DFL- \]) )
+      (VP (VB sue) 
+        (NP 
+          (ADVP (RB just) (RB about) )
+          (NN anybody) )
+        (PP 
+          (ADVP (RB just) )
+          (IN for) 
+          (NP (DT the) (NN chance) 
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB get) 
+                    (PP (IN into) 
+                      (NP (NN court) )))
+                  (, ,) 
+                  (CC and)
+                  (VP (VB argue) 
+                    (NP (PRP$ his) (NN case) )))))))
+        (PRN 
+          (S 
+            (NP-SBJ (PRP you) )
+            (VP (VBP know) )))))
+    (, ,) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA67) (. .) ))
+( (CODE (SYM SpeakerB68) (. .) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (EDITED 
+        (RM (-DFL- \[) )
+        (EDITED 
+          (RM (-DFL- \[) )
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP-UNF (BES 's) 
+              (X (IN like) )))
+          (, ,) 
+          (IP (-DFL- \+) ))
+        (S 
+          (NP-SBJ (PRP It) )
+          (VP-UNF (VBZ is) ))
+        (. .) 
+        (RS (-DFL- \]) )
+        (IP (-DFL- \+) ))
+      (S 
+        (NP-SBJ (PRP It) )
+        (VP-UNF (BES 's) ))
+      (, ,) 
+      (RS (-DFL- \]) )
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (RS (-DFL- \]) )
+      (VP (VBG wasting) 
+        (NP 
+          (NP 
+            (NP (NNS people) (POS 's) )
+            (NN time) )
+          (CC and) 
+          (NP 
+            (NP (DT the) (NNS taxpayers) (POS ') )
+            (NN money) )
+          (CC and) 
+          (NP 
+            (NP (NN everything) )
+            (ADVP (RB else) )))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA69) (. .) ))
+( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ sounds) 
+      (PP (IN like) 
+        (NP 
+          (NP (DT a) (JJ little) (NN abuse) )
+          (PP (IN of) 
+            (NP (PRP$ our) (NN system) )))))
+    (-DFL- E_S) ))
+( (S-UNF (CC but) 
+    (, ,)
+    (-DFL- N_S) ))
+( (CODE (SYM SpeakerB70) (. .) ))
+( (S-UNF (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA71) (. .) ))
+( (INTJ (UH Yeah) (-DFL- E_S) ))
+( (S (CC but) 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) 
+      (PP-PRD (IN for) 
+        (NP-UNF (DT the) 
+          (ADJP (RBR more) (JJ general) ))))
+    (, ,) (-DFL- N_S) ))
+( (S 
+    (NP-SBJ-1 (NNS people) )
+    (VP (VBP do) (RB n't) 
+      (VP (VB want) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB take) 
+              (NP (NN responsibility) ))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB72) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA73) (. .) ))
+( (S 
+    (PRN 
+      (S 
+        (NP-SBJ (PRP You) )
+        (VP (VBP know) ))
+      (, ,) )
+    (NP-SBJ (PRP it) )
+    (VP-UNF (BES 's) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB74) (. .) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (CC And) 
+      (, ,)
+      (IP (-DFL- \+) ))
+    (CC and) 
+    (RS (-DFL- \]) )
+    (NP-TMP 
+      (NP (JJS most) )
+      (PP (IN of) 
+        (NP (DT the) (NN time) )))
+    (NP-SBJ-1 (PRP they) )
+    (VP (VBP 're) 
+      (VP (VBG looking) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP 
+              (VP (VB place) 
+                (NP (NN blame) ))
+              (. .) 
+              (INTJ (UH Uh) )
+              (CC and) 
+              (NP-ETC (NN stuff) ))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA75) (. .) ))
+( (INTJ (UH Yep) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB76) (. .) ))
+( (S 
+    (INTJ (UH See) )
+    (, ,) 
+    (NP-SBJ (PRP you) )
+    (VP (VBP 're) 
+      (PP-PRD (IN from) 
+        (NP (NNP California) )))
+    (, ,) (-DFL- E_S) ))
+( (SQ (VBZ is) 
+    (NP-SBJ (DT that) )
+    (ADJP-PRD (JJ right) )
+    (. ?) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA77) (. .) ))
+( (INTJ 
+    (INTJ (UH Uh) )
+    (, ,) 
+    (INTJ (UH yeah) )
+    (. .) (-DFL- E_S) ))
+( (FRAG 
+    (INTJ (UH Well) )
+    (ADVP (RB originally) )
+    (PP-PRD (IN from) 
+      (NP (NNP Chicago) ))
+    (-DFL- E_S) ))
+( (S-UNF (CC but) 
+    (, ,)
+    (-DFL- N_S) ))
+( (CODE (SYM SpeakerB78) (. .) ))
+( (INTJ 
+    (INTJ (UH Oh) )
+    (, ,) 
+    (INTJ (UH okay) )
+    (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBD was) 
+      (ADVP (RB just) )
+      (VP (VBG thinking) ))
+    (-DFL- E_S) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP I) )
+        (VP-UNF (VBP wonder) ))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP I) )
+    (VP (VBP wonder) 
+      (RS (-DFL- \]) )
+      (SBAR 
+        (EDITED 
+          (RM (-DFL- \[) )
+          (WHADVP (WRB how) )
+          (, ,) 
+          (IP (-DFL- \+) ))
+        (WHADVP-2 (WRB how) )
+        (RS (-DFL- \]) )
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (JJ civil) (NN system) )
+            (CC or) 
+            (NP (DT the) (NN court) (NN system) ))
+          (VP (MD must) 
+            (VP (VB differ) 
+              (PP (IN between) 
+                (UCP 
+                  (ADVP-LOC (RB there) )
+                  (CC and) 
+                  (PRN 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VB say) 
+                        (FRAG 
+                          (SBAR (-NONE- *RNR*-3) )))))
+                  (SBAR-NOM-3 
+                    (WHADVP-1 (WRB where) )
+                    (S 
+                      (NP-SBJ (PRP I) )
+                      (VP (VBP am) 
+                        (ADVP-LOC-PRD (-NONE- *T*-1) )
+                        (PP-LOC (IN in) 
+                          (NP (NNP Minneapolis) )))))))
+              (ADVP-MNR (-NONE- *T*-2) ))))))
+    (. .) ))
+( (X (XX MUMBLEx) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA79) (. .) ))
+( (S-UNF 
+    (NP-SBJ (PRP I) )
+    (ADVP (RB really) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB80) (. .) ))
+( (S 
+    (PP (IN From) 
+      (SBAR-NOM 
+        (WHNP-1 (WP what) )
+        (S 
+          (NP-SBJ (PRP I) )
+          (VP (VBP understand) 
+            (NP (-NONE- *T*-1) )))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (BES 's) (DT all) 
+      (ADVP (JJ pretty) )
+      (NP-PRD (DT the) (JJ same) )
+      (PP (IN except) 
+        (SBAR-TMP 
+          (WHADVP-2 (WRB when) )
+          (S 
+            (NP-SBJ (PRP you) )
+            (VP (VBP get) 
+              (PP (IN to) 
+                (NP (NNP Louisiana) ))
+              (ADVP-TMP (-NONE- *T*-2) ))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA81) (. .) ))
+( (CODE (SYM SpeakerB82) (. .) ))
+( (S (CC And) 
+    (NP-SBJ (NNP Louisiana) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB completely) (JJ different) )
+      (SBAR-PRP (IN cause) 
+        (S 
+          (EDITED 
+            (S 
+              (NP-SBJ-1 (PRP it) )
+              (VP (VBD was) 
+                (VP (VBN based) 
+                  (NP (-NONE- *-1) )
+                  (PP (IN on) 
+                    (NP-UNF (DT the) ))))))
+          (, ,) (-DFL- N_S) 
+          (PRN 
+            (SBARQ 
+              (WHNP-1 (WP what) )
+              (SQ (VBZ is) 
+                (NP-SBJ (PRP it) )
+                (NP-PRD (-NONE- *T*-1) )))
+            (, ,) )
+          (-DFL- E_S) 
+          (NP-SBJ-1 (PRP it) )
+          (VP (BES 's) 
+            (VP (VBN based) 
+              (NP (-NONE- *-1) )
+              (PP (IN on) 
+                (NP (JJ common) (NN law) )))))))
+    (-DFL- E_S) ))
+( (S 
+    (CC and)
+    (NP-SBJ 
+      (NP (DT the) (NN rest) )
+      (PP (IN of) 
+        (NP (DT the) (NN country) )))
+    (VP 
+      (VP (VBZ is) (RB not) 
+        (VP (-NONE- *?*) ))
+      (CC or) 
+      (NP-ETC 
+        (NP (NN something) )
+        (PP (IN like) 
+          (NP (DT that) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA83) (. .) ))
+( (INTJ (UH Uh-huh) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB84) (. .) ))
+( (CODE (SYM SpeakerA85) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB86) (. .) ))
+( (ADJP (RB Pretty) (JJ strange) (. .) (-DFL- E_S) ))
+( (S (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) 
+    (ADVP (RB fortunately) )
+    (NP-SBJ-1 (PRP I) )
+    (ADVP-TMP (RB never) )
+    (VP (VBP have) 
+      (VP (VBN had) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB go) 
+              (ADVP-DIR (IN in) )
+              (PP 
+                (EDITED 
+                  (RM (-DFL- \[) )
+                  (ADVP (RB even) )
+                  (, ,) 
+                  (IP (-DFL- \+) ))
+                (ADVP (RB even) )
+                (RS (-DFL- \]) )
+                (IN for) 
+                (NP (NN jury) (NN duty) )))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA87) (. .) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP have) (RB n't) 
+      (VP (-NONE- *?*) 
+        (ADVP (RB either) )
+        (ADVP (JJ other) 
+          (PP-UNF (IN than) ))))
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerB88) (. .) ))
+( (S (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT that) (NN friend) )
+      (PP (IN of) 
+        (NP (PRP mine) )))
+    (VP (BES 's) 
+      (VP (VBG telling) 
+        (NP (PRP me) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP I) )
+            (VP (MD might) 
+              (VP (VB have) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB go) 
+                      (ADVP-DIR (RB in) )
+                      (EDITED 
+                        (RM (-DFL- \[) )
+                        (PP-UNF (IN for) )
+                        (, ,) 
+                        (IP (-DFL- \+) ))
+                      (INTJ (UH uh) )
+                      (, ,) 
+                      (PP (IN as) 
+                        (RS (-DFL- \]) )
+                        (NP (DT a) (NN witness) )))))))))))
+    (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP He) )
+    (VP (MD may) 
+      (VP (VB subpoena) 
+        (NP (PRP me) )))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA89) (. .) ))
+( (CODE (SYM SpeakerB90) (. .) ))
+( (S (RB So) 
+    (NP-SBJ (PRP we) )
+    (VP (MD 'll) 
+      (VP (VB see) 
+        (SBAR 
+          (WHNP-1 (WP what) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (VBZ happens) )))))
+    (. .) (-DFL- E_S) ))
+( (S-UNF (CC But) 
+    (, ,)
+    (INTJ (UH uh) )
+    (, ,) (-DFL- N_S) ))
+( (CODE (SYM SpeakerA91) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) (RB not) 
+      (ADVP (RB really) )
+      (ADJP-PRD (JJ sure) 
+        (SBAR 
+          (WHADVP-2 (WRB how) )
+          (S 
+            (NP-SBJ-1 (PRP we) )
+            (VP (MD could) 
+              (VP (VB change) 
+                (NP (DT the) (JJ legal) (NN system) )
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB make) 
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (ADJP-PRD (JJR better) )))))
+                (ADVP-MNR (-NONE- *T*-2) )))))))
+    (. .) ))
+( (X (XX MUMBLEx) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB92) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (PRP It) )
+    (VP-UNF (BES 's) )
+    (, ,) (-DFL- N_S) ))
+( (S 
+    (NP-SBJ (EX there) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (ADJP (RB too) (JJ many) )
+        (JJ big) (NNS problems) )
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP know) ))))
+    (. .) (-DFL- E_S) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (EX There) )
+        (VP-UNF (BES 's) ))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (EX there) )
+    (VP (BES 's) 
+      (RS (-DFL- \]) )
+      (NP-PRD 
+        (NP (PDT such) (DT a) (NN backlog) )
+        (PP (IN of) 
+          (NP (NN court) (NNS cases) )))
+      (ADVP-TMP (RB right) (RB now) ))
+    (. .) ))
+( (S-UNF 
+    (PRN 
+      (S 
+        (NP-SBJ (PRP You) )
+        (VP (VBP know) ))
+      (, ,) )
+    (S-SBJ 
+      (NP-SBJ-1 (-NONE- *) )
+      (VP (TO to) 
+        (VP (VB try) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB get) 
+                (NP 
+                  (NP (PRP them) )
+                  (NP (DT all) ))
+                (RM (-DFL- \[) )
+                (PRT (IN in) )
+                (IP (-DFL- \+) )
+                (PP-TMP (IN in) 
+                  (RS (-DFL- \]) )
+                  (NP (DT a) (JJ good) (NN time) ))))))))
+    (-DFL- E_S) ))
+( (CODE (SYM SpeakerA93) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP know) )
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB94) (. .) ))
+( (S 
+    (CC and)
+    (NP-SBJ (PRP we) )
+    (ADVP-TMP (RB already) )
+    (VP (VBP have) 
+      (NP 
+        (ADJP (RB too) (JJ many) )
+        (NNS lawyers) )
+      (SBAR-ADV (IN as) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ is) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA95) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (S (CC And) 
+    (SBAR-ADV (IN if) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (BES 's) 
+          (NP-PRD (NN criminal) (NNS cases) ))))
+    (EDITED 
+      (RM (-DFL- \[) )
+      (NP-SBJ (PRP we) )
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP you) )
+    (RS (-DFL- \]) )
+    (VP (MD ca) (RB n't) 
+      (VP (VB put) 
+        (NP (PRP them) )
+        (PP-PUT (IN in) 
+          (NP (NN jail) ))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (BES 's) 
+              (NP-PRD 
+                (NP (DT no) (NN room) )
+                (VP (VBN left) 
+                  (NP (-NONE- *) ))))))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB96) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (INTJ (UH Yeah) 
+    (, ,)
+    (-DFL- E_S) ))
+( (S 
+    (NP-SBJ (DT that) )
+    (VP (BES 's) 
+      (ADJP-PRD (JJ true) ))
+    (. .) (-DFL- E_S) ))
+( (S (CC And) 
+    (, ,)
+    (PP (IN in) 
+      (NP (NN fact) ))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP 're) 
+      (ADVP (RB even) )
+      (VP (VBG letting) 
+        (S 
+          (NP-SBJ (DT some) )
+          (VP (VB go) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA97) (. .) ))
+( (INTJ (UH Yeah) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB98) (. .) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (EDITED 
+        (RM (-DFL- \[) )
+        (NP-SBJ (PRP I) )
+        (, ,) 
+        (IP (-DFL- \+) ))
+      (NP-SBJ (PRP I) )
+      (, ,) 
+      (RS (-DFL- \]) )
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) 
+      (RS (-DFL- \]) )
+      (ADVP (RB originally) )
+      (PP-PRD (IN from) 
+        (NP (NNP Florida) )))
+    (-DFL- E_S) ))
+( (S 
+    (CC and)
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (BES 's) 
+          (SBAR-PRD-UNF (IN like) )))
+      (IP (-DFL- \+) ))
+    (NP-SBJ (PRP it) )
+    (VP (VBZ seems) 
+      (SBAR (IN like) 
+        (RS (-DFL- \]) )
+        (S 
+          (NP-TMP (DT every) (NN year) )
+          (NP-SBJ (PRP they) )
+          (VP (VBP let) 
+            (PRT (RB out) )
+            (NP 
+              (ADJP (JJR more) 
+                (CC and)
+                (JJR more) ))
+            (SBAR-PRP (RB just) (IN cause) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (VP (VBP do) (RB n't) 
+                  (VP (VB have) 
+                    (NP 
+                      (NP (NN room) )
+                      (PP (IN for) 
+                        (NP (PRP them) ))))))))))
+      (PRN 
+        (, ,)
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP know) ))))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA99) (. .) ))
+( (INTJ (UH Huh) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB100) (. .) ))
+( (S 
+    (EDITED 
+      (RM (-DFL- \[) )
+      (S 
+        (NP-SBJ (DT That) )
+        (VP (BES 's) (RB not) 
+          (NP-PRD-UNF (DT a) )))
+      (, ,) 
+      (IP (-DFL- \+) ))
+    (NP-SBJ (DT that) )
+    (VP (BES 's) (RB not) 
+      (NP-PRD (DT a) 
+        (RS (-DFL- \]) )
+        (JJ good) (NN solution) )
+      (ADVP (RB either) ))
+    (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerA101) (. .) ))
+( (ADVP (RB Not) (IN at) (DT all) (. .) (-DFL- E_S) ))
+( (CODE (SYM SpeakerB102) (. .) ))
+( (S 
+    (NP-SBJ (PRP I) )
+    (VP (VBP 'm) (RB not) 
+      (ADJP-PRD (RB real) (JJ sure) 
+        (SBAR 
+          (WHNP (WP what) )
+          (S 
+            (NP-SBJ-UNF (DT the) )))))
+    (, ,) (-DFL- N_S) ))

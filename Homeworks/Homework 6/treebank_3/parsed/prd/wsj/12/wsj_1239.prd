@@ -1,0 +1,43 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Canadian retail sales)
+	      (VP rose
+		  (NP-EXT 0.2 %)
+		  (PP-TMP in
+			  (NP August))
+		  (PP-DIR from
+			  (NP-TMP July))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ The August increase)
+     (VP followed
+         (NP (NP a (ADJP 0.3 %) decline)
+             (PP-TMP in
+		     (NP July))))
+     .))
+( (S (S-TPC-2 (PP-TMP During
+		      (NP the past four months))
+	      ,
+	      (NP-SBJ-1 retail sales)
+	      (VP have
+		  (VP remained
+		      (ADJP-PRD generally weak)
+		      ,
+		      (S-ADV (NP-SBJ *-1)
+			     (VP advancing
+				 (NP (NP (NP an average)
+					 (NP 0.2 %))
+				     (NP-ADV a month)))))))
+     ,
+     (NP-SBJ the agency)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))

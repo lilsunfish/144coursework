@@ -1,0 +1,110 @@
+
+
+( (S (NP-SBJ (NP Canadian production)
+             (PP of
+                 (NP market pulp)))
+     (VP rose
+         (NP-EXT 1 %)
+         (PP-TMP in
+		 (NP September)
+		 (PP-TMP from
+			 (ADVP (NP a year)
+			       earlier)))
+	 (SBAR-ADV as
+		   (S (NP-SBJ the industry)
+		      (VP operated
+			  (PP-CLR at
+				  (NP (NP 87 %)
+				      (PP of
+					  (NP capacity))))))))
+     .))
+( (S (NP-SBJ (NP The Canadian Pulp and Paper Association)
+             ,
+             (NP an industry group)
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ Canadian mills)
+                  (VP produced
+                      (NP (NP 532,000 metric tons)
+			  (PP of
+			      (NP market pulp)))
+                      (PP-TMP in
+			      (NP September))
+                      ,
+                      (PP compared
+                          (PP with
+                              (NP (NP 527,000 metric tons)
+				  (ADVP-TMP (NP a year)
+					    earlier))))))))
+     .))
+( (S (NP-SBJ Market pulp)
+     (VP is
+         (NP-PRD (NP wood pulp)
+                 (VP sold
+                     (NP *)
+                     (PP-LOC on
+			     (NP the open market))
+                     (PP-CLR to
+			     (NP (NP producers)
+				 (PP of
+				     (NP (NP paper)
+					 and
+					 (NP other products))))))))
+     .))
+( (S (NP-SBJ The statistics)
+     (VP exclude
+         (NP (NP pulp)
+             (VP (VP consumed
+		     (NP *)
+		     (PP-LOC at
+			     (NP the producing mill)))
+                 or
+                 (VP shipped
+		     (NP *)
+		     (PP-DIR to
+			     (NP (NP another mill)
+				 (SBAR (WHNP-1 that)
+				       (S (NP-SBJ-2 *T*-1)
+					  (VP is
+					      (VP affiliated
+						  (NP *-2)
+						  (PP-CLR with
+							  (NP the producing mill))))))))))))
+     .))
+( (S (NP-SBJ Canada)
+     (VP is
+         (NP-PRD (NP (NP the world 's)
+		     largest producer)
+                 (PP of
+                     (NP market pulp))))
+     .))
+( (S (NP-SBJ The September (ADJP 87 %) operating rate)
+     (VP (VP compared
+             (PP-CLR with
+		     (NP (NP a rate)
+			 (PP of
+			     (NP 101 %))
+			 (PP-TMP in
+				 (NP August)))))
+         but
+         (VP was
+             (ADJP-PRD unchanged
+                       (PP-TMP from
+			       (ADVP (NP a year)
+				     earlier)))))
+     .))
+( (S (PP-TMP In
+	     (NP (NP the first nine months)
+		 (PP of
+		     (NP this year))))
+     (NP-SBJ output)
+     (VP was
+         (NP-PRD 5,377,000 metric tons)
+         ,
+         (ADVP down
+               (PP from
+                   (NP 5,441,000 metric tons)
+		   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))

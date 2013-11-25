@@ -1,0 +1,47 @@
+
+
+( (S (S-TPC-1 (NP-SBJ Canadian steel-ingot production)
+	      (VP totaled
+		  (NP 291,890 metric tons)
+		  (PP-TMP in
+			  (NP (NP the week)
+			      (VP ended
+				  (NP-TMP Oct. 7))))
+		  ,
+		  (ADVP up
+			(NP 14.8 %)
+			(PP from
+			    (NP (NP (NP the preceding week 's)
+				    total)
+				(PP of
+				    (NP 254,280 tons)))))))
+     ,
+     (NP-SBJ (NP Statistics Canada)
+	     ,
+	     (NP a federal agency)
+	     ,)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (NP-SBJ (NP The week 's)
+             total)
+     (VP was
+         (ADVP-PRD up
+                   (NP 6.2 %)
+                   (PP from
+                       (NP 274,963 tons)
+                       (ADVP-TMP (NP a year)
+				 earlier))))
+     .))
+( (S (NP-SBJ The year-to-date total)
+     (VP was
+         (NP-PRD 12,006,883 tons)
+	 ,
+	 (ADVP up
+	       (NP 7.8 %)
+	       (PP from
+		   (NP 11,141,711 tons)
+		   (ADVP-TMP (NP a year)
+			     earlier))))
+     .))

@@ -1,0 +1,122 @@
+
+
+( (S (NP-SBJ (NP (NP Computer Associates International Inc.)
+                 ,
+                 (NP-LOC (NP Garden City)
+			 ,
+			 (NP N.Y.)
+			 ,))
+             and
+             (NP Digital Equipment Corp.))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 they)
+                  (VP agreed
+                      (S (NP-SBJ *-1)
+                         (VP to
+			     (VP (ADVP-MNR jointly)
+				 develop
+                                 (NP (NP software)
+                                     (SBAR (WHNP-2 0)
+					   (S (NP-SBJ-3 *T*-2)
+					      (VP to
+						  (VP help
+						      (S (NP-SBJ *-3)
+							 (VP manage
+							     (NP (NP Digital 's)
+								 Vax computers)))))))))))))))
+     .))
+( (S (NP-SBJ-1 Computer Associates)
+     (VP (VP has
+	     (VP carved
+		 (PRT out)
+		 (NP a huge business)
+		 (S-ADV (NP-SBJ *-1)
+			(VP selling
+			    (NP such software)
+			    (PP for
+				(NP (NP use)
+				    (PP-LOC in
+					    (NP (NP managing networks)
+						(PP of
+						    (NP International Business Machines Corp.
+							computers))))))))))
+	 but
+	 (VP needs
+	     (S (NP-SBJ *-1)
+		(VP to
+		    (VP find
+			(NP new markets))))
+	     (SBAR-ADV if
+		       (S (NP-SBJ it)
+			  (VP is
+			      (VP to
+				  (VP maintain
+				      (NP (NP its growth rate)
+					  (PP of
+					      (NP (NP 30 % (QP and more))
+						  (NP-ADV each year)))))))))))
+     .))
+( (S (NP-SBJ-1 (NP The market)
+               (PP for
+                   (NP (NP system-management software)
+                       (PP for
+                           (NP (NP Digital 's)
+                               hardware)))))
+     (VP is
+         (VP fragmented
+             (NP *-1)
+             (ADVP enough
+		   (SBAR that
+			 (S (NP-SBJ (NP a giant)
+				    (PP such as
+					(NP Computer Associates)))
+			    (VP should
+				(VP do
+				    (ADVP-MNR well)
+				    (ADVP-LOC there))))))))
+     .))
+( (S (PP-TMP At
+	     (NP the same time))
+     ,
+     (NP-SBJ the market)
+     (VP is
+         (ADJP-PRD (ADJP smaller)
+                   (PP than
+                       (NP (NP the market)
+                           (PP for
+                               (NP IBM-compatible software))))))
+     .))
+( (S (PP For
+         (NP one thing))
+     ,
+     (NP-SBJ (NP Digital)
+             ,
+             (NP-LOC (NP Maynard)
+		     ,
+		     (NP Mass.)
+		     ,))
+     (VP has
+         (VP sold
+             (NP fewer machines)))
+     .))
+( (S (PP In
+         (NP addition))
+     ,
+     (S (NP-SBJ its machines)
+	(VP are
+	    (ADVP typically)
+	    (ADJP-PRD easier
+		      (SBAR (WHNP-1 0)
+			    (S (NP-SBJ *)
+			       (VP to
+				   (VP operate
+				       (NP *T*-1))))))))
+     ,
+     so
+     (S (NP-SBJ customers)
+	(VP require
+	    (NP less assistance)
+	    (PP-CLR from
+		    (NP software))))
+     .))

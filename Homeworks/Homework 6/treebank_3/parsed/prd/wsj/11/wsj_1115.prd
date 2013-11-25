@@ -1,0 +1,41 @@
+
+
+( (S (NP-SBJ USX Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP delayed
+                      (NP (NP the proposed initial public offering)
+                          (PP of
+                              (NP (NP common stock)
+                                  (PP of
+                                      (NP RMI Titanium Co.)))))
+		      (PP-PRP because of
+			      (NP market conditions))))))
+     .))
+( (S (NP-SBJ-1 RMI Titanium)
+     (VP is
+         (VP owned
+             (NP *-1)
+             (ADVP-MNR jointly)
+             (PP by
+                 (NP-LGS (NP USX)
+			 and
+			 (NP Quantum Chemical Corp)))))
+     .))
+( (S (NP-SBJ (NP USX)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP had n't
+                          (VP set
+                              (NP (NP a date)
+				  (PP for
+				      (NP the offering)))))))
+             ,)
+     (VP did n't
+         (VP disclose
+             (NP (NP any timetable)
+                 (PP for
+                     (NP the offering)))))
+     .))

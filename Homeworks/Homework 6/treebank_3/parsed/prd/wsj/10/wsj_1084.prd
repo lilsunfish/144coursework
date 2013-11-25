@@ -1,0 +1,84 @@
+
+
+( (S (NP-SBJ French consumer prices)
+     (VP rose
+         (NP-EXT 0.2 %)
+         (PP-TMP in
+		 (NP September))
+         (PP-DIR from
+		 (NP-TMP August))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP provisional estimates)
+		     (PP by
+			 (NP the National Statistics Institute))))))
+     .))
+( (S (NP-SBJ The agency)
+     (VP noted
+         (SBAR that
+               (S (PP-PRP because of
+			  (NP (NP a strike)
+			      (PP by
+				  (NP Finance Ministry personnel))))
+                  (NP-SBJ the provisional estimate)
+                  (VP does n't
+                      (VP correspond
+                          (ADVP-MNR exactly)
+                          (PP-CLR to
+				  (NP (NP the consumer price index)
+				      (ADVP-TMP usually)
+				      (VP published
+					  (NP *)))))))))
+     .))
+( (S (NP-SBJ The agency)
+     (VP noted
+	 ,
+         (ADVP however)
+         ,
+         (SBAR 0
+               (S (NP-SBJ-1 the estimate)
+                  (VP will
+                      (ADVP likely)
+                      (VP be
+                          (VP confirmed
+                              (NP *-1)))))))
+     .))
+( (S (S (NP-SBJ The institute)
+        (VP did n't
+            (VP estimate
+                (NP annual price growth)
+		(PP-TMP in
+			(NP September)))))
+     , but
+     (S (NP-SBJ (NP a (ADJP 0.2 %) rise)
+                (PP by
+                    (NP the consumer price index)))
+        (VP would
+            (VP put
+                (NP growth)
+                (PP-PUT at
+			(NP (NP either 178.8 or 178.9) 
+			    ,
+			    (ADVP up 
+				  (NP-EXT (NP 3.3 %)
+					  or
+					  (NP 3.4 %))
+				  (PP-DIR from
+					  (NP (NP the year-earlier level)
+					      (PP of
+						  (NP 173.1))))))))))
+     .))
+( (S (NP-SBJ The index)
+     (VP (VP was
+	     (NP-PRD 178.5)
+	     (PP-TMP in
+		     (NP August)))
+	 and
+	 (VP is
+	     (VP based
+		 (PP-CLR on
+			 (S-NOM (NP-SBJ 1980)
+				(VP equaling 
+				    (NP 100)))))))
+     .))

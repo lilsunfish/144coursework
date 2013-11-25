@@ -1,0 +1,49 @@
+
+
+( (S (NP-SBJ Zurn Industries Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP received
+                      (NP approval
+                          (S (NP-SBJ *)
+                             (VP to
+                                 (VP proceed
+                                     (PP-CLR on
+					     (NP (NP four separate projects)
+						 (PP with
+						     (NP (NP a total contract value)
+							 (PP of
+							     (NP (QP $ 59 million) *U*))))))))))))))
+     .))
+( (S (NP-SBJ The projects)
+     (VP include
+         (NP (NP construction)
+             (PP of
+                 (NP (NP (NP a (ADJP 29,400 kilowatt) waste-to-energy plant)
+                         (PP for
+                             (NP (NP Ada Cogeneration L.P.)
+                                 ,
+                                 (NP-LOC (NP Ada)
+					 ,
+					 (NP Mich.)))))
+                     ;
+                     (NP (NP a steam generating plant)
+			 (PP-LOC at
+				 (NP (NP Ontario)
+				     ,
+				     (NP Calif.)
+				     ,))
+                         (SBAR (WHNP-1 that)
+                               (S (NP-SBJ Zurn)
+                                  (VP will
+                                      (VP own and operate
+					  (NP *T*-1))))))
+                     , 
+		     and
+                     (NP (NP two waste-water control projects)
+                         (PP-LOC in
+				 (NP (NP Orange County)
+				     ,
+				     (NP Calif))))))))
+     .))

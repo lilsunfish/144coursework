@@ -1,0 +1,102 @@
+
+
+( (S (NP-SBJ Security Pacific Corp.)
+     (VP has
+         (VP set
+             (NP its sights)
+             (PP-CLR on
+		     (S-NOM (NP-SBJ *)
+			    (VP buying
+				(NP its second bank holding company)
+				(NP-TMP this year))))))
+     .))
+( (S (NP-SBJ Security)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP signed
+                      (NP (NP a letter)
+                          (PP of
+                              (NP intent
+                                  (S (NP-SBJ *)
+                                     (VP to
+                                         (VP purchase
+                                             (NP La Jolla Bancorp)))))))
+		      ,
+		      (S-ADV (NP-SBJ-1 *)
+			     (VP agreeing
+				 (S (NP-SBJ *-1)
+				    (VP to
+					(VP pay
+					    (NP (NP $ 15 *U*)
+						(PP of
+						    (NP its own stock)))
+					    (PP-CLR for
+						    (NP (NP each share)
+							(PP of
+							    (NP La Jolla)))))))))))))
+     .))
+( (S (PP Based
+         (PP on
+             (NP (NP the current number)
+                 (PP of
+                     (NP La Jolla shares)))))
+     ,
+     (NP-SBJ that)
+     (VP gives
+	 (NP the transaction)
+	 (NP (NP a value)
+	     (PP of
+		 (NP (QP $ 104 million) *U*))))
+     .))
+( (S (NP-SBJ La Jolla)
+     (VP is
+         (NP-PRD (NP the parent company)
+		 (PP of
+		     (NP (NP La Jolla Bank & Trust Co.)
+			 ,
+			 (SBAR (WHNP-1 which)
+			       (S (NP-SBJ *T*-1)
+				  (VP has
+				      (NP (NP 12 branches)
+					  (PP-LOC in
+						  (NP San Diego County))))))))))
+     .))
+( (S (S-TPC-1 (PP-TMP As
+		      (PP of
+			  (NP Sept. 30)))
+	      ,
+	      (NP-SBJ the bank)
+	      (VP had
+		  (NP (NP (NP assets)
+			  (PP of
+			      (NP (QP $ 511 million) *U*)))
+		      and
+		      (NP (NP deposits)
+			  (PP of
+			      (NP (QP $ 469 million) *U*))))))
+     ,
+     (NP-SBJ Security Pacific)
+     (VP said
+	 (SBAR 0
+	       (S *T*-1)))
+     .))
+( (S (ADVP-TMP Earlier
+	       (NP this month))
+     ,
+     (NP-SBJ (NP Security Pacific)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP is
+                          (PP-LOC-PRD among
+				      (NP (NP the 10 largest bank holding companies)
+					  (PP-LOC in
+						  (NP the U.S.)))))))
+             ,)
+     (VP completed
+         (NP (NP the acquisition)
+             (PP of
+                 (NP (ADJP San Diego-based)
+                     Southwest Bancorp))))
+     .))

@@ -1,0 +1,122 @@
+
+
+( (S (NP-SBJ (NP Bay Financial Corp.)
+             ,
+             (NP-LOC Boston)
+             ,
+             (SBAR (WHNP-2 which)
+                   (S (NP-SBJ *T*-2)
+                      (VP has
+                          (VP been
+                              (VP (VP reporting
+                                      (NP big losses))
+                                  and
+                                  (VP warning
+                                      (PP-CLR of
+					      (NP a possible bankruptcy-law filing))))))))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP was
+                      (VP sued
+                          (NP *-1)
+                          (PP by
+                              (NP-LGS a holder)))))))
+     .))
+( (S (NP-SBJ The real estate investment trust)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the `` purported class action suit)
+                  , ''
+                  (VP seeks
+		      ``
+                      (NP (NP damages)
+                          and
+                          (NP other remedies))
+                      (PP-LOC under
+			      (NP (NP federal securities law)
+				  and
+				  (NP state law)))))))
+     . ''))
+( (S (NP-SBJ (NP Gerald E. Wilson)
+             ,
+             (NP (NP corporate secretary)
+                 and
+                 (NP legal counsel))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the company)
+                  (VP would n't
+                      (VP disclose
+                          (NP further details))))))
+     .))
+( (S (NP-SBJ-2 He)
+     (VP declined
+         (S (NP-SBJ *-2)
+            (VP to
+                (VP name
+                    (NP (NP the shareholder)
+                        ,
+                        (NP (NP the plaintiff 's)
+                            lawyer)
+                        or
+                        (NP (NP the court)
+                            (SBAR (WHADVP-3 where)
+                                  (S (NP-SBJ-1 the lawsuit)
+                                     (VP was
+                                         (VP filed
+                                             (NP *-1)
+					     (ADVP-LOC-CLR *T*-3)))))))))))
+     .))
+( (S (NP-SBJ (NP Bay)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP has
+                          (NP (NP substantial investments)
+			      (PP-LOC in 
+				      (NP the floundering Massachusetts market))))))
+             ,)
+     (VP reported
+         (NP (NP a loss)
+             (PP of
+                 (NP (NP (QP $ 62 million) *U*)
+                     , or
+                     (NP (NP $ 15.97 *U*)
+                         (NP-ADV a share))
+                     ,))
+             (PP for
+                 (NP (NP the fiscal year)
+                     (VP ended
+                         (NP *)
+                         (NP-TMP-CLR June 30))))))
+     .))
+( (S (NP-SBJ It)
+     (VP has
+         (VP said
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP might
+                          (VP seek
+                              (NP (NP bankruptcy-court protection)
+                                  (PP from
+                                      (NP creditor lawsuits)))
+			      (SBAR-ADV if
+					(S (NP-SBJ it)
+					   (VP ca n't
+					       (VP renegotiate
+						   (NP its borrowings)))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP New York Stock Exchange composite trading))
+     ,
+     (NP-SBJ Bay)
+     (VP closed
+         (PP-CLR at
+		 (NP $ 2.625 *U*))
+         ,
+         (ADVP down
+               (NP 25 cents)))
+     .))

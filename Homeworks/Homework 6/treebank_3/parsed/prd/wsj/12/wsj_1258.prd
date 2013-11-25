@@ -1,0 +1,303 @@
+
+
+( (S (S (NP-SBJ Bond prices)
+	(VP took
+	    (NP the high road)))
+     and
+     (S (NP-SBJ stock prices)
+	(VP took
+	    (NP the low road)))
+     (SBAR-TMP as
+	       (S (NP-SBJ (NP worries)
+			  (PP *ICH*-1))
+		  (VP mounted
+		      (PP-1 about
+			    (NP (NP the economy)
+				and
+				(NP the junk bond market))))))
+     .))
+( (S (NP-SBJ The Dow Jones Industrial Average)
+     (VP fell
+         (NP-EXT 26.23 points)
+         (PP-DIR to
+		 (NP 2662.91))
+	 (PP-LOC in
+		 (NP sluggish trading)))
+     .))
+( (S But
+     (NP-SBJ long-term Treasury bonds)
+     (VP staged
+         (NP a modest rally)
+         ,
+         (PP with
+             (S-NOM (NP-SBJ (NP prices)
+			    (PP on
+				(NP most issues)))
+		    (VP rising
+			(NP (NP (QP about half a) point) 
+			    , or
+			    (NP (NP $ 5 *U*)
+				(PP for
+				    (NP each (ADJP $ 1,000 *U*)
+					face amount))))))))
+     .))
+( (S (NP-SBJ The dollar)
+     (VP sagged
+         (PP against
+	     (NP other major currencies))
+	 (PP-LOC in
+		 (NP lethargic trading)))
+     .))
+( (S (NP-SBJ Traders and analysts)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the divergence)
+                          (PP between
+                              (NP the stock and bond markets)))
+                  (VP is
+                      (NP-PRD (NP a sign)
+                              (PP of
+                                  (NP (NP growing unease)
+                                      (PP about
+                                          (NP the economic outlook)))))))))
+     .))
+( (S (S (NP-SBJ A sinking economy)
+        (VP (VP depresses
+                (NP-1 corporate earnings))
+            and
+            (VP thus
+		(NP=1 stock prices))))
+     , but
+     (S (NP-SBJ it)
+        (VP buoys
+            (NP bond prices)
+	    (SBAR-TMP as
+		      (S (NP-SBJ interest rates)
+			 (VP fall)))))
+     .))
+( (S (NP-SBJ-2 That unease)
+     (VP is
+         (VP expected
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP grow
+			(NP-TMP (NP (NP today)
+				    (SBAR (WHADVP-3 when)
+					  (S (NP-SBJ the government)
+					     (VP reports
+						 (PP-CLR on
+							 (NP September durable goods orders))
+						 (ADVP-TMP *T*-3)))))
+				and again
+				(NP (NP Thursday)
+				    (SBAR (WHADVP-4 when)
+					  (S (NP-SBJ-1 (NP the first assessment)
+						       (PP of
+							   (NP third-quarter economic growth)))
+					     (VP is
+						 (VP released
+						     (NP *-1)
+						     (ADVP-TMP *T*-4))))))))))))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ they)
+                  (VP think
+                      (SBAR (SBAR 0
+                                  (S (NP-SBJ durable goods orders)
+                                     (VP fell
+                                         (NP (NP-EXT (QP about 1) %)
+                                             ,
+                                             (PP compared
+                                                 (PP with
+                                                     (NP (NP a (ADJP 3.9 %) gain)
+                                                         (PP-TMP in
+								 (NP August)))))
+                                             ,))))
+                            and
+                            (SBAR that
+                                  (S (NP-SBJ (NP growth)
+                                             (PP-TMP in
+						     (NP the third quarter)))
+                                     (VP slowed
+                                         (PP-DIR to
+						 (NP (QP about 2.3) %))
+                                         (PP-DIR from
+						 (NP (NP the second quarter 's)
+						     2.5 %))))))))))
+     .))
+( (S (NP-SBJ (NP (NP The stock market 's)
+                 decline)
+             ,
+             (VP coming
+                 (PP-TMP after
+			 (NP (NP a record weekly gain)
+			     (PP of
+				 (NP 119.88 points)))))
+             ,)
+     (VP surprised
+         (NP some investors))
+     .))
+( (S But
+     (NP-SBJ (NP A.C. Moore)
+             ,
+             (NP (NP director)
+                 (PP of
+                     (NP research))
+                 (PP-LOC at
+			 (NP Argus Research)))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP last week 's)
+                          rally)
+                  (VP was
+                      (NP-PRD (NP a reflex reaction)
+                              (PP to
+                                  (NP the (NAC-TMP Oct. 13) stock market rout)))))))
+     .))
+( (S-1 (ADVP Overall)
+       (PRN ,
+	    (S (NP-SBJ he)
+	       (VP said
+		   (SBAR 0
+			 (S *T*-1))))
+	    ,)
+       (NP-SBJ (NP the trend)
+	       (PP-LOC in
+		       (NP stock prices)))
+       (VP will
+	   (VP be
+	       (ADVP-PRD down)
+	       (SBAR-TMP as
+			 (S (NP-SBJ the economy)
+			    (VP weakens)))))
+       .))
+( (S ``
+     (S-TPC-1 (NP-SBJ We)
+	      (VP think
+		  (SBAR 0
+			(S (NP-SBJ we)
+			   (VP 're
+			       (PP-PRD on
+				       (NP target))
+			       (PP in 
+				   (S-NOM (NP-SBJ *)
+					  (VP looking
+					      (PP-CLR for
+						      (NP renewed economic deterioration))))))))))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S ``
+     (S (NP-SBJ-1 Corporate profits)
+        (VP are
+            (VP going
+                (S (NP-SBJ *-1)
+                   (VP to
+                       (VP decrease
+                           (ADVP (ADVP faster)
+                                 (SBAR than
+				       (S (NP-SBJ interest rates)
+					  (VP will
+					      (VP fall)))))))))))
+     , and
+     (S (NP-SBJ the probability)
+        (VP is
+            (SBAR-PRD that
+                      (S (NP-SBJ we)
+                         (VP 'll
+                             (VP see
+                                 (NP negative economic growth)
+				 (PP-TMP in
+					 (NP the fourth quarter))))))))
+     . ''))
+( (S (S (NP-SBJ (NP Hugh Johnson)
+                ,
+                (NP (NP chief investment officer)
+                    (PP-LOC at
+			    (NP First Albany Corp.)))
+                ,)
+        (VP agreed
+            (SBAR that
+                  (S (NP-SBJ a deteriorating economy)
+                     (VP is
+                         (ADJP-PRD worrisome))))))
+     , but
+     (S (NP-SBJ he)
+        (VP said
+            (SBAR 0
+                  (S (NP-SBJ (NP the real concern)
+                             (PP among
+                                 (NP stock investors)))
+                     (VP is
+                         (SBAR-PRD that
+                                   (S (NP-SBJ some new problem)
+                                      (VP will
+                                          (VP crop 
+					      (PRT up)
+					      (PP-LOC in
+						      (NP the junk bond market)))))))))))
+     .))
+( (S (PP-LOC In
+	     (NP major market activity))
+     :
+     (NP-SBJ Stock prices)
+     (VP slumped
+	 (PP-LOC in
+		 (NP sluggish trading)))
+     .))
+( (S (NP-SBJ (NP Volume)
+             (PP-LOC on
+		     (NP the New York Stock Exchange)))
+     (VP totaled
+         (NP (QP 135.9 million) shares))
+     .))
+( (S (NP-SBJ (NP Declining issues)
+             (PP-LOC on
+		     (NP the Big Board)))
+     (VP were
+         (ADVP-PRD (ADVP ahead
+			 (PP of
+			     (NP gainers)))
+		   ,
+                   (ADVP 1,012 to 501)))
+     .))
+( (S (NP-SBJ Bond prices)
+     (VP rallied)
+     .))
+( (S (NP-SBJ (NP The yield)
+             (PP on
+                 (NP (NP the Treasury 's)
+                     benchmark 30-year bond)))
+     (VP slipped
+         (PP-DIR to
+		 (NP 7.93 %)))
+     .))
+( (S (NP-SBJ The dollar)
+     (VP weakened
+         (PP against
+             (NP most other major currencies)))
+     .))
+( (S (PP-LOC In
+	     (NP late New York trading))
+     ,
+     (NP-SBJ-1 the dollar)
+     (VP was
+         (VP quoted
+             (NP *-1)
+             (PP-CLR at
+		     (NP (NP (NP 1.8470 marks)
+			     and
+			     (NP 141.90 yen))
+			 ,
+			 (PP compared
+			     (PP with
+				 (NP (NP (NP 1.8578 marks)
+					 and
+					 (NP 142.43 yen))
+				     (NP-TMP late Friday))))))))
+     .))

@@ -1,0 +1,36 @@
+
+
+( (S (NP-SBJ (NP Avondale Industries Inc.)
+             ,
+             (NP-LOC New Orleans)
+             ,)
+     (VP received
+         (NP (NP a (ADJP (QP $ 23 million) *U*) contract)
+	     (SBAR *ICH*-2))
+         (PP-CLR from
+		 (NP the Navy))
+         (SBAR-2 (WHNP-1 0)
+		 (S (NP-SBJ *T*-1)
+		    (VP to
+			(VP enlarge
+			    (PP-EXT by
+				    (NP 50 %))
+			    (NP (NP the capacity)
+				(PP of
+				    (NP an auxiliary oiler))))))))
+     .))
+( (S (NP-SBJ The award)
+     (VP results
+         (PP-CLR from
+		 (NP (NP (NP the Navy 's)
+			 exercising)
+		     (PP of
+			 (NP (NP an option)
+			     (PP-LOC in
+				     (NP (NP an earlier contract)
+					 (SBAR (WHNP-1 0)
+					       (S (NP-SBJ it)
+						  (VP awarded
+						      (NP Avondale)
+						      (NP *T*-1)))))))))))
+     .))

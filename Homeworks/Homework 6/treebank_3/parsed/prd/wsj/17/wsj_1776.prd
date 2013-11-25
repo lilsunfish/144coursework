@@ -1,0 +1,95 @@
+
+
+( (S (NP-SBJ Wheeling-Pittsburgh Steel Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP decided
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP proceed
+                                 (PP with
+				     (NP (NP installation)
+					 (PP of
+					     (NP automatic gauge and shape controls))
+					 (PP-LOC at
+						 (NP (NP its 60-inch tandem cold rolling mill)
+						     (PP-LOC in
+							     (NP (NP Allenport)
+								 ,
+								 (NP Pa))))))))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-3 (NP The new equipment)
+			,
+			(SBAR (WHNP-1 which)
+			      (S (NP-SBJ *T*-1)
+				 (VP will
+				     (VP produce
+					 (NP (NP steel sheet)
+					     (PP with
+						 (NP (ADJP more uniform) 
+						     thickness and flatness)))))))
+			,)
+	      (VP is
+		  (ADJP-PRD likely
+			    (S (NP-SBJ *-3)
+			       (VP to
+				   (VP cost
+				       (NP (QP more than $ 20 million) *U*)))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))
+( (S (S (SBAR-TMP (WHADVP-1 When)
+		  (S (NP-SBJ-2 the company)
+		     (ADVP last)
+		     (VP considered
+			 (S (NP-SBJ *-2)
+			    (VP adding
+				(NP the equipment)))
+			 (ADVP-TMP (NP two years)
+				   ago)
+			 (ADVP-TMP *T*-1))))
+        ,
+        (NP-SBJ it)
+        (VP estimated
+            (NP the cost)
+            (PP-CLR at
+		    (NP (NP (QP $ 21 million) *U*) 
+			to 
+			(NP (QP $ 22 million) *U*)))))
+     , 
+     but
+     (S (NP-SBJ-3 a task force)
+        (VP will
+            (VP have
+                (S (NP-SBJ *-3)
+                   (VP to
+                       (VP prepare
+                           (NP a detailed plan))))
+		(SBAR-TMP before
+			  (S (NP-SBJ the company)
+			     (VP can
+				 (VP predict
+				     (NP the current cost))))))))
+     .))
+( (S (S-TPC-2 (NP-SBJ-1 (NP The time schedule)
+			(PP for
+			    (S-NOM (NP-SBJ *)
+				   (VP installing
+				       (NP the equipment)))))
+	      (ADVP also)
+	      (VP will
+		  (VP be
+		      (VP developed
+			  (NP *-1)
+			  (PP by
+			      (NP-LGS the task force))))))
+     ,
+     (NP-SBJ the company)
+     (VP said
+	 (SBAR 0
+	       (S *T*-2)))
+     .))

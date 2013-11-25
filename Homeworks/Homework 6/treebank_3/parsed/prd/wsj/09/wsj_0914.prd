@@ -1,0 +1,66 @@
+
+
+( (S (NP-SBJ ALAMCO Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ its board)
+                  (VP has
+                      (VP approved
+                          (NP a 1-for-10 reverse stock split))))))
+     .))
+( (S (NP-SBJ (NP The
+		 (NAC-LOC Clarksburg
+			  ,
+			  W.Va.
+			  ,)
+		 producer)
+             (PP of
+                 (NP gas
+                     and
+                     oil))
+             ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP wants
+                      (S (NP-SBJ shareholders)
+                         (VP to
+                             (VP approve
+                                 (NP the split)
+                                 (SBAR-PRP because
+					   (S (NP-SBJ it)
+					      (VP would
+						  ``
+						  (VP enhance
+						      (NP (NP the marketability '' and trading)
+							  (PP of
+							      (NP the stock))))))))))))))
+     .))
+( (S (SBAR-ADV If
+	       (S (NP-SBJ-1 *)
+		  (VP approved
+		      (NP *-1)
+		      (PP-LOC at
+			      (NP (NP a shareholder meeting)
+				  (PP-TMP in
+					  (NP December)))))))
+     ,
+     (S (NP-SBJ (NP the number)
+                (PP of
+                    (NP (NP shares)
+                        (ADJP outstanding))))
+        (VP would
+            (VP decrease
+                (PP-DIR to
+			(NP (QP five million)))
+                (PP-DIR from
+			(NP (QP 50 million))))))
+     , and
+     (S (NP-SBJ par value)
+        (VP would
+            (VP rise
+                (PP-DIR to
+			(NP 10 cents))
+                (PP-DIR from
+			(NP a penny)))))
+     .))

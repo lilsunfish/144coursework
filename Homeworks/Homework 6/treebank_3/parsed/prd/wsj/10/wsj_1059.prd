@@ -1,0 +1,770 @@
+
+
+( (S (NP-SBJ (NP The hottest rivalry)
+             (PP-LOC in
+		     (NP the computer industry)))
+     (VP intensified
+         (ADVP-MNR sharply)
+	 (NP-TMP yesterday)
+	 (SBAR-ADV as
+		   (S (NP-SBJ-1 Digital Equipment Corp.)
+		      (VP announced
+			  (NP (NP its first line)
+			      (PP of
+				  (NP mainframe computers)))
+			  ,
+			  (S-ADV (NP-SBJ *-1)
+				 (VP targeting
+				     (NP (NP International Business Machines Corp. 's)
+					 largest market)))))))
+     .))
+( (S (NP-SBJ-1 IBM)
+     (VP fired
+         (PRT back)
+         (PP with
+             (NP (NP new mainframes)
+                 (PP of
+                     (NP its own))))
+	 ,
+	 (S-ADV (NP-SBJ *-1)
+		(VP extending
+		    (NP the long-dominant 3090 line)
+		    (PP with
+			(NP a
+			    (ADJP (QP 7 % to 14 %) *U*)
+			    power boost)))))
+     .))
+( (S (PP-TMP Up
+	     (PP to
+		 (ADVP now)))
+     ,
+     (NP-SBJ-1 (NP the intense competition)
+               (PP between
+                   (NP IBM and Digital)))
+     (VP has
+         (VP been
+             (VP confined
+                 (NP *-1)
+                 (PP-CLR (ADVP largely)
+			 to
+			 (NP (NP (NP the broad midrange)
+				 (PP of
+				     (NP the computer market)))
+			     ,
+			     (SBAR-LOC (WHADVP-2 where) 
+				       (S (NP-SBJ-3 Digital)
+					  (VP sought
+					      (S (NP-SBJ *-3)
+						 (VP to
+						     (VP exploit
+							 (NP (NP (NP IBM 's)
+								 weaknesses)
+							     (PP-LOC in
+								     (NP networking))))))
+					      (ADVP-LOC *T*-2)))))))))
+     .))
+( (S But
+     (NP-SBJ (NP (NP Digital 's)
+		 move)
+             (PP into
+                 (NP mainframes)))
+     (VP will
+         (VP target
+             (NP (NP (NP IBM 's)
+                     home turf)
+                 ,
+                 (SBAR-LOC (WHADVP-1 where) 
+			   (S (NP-SBJ it)
+			      (VP has
+				  (NP (NP a commanding (ADJP 70 %) share)
+				      (PP of
+					  (NP the market)))
+				  (ADVP-LOC *T*-1)))))))
+     .))
+( (S (NP-SBJ (NP Digital)
+             ,
+             (NP-LOC Maynard
+		     ,
+		     Mass. 
+		     ,))
+     (VP insisted
+         (NP-TMP yesterday)
+         (SBAR that
+               (S (NP-SBJ its marketing focus)
+                  (VP would
+                      (VP differ
+                          (ADVP-EXT sharply)
+                          (PP-CLR from
+				  (NP IBM 's)))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ This)
+		 (VP is not
+		     (NP-PRD (NP your father 's)
+			     mainframe)))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Allan McGuire)
+		,
+		(NP a Digital spokesman))
+	.))
+( (S ``
+     (S-TPC-1 (NP-SBJ It)
+	      (VP 's
+		  (NP-PRD a whole new generation)))
+     , ''
+     (NP-SBJ he)
+     (VP said
+	 (S *T*-1))
+     .))
+( (S (NP-SBJ (NP IBM)
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP gets
+                          (NP (NP (QP about half) its revenue)
+                              and
+                              (NP (QP more than half) its profit))
+                          (PP-CLR from
+				  (NP mainframes)))))
+             ,)
+     (ADVP also)
+     (VP announced
+         (NP (NP upgraded operating system software)
+             (SBAR (WHNP-2 that)
+                   (S (NP-SBJ *T*-2)
+                      ,
+                      (ADVP together
+                            (PP with
+                                (NP the new hardware)))
+                      ,
+                      (VP lets
+                          (S (NP-SBJ customers)
+			     (VP do
+				 (NP so-called batch processing)
+				 (ADVP-MNR (NP-ADV (QP as much as 60) %) 
+					   faster))))))))
+     .))
+( (S (NP-SBJ Batch processing)
+     (VP is
+         (NP-PRD (NP the
+                     high-volume
+		     ,
+		     single-job
+                     data processing)
+                 (SBAR (WHNP-1 that)
+                       (S (NP-SBJ most mainframes)
+                          (ADVP typically)
+			  (VP chug
+                              (PP-CLR through
+				      (NP *T*-1))
+			      (PP-TMP at
+				      (NP night)))))
+                 ,
+                 (PP such as
+		     (S-NOM (NP-SBJ *)
+			    (VP updating
+				(NP accounts)
+				(PP-LOC at
+					(NP banks)))))))
+     .))
+( (S (NP-SBJ IBM)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ the 16 new J and JH models)
+                  (VP will
+                      (ADVP generally)
+                      (VP be
+                          (ADJP-PRD available)
+                          (ADVP-TMP immediately)
+			  ,
+			  (SBAR-ADV though
+				    (S (NP-SBJ three)
+				       (VP wo n't
+					   (VP ship
+					       (PP-TMP until
+						       (NP (NP (QP the third quarter))
+							   (PP of
+							       (NP next year)))))))))))))
+     .))
+( (S (NP-SBJ (NP (NP Prices) 
+		 (PP on
+		     (NP the larger models)))
+	     ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP range
+                          (ADVP (ADVP as high) 
+                                (PP as
+                                    (NP (QP $ 13 million) *U*))))))
+             ,)
+     (ADVP generally)
+     (VP wo n't
+         (VP change))
+     .))
+( (S (NP-SBJ (NP Small models)
+             ,
+             (SBAR (WHNP-1 whose performance)
+                   (S (NP-SBJ *T*-1)
+                      (VP increased
+                          (NP-ADV (QP as much as 46) 
+				  %))))
+             ,)
+     (VP will
+         (VP carry
+             (NP higher prices)))
+     .))
+( (S (NP-SBJ (NP Upgrades)
+             (PP to
+                 (NP bigger models)))
+     (ADVP also)
+     (VP will
+         (VP be
+             (ADJP-PRD costlier)))
+     .))
+( (S (NP-SBJ-1 (NP (NP Digital 's)
+                   VAX 9000 mainframes)
+               ,
+               (SBAR (WHNP-2 which)
+                     (S (NP-SBJ it)
+                        (VP claimed
+                            (SBAR 0
+                                  (S (NP-SBJ *T*-2)
+                                     (VP were
+                                         (PP-PRD among
+						 (NP (NP the fastest)
+						     (ADJP available)))))))))
+               ,)
+     (VP were
+         (VP priced
+             (NP *-1)
+             (PP (PP from 
+                     (NP (QP $ 1.2 million) *U*))
+                 (PP to
+                     (NP (QP $ 3.9 million) *U*)))
+             ,
+             (ADVP (ADVP sharply lower) 
+                   (PP than
+                       (NP (NP IBM models)
+                           (PP of
+                               (NP comparable power)))))))
+     .))
+( (S (NP-SBJ The first models)
+     (VP will
+         (VP ship
+	     (PP-TMP in
+		     (NP the spring))
+	     ,
+	     (PP with
+		 (S-NOM (NP-SBJ the largest) 
+			(VP following
+			    (PP-TMP in
+				    (NP the fall)))))))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP were
+         (ADJP-PRD disappointed
+                   (SBAR that
+                         (S (NP-SBJ (NP Digital 's)
+                                    new line)
+                            (ADVP apparently)
+                            (VP wo n't
+                                (VP contribute
+                                    (NP much)
+                                    (PP-CLR to
+					    (NP earnings))
+				    (PP-TMP before
+					    (NP (NP the next fiscal year)
+						,
+						(SBAR (WHNP-1 which)
+						      (S (NP-SBJ *T*-1)
+							 (VP begins
+							     (PP-TMP in
+								     (NP July)))))))))))))
+     .))
+( (S (NP-SBJ (NP Jay Stevens)
+             (PP of
+                 (NP Dean Witter Reynolds Inc.)))
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ he)
+                  (VP may
+                      (VP cut
+                          (NP (NP his earnings estimate)
+                              (PP for
+                                  (NP the current fiscal year)))
+			  (SBAR-PRP because
+				    (S (NP-SBJ he)
+				       (VP had
+					   (VP expected
+					       (NP (ADVP at least)
+						   some mainframe profit)
+					       (NP-TMP this year))))))))))
+     .))
+( (S But
+     (NP-SBJ he)
+     (VP added
+         (SBAR that
+               (S (NP-SBJ-1 he)
+                  (VP expected
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP raise
+                                 (NP (NP his estimate)
+                                     (PP for
+                                         (NP fiscal 1991)))
+				 (PP-TMP at
+					 (NP the same time)))))))))
+     .))
+( (S (PP-TMP After
+	     (NP the announcement))
+     (NP-TMP yesterday)
+     ,
+     (NP-SBJ-1 Digital shares)
+     (VP gained
+         (NP $ 1.25 *U*)
+         (S-CLR (NP-SBJ *-1)
+		(VP to
+		    (VP close
+			(PP-LOC-CLR at
+				    (NP $ 89.875 *U*)))))
+	 (PP-LOC in 
+		 (NP New York Stock Exchange composite trading)))
+     .))
+( (S (NP-SBJ IBM shares)
+     (VP closed
+         (PP-LOC-CLR at
+		     (NP (NP $ 103 *U*)
+			 ,
+			 (ADVP down 
+			       (NP 50 cents))
+			 ,))
+	 (PP-LOC in
+		 (NP Big Board trading)))
+     .))
+( (S (NP-SBJ Analysts)
+     (VP have
+         (VP predicted
+             (NP (NP strong pent-up demand)
+                 (PP for
+                     (NP the new line))
+                 (PP among
+                     (NP (NP Digital 's)
+                         customers)))))
+     .))
+( (S (NP-SBJ Large Digital buyers)
+     (VP say
+         (SBAR 0
+               (S (NP-SBJ the new VAX)
+                  (VP will
+                      (VP let
+                          (S (NP-SBJ them)
+			     (VP stay
+				 (PP-CLR with
+					 (NP Digital))
+				 (SBAR-TMP (WHADVP-1 when)
+					   (S (NP-SBJ they)
+					      (VP need
+						  (NP (NP the power)
+						      (PP of
+							  (NP a mainframe)))
+						  (ADVP-TMP *T*-1))))
+				 ,
+				 (PP instead of
+				     (S-NOM (NP-SBJ *)
+					    (VP turning
+						(PP-DIR to
+							(NP IBM))))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ I)
+		 (VP 'm
+		     (ADJP-PRD convinced
+			       (SBAR 0
+				     (S (NP-SBJ there)
+					(VP 's
+					    (NP-PRD (NP a huge market)
+						    (PP for
+							(NP this machine)))))))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Stephen Smith)
+		(PP of
+		    (NP PaineWebber Inc)))
+	.))
+( (S (NP-SBJ-1 Digital)
+     (ADVP also)
+     (VP plans
+         (S (NP-SBJ *-1)
+            (VP to
+                (VP compete
+                    (ADVP-MNR fiercely)
+                    (PP-CLR with
+			    (NP IBM))
+		    (SBAR-TMP (WHADVP-2 when)
+			      (S (NP-SBJ (NP the giant 's)
+					 customers)
+				 (VP are
+				     (VP computerizing
+					 (NP (NP new aspects)
+					     (PP of
+						 (NP their businesses)))
+					 (ADVP-TMP *T*-2)))))))))
+     .))
+( (S (NP-SBJ-2 Digital)
+     ,
+     (ADVP however)
+     ,
+     (VP does n't
+         (VP expect
+             (S (NP-SBJ *-2)
+                (VP to
+                    (VP displace
+                        (NP (NP IBM mainframes)
+                            (SBAR (WHNP-1 that)
+                                  (S (NP-SBJ *T*-1)
+                                     (VP are
+                                         (ADVP already)
+                                         (VP installed
+                                             (PP-LOC at
+						     (NP big companies))))))))))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP commercial markets))))
+     ,
+     (NP-SBJ (NP Digital 's)
+             new line)
+     (VP targets
+         (NP (NP the low end)
+             (PP of
+                 (NP the
+		     (UCP engineering and scientific)
+		     supercomputer market)))
+	 ,
+	 (SBAR-TMP (WHADVP-1 when)
+		   (S (NP-SBJ it)
+		      (VP 's
+			  (VP packaged
+			      (PP with
+				  (NP (NP an optional supercharger)
+				      ,
+				      (VP known
+					  (NP *)
+					  (PP-CLR as
+						  (NP a vector processor)))))
+			      (ADVP-TMP *T*-1))))))
+     .))
+( (S (NP-SBJ (NP (NP Digital 's)
+		 push)
+             (PP into
+                 (NP mainframes)))
+     (VP comes
+	 (PP-TMP at
+		 (NP (NP a time)
+		     (SBAR (WHADVP-3 when)
+			   (S (NP-SBJ its mainstay minicomputer line)
+			      (VP is
+				  (PP-PRD under
+					  (NP (NP growing pressure)
+					      (PP from
+						  (NP (NP smaller personal computers)
+						      and
+						      (NP (NP workstations)
+							  (SBAR (WHNP-1 that)
+								(S (NP-SBJ *T*-1)
+								   (VP operate
+								       (PP (PP on
+									       (NP standard operating systems))
+									   (CONJP rather than) 
+									   (PP on
+									       (NP (NP the proprietary systems)
+										   (SBAR (WHNP-2 that)
+											 (S (NP-SBJ older minicomputers)
+											    (VP use
+												(NP *T*-2)))))))))))))))
+				  (ADVP-TMP *T*-3)))))))
+     .))
+( (S (SBAR-ADV Although
+	       (S (NP-SBJ Digital)
+		  (VP has
+		      (VP staked
+			  (PRT out)
+			  (NP (NP a major presence)
+			      (PP-LOC in
+				      (NP the booming workstation market)))))))
+     ,
+     (NP-SBJ (NP profit margins)
+             (PP-LOC in
+		     (NP that market)))
+     (VP are
+         (ADJP-PRD (ADJP much slimmer) 
+                   (PP than
+                       (PP for
+                           (NP mainframes)))))
+     .))
+( (S (NP-SBJ The slow-growing mainframe market)
+     (ADVP also)
+     (VP has
+         (VP shown
+             (NP (NP new signs)
+                 (PP of
+                     (NP life)))
+	     (ADVP-TMP lately)))
+     .))
+( (S (NP-SBJ (NP IBM 's)
+             mainframe sales)
+     (VP have
+         (VP held
+             (PRT up)
+             (ADVP (ADVP better) 
+                   (SBAR than
+			 (FRAG (VP expected))))
+	     (NP-TMP this year)
+	     ,
+	     (PP with
+		 (S-NOM (NP-SBJ analysts) 
+			(VP estimating
+			    (SBAR 0
+				  (S (NP-SBJ they)
+				     (VP have
+					 (VP risen
+					     (NP-ADV (QP 10 % to 12 %)
+						     *U*))))))))))
+     .))
+( (SINV ``
+	(S-TPC-1 (NP-SBJ (NP Demand)
+			 (PP for
+			     (NP these systems)))
+		 (VP has
+		     (VP been
+			 (ADJP-PRD very , very strong))))
+	, ''
+	(VP said
+	    (S *T*-1))
+	(NP-SBJ (NP Bill Grabe)
+		,
+		(NP a senior IBM marketing executive))
+	.))
+( (S ``
+     (NP-SBJ We)
+     (VP have
+         (NP (NP a good strong backlog)
+             (PP for
+                 (NP the fourth quarter)))
+	 (PP (ADVP even) 
+	     without ''
+	     (NP (NP the systems)
+		 (SBAR (WHNP-2 that)
+		       (S (NP-SBJ-1 *T*-2)
+			  (VP were
+			      (VP announced
+				  (NP *-1)
+				  (NP-TMP yesterday))))))))
+     .))
+( (S But
+     (S (NP-SBJ the 3090 line)
+        (VP is
+            (ADJP-PRD (ADJP (NP (QP nearly five) years) 
+                            old)
+                      --
+                      (SBAR (WHNP-1 which)
+                            (S (NP-SBJ *T*-1)
+                               (VP is
+                                   (VP getting
+                                       (ADVP-PRD up there)
+				       (PP in
+					   (NP mainframe years))))))
+                      --)))
+     and
+     (S (NP-SBJ-2 its growth)
+        (VP is
+            (VP expected
+                (S (NP-SBJ *-2)
+                   (VP to
+                       (VP slow
+			   (PP-TMP in
+				   (NP 1990))))))))
+     .))
+( (S (NP-SBJ (NP IBM)
+             ,
+             (NP-LOC Armonk 
+		     ,
+		     N.Y.)
+	     ,)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP wanted
+                      (S (NP-SBJ-2 *-1)
+                         (VP to
+                             (VP bring
+                                 (PRT out)
+                                 (NP the mainframes)
+                                 (ADVP-TMP as soon
+					   (SBAR as
+						 (S (NP-SBJ it)
+						    (VP could
+							(VP *?*))))) 
+				 (S-PRP (NP-SBJ *-2)
+					(VP to
+					    (VP spark
+						(NP (NP (ADJP as many)
+							sales)
+						    (PP as
+							(ADJP possible)))
+						(PP-TMP by
+							(NP (NP the end)
+							    (PP of
+								(NP the year))))))))))))))
+     .))
+( (S (NP-SBJ The fourth quarter)
+     (VP is
+         (ADVP-TMP always)
+         (NP-PRD (NP (NP IBM 's)
+		     biggest)
+		 (PP by
+		     (ADVP far)))
+	 ,
+	 (PP with
+	     (S-NOM (NP-SBJ most sales) 
+		    (VP coming
+			(PP-TMP in
+				(NP December))
+			(SBAR-ADV as
+				  (S (NP-SBJ-1 customers)
+				     (VP seek
+					 (S (NP-SBJ *-1)
+					    (VP to
+						(VP use
+						    (NP budgets)
+						    (PP-TMP before
+							    (NP year end))))))))))))
+     .))
+( (S (ADVP Still)
+     ,
+     (NP-SBJ (NP Steve Cohen)
+             ,
+             (NP (NP an analyst)
+                 (PP-LOC at
+			 (NP SoundView Financial Group Inc.)))
+             ,)
+     (VP said
+	 , ``
+         (S (NP-SBJ I)
+            (VP do n't
+                (VP see
+                    (SBAR that
+                          (S (NP-SBJ-1 this)
+                             (VP will
+                                 (VP be
+                                     (ADJP-PRD sufficient
+                                               (S (NP-SBJ *-1)
+                                                  (VP to
+                                                      (VP give
+                                                          (NP IBM)
+                                                          (NP a significant kick)
+							  (PP-TMP in
+								  (NP the fourth quarter))))))))))))))
+     . ''))
+( (S (NP-SBJ IBM)
+     (VP has
+         (ADVP already)
+         (VP indicated
+             (SBAR 0
+                   (S (NP-SBJ it)
+                      (VP will
+                          (VP have
+                              (NP problems)
+			      (PP-TMP in
+				      (NP the quarter))
+			      ,
+			      (UCP-PRP (PP (ADVP partly) 
+					   because of
+					   (NP (NP a delay)
+					       (PP in
+						   (S-NOM (NP-SBJ *)
+							  (VP shipping
+							      (NP a high-end disk drive))))))
+				       and
+				       (SBAR (ADVP partly) 
+					     because
+					     (S (NP-SBJ the strong dollar)
+						(VP will
+						    (VP cut
+							(ADVP-EXT significantly) 
+							(NP (NP the value)
+							    (PP of
+								(NP (NP IBM 's)
+								    overseas earnings))
+							    (SBAR-TMP (WHADVP-2 when) 
+								      (S (NP-SBJ-1 *)
+									 (VP translated 
+									     (NP *-1)
+									     (PP-CLR into
+										     (NP dollars))
+									     (ADVP-TMP *T*-2))))))))))))))))
+     .))
+( (S (NP-SBJ Some analysts)
+     (VP have
+         (VP estimated
+             (SBAR 0
+                   (S (NP-SBJ (NP IBM 's)
+                              fourth-quarter per-share earnings)
+                      (VP will
+                          (VP fall
+                              (NP-ADV 10 %)
+                              (PP-DIR to
+				      (NP (NP $ 3.57 *U*)
+					  (NP-ADV a share)))
+                              (PP-DIR from
+				      (NP (NP $ 3.97 *U*)
+					  (NP-ADV a share))
+				      (ADVP-TMP (NP a year)
+						earlier))))))))
+     .))
+( (S (PP In
+         (NP (NP addition)
+             (PP to
+                 (NP the new mainframe hardware and software))))
+     ,
+     (NP-SBJ IBM)
+     (VP announced
+         (NP (NP a magnetic-tape system)
+	     (PP for
+		 (NP data storage))
+             (SBAR (WHNP-1 that)
+                   (S (NP-SBJ it)
+                      (VP said
+                          (SBAR 0
+                                (S (NP-SBJ *T*-1)
+                                   (VP (VP occupies
+					   (NP (NP (QP half as much) 
+						   floor space)
+					       (PP as
+						   (NP older systems))))
+				       but
+				       (VP can
+					   (VP store
+					       (NP (QP five times as much) 
+						   data)
+					       (PP-LOC-CLR on
+							   (NP a single cartridge))))))))))))
+     .))
+( (S (NP-SBJ That)
+     (VP should
+         (VP help
+             (S (NP-SBJ IBM)
+		(VP address
+		    (NP (NP the damage)
+			(SBAR (WHNP-1 that)
+			      (S (NP-SBJ a resurgent Storage Technology Corp.)
+				 (VP has
+				     (VP inflicted
+					 (NP *T*-1)
+					 (PP-LOC in
+						 (NP that market)))))))))))
+     .))

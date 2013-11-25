@@ -1,0 +1,60 @@
+
+
+( (S (NP-SBJ (NP Britain 's)
+             industrial production)
+     (VP (VP rose
+             (NP-EXT 1.5 %)
+             (PP-TMP in
+		     (NP August))
+             (PP-TMP from
+		     (NP July)))
+         and
+         (VP was
+             (ADVP-PRD up
+                       (NP 0.9 %)
+                       (PP-TMP from
+			       (NP (NP August) 
+				   (NP 1988)))))
+	 ,
+	 (PP according
+	     (PP to
+		 (NP (NP provisional data)
+		     (PP from
+			 (NP the Central Statistical Office))))))
+     .))
+( (S (NP-SBJ (NP Output)
+	     (PP in
+		 (NP the energy sector))
+             ,
+             (SBAR (WHNP-1 which)
+                   (S (NP-SBJ *T*-1)
+                      (VP can
+                          (VP vary
+                              (ADVP-MNR greatly)
+                              (PP with
+                                  (NP (NP swings)
+                                      (PP-LOC in
+					      (NP the oil market))))))))
+             ,)
+     (VP (VP rose
+             (NP-EXT 3.8 %)
+             (PP-TMP in
+		     (NP August))
+             (PP-TMP from
+		     (NP May)))
+         but
+         (VP was
+             (ADVP-PRD down
+                       (NP 7.1 %)
+                       (PP-TMP from
+			       (ADVP (NP a year)
+				     earlier)))))
+     .))
+( (S (NP-SBJ The latest figures)
+     (VP compare
+         (PP-CLR with
+		 (NP (NP (NP July 's)
+			 (ADJP 4.5 %) month-to-month rise)
+		     and
+		     (NP (ADJP 11.3 %) year-to-year fall))))
+     .))

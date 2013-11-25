@@ -1,0 +1,59 @@
+
+
+( (S (NP-SBJ Cetus Corp.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ (NP the government)
+                          (PP of
+                              (NP Spain)))
+                  (VP approved
+                      (NP (NP the marketing)
+                          (PP of
+                              (NP (NP its Proleukin interleukin-2 drug)
+                                  (SBAR (WHNP-1 0)
+					(S (NP-SBJ *T*-1) 
+					   (VP to
+					       (VP treat
+						   (NP kidney cancer))))))))))))
+     .))
+( (S (NP-SBJ The biotechnology concern)
+     (VP said
+         (SBAR (SBAR 0
+                     (S (NP-SBJ Spanish authorities)
+                        (VP must
+                            (ADVP still)
+                            (VP clear
+                                (NP (NP the price)
+                                    (PP for
+                                        (NP the treatment)))))))
+               , but
+               (SBAR that
+                     (S (NP-SBJ-1 it)
+                        (VP expects
+                            (S (NP-SBJ *-1)
+                               (VP to
+                                   (VP receive
+                                       (NP such approval)
+                                       (PP-TMP by
+					       (NP year end))))))))))
+     .))
+( (S (NP-SBJ (NP Four other countries)
+             (PP-LOC in
+		     (NP Europe)))
+     (VP have
+         (VP approved
+             (NP Proleukin)
+             (PP-TMP in
+		     (NP recent months))))
+     .))
+( (S (NP-SBJ-1 Cetus)
+     (VP is
+         (ADVP-TMP currently)
+         (VP trying
+             (S (NP-SBJ *-1)
+                (VP to
+                    (VP obtain
+                        (NP (NP federal regulatory clearance)
+                            (PP for
+                                (NP U.S. distribution))))))))
+     .))

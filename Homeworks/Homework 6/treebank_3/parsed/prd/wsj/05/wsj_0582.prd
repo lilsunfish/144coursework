@@ -1,0 +1,75 @@
+
+
+( (S (NP-SBJ Humana Inc.)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ-1 it)
+                  (VP expects
+                      (S (NP-SBJ *-1)
+                         (VP to
+                             (VP receive
+                                 (NP (NP (QP about $ 27 million)
+					 *U*)
+                                     (PP in
+                                         (NP (NP federal income-tax refunds) 
+					     and 
+					     (NP interest))))
+                                 (PP from
+                                     (NP (NP a court ruling)
+                                         (PP on
+                                             (NP a tax dispute)))))))))))
+     .))
+( (S (NP-SBJ The health-care company)
+     (VP said
+         (SBAR 0
+               (S (NP-SBJ it)
+                  (VP expects
+		      (S (NP-SBJ-1 the refund)
+			 (VP to
+                             (VP be
+                                 (VP included
+                                     (NP *-1)
+                                     (PP-CLR in
+					     (NP (NP the first quarter)
+						 (VP ending
+						     (NP-TMP Nov. 30))))))))))))
+     .))
+( (S (NP-SBJ The refund)
+     (VP is
+         (NP-PRD (QP about $ 9 million)
+		 *U*))
+     .))
+( (S (NP-SBJ (NP Accrued interest)
+             (PP on
+                 (NP the refund)))
+     (VP was
+         (NP-PRD (QP about $ 18 million) *U*)
+         (PP-TMP as
+		 (PP of
+		     (NP Oct. 25))))
+     .))
+( (S (NP-SBJ The refund)
+     (VP stems
+         (PP-CLR from
+		 (NP (NP a court ruling)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP found
+				  (SBAR 0
+					(S (NP-SBJ (NP certain payments)
+						   (PP by
+						       (NP Humana subsidiaries))
+						   (PP to
+						       (NP its insurance subsidiary))
+						   (PP-TMP during
+							   (NP (NP fiscal 
+								   1977)
+							       (PP through
+								   (NP 1979)))))
+					   (VP were
+					       (ADJP-PRD deductible
+							 (PP as
+							     (NP (NP premiums)
+								 (PP for
+								     (NP liability insurance))))))))))))))
+     .))

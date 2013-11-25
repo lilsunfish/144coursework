@@ -1,0 +1,154 @@
+
+
+( (S (NP-SBJ Gillette Co.)
+     (VP elected
+         (NP (NP Warren E. Buffett)
+             ,
+             (NP (NP chairman)
+                 (PP of
+                     (NP Berkshire Hathaway Inc.)))
+             ,)
+         (PP-CLR to
+		 (NP its board))
+	 ,
+	 (S-ADV (NP-SBJ *)
+		(VP increasing
+		    (NP (NP the number)
+			(PP of
+			    (NP directors)))
+		    (PP-DIR to
+			    (NP 12))
+		    (PP-DIR from
+			    (NP 11)))))
+     .))
+( (S (S (NP-SBJ Berkshire Hathaway)
+        (NP-TMP earlier this year)
+        (VP bought
+            (NP (NP (QP $ 600 million) *U*)
+                (PP of
+                    (NP (NP preferred stock)
+			(PP in
+			    (NP Gillette))
+                        (SBAR (WHNP-2 that)
+                              (S (NP-SBJ *T*-2)
+                                 (VP is
+                                     (ADJP-PRD convertible
+                                               (PP into
+                                                   (NP an (ADJP 11 %) stake)))))))))))
+     , and
+     (S (NP-SBJ Gillette)
+        (VP said
+            (PP-TMP at
+		    (NP the time))
+            (SBAR that
+                  (S (NP-SBJ-1 Mr. Buffett)
+                     (VP would
+			 (VP be
+			     (VP added
+				 (NP *-1)
+				 (PP-CLR to
+					 (NP the board)))))))))
+     .))
+( (S (S (ADVP Separately)
+	,
+        (NP-SBJ Gillette)
+	(VP said
+	    (SBAR 0
+		  (S (NP-SBJ its third-quarter earnings)
+		     (VP rose
+			 (NP-EXT 2 %)
+			 (PP-DIR to
+				 (NP (NP (QP $ 65.2 million) *U*)
+				     , or
+				     (NP (NP 57 cents)
+					 (NP-ADV a share))))
+			 ,
+			 (PP-DIR from
+				 (NP (NP (QP $ 63.9 million) *U*)
+				     , or
+				     (NP (NP 57 cents)
+					 (NP-ADV a share)))
+				 ,
+				 (PP-TMP in
+					 (NP the year-earlier period))))))))
+     ;
+     (S (NP-SBJ per-share earnings)
+        (VP remained
+            (ADJP-PRD flat)
+            (PP despite
+                (NP (NP an increase)
+                    (PP in
+                        (NP net income))))
+	    (SBAR-PRP (PP in (NP part)) 
+		      because
+		      (S (NP-SBJ the company)
+			 (VP paid
+			     (NP a
+				 (ADJP (QP $ 10.4 million) *U*)
+				 dividend)
+			     (PP-CLR on
+				     (NP the new preferred stock))
+			     (PP-TMP in
+				     (NP the period)))))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 9 %)
+         (PP-DIR to
+		 (NP (QP $ 921.6 million) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 845.7 million) *U*))
+	 ,
+	 (SBAR-ADV with 
+		   (S (NP-SBJ (NP sales)
+			      (PP of
+				  (NP (NP the company 's)
+				      international/diversified operations)))
+		      (PP-LOC-PRD `` well above '' 
+				  (NP-TMP the year earlier-period)))))
+     .))
+( (S (PP For
+         (NP the nine months))
+     ,
+     (NP-SBJ (NP Gillette 's)
+             net income)
+     (VP declined
+         (NP-EXT 1 %)
+         (PP-DIR to
+		 (NP (NP (QP $ 205.3 million) *U*)
+		     , or
+		     (NP (NP $ 2.02 *U*)
+			 (NP-ADV a share))
+		     ,))
+	 (PP-DIR from
+		 (NP (NP (QP $ 207 million) *U*)
+		     , or
+		     (NP (NP $ 1.82 *U*)
+			 (NP-ADV a share)))
+		 ,
+		 (PP-TMP in
+			 (NP the 1988 period))))
+     .))
+( (S (NP-SBJ Sales)
+     (VP rose
+         (NP-EXT 6 %)
+         (PP-DIR to
+		 (NP (QP $ 2.77 billion) *U*))
+	 (PP-DIR from
+		 (NP (QP $ 2.61 billion) *U*)))
+     .))
+( (S (PP-LOC In
+	     (NP (NP composite trading)
+		 (PP-LOC on
+			 (NP the New York Stock Exchange))))
+     ,
+     (NP-SBJ the company)
+     (VP closed
+	 (NP-TMP yesterday)
+         (PP-CLR at
+		 (NP (NP $ 45.50 *U*)
+		     (NP-ADV a share)))
+	 ,
+	 (ADVP up
+	       (NP 25 cents)))
+     .))

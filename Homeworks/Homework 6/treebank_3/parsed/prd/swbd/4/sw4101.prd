@@ -1,0 +1,993 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+( (CODE SpeakerA1 .))
+( (INTJ Uh-huh
+	.
+	E_S))
+( (CODE SpeakerB2 .))
+( (INTJ (INTJ Hey)
+	(NP-VOC Steve)
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (S-TPC-1 (EDITED (RM [)
+		      (S-UNF (NP-SBJ They)
+			     (ADVP just))
+		      ,
+		      (IP +))
+	      (INTJ uh)
+	      ,
+	      (NP-SBJ they)
+	      (ADVP just)
+	      (RS ])
+	      (VP started
+		  (NP a recycling program)
+		  (ADVP-LOC here)))
+     ,
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S *T*-1)))
+     .
+     E_S))
+( (S (ADVP Actually)
+     ,
+     (NP-SBJ this)
+     (VP is
+	 (NP-PRD (NP my first experience)
+		 (PP with
+		     (NP recycling program))))
+     E_S))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (PP instead of
+	 (S-NOM (NP-SBJ *-2)
+		(ADVP just)
+		(INTJ like)
+		(VP (VP tossing
+			(NP everything)
+			(ADVP away))
+		    (SBAR (WHNP-1 which)
+			  (S (NP-SBJ I)
+			     (ADVP-TMP always)
+			     (VP felt
+				 (ADJP-PRD bad)
+				 (PP about
+				     (NP *T*-1))))))))
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ-2 I)
+     (VP am
+	 (VP starting
+	     (S (NP-SBJ *-2)
+		(VP to
+		    (EDITED (RM [)
+			    (VP split
+				(NP-UNF stu-))
+			    ,
+			    (IP +))
+		    (VP split
+			(NP stuff)
+			(RS ])
+			(PRT up))))))
+     .
+     E_S))
+( (S (NP-SBJ The only disadvantage)
+     (VP is
+	 (SBAR-PRD that
+		   (S (NP-SBJ they)
+		      (VP do
+			  n't
+			  (VP pick
+			      (NP it)
+			      (PRT up)
+			      (PP-LOC at
+				      (NP the curb)))))))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP make
+	 (S (NP-SBJ me)
+	    (VP (VP drive
+		    (NP it)
+		    (INTJ like)
+		    (PP-DIR (NP-ADV a mile)
+			    down
+			    (NP the road)))
+		and
+		(VP spit
+		    (NP it)
+		    (PRT out)
+		    (PP-LOC down
+			    (ADVP there))))))
+     .
+     E_S))
+( (SBARQ (WHNP-1 What)
+	 (SQ are
+	     (NP-SBJ they)
+	     (VP doing
+		 (NP *T*-1)
+		 (PP-LOC up
+			 (ADVP there))))
+	 ?
+	 E_S))
+( (CODE SpeakerA3 .))
+( (FRAG (INTJ Well)
+	,
+	(ADVP-LOC here
+		  (PP in
+		      (NP Saskatoon)))
+	,
+	(INTJ uh)
+	,
+	(NP much the same thing)
+	.
+	E_S))
+( (S (NP-SBJ There)
+     (VP is
+	 (NP-PRD (NP no curb pick up)
+		 (PP of
+		     ,
+		     (INTJ uh)
+		     ,
+		     (NP (NP any)
+			 (PP of
+			     (NP the recycled products))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ we)
+     (VP 're
+	 (PP-LOC-PRD in
+		     (NP (NP a community)
+			 (PP of
+			     (NP (QP about one hundred and eighty thousand)
+				 people)))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ there)
+     (VP are
+	 (NP-PRD (NP areas)
+		 (SBAR (WHADVP where)
+		       (S (NP-SBJ we)
+			  (VP-UNF could
+				  ,
+				  (INTJ uh))))))
+     ,
+     N_S))
+( (S (ADVP actually)
+     (NP-SBJ we)
+     (VP have
+	 (NP (NP a couple)
+	     (PP of
+		 (NP (NP the
+			 ,
+			 (INTJ uh)
+			 ,
+			 handicapped societies
+			 ,
+			 types)
+		     (PP of
+			 (NP places))
+		     (SBAR (WHADVP where)
+			   (S (NP-SBJ-UNF the
+					  (INTJ uh))))))))
+     ,))
+( (NP (NP (NP one)
+	  (SBAR (WHNP-1 0)
+		(S (NP-SBJ they)
+		   (VP do
+		       (NP *T*-1)
+		       (PP as
+			   (NP (ADVP just)
+			       a recycling operation))))))
+      (CONJP and then)
+      (NP (NP others)
+	  (SBAR (WHADVP-2 0)
+		(S (NP-SBJ they)
+		   (VP (VP collect
+			   (NP the paper))
+		       and
+		       (VP ship
+			   (NP it)
+			   (PP-DIR to
+				   (NP other retailers)))
+		       (ADVP-LOC *T*-2)))))
+      E_S))
+( (S so
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ-1 we)
+     (VP are
+	 (ADJP-PRD able
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  ,
+			  (INTJ uh)
+			  ,
+			  (VP have
+			      (NP (NP drop off bins)
+				  (PP for
+				      (NP (NP news papers) 
+					  and 
+					  (NP cardboard)
+					  and
+					  (NP (NP that kind)
+					      (PP of
+						  (NP thing)))))))))))
+     E_S))
+( (S (CONJP and then)
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP-UNF are))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP a
+		     (INTJ uh)
+		     ,
+		     deposit program)
+		 (PP on
+		     (NP (NP plastic and glass containers)
+			 .
+			 (INTJ Well)
+			 ,
+			 (ADVP primarily)
+			 (NP soft drink bottles)))))
+     E_S))
+( (S (CONJP and so)
+     (NP-SBJ-1 we)
+     (VP are
+	 (ADJP-PRD able
+		   (INTJ uh)
+		   (S (NP-SBJ *-1)
+		      (VP to
+			  (VP take
+			      (NP it)
+			      (PP-DIR to
+				      (NP (NP one)
+					  (PP of
+					      (NP the
+						  (INTJ uh)
+						  ,
+						  rehabilitation centers)))))))))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ they)
+     (VP recycle
+	 (NP the containers))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP refund
+	 (NP (NP the deposit)
+	     (SBAR (WHNP-1 which)
+		   (S (NP-SBJ *T*-1)
+		      (VP is
+			  (NP-PRD (NP (QP anywhere from five to fifteen)
+				      cents)
+				  (NP-ADV a container)))))))
+     E_S))
+( (S-UNF (CONJP and then)
+	 ,
+	 N_S))
+( (CODE SpeakerB4 .))
+( (S (EDITED (RM [)
+	     (NP-SBJ-UNF The)
+	     ,
+	     (IP +))
+     (NP-SBJ the
+	     (RS ]) deposit) 
+     (VP 's
+	 (ADVP only)
+	 (PP-PRD on
+		 (INTJ like)
+		 (NP drink stuff)))
+     .
+     E_S))
+( (CODE SpeakerA5 .))
+( (INTJ Right
+	.
+	E_S))
+( (CODE SpeakerB6 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA7 .))
+( (PP (EDITED (RM [)
+	      (EDITED (RM [)
+		      (PP On
+			  (NP-UNF the))
+		      ,
+		      (IP +))
+	      (PP-UNF on)
+	      (RS ])
+	      (IP +))
+      (ADVP primarily)
+      on
+      (RS ])
+      (NP (NP soft drink)
+	  ,
+	  (NP pops)
+	  and
+	  (NP (NP that kind)
+	      (PP of
+		  (NP thing))))
+      E_S))
+( (CODE SpeakerB8 .))
+( (INTJ Okay
+	.
+	E_S))
+( (CODE SpeakerA9 .))
+( (S (EDITED (RM [)
+	     and
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     so
+     ,
+     (RS ])
+     (NP-SBJ they)
+     (VP (TYPO induce)
+	 (NP (NP recycling)
+	     (PP of
+		 (NP plastic and glass
+		     ,
+		     soft drink containers))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ we)
+     (VP do
+	 (VP have
+	     (NP (NP one)
+		 (PP of
+		     (NP (NP the (TYPO scrape) metal dealers)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP will
+				      (VP accept
+					  (NP tin and aluminum cans)
+					  (ADVP as well))))))))))
+     E_S))
+( (CODE SpeakerB10 .))
+( (INTJ (INTJ Oh)
+	,
+	(INTJ okay)
+	.
+	E_S))
+( (CODE SpeakerA11 .))
+( (S (EDITED (RM [)
+	     (S-UNF and
+		    (ADVP actually)
+		    (NP-SBJ the recycler))
+	     ,
+	     (IP +))
+     (PRN (S (NP-SBJ there)
+	     (VP is
+		 (NP-PRD (NP a deposit)
+			 (PP on
+			     (NP aluminum pop cans and beer cans))))))
+     (CONJP and so)
+     (NP-SBJ (NP the recycler)
+	     ,
+	     (RS ])
+	     (INTJ uh)
+	     ,
+	     (PP with
+		 (NP the handicapped group)))
+     (VP will
+	 (ADVP also)
+	 (VP accept
+	     (NP those)))
+     .
+     E_S))
+( (S So
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (EDITED (RM [)
+		 (ADVP fairly)
+		 ,
+		 (IP +))
+	 (ADJP-PRD fairly
+		   (RS ])
+		   extensive))
+     ,
+     E_S))
+( (S but
+     (ADVP then again)
+     (EDITED (RM [)
+	     (S (NP-SBJ it)
+		(VP-UNF 's))
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ it)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP the initiative)
+		 (PP of
+		     (NP the individual person)))
+	 (SBAR-PRP because
+		   (S (NP-SBJ there)
+		      (VP is
+			  (NP-PRD (NP no coordinated pick up)
+				  (PP by
+				      (NP the city)))))))
+     .
+     E_S))
+( (CODE SpeakerB12 .))
+( (SQ-UNF (INTJ So)
+	  ,
+	  did
+	  (NP-SBJ they)
+	  ,
+	  N_S))
+( (SQ (EDITED (RM [)
+	      (S (NP-SBJ you)
+		 (VP 're
+		     (VP-UNF giving)))
+	      ,
+	      (IP +))
+      are
+      (NP-SBJ you)
+      (VP giving
+	  (RS ])
+	  (NP these products)
+	  (PP-DTV to
+		  (NP the handicapped group)))
+      E_S))
+( (S and
+     (NP-SBJ the handicapped group)
+     (VP is
+	 (VP getting
+	     (EDITED
+	      (NP-UNF the))
+	     (INTJ uh)
+	     ,
+	     (NP the money)))
+     E_S))
+( (SQ (EDITED (RM [)
+	      (EDITED (RM [)
+		      or
+		      (IP +))
+	      or
+	      are
+	      (NP-SBJ you)
+	      ,
+	      (RS ])
+	      (IP +))
+      or
+      are
+      (RM [) 
+      (NP-SBJ they)
+      (IP +)
+      (ADVP-MNR (TYPO some home))
+      (RS ])
+      (RS ])
+      (VP distributing
+	  (NP the funds)
+	  (ADVP back)
+	  (PP to
+	      (NP you)))
+      .
+      E_S))
+( (CODE SpeakerA13 .))
+( (S (INTJ Well)
+     ,
+     (ADVP actually)
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP-UNF 's))
+	     ,
+	     (IP +))
+     (NP-SBJ there)
+     (VP 's
+	 (RS ])
+	 (NP-PRD (NP the opportunity)
+		 (PP for
+		     (NP both))))
+     .
+     E_S))
+( (CODE SpeakerB14 .))
+( (INTJ (INTJ Oh)
+	.
+	(INTJ Okay)
+	.
+	E_S))
+( (CODE SpeakerA15 .))
+( (S (ADVP Generally)
+     (EDITED (RM [)
+	     (NP-SBJ-UNF the)
+	     ,
+	     (IP +))
+     (INTJ uh)
+     ,
+     (NP-SBJ the
+	     (RS ])
+	     handicapped group)
+     (VP takes
+	 (NP care)
+	 (PP of
+	     (NP (NP the things)
+		 (SBAR-UNF (WHNP that)))))
+     N_S))
+( (S (ADVP actually)
+     ,
+     (NP-SBJ the government)
+     (VP has
+	 (VP placed
+	     (NP (NP the deposit)
+		 (SBAR (WHNP-1 which)
+		       (S (NP-SBJ *T*-1)
+			  (VP is
+			      (NP-PRD the inducement
+				      (S (NP-SBJ *)
+					 (VP to
+					     (EDITED (RM [)
+						     (VP-UNF re-)
+						     ,
+						     (IP +))
+					     (VP recycle
+						 (RS ])
+						 (NP the bottle)))))))))
+	     (SBAR-PRP so that
+		       (S (NP-SBJ you)
+			  (VP get
+			      (NP your money)
+			      (ADVP back))))))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ (NP the recycler)
+	     (VP run
+		 (NP *)
+		 (PP by
+		     (NP-LGS the handicapped society))))
+     (VP pays
+	 (ADVP back)
+	 (NP (NP the cost)
+	     (PP of
+		 (NP that deposit))))
+     E_S))
+( (S (EDITED (RM [)
+	     (S-UNF (CONJP and then)
+		    (NP-SBJ I))
+	     ,
+	     (IP +))
+     (CONJP and then)
+     (NP-SBJ they)
+     (RS ])
+     (PP in
+	 (NP turn))
+     (VP will
+	 (VP get
+	     (NP some money)
+	     (PP (PP from
+		     (NP the bottlers))
+		 and
+		 (PP from
+		     (EDITED 
+		      (NP-UNF the))
+		     (NP (NP the people)
+			 (SBAR (WHNP-1 that)
+			       (S (NP-SBJ *T*-1)
+				  (VP do
+				      (NP (NP the canning)
+					  (PP of
+					      (NP (NP the pop)
+						  and
+						  (NP the beer))))))))))
+	     (EDITED (RM [)
+		     (ADVP-UNF as)
+		     (IP +))
+	     (ADVP as
+		   (RS ])
+		   well)))
+     .
+     E_S))
+( (CODE SpeakerB16 .))
+( (S (NP-SBJ That)
+     (VP 's
+	 (ADJP-PRD very cool))
+     .
+     E_S))
+( (S (PRN (S (NP-SBJ You)
+	     (VP know)))
+     (EDITED (RM [)
+	     (S (NP-SBJ there)
+		(VP 's
+		    (NP-PRD-UNF a)))
+	     ,
+	     (IP +))
+     (NP-SBJ I)
+     (VP heard
+	 (PP about
+	     (NP (NP a
+		     (RS ])
+		     similar program)
+		 (PP-LOC in
+			 (NP New York City))
+		 (SBAR (WHADVP where)
+		       ,
+		       (INTJ uh)
+		       ,
+		       (S-UNF (NP-SBJ (NP a thing)
+				      (VP called
+					  (S (NP-SBJ *)
+					     (INTJ like)
+					     (NP-PRD (NP Homeless Incorporated)
+						     or
+						     (NP (NP something)
+							 (PP like
+							     (NP that))))))))))))
+     ,
+     N_S))
+( (S but
+     (SBAR-NOM-SBJ (WHNP-1 what)
+		   (S (NP-SBJ they)
+		      (VP do
+			  (NP *T*-1))))
+     (VP is
+	 (S-PRD (NP-SBJ *)
+		(VP employ 
+		    ,
+		    (INTJ uh)
+		    ,
+		    (S (EDITED (RM [)
+			       (NP-SBJ-UNF homeless)
+			       ,
+			       (IP +))
+		       (PRN (S (NP-SBJ I)
+			       (VP think
+				   (FRAG (NP mostly men))))
+			    ,
+			    but)
+		       (NP-SBJ homeless
+			       (RS ])
+			       people)
+		       (VP to
+			   (INTJ uh)
+			   ,
+			   (VP (VP go
+				   (ADVP-DIR out))
+			       and
+			       (VP collect
+				   (NP all the recyclable cans))))))))
+     E_S))
+( (S (EDITED (RM [)
+	     and
+	     (IP +))
+     and
+     (RS ])
+     (NP-SBJ I)
+     (VP think
+	 (SBAR 0
+	       (S (NP-SBJ it)
+		  (VP 's
+		      (ADVP mostly)
+		      (NP-PRD cans)))))
+     .
+     E_S))
+( (S (NP-SBJ There)
+     (VP may
+	 (VP be
+	     (NP-PRD bottles)
+	     (ADVP as well)))
+     ,))
+( (FRAG but
+	(INTJ like)
+	(NP (NP beer cans)
+	    ,
+	    (NP soda cans)
+	    and
+	    (NP what not))
+	E_S))
+( (S and
+     (NP-SBJ-2 they)
+     ,
+     (INTJ uh)
+     ,
+     (VP (VP bring
+	     (NP them)
+	     (PP-DIR up
+		     (PP to
+			 (EDITED (RM [)
+				 (EDITED (RM [)
+					 (NP-UNF a)
+					 (IP +))
+				 (NP-UNF one lo-)
+				 ,
+				 (RS ]) 
+				 (IP +))
+			 (NP one centralized location)
+			 (RS ]))))
+	 and
+	 ,
+	 (INTJ uh)
+	 ,
+	 (VP are
+	     (ADJP-PRD able
+		       (S (NP-SBJ *-2)
+			  (VP to
+			      (VP (VP collect
+				      (NP the money)
+				      (PP from
+					  (NP the various beer
+					      (EDITED (RM [)
+						      and
+						      ,
+						      (IP +))
+					      and
+					      (RS ])
+					      soda manufacturers)))
+				  (EDITED (RM [)
+					  and 
+					  ,
+					  (IP +))
+				  (INTJ uh)
+				  ,
+				  and
+				  (RS ])
+				  (VP get
+				      (NP more money)
+				      (PP to
+					  (NP (NP these people)
+					      (SBAR (WHNP-1 that)
+						    (S (NP-SBJ *T*-1)
+						       (ADVP desperately)
+						       (VP need
+							   (NP it)))))))))))))
+     .
+     E_S))
+( (CODE SpeakerA17 .))
+( (INTJ (INTJ Oh)
+	(INTJ yeah)
+	.
+	E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ I)
+     (VP guess
+	 (FRAG (PP-PRP (ADVP partly)
+		       because of
+		       (NP our climate))))
+     .
+     N_S))
+( (S-UNF (ADVP-LOC Here
+		   (PP in
+		       (NP Saskatoon)))
+	 (ADVP at least)
+	 ,
+	 (NP-SBJ (NP the majority)
+		 (PP of
+		     (NP-UNF central
+			     ,
+			     (INTJ uh))))
+	 ,
+	 N_S))
+( (S (INTJ well)
+     ,
+     (NP-SBJ-1 I)
+     (VP want
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP say
+		    (FRAG (NP Central Canada))))))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ-1 Central Canada)
+     (VP tends
+	 (S (NP-SBJ *-1)
+	    (VP to
+		(VP referred
+		    (PP (ADVP more)
+			to
+			(NP Ontario and Quebec))))))
+     E_S))
+( (CODE SpeakerB18 .))
+( (INTJ Yeah
+	.
+	E_S))
+( (CODE SpeakerA19 .))
+( (S but
+     ,
+     (INTJ uh)
+     ,
+     (NP-SBJ we)
+     (VP do
+	 n't
+	 (VP have
+	     (NP (NP much)
+		 (PP of
+		     (NP (NP a situation)
+			 (SBAR (WHADVP-1 where)
+			       (S (NP-SBJ we)
+				  (VP might
+				      (VP call
+					  (S (NP-SBJ them)
+					     (NP-PRD homeless people))
+					  (ADVP-LOC *T*-1))))))))))
+     .
+     E_S))
+( (S (NP-SBJ We)
+     (ADVP certainly)
+     (VP have
+	 (NP (NP a fair number)
+	     (PP of
+		 (NP (NP people)
+		     (SBAR (WHNP-1 that)
+			   (S (NP-SBJ *T*-1)
+			      (VP are
+				  (PP-PRD on
+					  (EDITED (RM [)
+						  (NP-UNF welfa-)
+						  ,
+						  (IP +))
+					  (NP (NP welfare)
+					      (RS ])
+					      and
+					      (NP unemployment insurance)
+					      and
+					      (NP (NP that kind)
+						  (PP of
+						      (NP thing))))))))))))
+     .
+     E_S))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ there)
+     (VP 's
+	 (NP-PRD (NP psychological pressure)
+		 (PP against
+		     (S-NOM (NP-SBJ *)
+			    (VP employing 
+				(S (NP-SBJ people)
+				   (VP to
+				       (VP do
+					   (NP (NP that kind)
+					       (PP of
+						   (NP thing))))))))))
+	 (SBAR-ADV although
+		   ,
+		   (INTJ uh)
+		   ,
+		   (S (NP-SBJ (NP (NP scouts) 
+				  and 
+				  (NP hockey teams) 
+				  and 
+				  (NP ball teams))
+			      ,
+			      (NP those kinds))
+		      ,
+		      (INTJ uh)
+		      ,
+		      (ADVP-TMP regularly)
+		      (VP do
+			  (NP (NP bottle drives)
+			      (SBAR (WHADVP-1 where)
+				    (S (NP-SBJ they)
+				       (VP (VP go
+					       (ADVP around)
+					       (PP-LOC in
+						       (NP various neighborhoods)))
+					   and
+					   (VP collect
+					       (NP the bottles)
+					       (PP-LOC at
+						       (NP individual homes)))
+					   (ADVP-LOC *T*-1)))))))))
+     .
+     E_S))
+( (CODE SpeakerB20 .))
+( (SQ Do
+      (NP-SBJ they)
+      (VP do
+	  (NP it)
+	  (PP with
+	      (NP news papers))
+	  (ADVP as well))
+      ?
+      E_S))
+( (CODE SpeakerA21 .))
+( (S (NP-SBJ They)
+     (VP have
+	 (VP done
+	     (NP it)
+	     (ADVP some)
+	     ,
+	     (INTJ uh)))
+     ,
+     E_S))
+( (S but
+     (NP-SBJ we)
+     (VP have
+	 (ADVP actually)
+	 (NP (NP quite an extensive network)
+	     (PP of
+		 (S-NOM (NP-SBJ *)
+			(VP collecting
+			    (NP news papers))))))
+     .
+     E_S))
+( (S (NP-SBJ They)
+     (VP are
+	 (ADVP actually)
+	 (PP-LOC-PRD at
+		     ,
+		     (NP (NP virtually all)
+			 (PP of
+			     (NP (NP the shopping centers)
+				 .
+				 (INTJ Like)
+				 (NP the shopping malls))))))
+     .
+     E_S))
+( (S (NP-SBJ There)
+     (VP are
+	 (NP-PRD (NP several containers)
+		 (SBAR (WHADVP-1 where)
+		       (S (NP-SBJ (NP the group)
+				  (VP called
+				      (S (NP-SBJ *)
+					 (NP-PRD Cosmopolitan Industries))))
+			  (VP collects
+			      (ADVP-LOC *T*-1))))))
+     E_S))
+( (S or
+     (NP-SBJ people)
+     (VP can
+	 (VP drop
+	     (NP their
+		 (NX (NX used news papers)
+		     and
+		     (NX other papers)))
+	     (PP-DIR in
+		     (NP the bins))))
+     E_S))
+( (S (CONJP and then)
+     (NP-SBJ-1 the bins)
+     (VP are
+	 (VP collected
+	     (NP *-1)))
+     .
+     E_S))
+( (CODE SpeakerB22 .))
+( (INTJ Huh
+	.
+	E_S))
+( (CODE SpeakerA23 .))
+( (S (INTJ Uh)
+     ,
+     (NP-SBJ (NP some)
+	     (PP of
+		 (NP-UNF the)))
+     ,
+     N_S))
