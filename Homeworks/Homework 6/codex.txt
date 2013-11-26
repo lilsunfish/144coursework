@@ -1,4 +1,30 @@
+<A /> = Actor names, each actor every time they are mentioned and include as much of the name as is continguously mentioned at one time.
+
+<C /> Character names, each character every time they are mentioned and include as much of the name as is continguously mentioned at one time.
+
+<M /> Movie Name, name of the movie being reviewed.
+
+<O /> Other movies that are referenced in a review.
+
 <R /> = Rating, in terms of what age group the film is appropriate for. This initially seems very helpful, but only a couple of the movie reviews list rating, and those that do list 'R.'
+
 <L /> = Length, for how long the film runs for. Similarly, this is listed few times in the reviews, and in different formats e.g. 2:00 vers 'about two hours.' Thus sometimes digits are tagged while other times strings are tagged.
-<P /> = Production, this tag captures all who helped make the movie but aren't in the movie (writers, directors etc). This tag is very broad as it is not always evident what role a mentioned person played in production. Additionally sometimes people are directors and actors and would have multiple tags. 
-<S /> = Setting, this tag marks when something describes the location or time period in the movie. This can be problematic because some setting descriptions are quite long. 
+
+<P /> = Production, this tag captures all people who helped make the movie but aren't in the movie (writers, directors etc). This tag is very broad as it is not always evident what role a mentioned person played in production. Additionally sometimes people are directors and actors and would have multiple tags. (ex. Steven Spielberg, Raoul Peck)
+
+<S /> = Setting, this tag marks when something describes the location or time period in the movie. This can be problematic because setting descriptions vary in length and specificity and can encompass words or numbers (ex. year 2176, the ghetto, madrid)
+
+The markers below categorize sentences:
+
+
+1. Plot description [p]
+The central purpose is to describe the structure of the movie's plot, not to comment on it.
+
+2. Evaluation [e]
+The central purpose is to provide an opinion or evaluation. This does not have to be about the movie directly.
+
+3. Ground for evaluation [g]
+This category indicates the reasons for an evaluation. 
+
+4. Other [o]
+None of the above
