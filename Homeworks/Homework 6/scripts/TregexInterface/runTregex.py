@@ -94,8 +94,8 @@ class Treebank():
         return len(self.trees)
 
 if __name__ == "__main__":
-    dir = "/Users/ibersue/Documents/Computational Methods /144coursework/Homeworks/Homework 6/treebank_3/parsed/mrg/wsj"
-    pattern = "(sing|sang|sung|singing >: /VB*/)"
+    dir = "/Users/ibersue/Documents/Computational Methods /144coursework/Homeworks/Homework 6/treebank_3/parsed/mrg/wsj/24"
+    pattern = "/.*/ >: /VB*/"
     
     t = Treebank(dir, pattern)
     t.run()

@@ -55,6 +55,13 @@ class SearchTree(ParentedTree):
                 break
         
         return (out, position)
+
+    def adjacent(self, elt): #creates the method 'adjacent'
+	for elt in treelet: #for item elt in treelet
+	if treelet is adjacent to self:
+		return "true"
+	else:
+		return "false"
         
 class Treebank():
 
@@ -94,8 +101,8 @@ class Treebank():
         return len(self.trees)
 
 if __name__ == "__main__":
-    dir = "/Users/ibersue/Documents/Computational Methods /144coursework/Homeworks/Homework 6/treebank_3/parsed/mrg/wsj"
-    pattern = "(sing|sang|sung|singing >: /VB*/)"
+    dir = "/Users/ibersue/Documents/Computational Methods /144coursework/Homeworks/Homework 6/treebank_3/parsed/mrg/wsj/24"
+    pattern = "/.*/ >: /VB*/"
     
     t = Treebank(dir, pattern)
     t.run()
